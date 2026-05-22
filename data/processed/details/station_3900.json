@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.74,
-    "no_of_reviews": 4945,
+    "no_of_reviews": 4954,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -48,10 +48,10 @@
             "connector_id": 7227,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
@@ -67,7 +67,7 @@
         "type": "DC",
         "power_rating": 40.0,
         "charger_name": "DMRC Shahdara DC Charger 1",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 54491,
@@ -81,26 +81,26 @@
             "connector_id": 12750,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
             "connector_id": 12751,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 240.0,
         "charger_name": "DMRC Shahdara DC Charger 2",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 54492,
@@ -114,10 +114,10 @@
             "connector_id": 12752,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "unavailable"
           },
           {
             "display_id": 2,
@@ -125,15 +125,15 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Finished",
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "finishing"
+            "connector_status": "unavailable"
           }
         ],
         "type": "DC",
         "power_rating": 40.0,
         "charger_name": "DMRC Shahdara DC Charger 3",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 54493,
@@ -157,16 +157,16 @@
             "connector_id": 12755,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "DC",
         "power_rating": 40.0,
         "charger_name": "DMRC Shahdara DC Charger 4",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 54494,
@@ -190,16 +190,16 @@
             "connector_id": 12757,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Finished",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "finishing"
           }
         ],
         "type": "DC",
         "power_rating": 40.0,
         "charger_name": "DRMC Shahdara DC Charger 5",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -347,7 +347,7 @@
     21.99,
     21.99
   ],
-  "scraped_at": "2026-05-21T07:59:46.738440+00:00",
+  "scraped_at": "2026-05-22T10:43:20.023740+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

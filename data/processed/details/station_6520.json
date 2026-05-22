@@ -27,7 +27,7 @@
       }
     ],
     "avg_review_rating": 4.76,
-    "no_of_reviews": 1430,
+    "no_of_reviews": 1438,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -72,7 +72,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "U.T.C Bus Station Manglaur DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 54053,
@@ -86,8 +86,8 @@
             "connector_id": 12045,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Disconnected",
             "connector_type_id": 3,
             "connector_status": "available"
           }
@@ -241,7 +241,7 @@
   "dc_prices": [
     12.99
   ],
-  "scraped_at": "2026-05-21T08:01:17.391878+00:00",
+  "scraped_at": "2026-05-22T10:44:12.495886+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

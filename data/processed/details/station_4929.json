@@ -60,7 +60,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "GUR0008",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 51721,
@@ -74,10 +74,10 @@
             "connector_id": 9419,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
@@ -93,7 +93,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "GUR0007",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 51722,
@@ -126,7 +126,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "GUR0006",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -142,11 +142,10 @@
     "steps_to_reach": false,
     "station_city_name": "Gurugram",
     "station_access_type": "public",
-    "availability": "Available in",
+    "availability": "Available",
     "highest_power_rating": 120.0,
     "charger_type_of_station": "DC",
-    "station_images": [],
-    "waiting_time": "2026-05-21 13:35:26"
+    "station_images": []
   },
   "nearby_stations": [
     {
@@ -168,7 +167,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-charging-not-selected-pin.png"
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
     },
     {
       "id": 4740,
@@ -263,7 +262,7 @@
     18.99,
     18.99
   ],
-  "scraped_at": "2026-05-21T08:00:02.890943+00:00",
+  "scraped_at": "2026-05-22T10:43:41.453870+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

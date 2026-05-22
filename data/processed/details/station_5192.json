@@ -21,8 +21,8 @@
         "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
       }
     ],
-    "avg_review_rating": 4.5,
-    "no_of_reviews": 212,
+    "avg_review_rating": 4.51,
+    "no_of_reviews": 213,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -54,10 +54,10 @@
             "connector_id": 10168,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
@@ -77,16 +77,16 @@
             "connector_id": 10169,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 3,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "AC",
         "power_rating": 22.0,
         "charger_name": "Ananta Udaipur BMW AC Charger 4",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "21/05/2026"
       },
       {
         "charger_id": 52244,
@@ -220,7 +220,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
     },
     {
       "id": 12528,
@@ -274,7 +274,7 @@
     14.0
   ],
   "dc_prices": [],
-  "scraped_at": "2026-05-21T08:01:03.745514+00:00",
+  "scraped_at": "2026-05-22T10:44:01.433604+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

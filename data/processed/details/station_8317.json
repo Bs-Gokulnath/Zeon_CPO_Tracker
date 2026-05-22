@@ -26,8 +26,8 @@
         "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
       }
     ],
-    "avg_review_rating": 4.59,
-    "no_of_reviews": 576,
+    "avg_review_rating": 4.58,
+    "no_of_reviews": 579,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -62,13 +62,13 @@
             "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "preparing"
           }
         ],
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "The Club Mumbai DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56752,
@@ -91,7 +91,7 @@
         "type": "AC",
         "power_rating": 22.0,
         "charger_name": "The Club BMW AC Charger 1",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56753,
@@ -137,7 +137,7 @@
         "type": "AC",
         "power_rating": 22.0,
         "charger_name": "The Club BMW AC Charger 3",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -145,7 +145,7 @@
         "1": 6,
         "2": 2,
         "3": 2,
-        "4": 9,
+        "4": 8,
         "5": 82
       }
     },
@@ -225,7 +225,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+charging+pin-+selected.png"
     },
     {
       "id": 7831,
@@ -280,7 +280,7 @@
   "dc_prices": [
     21.99
   ],
-  "scraped_at": "2026-05-21T08:04:18.880491+00:00",
+  "scraped_at": "2026-05-22T10:46:42.407436+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.76,
-    "no_of_reviews": 2374,
+    "no_of_reviews": 2387,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -60,10 +60,10 @@
             "connector_id": 14129,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           },
           {
             "display_id": 2,
@@ -79,7 +79,7 @@
         "type": "DC",
         "power_rating": 240.0,
         "charger_name": "Bhure Da Dhaba DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -95,7 +95,7 @@
     "steps_to_reach": false,
     "station_city_name": "Rupnagar",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Available in",
     "highest_power_rating": 240.0,
     "charger_type_of_station": "DC",
     "station_images": [
@@ -103,7 +103,8 @@
         "id": 703,
         "station_image_url": "$21"
       }
-    ]
+    ],
+    "waiting_time": "2026-05-22 16:29:23"
   },
   "nearby_stations": [
     {
@@ -113,9 +114,9 @@
       "longitude": 76.600095,
       "address": "Left side of front parking, Village- Sarsa Nanga, Ropar Manali Road, Rupnagar, Rupnagar, Punjab, 140113, India",
       "area": "Left side of front parking, Village- Sarsa Nanga, Ropar Manali Road, Rupnagar",
-      "avg_review_rating": 4.75,
+      "avg_review_rating": 4.76,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.065975,76.600095",
-      "is_connected": true,
+      "is_connected": false,
       "station_type": [
         {
           "type": "DC",
@@ -125,7 +126,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
     },
     {
       "id": 13048,
@@ -172,7 +173,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
     },
     {
       "id": 14579,
@@ -214,7 +215,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
     }
   ],
   "ac_count": 0,
@@ -223,7 +224,7 @@
   "dc_prices": [
     24.99
   ],
-  "scraped_at": "2026-05-21T08:03:33.887363+00:00",
+  "scraped_at": "2026-05-22T10:46:06.145403+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

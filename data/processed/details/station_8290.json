@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.69,
-    "no_of_reviews": 364,
+    "no_of_reviews": 369,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-banner-2.png",
@@ -51,16 +51,16 @@
             "connector_id": 15608,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "Hyundai RSL Mall Chennai DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -199,7 +199,7 @@
   "dc_prices": [
     24.0
   ],
-  "scraped_at": "2026-05-21T08:04:13.736433+00:00",
+  "scraped_at": "2026-05-22T10:46:37.191819+00:00",
   "parse_success": true,
   "missing_fields": [
     "amenities_icon"

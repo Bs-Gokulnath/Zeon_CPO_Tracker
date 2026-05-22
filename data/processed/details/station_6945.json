@@ -73,7 +73,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "2006065-RAMESHWAR PETROLEUM",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -125,27 +125,6 @@
       "area": "BELGAUM",
       "avg_review_rating": 4.81,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.920657,74.525514",
-      "is_connected": true,
-      "station_type": [
-        {
-          "type": "DC",
-          "bg_color": "#F4F4F7",
-          "text_color": "#101941"
-        }
-      ],
-      "access_type": 1,
-      "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
-    },
-    {
-      "id": 7217,
-      "station_name": "2015464-RANVEER PETROLEUMS",
-      "latitude": 16.054062,
-      "longitude": 74.512827,
-      "address": "SUTGATTI, Bilgi, Karnataka, 591243, India",
-      "area": "SUTGATTI",
-      "avg_review_rating": 0.0,
-      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.054062,74.512827",
       "is_connected": false,
       "station_type": [
         {
@@ -157,6 +136,27 @@
       "access_type": 1,
       "is_community_listed": false,
       "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7217,
+      "station_name": "2015464-RANVEER PETROLEUMS",
+      "latitude": 16.054062,
+      "longitude": 74.512827,
+      "address": "SUTGATTI, Bilgi, Karnataka, 591243, India",
+      "area": "SUTGATTI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.054062,74.512827",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
     },
     {
       "id": 12105,
@@ -186,9 +186,9 @@
       "longitude": 74.473563,
       "address": "HINDALAGA VILLAGE, Belgaum, Karnataka, 591108, India",
       "area": "HINDALAGA VILLAGE",
-      "avg_review_rating": 4.48,
+      "avg_review_rating": 4.5,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.878185,74.473563",
-      "is_connected": true,
+      "is_connected": false,
       "station_type": [
         {
           "type": "DC",
@@ -198,7 +198,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
     }
   ],
   "ac_count": 0,
@@ -207,7 +207,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:02:02.837525+00:00",
+  "scraped_at": "2026-05-22T10:44:53.882370+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

@@ -42,9 +42,9 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Faulted",
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "faulted"
+            "connector_status": "charging"
           },
           {
             "display_id": 2,
@@ -52,15 +52,15 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Faulted",
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "faulted"
+            "connector_status": "charging"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "BBS0001",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56723,
@@ -165,7 +165,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+default+(8).png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
     },
     {
       "id": 14183,
@@ -228,7 +228,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+default+(8).png"
     }
   ],
   "ac_count": 0,
@@ -238,7 +238,7 @@
     18.99,
     18.99
   ],
-  "scraped_at": "2026-05-21T08:03:50.447745+00:00",
+  "scraped_at": "2026-05-22T10:46:20.980423+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

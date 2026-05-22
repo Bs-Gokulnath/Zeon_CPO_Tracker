@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.67,
-    "no_of_reviews": 892,
+    "no_of_reviews": 893,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-banner-2.png",
@@ -114,7 +114,7 @@
         "type": "DC",
         "power_rating": 180.0,
         "charger_name": "Hyundai Elements Mall DC Charger 1",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -208,7 +208,7 @@
       "area": "Thanisandra Main Road",
       "avg_review_rating": 4.56,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.051611,77.630767",
-      "is_connected": false,
+      "is_connected": true,
       "station_type": [
         {
           "type": "DC",
@@ -223,7 +223,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Unavailable+loc+pin.png"
+      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
     },
     {
       "id": 12038,
@@ -254,7 +254,7 @@
     21.0,
     24.0
   ],
-  "scraped_at": "2026-05-21T08:04:13.621471+00:00",
+  "scraped_at": "2026-05-22T10:46:36.726238+00:00",
   "parse_success": true,
   "missing_fields": [],
   "coverage_pct": 100.0

@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.72,
-    "no_of_reviews": 3535,
+    "no_of_reviews": 3561,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -44,8 +44,8 @@
     "plugin_details": [
       {
         "charger_id": 52230,
-        "price_with_currency": "₹ 21.99",
-        "price": 21.99,
+        "price_with_currency": "₹ 24.99",
+        "price": 24.99,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -55,9 +55,9 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Finished",
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "finishing"
+            "connector_status": "charging"
           },
           {
             "display_id": 2,
@@ -73,12 +73,12 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "Nexus Select City DC Charger 1",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 52231,
-        "price_with_currency": "₹ 24.75",
-        "price": 24.75,
+        "price_with_currency": "₹ 26.99",
+        "price": 26.99,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -97,16 +97,16 @@
             "connector_id": 10152,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "Nexus Select City DC Charger 2",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -122,7 +122,7 @@
     "steps_to_reach": false,
     "station_city_name": "New Delhi",
     "station_access_type": "public",
-    "availability": "Available in",
+    "availability": "Available",
     "highest_power_rating": 120.0,
     "charger_type_of_station": "DC",
     "station_images": [
@@ -134,8 +134,7 @@
         "id": 706,
         "station_image_url": "$22"
       }
-    ],
-    "waiting_time": "2026-05-21 13:55:17"
+    ]
   },
   "nearby_stations": [
     {
@@ -178,7 +177,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargerKarodefault.png"
     },
     {
       "id": 4935,
@@ -258,10 +257,10 @@
   "dc_count": 2,
   "ac_prices": [],
   "dc_prices": [
-    21.99,
-    24.75
+    24.99,
+    26.99
   ],
-  "scraped_at": "2026-05-21T08:01:00.588402+00:00",
+  "scraped_at": "2026-05-22T10:43:56.923781+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

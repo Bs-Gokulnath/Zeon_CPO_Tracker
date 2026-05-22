@@ -34,7 +34,7 @@
     "avg_review_rating": 5.0,
     "no_of_reviews": 31,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/AC.png",
-    "is_connected": true,
+    "is_connected": false,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
     "landmark": "None",
     "amenities_icon": [],
@@ -51,8 +51,8 @@
             "connector_id": 1481,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Disconnected",
             "connector_type_id": 3,
             "connector_status": "available"
           },
@@ -61,8 +61,8 @@
             "connector_id": 1482,
             "connector_type": "Wall",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Disconnected",
             "connector_type_id": 5,
             "connector_status": "available"
           }
@@ -86,7 +86,7 @@
     "steps_to_reach": false,
     "station_city_name": "Jaipur",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Unavailable",
     "highest_power_rating": 30.0,
     "charger_type_of_station": "DC",
     "station_images": []
@@ -101,7 +101,7 @@
       "area": "Jaisinghpura",
       "avg_review_rating": 5.0,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.88,75.614",
-      "is_connected": true,
+      "is_connected": false,
       "station_type": [
         {
           "type": "DC",
@@ -116,7 +116,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
     },
     {
       "id": 7517,
@@ -219,7 +219,7 @@
     21.0
   ],
   "dc_prices": [],
-  "scraped_at": "2026-05-21T07:59:00.185754+00:00",
+  "scraped_at": "2026-05-22T10:42:34.305239+00:00",
   "parse_success": true,
   "missing_fields": [
     "amenities_icon"

@@ -24,7 +24,7 @@
     "avg_review_rating": 4.5,
     "no_of_reviews": 4,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
-    "is_connected": true,
+    "is_connected": false,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
     "landmark": null,
     "amenities_icon": [],
@@ -41,8 +41,8 @@
             "connector_id": 13788,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Disconnected",
             "connector_type_id": 1,
             "connector_status": "available"
           }
@@ -50,7 +50,7 @@
         "type": "DC",
         "power_rating": 30.0,
         "charger_name": "2009882-BP CHITYAL",
-        "last_used_on": "07/05/2026"
+        "last_used_on": "21/05/2026"
       }
     ],
     "review_stats": {
@@ -66,7 +66,7 @@
     "steps_to_reach": false,
     "station_city_name": "Nakrekal",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Unavailable",
     "highest_power_rating": 30.0,
     "charger_type_of_station": "DC",
     "station_images": []
@@ -81,7 +81,7 @@
       "area": "CHITYAL",
       "avg_review_rating": 0.0,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.230107,79.000347",
-      "is_connected": true,
+      "is_connected": false,
       "station_type": [
         {
           "type": "DC",
@@ -100,7 +100,7 @@
       "longitude": 78.995605,
       "address": "NALGONDA, Nalgonda, Telangana, 508114, India",
       "area": "NALGONDA",
-      "avg_review_rating": 4.82,
+      "avg_review_rating": 4.83,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.228771,78.995605",
       "is_connected": true,
       "station_type": [
@@ -142,7 +142,7 @@
       "longitude": 78.92321,
       "address": "YADADRI BHUVANAGIRI, Warangal, Telangana, 508252, India",
       "area": "YADADRI BHUVANAGIRI",
-      "avg_review_rating": 4.41,
+      "avg_review_rating": 4.4,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.24539,78.92321",
       "is_connected": true,
       "station_type": [
@@ -184,7 +184,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:03:21.038840+00:00",
+  "scraped_at": "2026-05-22T10:45:54.265545+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

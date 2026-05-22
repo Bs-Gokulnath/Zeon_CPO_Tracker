@@ -48,8 +48,8 @@
             "connector_id": 10171,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Disconnected",
             "connector_type_id": 3,
             "connector_status": "available"
           }
@@ -167,7 +167,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
     },
     {
       "id": 5192,
@@ -176,7 +176,7 @@
       "longitude": 73.624702,
       "address": "Visitor Parking, Ananta, Udaipur, Village Bujhda, Tehsil Girwa, Road, Kodiyat, Udaipur, Rajasthan, Udaipur, Rajasthan, 313031, India",
       "area": "Visitor Parking, Ananta, Udaipur, Village Bujhda, Tehsil Girwa, Road, Kodiyat, Udaipur, Rajasthan",
-      "avg_review_rating": 4.5,
+      "avg_review_rating": 4.51,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.571072,73.624702",
       "is_connected": true,
       "station_type": [
@@ -214,7 +214,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
     },
     {
       "id": 12528,
@@ -268,7 +268,7 @@
     14.0
   ],
   "dc_prices": [],
-  "scraped_at": "2026-05-21T08:00:58.280919+00:00",
+  "scraped_at": "2026-05-22T10:43:57.872582+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

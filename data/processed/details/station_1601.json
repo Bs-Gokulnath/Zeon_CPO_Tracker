@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.68,
-    "no_of_reviews": 8855,
+    "no_of_reviews": 8864,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/DC.png",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -31,8 +31,8 @@
     "plugin_details": [
       {
         "charger_id": 1174,
-        "price_with_currency": "₹ 22.99",
-        "price": 22.99,
+        "price_with_currency": "₹ 25.99",
+        "price": 25.99,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -41,26 +41,26 @@
             "connector_id": 1532,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Finished",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "finishing"
           },
           {
             "display_id": 2,
             "connector_id": 1533,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "Savoy Suites Greater Noida DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -76,10 +76,11 @@
     "steps_to_reach": false,
     "station_city_name": "Greater Noida",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Available in",
     "highest_power_rating": 120.0,
     "charger_type_of_station": "DC",
-    "station_images": []
+    "station_images": [],
+    "waiting_time": "2026-05-22 16:44:43"
   },
   "nearby_stations": [
     {
@@ -122,7 +123,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
     },
     {
       "id": 2149,
@@ -164,7 +165,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Sunfuel+-+default.png"
     },
     {
       "id": 10794,
@@ -175,7 +176,7 @@
       "area": "Ecotech-II, Knowledge Park III, Gujarpur",
       "avg_review_rating": 4.77,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.491336,77.489212",
-      "is_connected": true,
+      "is_connected": false,
       "station_type": [
         {
           "type": "DC",
@@ -185,16 +186,16 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
     }
   ],
   "ac_count": 0,
   "dc_count": 1,
   "ac_prices": [],
   "dc_prices": [
-    22.99
+    25.99
   ],
-  "scraped_at": "2026-05-21T07:59:05.549120+00:00",
+  "scraped_at": "2026-05-22T10:42:36.274743+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

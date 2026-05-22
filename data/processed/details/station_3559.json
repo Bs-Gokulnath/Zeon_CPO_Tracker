@@ -21,8 +21,8 @@
         "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
       }
     ],
-    "avg_review_rating": 4.28,
-    "no_of_reviews": 18,
+    "avg_review_rating": 4.32,
+    "no_of_reviews": 19,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -48,10 +48,10 @@
             "connector_id": 6467,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           },
           {
             "display_id": 2,
@@ -67,16 +67,16 @@
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "Habsiguda opposite metro pillar C929 EV Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
       "percentage_per_star": {
         "1": 11,
-        "2": 6,
-        "3": 6,
+        "2": 5,
+        "3": 5,
         "4": 0,
-        "5": 78
+        "5": 79
       }
     },
     "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
@@ -96,7 +96,7 @@
       "longitude": 78.552246,
       "address": "Opposite Uppal Stadium, Metro pillar C929, Hyderabad, Telangana, 500013, India",
       "area": "Opposite Uppal Stadium, Metro pillar C929",
-      "avg_review_rating": 4.28,
+      "avg_review_rating": 4.32,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.409857,78.552246",
       "is_connected": true,
       "station_type": [
@@ -117,7 +117,7 @@
       "longitude": 78.550262,
       "address": "Uppal to NGRI Road, Beside Shell Petrol Pump, Hyderabad, Telangana, 500013, India",
       "area": "Uppal to NGRI Road, Beside Shell Petrol Pump",
-      "avg_review_rating": 3.53,
+      "avg_review_rating": 3.57,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.411079,78.550262",
       "is_connected": true,
       "station_type": [
@@ -201,7 +201,7 @@
   "dc_prices": [
     13.0
   ],
-  "scraped_at": "2026-05-21T07:59:42.522696+00:00",
+  "scraped_at": "2026-05-22T10:43:19.735700+00:00",
   "parse_success": true,
   "missing_fields": [],
   "coverage_pct": 100.0

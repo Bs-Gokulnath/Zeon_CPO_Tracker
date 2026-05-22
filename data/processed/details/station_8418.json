@@ -41,20 +41,20 @@
             "connector_id": 15890,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "faulted"
           },
           {
             "display_id": 2,
             "connector_id": 15891,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "faulted"
           }
         ],
         "type": "DC",
@@ -75,25 +75,25 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Charging",
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "faulted"
           },
           {
             "display_id": 2,
             "connector_id": 15893,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "faulted"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "PUN0010",
-        "last_used_on": "14/05/2026"
+        "last_used_on": "21/05/2026"
       }
     ],
     "review_stats": {
@@ -109,7 +109,7 @@
     "steps_to_reach": false,
     "station_city_name": "Pune",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Unavailable",
     "highest_power_rating": 120.0,
     "charger_type_of_station": "DC",
     "station_images": []
@@ -134,7 +134,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/unavailable+select.png"
     },
     {
       "id": 15852,
@@ -228,7 +228,7 @@
     18.99,
     18.99
   ],
-  "scraped_at": "2026-05-21T08:04:29.699574+00:00",
+  "scraped_at": "2026-05-22T10:46:50.953244+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

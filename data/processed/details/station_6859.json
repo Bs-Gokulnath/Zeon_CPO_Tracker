@@ -21,8 +21,8 @@
         "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
       }
     ],
-    "avg_review_rating": 4.67,
-    "no_of_reviews": 101,
+    "avg_review_rating": 4.66,
+    "no_of_reviews": 104,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
@@ -41,10 +41,10 @@
             "connector_id": 12803,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Finished",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "finishing"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
@@ -60,15 +60,15 @@
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "2000204-OZA BROTHERS EVDC",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
       "percentage_per_star": {
         "1": 3,
         "2": 1,
-        "3": 0,
-        "4": 18,
+        "3": 1,
+        "4": 17,
         "5": 78
       }
     },
@@ -89,7 +89,7 @@
       "longitude": 74.651078,
       "address": "Ro at sangamner road shrirampur city ahmadnagar, Shrirampur, Maharashtra, 413709, India",
       "area": "Ro at sangamner road shrirampur city ahmadnagar",
-      "avg_review_rating": 4.67,
+      "avg_review_rating": 4.68,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.61992,74.651078",
       "is_connected": true,
       "station_type": [
@@ -194,7 +194,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:01:53.870757+00:00",
+  "scraped_at": "2026-05-22T10:44:43.851858+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

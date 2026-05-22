@@ -58,16 +58,16 @@
             "connector_id": 15576,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "Indira Park EV Charging Station (NTR Stadium Gate No.01)",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -129,7 +129,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
     },
     {
       "id": 8283,
@@ -150,7 +150,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
     },
     {
       "id": 8244,
@@ -201,7 +201,7 @@
   "dc_prices": [
     13.0
   ],
-  "scraped_at": "2026-05-21T08:04:13.721583+00:00",
+  "scraped_at": "2026-05-22T10:46:36.761933+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

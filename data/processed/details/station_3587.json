@@ -16,18 +16,18 @@
     "operational_time": "24 hours",
     "connector_types": [
       {
-        "id": 3,
-        "connector_name": "Type-2",
-        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
-      },
-      {
         "id": 5,
         "connector_name": "Wall",
         "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
       }
     ],
     "avg_review_rating": 3.91,
-    "no_of_reviews": 1247,
+    "no_of_reviews": 1249,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -53,10 +53,10 @@
             "connector_id": 6550,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 3,
-            "connector_status": "available"
+            "connector_status": "charging"
           },
           {
             "display_id": 2,
@@ -72,12 +72,12 @@
         "type": "AC",
         "power_rating": 10.7,
         "charger_name": "ROF Ananda AdWall 1a",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 8305,
-        "price_with_currency": "₹ 12.92",
-        "price": 12.92,
+        "price_with_currency": "₹ 13.55",
+        "price": 13.55,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -89,7 +89,7 @@
             "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "available"
+            "connector_status": "preparing"
           },
           {
             "display_id": 2,
@@ -105,7 +105,7 @@
         "type": "AC",
         "power_rating": 10.7,
         "charger_name": "ROF Ananda AdWall 1b",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -199,7 +199,7 @@
       "area": " Phase 1",
       "avg_review_rating": 4.74,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.413303,76.913879",
-      "is_connected": true,
+      "is_connected": false,
       "station_type": [
         {
           "type": "DC",
@@ -242,10 +242,10 @@
   "dc_count": 0,
   "ac_prices": [
     11.0,
-    12.92
+    13.55
   ],
   "dc_prices": [],
-  "scraped_at": "2026-05-21T07:59:42.570803+00:00",
+  "scraped_at": "2026-05-22T10:43:20.094287+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

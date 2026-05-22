@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.74,
-    "no_of_reviews": 782,
+    "no_of_reviews": 785,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -31,8 +31,8 @@
     "plugin_details": [
       {
         "charger_id": 54680,
-        "price_with_currency": "₹ 17.49",
-        "price": 17.49,
+        "price_with_currency": "₹ 14.49",
+        "price": 14.49,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -41,16 +41,16 @@
             "connector_id": 13009,
             "connector_type": "Wall",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 5,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
         "power_rating": 3.3,
         "charger_name": "IGL MCD Dhalao Mayur Vihar AC Charger 1a",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 54681,
@@ -232,12 +232,12 @@
   "ac_count": 3,
   "dc_count": 0,
   "ac_prices": [
-    17.49,
+    14.49,
     14.49,
     14.49
   ],
   "dc_prices": [],
-  "scraped_at": "2026-05-21T08:02:03.036773+00:00",
+  "scraped_at": "2026-05-22T10:44:53.680448+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

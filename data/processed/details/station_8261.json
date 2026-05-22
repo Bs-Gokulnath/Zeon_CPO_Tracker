@@ -24,7 +24,7 @@
     "avg_review_rating": 4.62,
     "no_of_reviews": 42,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
-    "is_connected": false,
+    "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
     "landmark": " DHROL, JAMNAGAR",
     "amenities_icon": [],
@@ -41,8 +41,8 @@
             "connector_id": 15495,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Disconnected",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
             "connector_status": "available"
           },
@@ -51,8 +51,8 @@
             "connector_id": 15496,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Disconnected",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
             "connector_status": "available"
           }
@@ -60,7 +60,7 @@
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "M/s. PAREKH AUTOMOBILE",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -76,7 +76,7 @@
     "steps_to_reach": false,
     "station_city_name": "Jamnagar",
     "station_access_type": "public",
-    "availability": "Unavailable",
+    "availability": "Available",
     "highest_power_rating": 60.0,
     "charger_type_of_station": "DC",
     "station_images": []
@@ -89,7 +89,7 @@
       "longitude": 70.41911,
       "address": "BHARAT PETROLEUM DEALER (PUMP)  JAMNAGAR RAJKOT ROAD,  DHROL, JAMNAGAR, Jamnagar, Gujarat, 361210, India",
       "area": "BHARAT PETROLEUM DEALER (PUMP)  JAMNAGAR RAJKOT ROAD,  DHROL, JAMNAGAR",
-      "avg_review_rating": 4.66,
+      "avg_review_rating": 4.62,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.5622,70.41911",
       "is_connected": true,
       "station_type": [
@@ -101,7 +101,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
     },
     {
       "id": 6647,
@@ -194,7 +194,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:04:13.615517+00:00",
+  "scraped_at": "2026-05-22T10:46:36.733059+00:00",
   "parse_success": true,
   "missing_fields": [
     "amenities_icon"

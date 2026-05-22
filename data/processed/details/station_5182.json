@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.72,
-    "no_of_reviews": 735,
+    "no_of_reviews": 741,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -73,7 +73,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "ITC Gardenia DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -89,10 +89,11 @@
     "steps_to_reach": false,
     "station_city_name": "Bengaluru",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Available in",
     "highest_power_rating": 120.0,
     "charger_type_of_station": "DC",
-    "station_images": []
+    "station_images": [],
+    "waiting_time": "2026-05-22 16:59:52"
   },
   "nearby_stations": [
     {
@@ -170,7 +171,7 @@
       "longitude": 77.595872,
       "address": "24, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka, 560001, India",
       "area": "24, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar",
-      "avg_review_rating": 4.9,
+      "avg_review_rating": 4.73,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.971726,77.595872",
       "is_connected": true,
       "station_type": [
@@ -217,7 +218,7 @@
   "dc_prices": [
     21.99
   ],
-  "scraped_at": "2026-05-21T08:01:00.503805+00:00",
+  "scraped_at": "2026-05-22T10:44:01.407889+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

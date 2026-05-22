@@ -21,8 +21,8 @@
         "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
       }
     ],
-    "avg_review_rating": 4.69,
-    "no_of_reviews": 45,
+    "avg_review_rating": 4.65,
+    "no_of_reviews": 46,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
@@ -41,36 +41,35 @@
             "connector_id": 13540,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 30.0,
         "charger_name": "2000956-RAJURESHWAR PETROLEUM",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
       "percentage_per_star": {
         "1": 0,
         "2": 4,
-        "3": 4,
+        "3": 7,
         "4": 9,
-        "5": 82
+        "5": 80
       }
     },
     "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
     "steps_to_reach": false,
     "station_city_name": "Achalpur",
     "station_access_type": "public",
-    "availability": "Available in",
+    "availability": "Available",
     "highest_power_rating": 30.0,
     "charger_type_of_station": "DC",
-    "station_images": [],
-    "waiting_time": "2026-05-21 14:11:20"
+    "station_images": []
   },
   "nearby_stations": [
     {
@@ -80,7 +79,7 @@
       "longitude": 75.857402,
       "address": "BHOKARDAN, Achalpur, Maharashtra, 431213, India",
       "area": "BHOKARDAN",
-      "avg_review_rating": 4.69,
+      "avg_review_rating": 4.65,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.054637,75.857402",
       "is_connected": true,
       "station_type": [
@@ -185,7 +184,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:02:50.240538+00:00",
+  "scraped_at": "2026-05-22T10:45:27.771690+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

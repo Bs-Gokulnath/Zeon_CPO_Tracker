@@ -44,23 +44,23 @@
             "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "preparing"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
             "connector_id": 10235,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 180.0,
         "charger_name": "ELC KA | Bengaluru | The Pavilion 2 1",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 52294,
@@ -74,16 +74,16 @@
             "connector_id": 10236,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "ELC KA | Bengaluru | The Pavilion 2 2",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -154,7 +154,7 @@
       "longitude": 77.592418,
       "address": "WH8R+JXM, S End C Cross Rd, KSRTC Layout, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka, 560078, India",
       "area": "WH8R+JXM, S End C Cross Rd, KSRTC Layout, 2nd Phase, J. P. Nagar",
-      "avg_review_rating": 4.73,
+      "avg_review_rating": 4.74,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.916613,77.592418",
       "is_connected": true,
       "station_type": [
@@ -218,7 +218,7 @@
     24.0,
     21.0
   ],
-  "scraped_at": "2026-05-21T08:01:04.190691+00:00",
+  "scraped_at": "2026-05-22T10:44:01.695540+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

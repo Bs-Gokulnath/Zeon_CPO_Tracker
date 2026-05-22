@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.56,
-    "no_of_reviews": 1657,
+    "no_of_reviews": 1663,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/DC.png",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -48,16 +48,16 @@
             "connector_id": 1727,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Finished",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "finishing"
           }
         ],
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "Nexus Amritsar DC Charger 2",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 1584,
@@ -80,7 +80,7 @@
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "Nexus Amritsar DC Charger 1",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -202,7 +202,7 @@
       "longitude": 74.896987,
       "address": "JALANDHAR, Amritsar, Punjab, 143001, India",
       "area": "JALANDHAR",
-      "avg_review_rating": 4.74,
+      "avg_review_rating": 4.75,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.676838,74.896987",
       "is_connected": true,
       "station_type": [
@@ -224,7 +224,7 @@
     21.99,
     21.99
   ],
-  "scraped_at": "2026-05-21T07:59:13.154087+00:00",
+  "scraped_at": "2026-05-22T10:42:41.487821+00:00",
   "parse_success": true,
   "missing_fields": [],
   "coverage_pct": 100.0

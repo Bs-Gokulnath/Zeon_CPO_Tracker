@@ -24,7 +24,7 @@
     "avg_review_rating": 0.0,
     "no_of_reviews": 0,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
-    "is_connected": false,
+    "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
     "landmark": null,
     "amenities_icon": [
@@ -49,9 +49,9 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Disconnected",
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "faulted"
           }
         ],
         "type": "DC",
@@ -82,7 +82,7 @@
       "area": "BHARAT PETROLEUM CORPORATION LTD BP 69, IMT MAIN ROAD, SECTOR 69 FARIDABAD DIST. 121004 Haryana",
       "avg_review_rating": 0.0,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.331063,77.349573",
-      "is_connected": false,
+      "is_connected": true,
       "station_type": [
         {
           "type": "DC",
@@ -122,7 +122,7 @@
       "longitude": 77.329993,
       "address": "AT BALLABGARH, SECTOR 3-4 DIVIDING ROAD, FARIDABAD, , Faridabad, Haryana, 121004, India",
       "area": "AT BALLABGARH, SECTOR 3-4 DIVIDING ROAD, FARIDABAD, ",
-      "avg_review_rating": 4.59,
+      "avg_review_rating": 4.6,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.347196,77.329993",
       "is_connected": true,
       "station_type": [
@@ -190,7 +190,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:02:03.155337+00:00",
+  "scraped_at": "2026-05-22T10:44:53.941445+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

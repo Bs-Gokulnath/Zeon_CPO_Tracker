@@ -41,20 +41,20 @@
             "connector_id": 15814,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "unavailable"
           },
           {
             "display_id": 2,
             "connector_id": 15815,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "unavailable"
           }
         ],
         "type": "DC",
@@ -76,7 +76,7 @@
     "steps_to_reach": false,
     "station_city_name": "Gonda",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Unavailable",
     "highest_power_rating": 60.0,
     "charger_type_of_station": "DC",
     "station_images": []
@@ -154,15 +154,15 @@
       "area": "Civil Line, Basement Parking",
       "avg_review_rating": 4.56,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.771999,82.124199",
-      "is_connected": true,
+      "is_connected": false,
       "station_type": [
         {
-          "type": "DC",
+          "type": "AC",
           "bg_color": "#F4F4F7",
           "text_color": "#101941"
         },
         {
-          "type": "AC",
+          "type": "DC",
           "bg_color": "#F4F4F7",
           "text_color": "#101941"
         }
@@ -199,7 +199,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:04:29.721222+00:00",
+  "scraped_at": "2026-05-22T10:46:50.806594+00:00",
   "parse_success": true,
   "missing_fields": [
     "amenities_icon"

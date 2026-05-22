@@ -65,7 +65,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "BAN0095",
-        "last_used_on": "19/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 51865,
@@ -98,7 +98,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "BAN0098",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "21/05/2026"
       },
       {
         "charger_id": 51868,
@@ -197,7 +197,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "BAN0099",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 51866,
@@ -211,10 +211,10 @@
             "connector_id": 9612,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "available"
+            "connector_status": "faulted"
           }
         ],
         "type": "AC",
@@ -395,10 +395,10 @@
             "connector_id": 9626,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": false,
+            "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "faulted"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
@@ -464,10 +464,10 @@
             "connector_id": 9629,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 3,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "AC",
@@ -826,7 +826,7 @@
     18.99,
     18.99
   ],
-  "scraped_at": "2026-05-21T08:00:03.370745+00:00",
+  "scraped_at": "2026-05-22T10:43:41.436543+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

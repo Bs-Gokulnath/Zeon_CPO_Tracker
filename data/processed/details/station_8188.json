@@ -52,25 +52,25 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Charging",
+            "error_message": "Finished",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "finishing"
           },
           {
             "display_id": 2,
             "connector_id": 15339,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "MH0175",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56539,
@@ -87,17 +87,17 @@
             "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "preparing"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
             "connector_id": 15342,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "faulted"
           }
         ],
         "type": "DC",
@@ -136,7 +136,7 @@
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "MH0173",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "21/05/2026"
       },
       {
         "charger_id": 56542,
@@ -160,16 +160,16 @@
             "connector_id": 15347,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
+            "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "faulted"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "MH0174",
-        "last_used_on": "19/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56538,
@@ -294,7 +294,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-charging-not-selected-pin.png"
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
     },
     {
       "id": 2146,
@@ -350,7 +350,7 @@
     21.0,
     21.0
   ],
-  "scraped_at": "2026-05-21T08:04:06.378567+00:00",
+  "scraped_at": "2026-05-22T10:46:31.379961+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

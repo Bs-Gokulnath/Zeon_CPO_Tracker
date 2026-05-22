@@ -26,10 +26,10 @@
         "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
       }
     ],
-    "avg_review_rating": 4.72,
-    "no_of_reviews": 68,
+    "avg_review_rating": 4.73,
+    "no_of_reviews": 71,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
-    "is_connected": true,
+    "is_connected": false,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
     "landmark": "GMVN Guest House",
     "amenities_icon": [
@@ -59,8 +59,8 @@
             "connector_id": 11982,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Disconnected",
             "connector_type_id": 1,
             "connector_status": "available"
           },
@@ -69,8 +69,8 @@
             "connector_id": 11983,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Disconnected",
             "connector_type_id": 1,
             "connector_status": "available"
           }
@@ -78,7 +78,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "GMVN TRH Barkot DC Charger",
-        "last_used_on": "19/05/2026"
+        "last_used_on": "21/05/2026"
       },
       {
         "charger_id": 54039,
@@ -92,8 +92,8 @@
             "connector_id": 12031,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Disconnected",
             "connector_type_id": 3,
             "connector_status": "available"
           }
@@ -117,7 +117,7 @@
     "steps_to_reach": false,
     "station_city_name": "Barkot",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Unavailable",
     "highest_power_rating": 120.0,
     "charger_type_of_station": "DC",
     "station_images": []
@@ -130,7 +130,7 @@
       "longitude": 78.210152,
       "address": "Barkot, Barkot, Uttarakhand, 249141, India",
       "area": "Barkot",
-      "avg_review_rating": 4.72,
+      "avg_review_rating": 4.73,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.808346,78.210152",
       "is_connected": true,
       "station_type": [
@@ -257,7 +257,7 @@
   "dc_prices": [
     12.99
   ],
-  "scraped_at": "2026-05-21T08:01:17.475259+00:00",
+  "scraped_at": "2026-05-22T10:44:12.531162+00:00",
   "parse_success": true,
   "missing_fields": [],
   "coverage_pct": 100.0

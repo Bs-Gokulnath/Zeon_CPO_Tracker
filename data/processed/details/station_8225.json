@@ -70,7 +70,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "EPL Ecoplug Highway king tea stall 1",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 64542,
@@ -127,12 +127,12 @@
       "is_connected": true,
       "station_type": [
         {
-          "type": "DC",
+          "type": "AC",
           "bg_color": "#F4F4F7",
           "text_color": "#101941"
         },
         {
-          "type": "AC",
+          "type": "DC",
           "bg_color": "#F4F4F7",
           "text_color": "#101941"
         }
@@ -234,7 +234,7 @@
   "dc_prices": [
     22.0
   ],
-  "scraped_at": "2026-05-21T08:04:06.687990+00:00",
+  "scraped_at": "2026-05-22T10:46:33.123292+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

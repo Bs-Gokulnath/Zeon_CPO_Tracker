@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.41,
-    "no_of_reviews": 613,
+    "no_of_reviews": 614,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -48,16 +48,16 @@
             "connector_id": 8812,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Finished",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "finishing"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "Shrijee Motors Mahindra Showroom DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -91,7 +91,7 @@
       "longitude": 72.369797,
       "address": "R S NO 170, Plot No 320, Nr Janpath Hotel Village Heduva, Hanumat State Highway, Mahesana,, Mahemdavad, Gujarat, 384002, India",
       "area": "R S NO 170, Plot No 320, Nr Janpath Hotel Village Heduva, Hanumat State Highway, Mahesana,",
-      "avg_review_rating": 4.42,
+      "avg_review_rating": 4.41,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.571699,72.369797",
       "is_connected": true,
       "station_type": [
@@ -135,7 +135,7 @@
       "area": "MEHSANA",
       "avg_review_rating": 4.63,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.580421,72.369557",
-      "is_connected": false,
+      "is_connected": true,
       "station_type": [
         {
           "type": "DC",
@@ -196,7 +196,7 @@
   "dc_prices": [
     24.99
   ],
-  "scraped_at": "2026-05-21T07:59:47.846400+00:00",
+  "scraped_at": "2026-05-22T10:43:29.307411+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

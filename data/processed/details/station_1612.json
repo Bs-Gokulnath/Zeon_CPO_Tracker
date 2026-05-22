@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.72,
-    "no_of_reviews": 7214,
+    "no_of_reviews": 7221,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/DC.png",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -31,8 +31,8 @@
     "plugin_details": [
       {
         "charger_id": 1184,
-        "price_with_currency": "₹ 24.99",
-        "price": 24.99,
+        "price_with_currency": "₹ 24.48",
+        "price": 24.48,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -60,7 +60,7 @@
         "type": "DC",
         "power_rating": 98.0,
         "charger_name": "Asli Pappu Dhaba Kosi Kalan DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -80,7 +80,7 @@
     "highest_power_rating": 98.0,
     "charger_type_of_station": "DC",
     "station_images": [],
-    "waiting_time": "2026-05-21 13:35:52"
+    "waiting_time": "2026-05-22 16:52:09"
   },
   "nearby_stations": [
     {
@@ -175,7 +175,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
     },
     {
       "id": 1613,
@@ -186,7 +186,7 @@
       "area": "140% Veg Gulshan Dhaba, Kotwan",
       "avg_review_rating": 4.58,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.84745,77.409248",
-      "is_connected": true,
+      "is_connected": false,
       "station_type": [
         {
           "type": "DC",
@@ -196,16 +196,16 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
     }
   ],
   "ac_count": 0,
   "dc_count": 1,
   "ac_prices": [],
   "dc_prices": [
-    24.99
+    24.48
   ],
-  "scraped_at": "2026-05-21T07:59:05.888105+00:00",
+  "scraped_at": "2026-05-22T10:42:36.284967+00:00",
   "parse_success": true,
   "missing_fields": [
     "amenities_icon"

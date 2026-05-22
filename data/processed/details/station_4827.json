@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.69,
-    "no_of_reviews": 1258,
+    "no_of_reviews": 1263,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -38,8 +38,8 @@
     "plugin_details": [
       {
         "charger_id": 51429,
-        "price_with_currency": "₹ 15.91",
-        "price": 15.91,
+        "price_with_currency": "₹ 15.74",
+        "price": 15.74,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -57,7 +57,7 @@
         "type": "AC",
         "power_rating": 3.3,
         "charger_name": "SmartPlug 898 MG BSES Paschim Vihar 1",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 51430,
@@ -132,7 +132,7 @@
       "area": "WEST DELHI",
       "avg_review_rating": 4.43,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.667984,77.087537",
-      "is_connected": false,
+      "is_connected": true,
       "station_type": [
         {
           "type": "DC",
@@ -142,7 +142,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
     },
     {
       "id": 4831,
@@ -211,11 +211,11 @@
   "ac_count": 2,
   "dc_count": 0,
   "ac_prices": [
-    15.91,
+    15.74,
     13.0
   ],
   "dc_prices": [],
-  "scraped_at": "2026-05-21T07:59:54.112462+00:00",
+  "scraped_at": "2026-05-22T10:43:34.768763+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

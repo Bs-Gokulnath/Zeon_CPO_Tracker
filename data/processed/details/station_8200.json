@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.75,
-    "no_of_reviews": 2508,
+    "no_of_reviews": 2516,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -56,8 +56,8 @@
     "plugin_details": [
       {
         "charger_id": 66807,
-        "price_with_currency": "₹ 26.99",
-        "price": 26.99,
+        "price_with_currency": "₹ 25.91",
+        "price": 25.91,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -66,10 +66,10 @@
             "connector_id": 31131,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
@@ -85,7 +85,7 @@
         "type": "DC",
         "power_rating": 480.0,
         "charger_name": "Bhajan Dhaba DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -222,9 +222,9 @@
   "dc_count": 1,
   "ac_prices": [],
   "dc_prices": [
-    26.99
+    25.91
   ],
-  "scraped_at": "2026-05-21T08:04:06.368568+00:00",
+  "scraped_at": "2026-05-22T10:46:31.412484+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

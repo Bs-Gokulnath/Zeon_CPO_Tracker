@@ -43,8 +43,8 @@
     "plugin_details": [
       {
         "charger_id": 55955,
-        "price_with_currency": "₹ 26.99",
-        "price": 26.99,
+        "price_with_currency": "₹ 23.99",
+        "price": 23.99,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -149,7 +149,7 @@
       "area": "Opposite to exit gate, 27-37-158,MG Road, Governorpet, krishna,",
       "avg_review_rating": 4.66,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.511477,80.619888",
-      "is_connected": true,
+      "is_connected": false,
       "station_type": [
         {
           "type": "DC",
@@ -164,7 +164,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
     },
     {
       "id": 6950,
@@ -194,7 +194,7 @@
       "longitude": 80.589259,
       "address": "NTR, Vijayawada, Andhra Pradesh, 521225, India",
       "area": "NTR",
-      "avg_review_rating": 4.57,
+      "avg_review_rating": 4.56,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.538783,80.589259",
       "is_connected": true,
       "station_type": [
@@ -248,7 +248,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonecharging.png"
     }
   ],
   "ac_count": 2,
@@ -258,9 +258,9 @@
     14.49
   ],
   "dc_prices": [
-    26.99
+    23.99
   ],
-  "scraped_at": "2026-05-21T08:03:50.237527+00:00",
+  "scraped_at": "2026-05-22T10:46:20.953280+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

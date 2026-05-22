@@ -41,26 +41,26 @@
             "connector_id": 12236,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "faulted"
           },
           {
             "display_id": 2,
             "connector_id": 12237,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "faulted"
           }
         ],
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": " 2017217-SHIVDEV FUELS",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -76,7 +76,7 @@
     "steps_to_reach": false,
     "station_city_name": "Gwalior",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Unavailable",
     "highest_power_rating": 60.0,
     "charger_type_of_station": "DC",
     "station_images": []
@@ -89,7 +89,7 @@
       "longitude": 78.046654,
       "address": "Panihar, Gwalior, Madhya Pradesh, 475330, India",
       "area": "Panihar",
-      "avg_review_rating": 4.75,
+      "avg_review_rating": 4.76,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.117296,78.046654",
       "is_connected": true,
       "station_type": [
@@ -194,7 +194,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:01:34.798594+00:00",
+  "scraped_at": "2026-05-22T10:44:28.218813+00:00",
   "parse_success": true,
   "missing_fields": [
     "amenities_icon"

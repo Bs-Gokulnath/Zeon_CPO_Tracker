@@ -21,8 +21,8 @@
         "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
       }
     ],
-    "avg_review_rating": 4.78,
-    "no_of_reviews": 40,
+    "avg_review_rating": 4.79,
+    "no_of_reviews": 42,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
@@ -41,16 +41,16 @@
             "connector_id": 13546,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "DC",
         "power_rating": 30.0,
         "charger_name": "2009371-ANURADHA AUTO SERVICE CENTRE",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -66,10 +66,11 @@
     "steps_to_reach": false,
     "station_city_name": "Visakhapatnam",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Available in",
     "highest_power_rating": 30.0,
     "charger_type_of_station": "DC",
-    "station_images": []
+    "station_images": [],
+    "waiting_time": "2026-05-22 16:45:37"
   },
   "nearby_stations": [
     {
@@ -112,7 +113,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonecharging.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
     },
     {
       "id": 12641,
@@ -189,7 +190,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:02:55.404830+00:00",
+  "scraped_at": "2026-05-22T10:45:32.006577+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

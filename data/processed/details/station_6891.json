@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.68,
-    "no_of_reviews": 2462,
+    "no_of_reviews": 2463,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -60,20 +60,20 @@
             "connector_id": 12845,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Finished",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "finishing"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
             "connector_id": 12846,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
@@ -95,11 +95,10 @@
     "steps_to_reach": false,
     "station_city_name": "Fatehabad",
     "station_access_type": "public",
-    "availability": "Available in",
+    "availability": "Available",
     "highest_power_rating": 120.0,
     "charger_type_of_station": "DC",
-    "station_images": [],
-    "waiting_time": "2026-05-21 13:54:54"
+    "station_images": []
   },
   "nearby_stations": [
     {
@@ -193,7 +192,7 @@
       "longitude": 78.04541,
       "address": "ITC Mughal, Tajganj Ground Floor Fatehabad Road 4 kms and 15 minutes drive from Taj Mahal, , Agra, Uttar Pradesh, 282001, India",
       "area": "ITC Mughal, Tajganj Ground Floor Fatehabad Road 4 kms and 15 minutes drive from Taj Mahal, ",
-      "avg_review_rating": 4.61,
+      "avg_review_rating": 4.6,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.16143,78.04541",
       "is_connected": true,
       "station_type": [
@@ -219,7 +218,7 @@
   "dc_prices": [
     25.0
   ],
-  "scraped_at": "2026-05-21T08:01:54.202076+00:00",
+  "scraped_at": "2026-05-22T10:44:43.985442+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

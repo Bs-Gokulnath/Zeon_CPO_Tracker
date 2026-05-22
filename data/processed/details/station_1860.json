@@ -32,7 +32,7 @@
       }
     ],
     "avg_review_rating": 4.8,
-    "no_of_reviews": 13215,
+    "no_of_reviews": 13221,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/DC.png",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -91,26 +91,26 @@
             "connector_id": 3344,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
             "connector_id": 3345,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "DMRC Arjangarh CCS 1",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 2563,
@@ -211,7 +211,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
     },
     {
       "id": 11778,
@@ -253,7 +253,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonecharging.png"
     },
     {
       "id": 11725,
@@ -274,7 +274,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargerKarodefault.png"
     },
     {
       "id": 10116,
@@ -313,7 +313,7 @@
     21.99,
     21.99
   ],
-  "scraped_at": "2026-05-21T07:59:13.261763+00:00",
+  "scraped_at": "2026-05-22T10:42:41.536126+00:00",
   "parse_success": true,
   "missing_fields": [],
   "coverage_pct": 100.0

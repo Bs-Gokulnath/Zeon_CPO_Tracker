@@ -41,26 +41,26 @@
             "connector_id": 9194,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
+            "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "faulted"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
             "connector_id": 9195,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
+            "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "faulted"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "HDL0001",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 51544,
@@ -74,26 +74,26 @@
             "connector_id": 9196,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
+            "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "faulted"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
             "connector_id": 9197,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
+            "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "faulted"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "HDL0002",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "21/05/2026"
       }
     ],
     "review_stats": {
@@ -109,7 +109,7 @@
     "steps_to_reach": false,
     "station_city_name": "Hodal",
     "station_access_type": "public",
-    "availability": "Unavailable",
+    "availability": "Available",
     "highest_power_rating": 120.0,
     "charger_type_of_station": "DC",
     "station_images": []
@@ -134,7 +134,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/unavailable+select.png"
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
     },
     {
       "id": 10319,
@@ -187,7 +187,7 @@
       "area": "140% Veg Gulshan Dhaba, Kotwan",
       "avg_review_rating": 4.58,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.84745,77.409248",
-      "is_connected": true,
+      "is_connected": false,
       "station_type": [
         {
           "type": "DC",
@@ -197,7 +197,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
     },
     {
       "id": 12890,
@@ -223,7 +223,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
     }
   ],
   "ac_count": 0,
@@ -233,7 +233,7 @@
     18.99,
     18.99
   ],
-  "scraped_at": "2026-05-21T08:00:01.200074+00:00",
+  "scraped_at": "2026-05-22T10:43:41.271133+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

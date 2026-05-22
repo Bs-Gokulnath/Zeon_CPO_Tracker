@@ -80,27 +80,6 @@
   },
   "nearby_stations": [
     {
-      "id": 11098,
-      "station_name": "M.A.N. FUELS",
-      "latitude": 21.945456,
-      "longitude": 77.8692,
-      "address": "VILLAGE-JAMTHI NH 69, JAMTHI, Betul, Madhya Pradesh, 460001, India",
-      "area": "VILLAGE-JAMTHI NH 69, JAMTHI",
-      "avg_review_rating": 4.59,
-      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.945456,77.8692",
-      "is_connected": true,
-      "station_type": [
-        {
-          "type": "DC",
-          "bg_color": "#F4F4F7",
-          "text_color": "#101941"
-        }
-      ],
-      "access_type": 1,
-      "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
-    },
-    {
       "id": 7304,
       "station_name": "2013652-M.A.N. FUELS",
       "latitude": 21.945269,
@@ -122,6 +101,27 @@
       "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
     },
     {
+      "id": 11098,
+      "station_name": "M.A.N. FUELS",
+      "latitude": 21.945456,
+      "longitude": 77.8692,
+      "address": "VILLAGE-JAMTHI NH 69, JAMTHI, Betul, Madhya Pradesh, 460001, India",
+      "area": "VILLAGE-JAMTHI NH 69, JAMTHI",
+      "avg_review_rating": 4.59,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.945456,77.8692",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
       "id": 10419,
       "station_name": "MP | Danora | Village Vatika Restaurant and Hotel",
       "latitude": 21.885607,
@@ -140,7 +140,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/gentari-default.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/gentari-charging.png"
     },
     {
       "id": 10832,
@@ -170,7 +170,7 @@
       "longitude": 77.951801,
       "address": "Besides Sawad Highway Cafe, Near Betul tall booth, Milanpurnh 347, , Betul, Madhya Pradesh, 460004, India",
       "area": "Besides Sawad Highway Cafe, Near Betul tall booth, Milanpurnh 347, ",
-      "avg_review_rating": 4.78,
+      "avg_review_rating": 4.79,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.860904,77.951801",
       "is_connected": true,
       "station_type": [
@@ -191,7 +191,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:02:48.674708+00:00",
+  "scraped_at": "2026-05-22T10:45:27.494319+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

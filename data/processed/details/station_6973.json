@@ -27,7 +27,7 @@
       }
     ],
     "avg_review_rating": 4.71,
-    "no_of_reviews": 526,
+    "no_of_reviews": 528,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -36,8 +36,8 @@
     "plugin_details": [
       {
         "charger_id": 54718,
-        "price_with_currency": "₹ 24.99",
-        "price": 24.99,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -46,10 +46,10 @@
             "connector_id": 13057,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
@@ -94,7 +94,7 @@
       "longitude": 72.838777,
       "address": "In front of the main gate in porch area parking, 287, Dr Baba Saheb Ambedkar Rd, Parel,, Mumbai, Maharashtra, 600032, India",
       "area": "In front of the main gate in porch area parking, 287, Dr Baba Saheb Ambedkar Rd, Parel,",
-      "avg_review_rating": 4.7,
+      "avg_review_rating": 4.71,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.998369,72.838777",
       "is_connected": true,
       "station_type": [
@@ -202,9 +202,9 @@
   "dc_count": 1,
   "ac_prices": [],
   "dc_prices": [
-    24.99
+    21.99
   ],
-  "scraped_at": "2026-05-21T08:02:03.137425+00:00",
+  "scraped_at": "2026-05-22T10:44:53.937373+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

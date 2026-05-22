@@ -41,10 +41,10 @@
             "connector_id": 16163,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Finished",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "finishing"
           },
           {
             "display_id": 2,
@@ -60,7 +60,7 @@
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "TCZ UK | Dehradun | Fairfield By Marriott 1",
-        "last_used_on": "18/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -169,7 +169,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+default+(8).png"
     },
     {
       "id": 11890,
@@ -178,7 +178,7 @@
       "longitude": 78.074494,
       "address": "RO AT MUSSORIE DIVERSION,DEHRADUN- MUSSORIE ROAD, Dehradun, Uttarakhand, 248001, India",
       "area": "RO AT MUSSORIE DIVERSION,DEHRADUN- MUSSORIE ROAD",
-      "avg_review_rating": 4.34,
+      "avg_review_rating": 4.33,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.385326,78.074494",
       "is_connected": true,
       "station_type": [
@@ -199,7 +199,7 @@
   "dc_prices": [
     22.0
   ],
-  "scraped_at": "2026-05-21T08:04:43.745242+00:00",
+  "scraped_at": "2026-05-22T10:47:02.166529+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

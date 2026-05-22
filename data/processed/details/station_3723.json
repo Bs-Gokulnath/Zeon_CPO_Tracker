@@ -32,7 +32,7 @@
       }
     ],
     "avg_review_rating": 4.8,
-    "no_of_reviews": 1798,
+    "no_of_reviews": 1816,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -48,8 +48,8 @@
     "plugin_details": [
       {
         "charger_id": 22531,
-        "price_with_currency": "₹ 24.09",
-        "price": 24.09,
+        "price_with_currency": "₹ 24.99",
+        "price": 24.99,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -58,26 +58,26 @@
             "connector_id": 6879,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
             "connector_id": 6880,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "Mahindra IT SEZ DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 22529,
@@ -110,7 +110,7 @@
         "type": "AC",
         "power_rating": 10.7,
         "charger_name": "Mahindra IT SEZ AdWall 1a",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 22530,
@@ -151,7 +151,7 @@
         "1": 1,
         "2": 0,
         "3": 0,
-        "4": 16,
+        "4": 15,
         "5": 83
       }
     },
@@ -298,9 +298,9 @@
     12.0
   ],
   "dc_prices": [
-    24.09
+    24.99
   ],
-  "scraped_at": "2026-05-21T07:59:42.851920+00:00",
+  "scraped_at": "2026-05-22T10:43:20.116543+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

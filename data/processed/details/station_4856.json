@@ -41,26 +41,26 @@
             "connector_id": 9137,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
+            "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "faulted"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
             "connector_id": 9138,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "BAN0048",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -131,7 +131,7 @@
       "longitude": 77.595872,
       "address": "24, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka, 560001, India",
       "area": "24, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar",
-      "avg_review_rating": 4.9,
+      "avg_review_rating": 4.73,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.971726,77.595872",
       "is_connected": true,
       "station_type": [
@@ -190,7 +190,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
     }
   ],
   "ac_count": 0,
@@ -199,7 +199,7 @@
   "dc_prices": [
     18.99
   ],
-  "scraped_at": "2026-05-21T08:00:01.192534+00:00",
+  "scraped_at": "2026-05-22T10:43:41.264503+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

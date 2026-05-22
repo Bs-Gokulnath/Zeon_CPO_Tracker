@@ -27,7 +27,7 @@
       }
     ],
     "avg_review_rating": 4.56,
-    "no_of_reviews": 1380,
+    "no_of_reviews": 1390,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -55,8 +55,8 @@
     "plugin_details": [
       {
         "charger_id": 57864,
-        "price_with_currency": "₹ 23.93",
-        "price": 23.93,
+        "price_with_currency": "₹ 22.43",
+        "price": 22.43,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -65,10 +65,10 @@
             "connector_id": 17507,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Finished",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "finishing"
           },
           {
             "display_id": 2,
@@ -84,12 +84,12 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "MLCP MP DC Charger 1",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 57866,
-        "price_with_currency": "₹ 24.99",
-        "price": 24.99,
+        "price_with_currency": "₹ 23.95",
+        "price": 23.95,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -117,7 +117,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "MLCP MP DC Charger 2",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 57867,
@@ -131,10 +131,10 @@
             "connector_id": 17513,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "available"
+            "connector_status": "unavailable"
           }
         ],
         "type": "AC",
@@ -284,10 +284,10 @@
     12.0
   ],
   "dc_prices": [
-    23.93,
-    24.99
+    22.43,
+    23.95
   ],
-  "scraped_at": "2026-05-21T08:04:18.845090+00:00",
+  "scraped_at": "2026-05-22T10:46:42.419992+00:00",
   "parse_success": true,
   "missing_fields": [],
   "coverage_pct": 100.0

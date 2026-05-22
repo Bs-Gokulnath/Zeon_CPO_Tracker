@@ -41,10 +41,10 @@
             "connector_id": 12295,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
@@ -60,7 +60,7 @@
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "2011479-SHREE VARDHAMAN PETROLEUM",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "21/05/2026"
       }
     ],
     "review_stats": {
@@ -131,7 +131,7 @@
       "longitude": 72.528557,
       "address": "\"ADDRESS :-BHARAT PETROLEUM   Vadgam - Kheralu Highway Road, NH -58 At & po, Pilucha , ta Vadgam, Dist Bansknatha pincode 385421\", Banaskantha, Gujarat, 385421, India",
       "area": "\"ADDRESS :-BHARAT PETROLEUM   Vadgam - Kheralu Highway Road, NH -58 At & po, Pilucha , ta Vadgam, Dist Bansknatha pincode 385421\"",
-      "avg_review_rating": 3.91,
+      "avg_review_rating": 3.96,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.97433,72.528557",
       "is_connected": false,
       "station_type": [
@@ -194,7 +194,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:01:35.053996+00:00",
+  "scraped_at": "2026-05-22T10:44:28.169272+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

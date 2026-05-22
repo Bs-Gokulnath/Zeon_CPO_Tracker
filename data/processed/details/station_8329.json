@@ -51,10 +51,10 @@
             "connector_id": 15686,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
@@ -62,15 +62,15 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Charging",
+            "error_message": "Finished",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "finishing"
           }
         ],
         "type": "DC",
         "power_rating": 238.0,
         "charger_name": "EPL Ecoplug Hotel Mayank Palace Khatoo 1",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 69921,
@@ -259,7 +259,7 @@
   "dc_prices": [
     22.0
   ],
-  "scraped_at": "2026-05-21T08:04:18.945488+00:00",
+  "scraped_at": "2026-05-22T10:46:42.543155+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

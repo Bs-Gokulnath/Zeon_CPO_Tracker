@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.67,
-    "no_of_reviews": 1895,
+    "no_of_reviews": 1906,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-banner-2.png",
@@ -48,10 +48,10 @@
             "connector_id": 15703,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           },
           {
             "display_id": 2,
@@ -59,15 +59,15 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Finished",
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "finishing"
+            "connector_status": "charging"
           }
         ],
         "type": "DC",
         "power_rating": 180.0,
         "charger_name": "Hyundai Sampoorna Bhavan DC Charger 1",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56775,
@@ -81,16 +81,16 @@
             "connector_id": 15706,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "Hyundai Sampoorna Bhavan DC Charger 2",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -225,7 +225,7 @@
     24.0,
     21.0
   ],
-  "scraped_at": "2026-05-21T08:04:18.930600+00:00",
+  "scraped_at": "2026-05-22T10:46:42.540749+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

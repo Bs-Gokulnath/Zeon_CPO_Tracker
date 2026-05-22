@@ -21,8 +21,8 @@
         "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
       }
     ],
-    "avg_review_rating": 4.76,
-    "no_of_reviews": 111,
+    "avg_review_rating": 4.74,
+    "no_of_reviews": 112,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
@@ -41,10 +41,10 @@
             "connector_id": 15268,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           },
           {
             "display_id": 2,
@@ -54,22 +54,22 @@
             "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "preparing"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "RUDRAKSHA PETROLEUM",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
       "percentage_per_star": {
         "1": 2,
         "2": 0,
-        "3": 3,
+        "3": 4,
         "4": 12,
-        "5": 84
+        "5": 83
       }
     },
     "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
@@ -89,7 +89,7 @@
       "longitude": 78.752906,
       "address": "NEAR DISTRICT HOSPITAL , TILLI SAGAR, Sagar, Madhya Pradesh, 470002, India",
       "area": "NEAR DISTRICT HOSPITAL , TILLI SAGAR",
-      "avg_review_rating": 4.76,
+      "avg_review_rating": 4.74,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.823337,78.752906",
       "is_connected": true,
       "station_type": [
@@ -194,7 +194,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:04:06.310676+00:00",
+  "scraped_at": "2026-05-22T10:46:31.173719+00:00",
   "parse_success": true,
   "missing_fields": [
     "amenities_icon"

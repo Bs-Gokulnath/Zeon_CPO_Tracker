@@ -22,9 +22,9 @@
       }
     ],
     "avg_review_rating": 4.65,
-    "no_of_reviews": 1162,
+    "no_of_reviews": 1166,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
-    "is_connected": true,
+    "is_connected": false,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
     "landmark": null,
     "amenities_icon": [
@@ -44,8 +44,8 @@
     "plugin_details": [
       {
         "charger_id": 2458,
-        "price_with_currency": "₹ 24.48",
-        "price": 24.48,
+        "price_with_currency": "₹ 23.7",
+        "price": 23.7,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -55,15 +55,15 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Faulted",
+            "error_message": "Disconnected",
             "connector_type_id": 1,
-            "connector_status": "faulted"
+            "connector_status": "finishing"
           }
         ],
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "Hotel Poorvi Residency DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -94,7 +94,7 @@
       "area": "Near Right Side of the Hotel Premises",
       "avg_review_rating": 4.65,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.63888,76.220383",
-      "is_connected": true,
+      "is_connected": false,
       "station_type": [
         {
           "type": "DC",
@@ -195,9 +195,9 @@
   "dc_count": 1,
   "ac_prices": [],
   "dc_prices": [
-    24.48
+    23.7
   ],
-  "scraped_at": "2026-05-21T07:59:25.396864+00:00",
+  "scraped_at": "2026-05-22T10:42:55.545835+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

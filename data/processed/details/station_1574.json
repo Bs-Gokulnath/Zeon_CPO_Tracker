@@ -32,7 +32,7 @@
       }
     ],
     "avg_review_rating": 4.72,
-    "no_of_reviews": 1290,
+    "no_of_reviews": 1293,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/AC%2BDC.png",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -64,16 +64,16 @@
             "connector_id": 25787,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 30.0,
         "charger_name": "TDPL DC Charger 1",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 1125,
@@ -106,7 +106,7 @@
         "type": "AC",
         "power_rating": 10.7,
         "charger_name": "Pillar 60 TDPL Jaipur",
-        "last_used_on": "05/05/2026"
+        "last_used_on": "21/05/2026"
       }
     ],
     "review_stats": {
@@ -252,7 +252,7 @@
   "dc_prices": [
     21.0
   ],
-  "scraped_at": "2026-05-21T07:58:59.960220+00:00",
+  "scraped_at": "2026-05-22T10:42:31.491716+00:00",
   "parse_success": true,
   "missing_fields": [],
   "coverage_pct": 100.0

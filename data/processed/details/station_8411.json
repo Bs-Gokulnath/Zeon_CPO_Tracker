@@ -41,10 +41,10 @@
             "connector_id": 15843,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
@@ -52,15 +52,15 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Charging",
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "unavailable"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "THE RISING SUN FUEL STATION  EV - DC",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -76,11 +76,10 @@
     "steps_to_reach": false,
     "station_city_name": "Kolhapur",
     "station_access_type": "public",
-    "availability": "Available in",
+    "availability": "Available",
     "highest_power_rating": 120.0,
     "charger_type_of_station": "DC",
-    "station_images": [],
-    "waiting_time": "2026-05-21 14:08:09"
+    "station_images": []
   },
   "nearby_stations": [
     {
@@ -102,7 +101,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+charging.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
     },
     {
       "id": 9676,
@@ -123,7 +122,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
     },
     {
       "id": 2115,
@@ -195,7 +194,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:04:29.614538+00:00",
+  "scraped_at": "2026-05-22T10:46:50.838083+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

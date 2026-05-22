@@ -4,10 +4,10 @@
     "station_id": 8494,
     "station_name": "MH | Mumbai | Courtyard by Marriott Mumbai International Airport",
     "latitude": 19.114314,
-    "longitude": 72.864212,
+    "longitude": 72.864211,
     "address": "Cts 215, Mumbai, Maharashtra, 400059, India",
     "area": "Cts 215",
-    "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.114314,72.864212",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.114314,72.864211",
     "closing_status": {
       "text": "Open Now",
       "text_color": "#12D377"
@@ -41,20 +41,20 @@
             "connector_id": 16052,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           },
           {
             "display_id": 2,
             "connector_id": 16053,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "DC",
@@ -88,7 +88,7 @@
   "dc_prices": [
     24.0
   ],
-  "scraped_at": "2026-05-21T08:04:43.271515+00:00",
+  "scraped_at": "2026-05-22T10:47:00.753529+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

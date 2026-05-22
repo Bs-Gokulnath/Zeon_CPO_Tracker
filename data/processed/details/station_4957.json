@@ -41,10 +41,10 @@
             "connector_id": 9723,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           },
           {
             "display_id": 2,
@@ -54,13 +54,13 @@
             "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "preparing"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "CDG0003",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -104,27 +104,6 @@
       "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
     },
     {
-      "id": 6672,
-      "station_name": "Krishna Volvo Workshop",
-      "latitude": 30.707218,
-      "longitude": 76.80864,
-      "address": "Plot No. 72, Ind. Area, Phase-1, , Chandigarh, Chandigarh, 160002, India",
-      "area": "Plot No. 72, Ind. Area, Phase-1, ",
-      "avg_review_rating": 0.0,
-      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.707218,76.80864",
-      "is_connected": false,
-      "station_type": [
-        {
-          "type": "DC",
-          "bg_color": "#F4F4F7",
-          "text_color": "#101941"
-        }
-      ],
-      "access_type": 2,
-      "is_community_listed": false,
-      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
-    },
-    {
       "id": 9387,
       "station_name": "CH | Chandigarh | Charisma Hyundai",
       "latitude": 30.713349,
@@ -144,6 +123,27 @@
       "access_type": 1,
       "is_community_listed": false,
       "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 6672,
+      "station_name": "Krishna Volvo Workshop",
+      "latitude": 30.707218,
+      "longitude": 76.80864,
+      "address": "Plot No. 72, Ind. Area, Phase-1, , Chandigarh, Chandigarh, 160002, India",
+      "area": "Plot No. 72, Ind. Area, Phase-1, ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.707218,76.80864",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
     },
     {
       "id": 9926,
@@ -180,7 +180,7 @@
       "area": "Nexus Elante",
       "avg_review_rating": 4.68,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.70577,76.801399",
-      "is_connected": false,
+      "is_connected": true,
       "station_type": [
         {
           "type": "DC",
@@ -190,7 +190,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
     }
   ],
   "ac_count": 0,
@@ -199,7 +199,7 @@
   "dc_prices": [
     18.99
   ],
-  "scraped_at": "2026-05-21T08:00:50.842383+00:00",
+  "scraped_at": "2026-05-22T10:43:51.451797+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

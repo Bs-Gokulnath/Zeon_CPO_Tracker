@@ -21,8 +21,8 @@
         "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
       }
     ],
-    "avg_review_rating": 4.76,
-    "no_of_reviews": 136,
+    "avg_review_rating": 4.77,
+    "no_of_reviews": 138,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -44,7 +44,7 @@
             "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "preparing"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
@@ -64,16 +64,16 @@
             "connector_id": 26202,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": false,
-            "error_message": "Disconnected",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar33 MLCP AC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 63399,
@@ -87,16 +87,16 @@
             "connector_id": 26203,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "charging"
+            "connector_status": "preparing"
           }
         ],
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar28 MLCP AC Charger",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 63400,
@@ -110,10 +110,10 @@
             "connector_id": 26204,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
@@ -133,16 +133,16 @@
             "connector_id": 26205,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 3,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar24 MLCP AC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 63402,
@@ -194,9 +194,9 @@
       "longitude": 77.322225,
       "address": "MLCP Parking, Sector 18, Noida, Uttar Pradesh, 201301, India",
       "area": "MLCP Parking, Sector 18",
-      "avg_review_rating": 4.75,
+      "avg_review_rating": 4.77,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.569867,77.322225",
-      "is_connected": false,
+      "is_connected": true,
       "station_type": [
         {
           "type": "AC",
@@ -206,7 +206,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
     },
     {
       "id": 8221,
@@ -217,7 +217,7 @@
       "area": "Noida sector 18 MLCP parking",
       "avg_review_rating": 5.0,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.569867,77.322225",
-      "is_connected": false,
+      "is_connected": true,
       "station_type": [
         {
           "type": "DC",
@@ -236,9 +236,9 @@
       "longitude": 77.321148,
       "address": "Near DLF Mall of India, Noida sector 18 MLCP parking, Noida, Uttar Pradesh, 201301, India",
       "area": "Near DLF Mall of India, Noida sector 18 MLCP parking",
-      "avg_review_rating": 4.81,
+      "avg_review_rating": 4.8,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.569824,77.321148",
-      "is_connected": false,
+      "is_connected": true,
       "station_type": [
         {
           "type": "DC",
@@ -253,7 +253,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
     },
     {
       "id": 3579,
@@ -274,7 +274,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eFill+charging.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eFill+-+default.png"
     },
     {
       "id": 1757,
@@ -309,7 +309,7 @@
     14.49
   ],
   "dc_prices": [],
-  "scraped_at": "2026-05-21T08:04:13.535395+00:00",
+  "scraped_at": "2026-05-22T10:46:36.724501+00:00",
   "parse_success": true,
   "missing_fields": [
     "amenities_icon"

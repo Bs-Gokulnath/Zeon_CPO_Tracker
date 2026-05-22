@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.75,
-    "no_of_reviews": 5664,
+    "no_of_reviews": 5677,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -44,8 +44,8 @@
     "plugin_details": [
       {
         "charger_id": 51450,
-        "price_with_currency": "₹ 22.38",
-        "price": 22.38,
+        "price_with_currency": "₹ 24.99",
+        "price": 24.99,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -54,26 +54,26 @@
             "connector_id": 9039,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           },
           {
             "display_id": 2,
             "connector_id": 9040,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "Infinity Mall DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -89,10 +89,11 @@
     "steps_to_reach": false,
     "station_city_name": "Hyderabad",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Available in",
     "highest_power_rating": 120.0,
     "charger_type_of_station": "DC",
-    "station_images": []
+    "station_images": [],
+    "waiting_time": "2026-05-22 16:30:28"
   },
   "nearby_stations": [
     {
@@ -135,7 +136,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/unavailable+select.png"
     },
     {
       "id": 4805,
@@ -205,9 +206,9 @@
   "dc_count": 1,
   "ac_prices": [],
   "dc_prices": [
-    22.38
+    24.99
   ],
-  "scraped_at": "2026-05-21T08:00:01.037043+00:00",
+  "scraped_at": "2026-05-22T10:43:34.776883+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

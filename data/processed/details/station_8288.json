@@ -41,71 +41,71 @@
             "connector_id": 15591,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "faulted"
           },
           {
             "display_id": 2,
             "connector_id": 15592,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "faulted"
           },
           {
             "display_id": 3,
             "connector_id": 15593,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "faulted"
           },
           {
             "display_id": 4,
             "connector_id": 15594,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "faulted"
           },
           {
             "display_id": 5,
             "connector_id": 15595,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "faulted"
           },
           {
             "display_id": 6,
             "connector_id": 15596,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "faulted"
           }
         ],
         "type": "DC",
         "power_rating": 1200.0,
         "charger_name": "LKO0009",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56712,
-        "price_with_currency": "₹ 18.99",
-        "price": 18.99,
+        "price_with_currency": "₹ 17.0",
+        "price": 17.0,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -114,30 +114,30 @@
             "connector_id": 15597,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "faulted"
           },
           {
             "display_id": 2,
             "connector_id": 15598,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "faulted"
           },
           {
             "display_id": 3,
             "connector_id": 15599,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "faulted"
           }
         ],
         "type": "DC",
@@ -159,7 +159,7 @@
     "steps_to_reach": false,
     "station_city_name": "Lucknow",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Unavailable",
     "highest_power_rating": 1200.0,
     "charger_type_of_station": "DC",
     "station_images": []
@@ -184,7 +184,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/unavailable+select.png"
     },
     {
       "id": 8623,
@@ -281,9 +281,9 @@
   "ac_prices": [],
   "dc_prices": [
     18.99,
-    18.99
+    17.0
   ],
-  "scraped_at": "2026-05-21T08:04:14.927523+00:00",
+  "scraped_at": "2026-05-22T10:46:40.764625+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

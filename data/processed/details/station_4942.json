@@ -64,7 +64,7 @@
             "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "preparing"
           }
         ],
         "type": "DC",
@@ -314,7 +314,7 @@
         "type": "AC",
         "power_rating": 7.0,
         "charger_name": "BAN0030",
-        "last_used_on": "05/04/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 51896,
@@ -1278,7 +1278,7 @@
     18.99,
     18.99
   ],
-  "scraped_at": "2026-05-21T08:00:50.643087+00:00",
+  "scraped_at": "2026-05-22T10:43:51.812257+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

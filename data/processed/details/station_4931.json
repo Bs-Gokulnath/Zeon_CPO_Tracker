@@ -155,10 +155,10 @@
             "connector_id": 23531,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           },
           {
             "display_id": 3,
@@ -185,10 +185,10 @@
             "connector_id": 23534,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           },
           {
             "display_id": 6,
@@ -204,7 +204,7 @@
         "type": "DC",
         "power_rating": 1200.0,
         "charger_name": "FCD HMR Madhapur 4",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -334,7 +334,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
     }
   ],
   "ac_count": 0,
@@ -346,7 +346,7 @@
     18.99,
     18.99
   ],
-  "scraped_at": "2026-05-21T08:00:01.324039+00:00",
+  "scraped_at": "2026-05-22T10:43:41.374719+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

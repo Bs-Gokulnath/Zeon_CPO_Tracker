@@ -51,16 +51,16 @@
             "connector_id": 16006,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "TCZ GJ | Chikhli | Hotel Empire 1",
-        "last_used_on": "14/05/2026"
+        "last_used_on": "21/05/2026"
       }
     ],
     "review_stats": {
@@ -194,7 +194,7 @@
   "dc_prices": [
     22.0
   ],
-  "scraped_at": "2026-05-21T08:04:35.847102+00:00",
+  "scraped_at": "2026-05-22T10:46:56.121642+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

@@ -41,20 +41,20 @@
             "connector_id": 34017,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
+            "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "faulted"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
             "connector_id": 34018,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
+            "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "faulted"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
@@ -76,7 +76,7 @@
     "steps_to_reach": false,
     "station_city_name": "Chittorgarh",
     "station_access_type": "public",
-    "availability": "Unavailable",
+    "availability": "Available",
     "highest_power_rating": 120.0,
     "charger_type_of_station": "DC",
     "station_images": []
@@ -204,7 +204,7 @@
   "dc_prices": [
     21.99
   ],
-  "scraped_at": "2026-05-21T07:59:06.253686+00:00",
+  "scraped_at": "2026-05-22T10:42:36.535672+00:00",
   "parse_success": true,
   "missing_fields": [
     "amenities_icon"

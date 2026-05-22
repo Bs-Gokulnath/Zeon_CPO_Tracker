@@ -41,26 +41,26 @@
             "connector_id": 9696,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "faulted"
           },
           {
             "display_id": 2,
             "connector_id": 9697,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "faulted"
           }
         ],
         "type": "DC",
         "power_rating": 100.0,
         "charger_name": "GUR0002",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -76,7 +76,7 @@
     "steps_to_reach": false,
     "station_city_name": "Gurugram",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Unavailable",
     "highest_power_rating": 100.0,
     "charger_type_of_station": "DC",
     "station_images": []
@@ -152,7 +152,7 @@
       "longitude": 77.143858,
       "address": "Right side after Main Gate Entry, KRRISH PROVENCE ESTATE, Gwal Pahari, Bandhwari, Haryana , Gurugram, Haryana, 122003, India",
       "area": "Right side after Main Gate Entry, KRRISH PROVENCE ESTATE, Gwal Pahari, Bandhwari, Haryana ",
-      "avg_review_rating": 4.5,
+      "avg_review_rating": 4.51,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.430827,77.143858",
       "is_connected": true,
       "station_type": [
@@ -199,7 +199,7 @@
   "dc_prices": [
     18.99
   ],
-  "scraped_at": "2026-05-21T08:00:50.453541+00:00",
+  "scraped_at": "2026-05-22T10:43:51.364764+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

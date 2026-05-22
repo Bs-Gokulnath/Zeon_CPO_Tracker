@@ -41,10 +41,10 @@
             "connector_id": 12282,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           },
           {
             "display_id": 2,
@@ -70,7 +70,7 @@
         "type": "DC",
         "power_rating": 90.0,
         "charger_name": "HYD0059",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -86,10 +86,11 @@
     "steps_to_reach": false,
     "station_city_name": "Hyderabad",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Available in",
     "highest_power_rating": 90.0,
     "charger_type_of_station": "DC",
-    "station_images": []
+    "station_images": [],
+    "waiting_time": "2026-05-22 16:41:49"
   },
   "nearby_stations": [
     {
@@ -111,7 +112,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-charging-not-selected-pin.png"
     },
     {
       "id": 1998,
@@ -141,7 +142,7 @@
       "longitude": 78.509927,
       "address": "Champapet, Hyderabad, Telangana, 500059, India",
       "area": "Champapet",
-      "avg_review_rating": 3.54,
+      "avg_review_rating": 3.51,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.350731,78.509927",
       "is_connected": true,
       "station_type": [
@@ -185,7 +186,7 @@
       "area": "ADE Santhoshnagar Substation, Zohra nagar,Hasnabad, Santoshnagar ",
       "avg_review_rating": 0.0,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.34728,78.500325",
-      "is_connected": false,
+      "is_connected": true,
       "station_type": [
         {
           "type": "DC",
@@ -195,7 +196,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
     }
   ],
   "ac_count": 0,
@@ -204,7 +205,7 @@
   "dc_prices": [
     18.99
   ],
-  "scraped_at": "2026-05-21T08:00:50.591071+00:00",
+  "scraped_at": "2026-05-22T10:43:51.656904+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

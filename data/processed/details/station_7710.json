@@ -51,16 +51,16 @@
             "connector_id": 13914,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "ELC EarthtronEV M3M Urbana Business Park 1 1",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 55553,
@@ -197,7 +197,7 @@
       "longitude": 77.060173,
       "address": " BPTP Park Prime, Kadarpur Road, Gurugram, Haryana, 122101, India",
       "area": " BPTP Park Prime, Kadarpur Road",
-      "avg_review_rating": 4.16,
+      "avg_review_rating": 4.17,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.394567,77.060173",
       "is_connected": true,
       "station_type": [
@@ -267,7 +267,7 @@
     20.0,
     20.0
   ],
-  "scraped_at": "2026-05-21T08:03:32.867152+00:00",
+  "scraped_at": "2026-05-22T10:46:05.435337+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.42,
-    "no_of_reviews": 3635,
+    "no_of_reviews": 3642,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/DC.png",
     "is_connected": true,
     "station_banner": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/Vari-Energy-branding-banner.png",
@@ -72,16 +72,16 @@
             "connector_id": 1183,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "DC",
         "power_rating": 30.0,
         "charger_name": "VEEV004-DC1 4W BFM C73",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 63388,
@@ -95,10 +95,10 @@
             "connector_id": 26185,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
@@ -106,15 +106,15 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Charging",
+            "error_message": "Finished",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "finishing"
           }
         ],
         "type": "DC",
         "power_rating": 240.0,
         "charger_name": "VEEV010-DC3 4W BFM",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -249,7 +249,7 @@
     22.0,
     24.0
   ],
-  "scraped_at": "2026-05-21T07:58:59.845974+00:00",
+  "scraped_at": "2026-05-22T10:42:31.433299+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

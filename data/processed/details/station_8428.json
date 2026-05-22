@@ -46,10 +46,10 @@
             "connector_id": 15912,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
@@ -154,7 +154,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
     },
     {
       "id": 12263,
@@ -163,7 +163,7 @@
       "longitude": 76.785315,
       "address": "SAMPLA, Rohtak, Haryana, 124021, India",
       "area": "SAMPLA",
-      "avg_review_rating": 4.88,
+      "avg_review_rating": 4.89,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.761005,76.785315",
       "is_connected": false,
       "station_type": [
@@ -210,7 +210,7 @@
       "longitude": 76.736069,
       "address": "Rohtak-Delhi Highway, Rohtak, Haryana, 124501, India",
       "area": "Rohtak-Delhi Highway",
-      "avg_review_rating": 4.29,
+      "avg_review_rating": 4.12,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.80324,76.736069",
       "is_connected": true,
       "station_type": [
@@ -236,7 +236,7 @@
       "longitude": 76.726252,
       "address": "RO AT ISMAILA,ROHTAK BAHDURGARH RD ROHTAK, 124501, Rohtak, Haryana, 124501, India",
       "area": "RO AT ISMAILA,ROHTAK BAHDURGARH RD ROHTAK, 124501",
-      "avg_review_rating": 4.8,
+      "avg_review_rating": 4.81,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.808408,76.726252",
       "is_connected": true,
       "station_type": [
@@ -259,7 +259,7 @@
   "dc_prices": [
     22.0
   ],
-  "scraped_at": "2026-05-21T08:04:29.927840+00:00",
+  "scraped_at": "2026-05-22T10:46:50.847471+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

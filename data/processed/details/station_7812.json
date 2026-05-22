@@ -24,7 +24,7 @@
     "avg_review_rating": 4.77,
     "no_of_reviews": 53,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
-    "is_connected": false,
+    "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
     "landmark": "Nakhatrana",
     "amenities_icon": [],
@@ -41,8 +41,8 @@
             "connector_id": 14363,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Disconnected",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
             "connector_status": "available"
           },
@@ -51,8 +51,8 @@
             "connector_id": 14364,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Disconnected",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
             "connector_status": "available"
           }
@@ -60,7 +60,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "SHREE GANESH PETROLEUM",
-        "last_used_on": "08/05/2026"
+        "last_used_on": "21/05/2026"
       }
     ],
     "review_stats": {
@@ -76,7 +76,7 @@
     "steps_to_reach": false,
     "station_city_name": "Bhuj",
     "station_access_type": "public",
-    "availability": "Unavailable",
+    "availability": "Available",
     "highest_power_rating": 120.0,
     "charger_type_of_station": "DC",
     "station_images": []
@@ -91,7 +91,7 @@
       "area": "Nakhatrana, Gujarat ",
       "avg_review_rating": 4.77,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.367483,69.242457",
-      "is_connected": false,
+      "is_connected": true,
       "station_type": [
         {
           "type": "DC",
@@ -101,7 +101,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
     },
     {
       "id": 12982,
@@ -194,7 +194,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:03:38.616432+00:00",
+  "scraped_at": "2026-05-22T10:46:10.452929+00:00",
   "parse_success": true,
   "missing_fields": [
     "amenities_icon"

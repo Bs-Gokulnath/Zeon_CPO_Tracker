@@ -27,7 +27,7 @@
       }
     ],
     "avg_review_rating": 4.68,
-    "no_of_reviews": 8863,
+    "no_of_reviews": 8870,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/DC.png",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -36,8 +36,8 @@
     "plugin_details": [
       {
         "charger_id": 1173,
-        "price_with_currency": "₹ 23.21",
-        "price": 23.21,
+        "price_with_currency": "₹ 24.16",
+        "price": 24.16,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -47,25 +47,25 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Finished",
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "finishing"
+            "connector_status": "charging"
           },
           {
             "display_id": 2,
             "connector_id": 1531,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "preparing"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "Savoy Suites Noida DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 51295,
@@ -111,7 +111,7 @@
         "type": "AC",
         "power_rating": 22.0,
         "charger_name": "Savoy Suites Noida BMW AC Charger 2",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -261,9 +261,9 @@
     18.49
   ],
   "dc_prices": [
-    23.21
+    24.16
   ],
-  "scraped_at": "2026-05-21T07:59:05.825739+00:00",
+  "scraped_at": "2026-05-22T10:42:36.251955+00:00",
   "parse_success": true,
   "missing_fields": [
     "amenities_icon"

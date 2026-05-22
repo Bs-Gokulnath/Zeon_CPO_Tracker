@@ -24,7 +24,7 @@
     "avg_review_rating": 3.02,
     "no_of_reviews": 47,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
-    "is_connected": false,
+    "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
     "landmark": "near Tolichowki Circle",
     "amenities_icon": [
@@ -48,20 +48,20 @@
             "connector_id": 3455,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Disconnected",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "faulted"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
             "connector_id": 3456,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Disconnected",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "faulted"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
@@ -83,7 +83,7 @@
     "steps_to_reach": false,
     "station_city_name": "Hyderabad",
     "station_access_type": "public",
-    "availability": "Unavailable",
+    "availability": "Available",
     "highest_power_rating": 60.0,
     "charger_type_of_station": "DC",
     "station_images": []
@@ -98,7 +98,7 @@
       "area": "Fort Road Qutubshahi Tombs near Tolichowki Circle",
       "avg_review_rating": 3.02,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.393564,78.400154",
-      "is_connected": false,
+      "is_connected": true,
       "station_type": [
         {
           "type": "DC",
@@ -108,7 +108,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
     },
     {
       "id": 9488,
@@ -129,7 +129,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonecharging.png"
     },
     {
       "id": 15717,
@@ -201,7 +201,7 @@
   "dc_prices": [
     13.0
   ],
-  "scraped_at": "2026-05-21T07:59:25.284760+00:00",
+  "scraped_at": "2026-05-22T10:42:54.592818+00:00",
   "parse_success": true,
   "missing_fields": [],
   "coverage_pct": 100.0

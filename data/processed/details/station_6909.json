@@ -59,13 +59,13 @@
             "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "preparing"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "GGN-01DC | GNT Ashok Vihar, Gurugram 30",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 55604,
@@ -98,7 +98,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "GGN-02DC | GNT Ashok Vihar, Gurugram 39",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 55601,
@@ -112,16 +112,16 @@
             "connector_id": 14019,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 3,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "AC",
         "power_rating": 22.0,
         "charger_name": "GGN-07AC | GNT Ashok Vihar, Gurugram 36",
-        "last_used_on": "19/05/2026"
+        "last_used_on": "21/05/2026"
       },
       {
         "charger_id": 55605,
@@ -184,7 +184,7 @@
             "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "available"
+            "connector_status": "preparing"
           }
         ],
         "type": "AC",
@@ -204,10 +204,10 @@
             "connector_id": 14030,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": false,
-            "error_message": "Finished",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "finishing"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
@@ -273,10 +273,10 @@
             "connector_id": 21033,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
@@ -436,7 +436,7 @@
     18.0,
     18.0
   ],
-  "scraped_at": "2026-05-21T08:01:54.374290+00:00",
+  "scraped_at": "2026-05-22T10:44:44.231433+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

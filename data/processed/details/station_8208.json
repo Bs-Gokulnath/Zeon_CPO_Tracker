@@ -49,7 +49,7 @@
             "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "preparing"
           },
           {
             "display_id": 2,
@@ -234,7 +234,7 @@
   "dc_prices": [
     16.0
   ],
-  "scraped_at": "2026-05-21T08:04:06.607230+00:00",
+  "scraped_at": "2026-05-22T10:46:31.445111+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

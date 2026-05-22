@@ -26,8 +26,8 @@
         "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
       }
     ],
-    "avg_review_rating": 4.63,
-    "no_of_reviews": 5998,
+    "avg_review_rating": 4.62,
+    "no_of_reviews": 6009,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/DC.png",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -46,10 +46,10 @@
             "connector_id": 1476,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
@@ -65,7 +65,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "Savoy Suites Manesar DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 50004,
@@ -88,7 +88,7 @@
         "type": "AC",
         "power_rating": 22.0,
         "charger_name": "Savoy Suites Manesar BMW AC Charger 1",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "21/05/2026"
       },
       {
         "charger_id": 50005,
@@ -111,7 +111,7 @@
         "type": "AC",
         "power_rating": 22.0,
         "charger_name": "Savoy Suites Manesar BMW AC Charger 2",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 50006,
@@ -291,7 +291,7 @@
   "dc_prices": [
     21.99
   ],
-  "scraped_at": "2026-05-21T07:59:00.157121+00:00",
+  "scraped_at": "2026-05-22T10:42:31.496203+00:00",
   "parse_success": true,
   "missing_fields": [
     "amenities_icon"

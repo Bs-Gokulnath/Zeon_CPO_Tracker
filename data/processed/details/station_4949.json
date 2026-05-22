@@ -50,7 +50,7 @@
         "type": "DC",
         "power_rating": 30.0,
         "charger_name": "MAN0001",
-        "last_used_on": "19/05/2026"
+        "last_used_on": "21/05/2026"
       }
     ],
     "review_stats": {
@@ -91,7 +91,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/unavailable+select.png"
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-charging-not-selected-pin.png"
     },
     {
       "id": 7238,
@@ -144,7 +144,7 @@
       "area": "NH 66",
       "avg_review_rating": 4.44,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.9014,74.8419",
-      "is_connected": true,
+      "is_connected": false,
       "station_type": [
         {
           "type": "DC",
@@ -154,7 +154,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
+      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Unavailable+loc+pin.png"
     },
     {
       "id": 7243,
@@ -184,7 +184,7 @@
   "dc_prices": [
     18.99
   ],
-  "scraped_at": "2026-05-21T08:00:50.778801+00:00",
+  "scraped_at": "2026-05-22T10:43:51.617541+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

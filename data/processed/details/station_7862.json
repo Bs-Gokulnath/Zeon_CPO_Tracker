@@ -42,25 +42,25 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Charging",
+            "error_message": "Finished",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "finishing"
           },
           {
             "display_id": 2,
             "connector_id": 14472,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "DC",
         "power_rating": 360.0,
         "charger_name": "EVX TN | Chennai | MB#Sundaram Motors 1",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -101,7 +101,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mercedes_Branding_Logo.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mercedes_Charging_Map_Pin.png"
     },
     {
       "id": 11211,
@@ -204,7 +204,7 @@
   "dc_prices": [
     24.0
   ],
-  "scraped_at": "2026-05-21T08:03:39.495548+00:00",
+  "scraped_at": "2026-05-22T10:46:10.897844+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

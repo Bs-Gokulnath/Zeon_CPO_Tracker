@@ -60,7 +60,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "TCZ HR | Gurugram | Le Meridien 1",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -76,10 +76,11 @@
     "steps_to_reach": false,
     "station_city_name": "Gurugram",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Available in",
     "highest_power_rating": 120.0,
     "charger_type_of_station": "DC",
-    "station_images": []
+    "station_images": [],
+    "waiting_time": "2026-05-22 16:19:28"
   },
   "nearby_stations": [
     {
@@ -148,7 +149,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
     },
     {
       "id": 14547,
@@ -180,7 +181,7 @@
       "area": "Phase-1, H Block , Sector 26",
       "avg_review_rating": 0.0,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.471535,77.102462",
-      "is_connected": true,
+      "is_connected": false,
       "station_type": [
         {
           "type": "DC",
@@ -190,7 +191,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
     }
   ],
   "ac_count": 0,
@@ -199,7 +200,7 @@
   "dc_prices": [
     22.0
   ],
-  "scraped_at": "2026-05-21T08:04:39.874164+00:00",
+  "scraped_at": "2026-05-22T10:47:00.711682+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

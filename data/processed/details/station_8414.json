@@ -21,8 +21,8 @@
         "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
       }
     ],
-    "avg_review_rating": 4.87,
-    "no_of_reviews": 31,
+    "avg_review_rating": 4.88,
+    "no_of_reviews": 32,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": false,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
@@ -60,7 +60,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "HARSH FUEL STATION EV - DC",
-        "last_used_on": "19/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -154,7 +154,7 @@
       "area": "BHARAT PETROLEUM CORPN. LTD, NEAR GURU MAA ASHARAM GT ROAD, ",
       "avg_review_rating": 4.76,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.128679,77.044197",
-      "is_connected": false,
+      "is_connected": true,
       "station_type": [
         {
           "type": "DC",
@@ -194,7 +194,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:04:29.837378+00:00",
+  "scraped_at": "2026-05-22T10:46:50.843833+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

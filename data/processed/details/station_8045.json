@@ -65,15 +65,15 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Charging",
+            "error_message": "Finished",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "finishing"
           }
         ],
         "type": "DC",
         "power_rating": 30.0,
         "charger_name": "ELC Earthtron Okaya center sector 62 2",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -89,13 +89,333 @@
     "steps_to_reach": false,
     "station_city_name": "New Delhi",
     "station_access_type": "public",
-    "availability": "Available in",
+    "availability": "Available",
     "highest_power_rating": 30.0,
     "charger_type_of_station": "DC",
-    "station_images": [],
-    "waiting_time": "2026-05-21 14:15:50"
+    "station_images": []
   },
-  "nearby_stations": [],
+  "nearby_stations": [
+    {
+      "id": 8045,
+      "station_name": "Earthtron Okaya center sector 62",
+      "latitude": 28.622893,
+      "longitude": 77.361336,
+      "address": "Okaya center UKG Tower Block B sector 62, New Delhi, Delhi, 201301, India",
+      "area": "Okaya center UKG Tower Block B sector 62",
+      "avg_review_rating": 4.39,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.622893,77.361336",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/earthtronev_default.png"
+    },
+    {
+      "id": 13787,
+      "station_name": "Level 2 7kW Charger no. 4",
+      "latitude": 28.623746,
+      "longitude": 77.36691,
+      "address": "Green Boulevard, Noida, Uttar Pradesh, 201309, India",
+      "area": "Green Boulevard",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.623746,77.36691",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    },
+    {
+      "id": 15634,
+      "station_name": "Sarla Hotel Inn by Reliable Charge Plot no 132, Khora Rd, opposite Tower I, Industrial Area, Sector 62, Noida, Uttar Pradesh , 201020",
+      "latitude": 28.622877,
+      "longitude": 77.355009,
+      "address": "Plot no 132, Noida, Uttar Pradesh, 201020, India",
+      "area": "Plot no 132",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.622877,77.355009",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 11002,
+      "station_name": "APT Electronics Ltd",
+      "latitude": 28.614768,
+      "longitude": 77.377001,
+      "address": "8, Noida, Uttar Pradesh, 201301, India",
+      "area": "8",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.614768,77.377001",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 13673,
+      "station_name": "Level 2 7kW Charger no. 3",
+      "latitude": 28.613907,
+      "longitude": 77.34623,
+      "address": "Green Boulevard, Noida, Uttar Pradesh, 201301, India",
+      "area": "Green Boulevard",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.613907,77.34623",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    },
+    {
+      "id": 9490,
+      "station_name": "Windsor Park Gate No. 3",
+      "latitude": 28.638753,
+      "longitude": 77.364396,
+      "address": " Vaibhav Khand, Ghaziabad, Uttar Pradesh, 20101, India",
+      "area": " Vaibhav Khand",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.638753,77.364396",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/iONCHARGE/ion-available-not-selected.png"
+    },
+    {
+      "id": 11000,
+      "station_name": "APT Electronics",
+      "latitude": 28.606575,
+      "longitude": 77.36014,
+      "address": "B-8, Noida, Uttar Pradesh, 201301, India",
+      "area": "B-8",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.606575,77.36014",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 1953,
+      "station_name": "Sunfuel - Radisson Noida",
+      "latitude": 28.6113,
+      "longitude": 77.344269,
+      "address": "Plot No 2, Block C, Block B, Noida, Uttar Pradesh, 201307, India",
+      "area": "Plot No 2, Block C, Block B",
+      "avg_review_rating": 4.89,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.6113,77.344269",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 1917,
+      "station_name": "Statiq Gaur Green Avenue Station",
+      "latitude": 28.633932,
+      "longitude": 77.341591,
+      "address": "Gaur Green Avenue, , Ghaziabad, Uttar Pradesh, 201014, India",
+      "area": "Gaur Green Avenue, ",
+      "avg_review_rating": 4.78,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.633932,77.341591",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 2160,
+      "station_name": "Statiq AdWall Sunrise Green Station",
+      "latitude": 28.641409,
+      "longitude": 77.376617,
+      "address": "Plot 12A, Ahinsa Khand 1, Ghaziabad, Uttar Pradesh, 201014, India",
+      "area": "Plot 12A, Ahinsa Khand 1",
+      "avg_review_rating": 4.72,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.641409,77.376617",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 14222,
+      "station_name": "Deepanshu Jain",
+      "latitude": 28.604931,
+      "longitude": 77.343505,
+      "address": "IC Panchdeep Colony Sector 56 Noida UP 201301, Noida, Uttar Pradesh, 201301, India",
+      "area": "IC Panchdeep Colony Sector 56 Noida UP 201301",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.604931,77.343505",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    },
+    {
+      "id": 11889,
+      "station_name": "CNL AUTOMOBILES",
+      "latitude": 28.647403,
+      "longitude": 77.378529,
+      "address": "GHAZIABAD, Ghaziabad, Uttar Pradesh, 201010, India",
+      "area": "GHAZIABAD",
+      "avg_review_rating": 4.04,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.647403,77.378529",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 13981,
+      "station_name": "Trinity 7.4kW Exicom",
+      "latitude": 28.644508,
+      "longitude": 77.335487,
+      "address": "Mahagun Srovar Portico Hotel, Ghaziabad, Uttar Pradesh, 201010, India",
+      "area": "Mahagun Srovar Portico Hotel",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.644508,77.335487",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    },
+    {
+      "id": 13802,
+      "station_name": "ETO 7kW",
+      "latitude": 28.644508,
+      "longitude": 77.335487,
+      "address": "Mahagun Srovar Protico Hotel, Ghaziabad, Uttar Pradesh, 201010, India",
+      "area": "Mahagun Srovar Protico Hotel",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.644508,77.335487",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    },
+    {
+      "id": 8000,
+      "station_name": "UP | Noida | Mercedes-Benz Silver Arrows Noida",
+      "latitude": 28.595723,
+      "longitude": 77.330449,
+      "address": "D7, Noida, Uttar Pradesh, 201301, India",
+      "area": "D7",
+      "avg_review_rating": 4.04,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.595723,77.330449",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mercedes_Focused_Offline_Map_Pin.png"
+    }
+  ],
   "ac_count": 0,
   "dc_count": 2,
   "ac_prices": [],
@@ -103,7 +423,7 @@
     20.0,
     20.0
   ],
-  "scraped_at": "2026-05-21T08:03:50.490453+00:00",
+  "scraped_at": "2026-05-22T10:46:20.831352+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

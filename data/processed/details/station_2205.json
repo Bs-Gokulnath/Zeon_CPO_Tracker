@@ -126,12 +126,12 @@
       "is_connected": true,
       "station_type": [
         {
-          "type": "DC",
+          "type": "AC",
           "bg_color": "#F4F4F7",
           "text_color": "#101941"
         },
         {
-          "type": "AC",
+          "type": "DC",
           "bg_color": "#F4F4F7",
           "text_color": "#101941"
         }
@@ -173,12 +173,12 @@
       "is_connected": true,
       "station_type": [
         {
-          "type": "DC",
+          "type": "AC",
           "bg_color": "#F4F4F7",
           "text_color": "#101941"
         },
         {
-          "type": "AC",
+          "type": "DC",
           "bg_color": "#F4F4F7",
           "text_color": "#101941"
         }
@@ -194,7 +194,7 @@
     25.0
   ],
   "dc_prices": [],
-  "scraped_at": "2026-05-21T07:59:35.069070+00:00",
+  "scraped_at": "2026-05-22T10:43:08.590198+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

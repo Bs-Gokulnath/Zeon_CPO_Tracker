@@ -24,7 +24,7 @@
     "avg_review_rating": 3.49,
     "no_of_reviews": 49,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/DC.png",
-    "is_connected": false,
+    "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
     "landmark": null,
     "amenities_icon": [
@@ -49,9 +49,9 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Disconnected",
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "finishing"
+            "connector_status": "faulted"
           },
           {
             "display_id": 2,
@@ -59,15 +59,15 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Disconnected",
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "preparing"
+            "connector_status": "faulted"
           }
         ],
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "Durgam Cheruvu Park DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -98,7 +98,7 @@
       "area": "Parking",
       "avg_review_rating": 3.49,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.436876,78.388519",
-      "is_connected": true,
+      "is_connected": false,
       "station_type": [
         {
           "type": "DC",
@@ -108,7 +108,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
     },
     {
       "id": 11993,
@@ -181,7 +181,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
     },
     {
       "id": 14028,
@@ -202,7 +202,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
     }
   ],
   "ac_count": 0,
@@ -211,7 +211,7 @@
   "dc_prices": [
     13.0
   ],
-  "scraped_at": "2026-05-21T07:59:13.285132+00:00",
+  "scraped_at": "2026-05-22T10:42:41.590459+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

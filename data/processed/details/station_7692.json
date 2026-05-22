@@ -24,7 +24,7 @@
     "avg_review_rating": 4.04,
     "no_of_reviews": 49,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
-    "is_connected": false,
+    "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
     "landmark": null,
     "amenities_icon": [],
@@ -41,10 +41,10 @@
             "connector_id": 13877,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Disconnected",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "faulted"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
@@ -66,7 +66,7 @@
     "steps_to_reach": false,
     "station_city_name": "Banda",
     "station_access_type": "public",
-    "availability": "Unavailable",
+    "availability": "Available",
     "highest_power_rating": 30.0,
     "charger_type_of_station": "DC",
     "station_images": []
@@ -144,7 +144,7 @@
       "area": "RO AT RARAZOI KUCHECHA  HAMIRPUR 210301",
       "avg_review_rating": 0.0,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.913404,80.14044",
-      "is_connected": false,
+      "is_connected": true,
       "station_type": [
         {
           "type": "DC",
@@ -184,7 +184,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:03:32.056464+00:00",
+  "scraped_at": "2026-05-22T10:46:05.250887+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

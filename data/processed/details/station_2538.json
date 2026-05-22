@@ -21,18 +21,18 @@
         "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
       },
       {
-        "id": 3,
-        "connector_name": "Type-2",
-        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
-      },
-      {
         "id": 5,
         "connector_name": "Wall",
         "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
       }
     ],
     "avg_review_rating": 4.73,
-    "no_of_reviews": 3079,
+    "no_of_reviews": 3087,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -54,8 +54,8 @@
     "plugin_details": [
       {
         "charger_id": 3176,
-        "price_with_currency": "₹ 22.31",
-        "price": 22.31,
+        "price_with_currency": "₹ 24.99",
+        "price": 24.99,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -65,25 +65,25 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Charging",
+            "error_message": "Finished",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "finishing"
           },
           {
             "display_id": 2,
             "connector_id": 4470,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Finished",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "finishing"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "Double Tree By Hilton Gurgaon DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 3177,
@@ -97,10 +97,10 @@
             "connector_id": 4471,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 3,
-            "connector_status": "available"
+            "connector_status": "charging"
           },
           {
             "display_id": 2,
@@ -116,7 +116,7 @@
         "type": "AC",
         "power_rating": 10.7,
         "charger_name": "Double Tree By Hilton Gurgaon AdWall 1a",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 3178,
@@ -149,7 +149,7 @@
         "type": "AC",
         "power_rating": 10.7,
         "charger_name": "Double Tree By Hilton Gurgaon AdWall 1b",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -299,9 +299,9 @@
     14.0
   ],
   "dc_prices": [
-    22.31
+    24.99
   ],
-  "scraped_at": "2026-05-21T07:59:35.282571+00:00",
+  "scraped_at": "2026-05-22T10:43:08.842636+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

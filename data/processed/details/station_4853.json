@@ -41,26 +41,26 @@
             "connector_id": 9131,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
             "connector_id": 9132,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "PUN0002",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -76,11 +76,10 @@
     "steps_to_reach": false,
     "station_city_name": "Pune",
     "station_access_type": "public",
-    "availability": "Available in",
+    "availability": "Available",
     "highest_power_rating": 120.0,
     "charger_type_of_station": "DC",
-    "station_images": [],
-    "waiting_time": "2026-05-21 15:14:04"
+    "station_images": []
   },
   "nearby_stations": [
     {
@@ -132,7 +131,7 @@
       "longitude": 73.688911,
       "address": "Cognizant Technology Solutions India PrivateLimited (IN234), Plot No.16, Phase III, Rajiv Gandhi InfotechPark,Hinjewadi, Pune , Pune MH 411057, Pune, Maharashtra, 411057, India",
       "area": "Cognizant Technology Solutions India PrivateLimited (IN234), Plot No.16, Phase III, Rajiv Gandhi InfotechPark,Hinjewadi, Pune , Pune MH 411057",
-      "avg_review_rating": 4.24,
+      "avg_review_rating": 4.25,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.594884,73.688911",
       "is_connected": true,
       "station_type": [
@@ -153,7 +152,7 @@
       "longitude": 73.682389,
       "address": "Megapolis Sparklet Co-Op Housing Society Pvt Ltd, Plot No. R1/1 to R1/4 Phase-3, RGIP, Hinjewadi, Tal-Mulshi, Pune, Maharashtra, 411057, India",
       "area": "Megapolis Sparklet Co-Op Housing Society Pvt Ltd, Plot No. R1/1 to R1/4 Phase-3, RGIP, Hinjewadi, Tal-Mulshi",
-      "avg_review_rating": 4.61,
+      "avg_review_rating": 4.62,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.578032,73.682389",
       "is_connected": true,
       "station_type": [
@@ -174,7 +173,7 @@
       "longitude": 73.67964,
       "address": "Megapolis Mystic, Megapolis Township, Phase 3, Hinjawadi Rajiv Gandhi Infotech Park, Hinjawadi, Pune, Maharashtra, 411057, India",
       "area": "Megapolis Mystic, Megapolis Township, Phase 3, Hinjawadi Rajiv Gandhi Infotech Park, Hinjawadi",
-      "avg_review_rating": 4.5,
+      "avg_review_rating": 4.51,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.575116,73.67964",
       "is_connected": true,
       "station_type": [
@@ -195,7 +194,7 @@
   "dc_prices": [
     18.99
   ],
-  "scraped_at": "2026-05-21T08:00:01.108831+00:00",
+  "scraped_at": "2026-05-22T10:43:41.236147+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

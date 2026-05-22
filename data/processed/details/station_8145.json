@@ -41,26 +41,26 @@
             "connector_id": 15239,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "faulted"
           },
           {
             "display_id": 2,
             "connector_id": 15240,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "faulted"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "RJT0003",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56465,
@@ -228,7 +228,7 @@
     18.99,
     18.99
   ],
-  "scraped_at": "2026-05-21T08:04:00.346300+00:00",
+  "scraped_at": "2026-05-22T10:46:27.673078+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

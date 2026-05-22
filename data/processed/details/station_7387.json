@@ -102,7 +102,7 @@
       "area": "Highway ",
       "avg_review_rating": 4.0,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.599081,74.00532",
-      "is_connected": true,
+      "is_connected": false,
       "station_type": [
         {
           "type": "DC",
@@ -117,7 +117,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
+      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Unavailable+loc+pin.png"
     },
     {
       "id": 13087,
@@ -194,7 +194,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:02:55.570548+00:00",
+  "scraped_at": "2026-05-22T10:45:32.209068+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

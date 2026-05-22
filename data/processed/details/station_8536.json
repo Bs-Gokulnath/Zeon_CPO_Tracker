@@ -93,7 +93,7 @@
         "type": "DC",
         "power_rating": 480.0,
         "charger_name": "TN0039",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "21/05/2026"
       },
       {
         "charger_id": 57031,
@@ -117,16 +117,16 @@
             "connector_id": 16148,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "DC",
         "power_rating": 480.0,
         "charger_name": "TN0037",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 57032,
@@ -159,7 +159,7 @@
         "type": "DC",
         "power_rating": 480.0,
         "charger_name": "TN0040",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "21/05/2026"
       },
       {
         "charger_id": 57033,
@@ -173,20 +173,20 @@
             "connector_id": 16151,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
             "connector_id": 16152,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
@@ -330,7 +330,7 @@
     23.5,
     23.5
   ],
-  "scraped_at": "2026-05-21T08:04:43.705519+00:00",
+  "scraped_at": "2026-05-22T10:47:00.935364+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

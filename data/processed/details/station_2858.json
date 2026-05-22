@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.72,
-    "no_of_reviews": 1798,
+    "no_of_reviews": 1799,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -58,16 +58,16 @@
             "connector_id": 5079,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "Indo American Diner DC Charger",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "21/05/2026"
       }
     ],
     "review_stats": {
@@ -101,7 +101,7 @@
       "longitude": 76.484596,
       "address": "24/3-13 19/1 1-4 22/1/2/3-16, Khasra No 29/23 9-0, 22/2/2/0-6 33/7/2/3-3, Fatehgarh Sahib, Punjab, 140406, India",
       "area": "24/3-13 19/1 1-4 22/1/2/3-16, Khasra No 29/23 9-0, 22/2/2/0-6 33/7/2/3-3",
-      "avg_review_rating": 4.65,
+      "avg_review_rating": 4.64,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.549801,76.484596",
       "is_connected": true,
       "station_type": [
@@ -206,7 +206,7 @@
   "dc_prices": [
     21.99
   ],
-  "scraped_at": "2026-05-21T07:59:35.417733+00:00",
+  "scraped_at": "2026-05-22T10:43:08.945292+00:00",
   "parse_success": true,
   "missing_fields": [],
   "coverage_pct": 100.0

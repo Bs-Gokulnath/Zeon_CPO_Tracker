@@ -21,8 +21,8 @@
         "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
       }
     ],
-    "avg_review_rating": 4.63,
-    "no_of_reviews": 686,
+    "avg_review_rating": 4.62,
+    "no_of_reviews": 695,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
@@ -51,7 +51,7 @@
             "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "preparing"
           },
           {
             "display_id": 2,
@@ -67,7 +67,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "MOOLCHAND ",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -96,7 +96,7 @@
       "longitude": 77.12447,
       "address": "karnal road, Delhi, Delhi, 110040, India",
       "area": "karnal road",
-      "avg_review_rating": 4.63,
+      "avg_review_rating": 4.62,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.85625,77.12447",
       "is_connected": true,
       "station_type": [
@@ -201,7 +201,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:01:34.818468+00:00",
+  "scraped_at": "2026-05-22T10:44:28.138414+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

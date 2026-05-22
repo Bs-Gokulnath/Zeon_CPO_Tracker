@@ -51,26 +51,26 @@
             "connector_id": 12783,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
             "connector_id": 12784,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "ERN Earthtron EV Shastri Park 1",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 54509,
@@ -327,7 +327,7 @@
   "dc_prices": [
     20.0
   ],
-  "scraped_at": "2026-05-21T08:01:51.986315+00:00",
+  "scraped_at": "2026-05-22T10:44:43.849550+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

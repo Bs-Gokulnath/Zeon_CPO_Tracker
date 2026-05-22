@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.46,
-    "no_of_reviews": 2601,
+    "no_of_reviews": 2608,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/DC.png",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -38,8 +38,8 @@
     "plugin_details": [
       {
         "charger_id": 1554,
-        "price_with_currency": "₹ 21.99",
-        "price": 21.99,
+        "price_with_currency": "₹ 24.99",
+        "price": 24.99,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -48,21 +48,21 @@
             "connector_id": 2129,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "Nexus Udaipur DC Charger 1",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 1555,
-        "price_with_currency": "₹ 24.99",
-        "price": 24.99,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -80,7 +80,7 @@
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "Nexus Udaipur DC Charger 2",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -121,7 +121,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
     },
     {
       "id": 6683,
@@ -212,10 +212,10 @@
   "dc_count": 2,
   "ac_prices": [],
   "dc_prices": [
-    21.99,
-    24.99
+    24.99,
+    21.99
   ],
-  "scraped_at": "2026-05-21T07:59:13.187210+00:00",
+  "scraped_at": "2026-05-22T10:42:41.578084+00:00",
   "parse_success": true,
   "missing_fields": [],
   "coverage_pct": 100.0

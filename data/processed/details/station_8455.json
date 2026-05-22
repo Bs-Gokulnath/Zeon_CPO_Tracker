@@ -4,10 +4,10 @@
     "station_id": 8455,
     "station_name": "CH | Chandigarh | JW Marriott Chandigarh",
     "latitude": 30.726849,
-    "longitude": 76.766832,
+    "longitude": 76.766833,
     "address": "Plot no, Chandigarh, Chandigarh, 160035, India",
     "area": "Plot no",
-    "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.726849,76.766832",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.726849,76.766833",
     "closing_status": {
       "text": "Open Now",
       "text_color": "#12D377"
@@ -41,26 +41,26 @@
             "connector_id": 15975,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
             "connector_id": 15976,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "preparing"
+            "connector_status": "charging"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "TCZ CH | Chandigarh | JW Marriott Chandigarh 1",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -86,11 +86,11 @@
       "id": 8455,
       "station_name": "CH | Chandigarh | JW Marriott Chandigarh",
       "latitude": 30.726849,
-      "longitude": 76.766832,
+      "longitude": 76.766833,
       "address": "Plot no, Chandigarh, Chandigarh, 160035, India",
       "area": "Plot no",
       "avg_review_rating": 4.68,
-      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.726849,76.766832",
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.726849,76.766833",
       "is_connected": true,
       "station_type": [
         {
@@ -199,7 +199,7 @@
   "dc_prices": [
     22.0
   ],
-  "scraped_at": "2026-05-21T08:04:35.688389+00:00",
+  "scraped_at": "2026-05-22T10:46:56.054759+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

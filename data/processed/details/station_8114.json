@@ -56,16 +56,16 @@
             "connector_id": 15064,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "DC",
         "power_rating": 118.0,
         "charger_name": "EPL Ecoplug Prince Hotel & BBQ Prince Hotel & BBQ 1",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 67870,
@@ -249,7 +249,7 @@
   "dc_prices": [
     22.0
   ],
-  "scraped_at": "2026-05-21T08:04:00.064715+00:00",
+  "scraped_at": "2026-05-22T10:46:26.234222+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

@@ -77,7 +77,7 @@
             "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "preparing"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
@@ -87,13 +87,13 @@
             "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "preparing"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "TCZ GJ | Bhavnagar | Hotel Shree Krishna Foodland 2",
-        "last_used_on": "19/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -134,7 +134,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
     },
     {
       "id": 9003,
@@ -228,7 +228,7 @@
     22.0,
     21.0
   ],
-  "scraped_at": "2026-05-21T08:04:43.658290+00:00",
+  "scraped_at": "2026-05-22T10:47:00.817714+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

@@ -54,10 +54,10 @@
             "connector_id": 4795,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           },
           {
             "display_id": 2,
@@ -73,7 +73,7 @@
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "Sanathnagar IT Park EV Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -89,10 +89,11 @@
     "steps_to_reach": false,
     "station_city_name": "Hyderabad",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Available in",
     "highest_power_rating": 60.0,
     "charger_type_of_station": "DC",
-    "station_images": []
+    "station_images": [],
+    "waiting_time": "2026-05-22 20:06:51"
   },
   "nearby_stations": [
     {
@@ -207,7 +208,7 @@
   "dc_prices": [
     13.0
   ],
-  "scraped_at": "2026-05-21T07:59:35.276587+00:00",
+  "scraped_at": "2026-05-22T10:43:08.905129+00:00",
   "parse_success": true,
   "missing_fields": [],
   "coverage_pct": 100.0

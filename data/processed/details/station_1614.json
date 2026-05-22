@@ -64,16 +64,16 @@
             "connector_id": 1444,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 3,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "AC",
         "power_rating": 22.0,
         "charger_name": "Sunfuel - Radisson Blu Hotel Ahmedabad 2",
-        "last_used_on": "19/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -114,7 +114,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Sunfuel+-+default.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Sunfuel+charging.png"
     },
     {
       "id": 7830,
@@ -213,7 +213,7 @@
     15.0
   ],
   "dc_prices": [],
-  "scraped_at": "2026-05-21T07:59:05.723131+00:00",
+  "scraped_at": "2026-05-22T10:42:36.282851+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

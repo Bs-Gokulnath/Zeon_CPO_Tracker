@@ -115,27 +115,6 @@
       "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
     },
     {
-      "id": 15964,
-      "station_name": "EZIT Charging Station 120kW - Pooja Wholesale Complex Ambala",
-      "latitude": 30.38522,
-      "longitude": 76.78706,
-      "address": "Pooja Wholesale Complex, Ambala, Haryana, India",
-      "area": "Pooja Wholesale Complex",
-      "avg_review_rating": 0.0,
-      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.38522,76.78706",
-      "is_connected": true,
-      "station_type": [
-        {
-          "type": "DC",
-          "bg_color": "#F4F4F7",
-          "text_color": "#101941"
-        }
-      ],
-      "access_type": 1,
-      "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
-    },
-    {
       "id": 8889,
       "station_name": "HR | Ambala | Regenta Central City Vilas Palace",
       "latitude": 30.407087,
@@ -181,6 +160,27 @@
       "access_type": 1,
       "is_community_listed": false,
       "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 14469,
+      "station_name": "Vardaan Fuel Park",
+      "latitude": 30.408708,
+      "longitude": 76.756397,
+      "address": "Devinagar, Ambala, Haryana, 134007, India",
+      "area": "Devinagar",
+      "avg_review_rating": 4.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.408708,76.756397",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
     }
   ],
   "ac_count": 0,
@@ -189,7 +189,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:01:53.947446+00:00",
+  "scraped_at": "2026-05-22T10:44:43.858321+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

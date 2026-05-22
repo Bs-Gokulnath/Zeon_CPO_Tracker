@@ -26,8 +26,8 @@
         "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
       }
     ],
-    "avg_review_rating": 0.0,
-    "no_of_reviews": 0,
+    "avg_review_rating": 1.0,
+    "no_of_reviews": 1,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
@@ -69,7 +69,13 @@
       }
     ],
     "review_stats": {
-      "percentage_per_star": {}
+      "percentage_per_star": {
+        "1": 100,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      }
     },
     "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
     "steps_to_reach": false,
@@ -203,7 +209,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:03:50.889709+00:00",
+  "scraped_at": "2026-05-22T10:46:20.962968+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

@@ -42,9 +42,9 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Faulted",
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "faulted"
+            "connector_status": "charging"
           }
         ],
         "type": "DC",
@@ -66,10 +66,11 @@
     "steps_to_reach": false,
     "station_city_name": "Una",
     "station_access_type": "public",
-    "availability": "Unavailable",
+    "availability": "Available in",
     "highest_power_rating": 20.0,
     "charger_type_of_station": "DC",
-    "station_images": []
+    "station_images": [],
+    "waiting_time": "2026-05-22 20:00:03"
   },
   "nearby_stations": [
     {
@@ -121,7 +122,7 @@
       "longitude": 76.387491,
       "address": "VILLAGE -PATTI NANGAL-ANANDPUR SAHIB ROAD, ROOPNAGAR , Patiala, Punjab, 140125, India",
       "area": "VILLAGE -PATTI NANGAL-ANANDPUR SAHIB ROAD, ROOPNAGAR ",
-      "avg_review_rating": 4.75,
+      "avg_review_rating": 4.76,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.350763,76.387491",
       "is_connected": true,
       "station_type": [
@@ -184,7 +185,7 @@
   "dc_prices": [
     21.99
   ],
-  "scraped_at": "2026-05-21T07:58:59.815079+00:00",
+  "scraped_at": "2026-05-22T10:42:31.278923+00:00",
   "parse_success": true,
   "missing_fields": [
     "amenities_icon"

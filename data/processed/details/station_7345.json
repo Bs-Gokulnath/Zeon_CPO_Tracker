@@ -41,16 +41,16 @@
             "connector_id": 13530,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "faulted"
           }
         ],
         "type": "DC",
         "power_rating": 30.0,
         "charger_name": "2008781-BP-MEDCHAL",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -66,7 +66,7 @@
     "steps_to_reach": false,
     "station_city_name": "Medchal",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Unavailable",
     "highest_power_rating": 30.0,
     "charger_type_of_station": "DC",
     "station_images": []
@@ -91,7 +91,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
     },
     {
       "id": 6552,
@@ -184,7 +184,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:02:49.229564+00:00",
+  "scraped_at": "2026-05-22T10:45:27.658073+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

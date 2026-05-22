@@ -27,7 +27,7 @@
       }
     ],
     "avg_review_rating": 4.52,
-    "no_of_reviews": 5515,
+    "no_of_reviews": 5521,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/DC.png",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -100,8 +100,8 @@
       },
       {
         "charger_id": 59734,
-        "price_with_currency": "₹ 23.99",
-        "price": 23.99,
+        "price_with_currency": "₹ 26.99",
+        "price": 26.99,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -110,26 +110,26 @@
             "connector_id": 20623,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Finished",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "finishing"
           },
           {
             "display_id": 2,
             "connector_id": 20624,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Finished",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "finishing"
           }
         ],
         "type": "DC",
         "power_rating": 480.0,
         "charger_name": "Aman Hotel Shahbad BMW HPC DC Charger 2",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 50024,
@@ -186,12 +186,12 @@
       "is_connected": true,
       "station_type": [
         {
-          "type": "DC",
+          "type": "AC",
           "bg_color": "#F4F4F7",
           "text_color": "#101941"
         },
         {
-          "type": "AC",
+          "type": "DC",
           "bg_color": "#F4F4F7",
           "text_color": "#101941"
         }
@@ -275,12 +275,12 @@
       "is_connected": true,
       "station_type": [
         {
-          "type": "DC",
+          "type": "AC",
           "bg_color": "#F4F4F7",
           "text_color": "#101941"
         },
         {
-          "type": "AC",
+          "type": "DC",
           "bg_color": "#F4F4F7",
           "text_color": "#101941"
         }
@@ -297,9 +297,9 @@
   ],
   "dc_prices": [
     21.99,
-    23.99
+    26.99
   ],
-  "scraped_at": "2026-05-21T07:59:05.580937+00:00",
+  "scraped_at": "2026-05-22T10:42:36.265293+00:00",
   "parse_success": true,
   "missing_fields": [],
   "coverage_pct": 100.0

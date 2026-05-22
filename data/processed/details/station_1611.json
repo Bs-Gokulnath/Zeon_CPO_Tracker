@@ -21,8 +21,8 @@
         "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
       }
     ],
-    "avg_review_rating": 4.42,
-    "no_of_reviews": 3024,
+    "avg_review_rating": 4.43,
+    "no_of_reviews": 3045,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/DC.png",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -31,8 +31,8 @@
     "plugin_details": [
       {
         "charger_id": 1183,
-        "price_with_currency": "₹ 24.93",
-        "price": 24.93,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -60,7 +60,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "Subway Bhiwadi DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -68,7 +68,7 @@
         "1": 8,
         "2": 2,
         "3": 3,
-        "4": 14,
+        "4": 13,
         "5": 73
       }
     },
@@ -89,7 +89,7 @@
       "longitude": 76.812057,
       "address": "Subway Bhiwadi, Khasra no. 495, Saidpur, Tijara, Bhiwadi, Rajasthan, 301019, India",
       "area": "Subway Bhiwadi, Khasra no. 495, Saidpur, Tijara",
-      "avg_review_rating": 4.42,
+      "avg_review_rating": 4.43,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.196409,76.812057",
       "is_connected": true,
       "station_type": [
@@ -110,7 +110,7 @@
       "longitude": 76.825582,
       "address": "Mansa Chowk, Bhiwadi, Rajasthan, 301019, India",
       "area": "Mansa Chowk",
-      "avg_review_rating": 4.88,
+      "avg_review_rating": 4.89,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.202505,76.825582",
       "is_connected": true,
       "station_type": [
@@ -136,7 +136,7 @@
       "longitude": 76.78492,
       "address": "Rao Tej Singh Market, Rewari, Haryana, 123106, India",
       "area": "Rao Tej Singh Market",
-      "avg_review_rating": 4.68,
+      "avg_review_rating": 4.67,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.205074,76.78492",
       "is_connected": true,
       "station_type": [
@@ -183,9 +183,9 @@
       "longitude": 76.801586,
       "address": "Rewari, Rewari, Haryana, 123106, India",
       "area": "Rewari",
-      "avg_review_rating": 4.38,
+      "avg_review_rating": 4.39,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.227848,76.801586",
-      "is_connected": false,
+      "is_connected": true,
       "station_type": [
         {
           "type": "DC",
@@ -195,16 +195,16 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
     }
   ],
   "ac_count": 0,
   "dc_count": 1,
   "ac_prices": [],
   "dc_prices": [
-    24.93
+    21.99
   ],
-  "scraped_at": "2026-05-21T07:59:05.688608+00:00",
+  "scraped_at": "2026-05-22T10:42:36.404178+00:00",
   "parse_success": true,
   "missing_fields": [
     "amenities_icon"

@@ -24,7 +24,7 @@
     "avg_review_rating": 4.92,
     "no_of_reviews": 36,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
-    "is_connected": false,
+    "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
     "landmark": null,
     "amenities_icon": [],
@@ -41,8 +41,8 @@
             "connector_id": 15963,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Disconnected",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
             "connector_status": "available"
           },
@@ -51,8 +51,8 @@
             "connector_id": 15964,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Disconnected",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
             "connector_status": "available"
           }
@@ -76,7 +76,7 @@
     "steps_to_reach": false,
     "station_city_name": "Dausa",
     "station_access_type": "public",
-    "availability": "Unavailable",
+    "availability": "Available",
     "highest_power_rating": 120.0,
     "charger_type_of_station": "DC",
     "station_images": []
@@ -91,7 +91,7 @@
       "area": "Village-Barh Kalyanpura, SH-24, Opposite of hotel Midway, Lalsot, Dausa",
       "avg_review_rating": 4.92,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.409957,76.375489",
-      "is_connected": false,
+      "is_connected": true,
       "station_type": [
         {
           "type": "DC",
@@ -101,7 +101,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
     },
     {
       "id": 12414,
@@ -152,7 +152,7 @@
       "longitude": 76.237153,
       "address": "Swai Madhopur, Sawai Madhopur, Rajasthan, 322023, India",
       "area": "Swai Madhopur",
-      "avg_review_rating": 4.77,
+      "avg_review_rating": 4.78,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.329969,76.237153",
       "is_connected": true,
       "station_type": [
@@ -194,7 +194,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:04:35.708014+00:00",
+  "scraped_at": "2026-05-22T10:46:56.049241+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

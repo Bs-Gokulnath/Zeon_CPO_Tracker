@@ -27,7 +27,7 @@
       }
     ],
     "avg_review_rating": 4.76,
-    "no_of_reviews": 10425,
+    "no_of_reviews": 10444,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -49,8 +49,8 @@
     "plugin_details": [
       {
         "charger_id": 51319,
-        "price_with_currency": "₹ 24.99",
-        "price": 24.99,
+        "price_with_currency": "₹ 24.45",
+        "price": 24.45,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -59,26 +59,26 @@
             "connector_id": 8840,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
             "connector_id": 8841,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Finished",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "finishing"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "Monk Mansion DC Charger 1",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 51320,
@@ -93,25 +93,25 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Finished",
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "finishing"
+            "connector_status": "charging"
           },
           {
             "display_id": 2,
             "connector_id": 8843,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "preparing"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "Monk Mansion DC Charger 2",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 51498,
@@ -302,10 +302,10 @@
     11.99
   ],
   "dc_prices": [
-    24.99,
+    24.45,
     24.99
   ],
-  "scraped_at": "2026-05-21T07:59:47.979366+00:00",
+  "scraped_at": "2026-05-22T10:43:29.423894+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

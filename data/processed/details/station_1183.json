@@ -32,7 +32,7 @@
       }
     ],
     "avg_review_rating": 4.71,
-    "no_of_reviews": 8742,
+    "no_of_reviews": 8751,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/AC%2BDC.png",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -41,8 +41,8 @@
     "plugin_details": [
       {
         "charger_id": 2686,
-        "price_with_currency": "₹ 22.19",
-        "price": 22.19,
+        "price_with_currency": "₹ 25.19",
+        "price": 25.19,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -61,16 +61,16 @@
             "connector_id": 3851,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 96.0,
         "charger_name": "SG Karnal DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 50008,
@@ -93,7 +93,7 @@
         "type": "AC",
         "power_rating": 22.0,
         "charger_name": "SG Karnal BMW AC Charger 1",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "21/05/2026"
       },
       {
         "charger_id": 50025,
@@ -116,7 +116,7 @@
         "type": "AC",
         "power_rating": 22.0,
         "charger_name": "SG Karnal BMW AC Charger 2",
-        "last_used_on": "18/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -213,9 +213,9 @@
       "longitude": 77.006831,
       "address": "BHARAT PETROLEUM CORPN. LTD, AMBALA DELHI ROAD, NH-1, LHS, Ambala Cantt, Haryana, 132001, India",
       "area": "BHARAT PETROLEUM CORPN. LTD, AMBALA DELHI ROAD, NH-1, LHS",
-      "avg_review_rating": 4.62,
+      "avg_review_rating": 4.63,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.703527,77.006831",
-      "is_connected": false,
+      "is_connected": true,
       "station_type": [
         {
           "type": "DC",
@@ -225,7 +225,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
     },
     {
       "id": 1662,
@@ -234,7 +234,7 @@
       "longitude": 76.977997,
       "address": "Choudhary Colony, Karnal, Haryana, 132001, India",
       "area": "Choudhary Colony",
-      "avg_review_rating": 4.67,
+      "avg_review_rating": 4.66,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.691919,76.977997",
       "is_connected": true,
       "station_type": [
@@ -256,9 +256,9 @@
     12.0
   ],
   "dc_prices": [
-    22.19
+    25.19
   ],
-  "scraped_at": "2026-05-21T07:58:59.623091+00:00",
+  "scraped_at": "2026-05-22T10:42:31.397323+00:00",
   "parse_success": true,
   "missing_fields": [
     "amenities_icon"

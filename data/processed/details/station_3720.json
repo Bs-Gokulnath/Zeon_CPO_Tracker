@@ -86,8 +86,8 @@
             "connector_id": 7240,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Disconnected",
             "connector_type_id": 3,
             "connector_status": "available"
           }
@@ -236,7 +236,7 @@
   "dc_prices": [
     21.99
   ],
-  "scraped_at": "2026-05-21T07:59:42.690134+00:00",
+  "scraped_at": "2026-05-22T10:43:19.999020+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

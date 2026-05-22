@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.72,
-    "no_of_reviews": 5423,
+    "no_of_reviews": 5425,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Glida+Banner.png",
@@ -51,20 +51,20 @@
             "connector_id": 12599,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           },
           {
             "display_id": 3,
             "connector_id": 12600,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           },
           {
             "display_id": 4,
@@ -81,10 +81,10 @@
             "connector_id": 12602,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "preparing"
           },
           {
             "display_id": 6,
@@ -100,7 +100,7 @@
         "type": "DC",
         "power_rating": 1200.0,
         "charger_name": "GUR0012",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -162,7 +162,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
     },
     {
       "id": 8206,
@@ -234,7 +234,7 @@
   "dc_prices": [
     18.99
   ],
-  "scraped_at": "2026-05-21T08:01:48.357056+00:00",
+  "scraped_at": "2026-05-22T10:44:38.766208+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

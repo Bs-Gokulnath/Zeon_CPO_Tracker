@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.57,
-    "no_of_reviews": 238,
+    "no_of_reviews": 239,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": false,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Volvo.png",
@@ -57,7 +57,7 @@
             "availability": false,
             "error_message": "Disconnected",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "preparing"
           },
           {
             "display_id": 2,
@@ -104,7 +104,7 @@
       "area": "3 Nyati Emporius, Off Pune Bangalore Highway, Near Balewadi Stadium, Baner ",
       "avg_review_rating": 4.57,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.567593,73.766399",
-      "is_connected": true,
+      "is_connected": false,
       "station_type": [
         {
           "type": "DC",
@@ -114,7 +114,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/volvo+default.png"
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
     },
     {
       "id": 2147,
@@ -198,7 +198,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
     }
   ],
   "ac_count": 0,
@@ -207,7 +207,7 @@
   "dc_prices": [
     22.0
   ],
-  "scraped_at": "2026-05-21T08:01:40.364971+00:00",
+  "scraped_at": "2026-05-22T10:44:32.305522+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

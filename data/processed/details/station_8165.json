@@ -27,7 +27,7 @@
       }
     ],
     "avg_review_rating": 4.72,
-    "no_of_reviews": 961,
+    "no_of_reviews": 966,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -36,8 +36,8 @@
     "plugin_details": [
       {
         "charger_id": 56717,
-        "price_with_currency": "₹ 24.25",
-        "price": 24.25,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -65,7 +65,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "ITC Kakatiya DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56490,
@@ -79,10 +79,10 @@
             "connector_id": 15283,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 3,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "AC",
@@ -227,9 +227,9 @@
     14.49
   ],
   "dc_prices": [
-    24.25
+    21.99
   ],
-  "scraped_at": "2026-05-21T08:04:06.301866+00:00",
+  "scraped_at": "2026-05-22T10:46:31.251486+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.75,
-    "no_of_reviews": 903,
+    "no_of_reviews": 907,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -44,8 +44,8 @@
     "plugin_details": [
       {
         "charger_id": 54434,
-        "price_with_currency": "₹ 21.99",
-        "price": 21.99,
+        "price_with_currency": "₹ 24.99",
+        "price": 24.99,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -67,13 +67,13 @@
             "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "preparing"
           }
         ],
         "type": "DC",
         "power_rating": 240.0,
         "charger_name": "Greenwood Dhaba DC Charger",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -210,9 +210,9 @@
   "dc_count": 1,
   "ac_prices": [],
   "dc_prices": [
-    21.99
+    24.99
   ],
-  "scraped_at": "2026-05-21T08:01:48.581407+00:00",
+  "scraped_at": "2026-05-22T10:44:38.771608+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

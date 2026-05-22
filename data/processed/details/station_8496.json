@@ -51,10 +51,10 @@
             "connector_id": 16057,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
@@ -152,7 +152,7 @@
       "longitude": 72.82222,
       "address": "Ramnath Goenka Marg, Nariman Point, Mumbai, Maharashtra 400021, Mumbai, Maharashtra, 400021, India",
       "area": "Ramnath Goenka Marg, Nariman Point, Mumbai, Maharashtra 400021",
-      "avg_review_rating": 4.77,
+      "avg_review_rating": 4.79,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.92836,72.82222",
       "is_connected": true,
       "station_type": [
@@ -194,7 +194,7 @@
   "dc_prices": [
     22.0
   ],
-  "scraped_at": "2026-05-21T08:04:43.263594+00:00",
+  "scraped_at": "2026-05-22T10:47:00.758663+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

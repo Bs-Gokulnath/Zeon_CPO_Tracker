@@ -41,10 +41,10 @@
             "connector_id": 14404,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
@@ -194,7 +194,7 @@
   "dc_prices": [
     30.0
   ],
-  "scraped_at": "2026-05-21T08:03:38.856458+00:00",
+  "scraped_at": "2026-05-22T10:46:10.506562+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

@@ -27,7 +27,7 @@
       }
     ],
     "avg_review_rating": 4.75,
-    "no_of_reviews": 15814,
+    "no_of_reviews": 15821,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/DC.png",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -66,9 +66,9 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Charging",
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "unavailable"
           },
           {
             "display_id": 2,
@@ -84,12 +84,12 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "Advant IT Park Basement-1 DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 53990,
-        "price_with_currency": "₹ 22.81",
-        "price": 22.81,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -108,16 +108,16 @@
             "connector_id": 11944,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 240.0,
         "charger_name": "Advant IT Park DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -133,11 +133,10 @@
     "steps_to_reach": false,
     "station_city_name": "Greater Noida",
     "station_access_type": "public",
-    "availability": "Available in",
+    "availability": "Available",
     "highest_power_rating": 240.0,
     "charger_type_of_station": "DC",
-    "station_images": [],
-    "waiting_time": "2026-05-21 13:35:28"
+    "station_images": []
   },
   "nearby_stations": [
     {
@@ -218,8 +217,8 @@
       "station_name": "Paras Seasons",
       "latitude": 28.49566,
       "longitude": 77.40811,
-      "address": "Paras Seasons Society Rd, Noida, Uttar Pradesh, 201305, India",
-      "area": "Paras Seasons Society Rd",
+      "address": "Chhaprauli Bangar, Noida, Uttar Pradesh, 201305, India",
+      "area": "Chhaprauli Bangar",
       "avg_review_rating": 0.0,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.49566,77.40811",
       "is_connected": true,
@@ -261,9 +260,9 @@
   "ac_prices": [],
   "dc_prices": [
     23.99,
-    22.81
+    21.99
   ],
-  "scraped_at": "2026-05-21T07:58:59.926579+00:00",
+  "scraped_at": "2026-05-22T10:42:31.666461+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

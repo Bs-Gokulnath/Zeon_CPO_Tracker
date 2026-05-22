@@ -27,7 +27,7 @@
       }
     ],
     "avg_review_rating": 4.65,
-    "no_of_reviews": 3911,
+    "no_of_reviews": 3915,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/DC.png",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -36,8 +36,8 @@
     "plugin_details": [
       {
         "charger_id": 1420,
-        "price_with_currency": "₹ 24.99",
-        "price": 24.99,
+        "price_with_currency": "₹ 22.14",
+        "price": 22.14,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -65,7 +65,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "JMD Regent Plaza DC Charger 1",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 1904,
@@ -79,8 +79,8 @@
             "connector_id": 2689,
             "connector_type": "GBT",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
-            "availability": false,
-            "error_message": "Disconnected",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 6,
             "connector_status": "available"
           },
@@ -89,8 +89,8 @@
             "connector_id": 2690,
             "connector_type": "GBT",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
-            "availability": false,
-            "error_message": "Disconnected",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 6,
             "connector_status": "available"
           }
@@ -114,11 +114,10 @@
     "steps_to_reach": false,
     "station_city_name": "Gurugram",
     "station_access_type": "public",
-    "availability": "Available in",
+    "availability": "Available",
     "highest_power_rating": 120.0,
     "charger_type_of_station": "DC",
-    "station_images": [],
-    "waiting_time": "2026-05-21 14:55:49"
+    "station_images": []
   },
   "nearby_stations": [
     {
@@ -140,7 +139,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
     },
     {
       "id": 10116,
@@ -229,17 +228,17 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
     }
   ],
   "ac_count": 0,
   "dc_count": 2,
   "ac_prices": [],
   "dc_prices": [
-    24.99,
+    22.14,
     21.99
   ],
-  "scraped_at": "2026-05-21T07:59:13.042315+00:00",
+  "scraped_at": "2026-05-22T10:42:41.562212+00:00",
   "parse_success": true,
   "missing_fields": [
     "amenities_icon"

@@ -32,7 +32,7 @@
       }
     ],
     "avg_review_rating": 4.72,
-    "no_of_reviews": 3612,
+    "no_of_reviews": 3621,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -67,7 +67,7 @@
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "Stellar Okas DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 2250,
@@ -81,26 +81,26 @@
             "connector_id": 3252,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "charging"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
             "connector_id": 3253,
             "connector_type": "Wall",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 5,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
         "power_rating": 10.7,
         "charger_name": "Stellar Okas AdWall 1a",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 2251,
@@ -117,23 +117,23 @@
             "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "preparing"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
             "connector_id": 3255,
             "connector_type": "Wall",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 5,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
         "power_rating": 10.7,
         "charger_name": "Stellar Okas AdWall 1b",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -280,7 +280,7 @@
   "dc_prices": [
     21.99
   ],
-  "scraped_at": "2026-05-21T07:59:24.949273+00:00",
+  "scraped_at": "2026-05-22T10:42:54.897351+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

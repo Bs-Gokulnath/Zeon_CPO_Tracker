@@ -51,10 +51,10 @@
             "connector_id": 15992,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
@@ -173,9 +173,9 @@
       "longitude": 73.75877,
       "address": "THE YELLOW HOUSE – IHCL SELEQTIONS, House No-1241, Gaonwadi, Anjuna, Goa, Goa, 403509, India",
       "area": "THE YELLOW HOUSE – IHCL SELEQTIONS, House No-1241, Gaonwadi, Anjuna",
-      "avg_review_rating": 4.79,
+      "avg_review_rating": 4.8,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.579713,73.75877",
-      "is_connected": true,
+      "is_connected": false,
       "station_type": [
         {
           "type": "DC",
@@ -185,7 +185,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
     }
   ],
   "ac_count": 0,
@@ -194,7 +194,7 @@
   "dc_prices": [
     21.5
   ],
-  "scraped_at": "2026-05-21T08:04:35.809876+00:00",
+  "scraped_at": "2026-05-22T10:46:56.094140+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

@@ -52,25 +52,25 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Charging",
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "faulted"
           },
           {
             "display_id": 2,
             "connector_id": 15907,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "faulted"
           }
         ],
         "type": "DC",
         "power_rating": 118.0,
         "charger_name": "EPL Ecoplug Brown Stone Dhaba 1",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 62924,
@@ -84,30 +84,30 @@
             "connector_id": 25589,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "available"
+            "connector_status": "faulted"
           },
           {
             "display_id": 2,
             "connector_id": 25591,
             "connector_type": "Wall",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 5,
-            "connector_status": "available"
+            "connector_status": "faulted"
           },
           {
             "display_id": 3,
             "connector_id": 25593,
             "connector_type": "Wall",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 5,
-            "connector_status": "available"
+            "connector_status": "faulted"
           }
         ],
         "type": "AC",
@@ -129,7 +129,7 @@
     "steps_to_reach": false,
     "station_city_name": "Sonipat",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Unavailable",
     "highest_power_rating": 118.0,
     "charger_type_of_station": "DC",
     "station_images": []
@@ -159,7 +159,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
     },
     {
       "id": 12892,
@@ -269,7 +269,7 @@
   "dc_prices": [
     22.0
   ],
-  "scraped_at": "2026-05-21T08:04:29.653385+00:00",
+  "scraped_at": "2026-05-22T10:46:50.967387+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

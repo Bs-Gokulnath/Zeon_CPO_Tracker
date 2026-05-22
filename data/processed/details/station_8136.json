@@ -24,7 +24,7 @@
     "avg_review_rating": 4.89,
     "no_of_reviews": 81,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
-    "is_connected": true,
+    "is_connected": false,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
     "landmark": "MUMBRA-PANVEL ROAD",
     "amenities_icon": [],
@@ -42,9 +42,9 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Faulted",
+            "error_message": "Disconnected",
             "connector_type_id": 1,
-            "connector_status": "unavailable"
+            "connector_status": "faulted"
           },
           {
             "display_id": 2,
@@ -52,9 +52,9 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Faulted",
+            "error_message": "Disconnected",
             "connector_type_id": 1,
-            "connector_status": "unavailable"
+            "connector_status": "faulted"
           }
         ],
         "type": "DC",
@@ -91,7 +91,7 @@
       "area": "VILLAGE DHANSAR,",
       "avg_review_rating": 4.89,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.095114,73.074867",
-      "is_connected": true,
+      "is_connected": false,
       "station_type": [
         {
           "type": "DC",
@@ -194,7 +194,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:04:00.336248+00:00",
+  "scraped_at": "2026-05-22T10:46:26.326266+00:00",
   "parse_success": true,
   "missing_fields": [
     "amenities_icon"

@@ -32,7 +32,7 @@
       }
     ],
     "avg_review_rating": 4.69,
-    "no_of_reviews": 5181,
+    "no_of_reviews": 5187,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -54,8 +54,8 @@
     "plugin_details": [
       {
         "charger_id": 16831,
-        "price_with_currency": "₹ 22.52",
-        "price": 22.52,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -74,16 +74,16 @@
             "connector_id": 6752,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Finished",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "finishing"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "Hilton Jaipur DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 16838,
@@ -120,8 +120,8 @@
       },
       {
         "charger_id": 16839,
-        "price_with_currency": "₹ 13.0",
-        "price": 13.0,
+        "price_with_currency": "₹ 16.0",
+        "price": 16.0,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -130,10 +130,10 @@
             "connector_id": 6755,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "charging"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
@@ -149,7 +149,7 @@
         "type": "AC",
         "power_rating": 10.7,
         "charger_name": "Hilton Jaipur AdWall 1b",
-        "last_used_on": "19/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -188,12 +188,12 @@
       "is_connected": true,
       "station_type": [
         {
-          "type": "DC",
+          "type": "AC",
           "bg_color": "#F4F4F7",
           "text_color": "#101941"
         },
         {
-          "type": "AC",
+          "type": "DC",
           "bg_color": "#F4F4F7",
           "text_color": "#101941"
         }
@@ -214,12 +214,12 @@
       "is_connected": false,
       "station_type": [
         {
-          "type": "DC",
+          "type": "AC",
           "bg_color": "#F4F4F7",
           "text_color": "#101941"
         },
         {
-          "type": "AC",
+          "type": "DC",
           "bg_color": "#F4F4F7",
           "text_color": "#101941"
         }
@@ -256,7 +256,7 @@
       "longitude": 75.792041,
       "address": "Exit gate of the hotel, ITC Rajputana, Palace Road, Gopalbari, Jaipur, Rajasthan, 302006, India",
       "area": "Exit gate of the hotel, ITC Rajputana, Palace Road, Gopalbari",
-      "avg_review_rating": 4.82,
+      "avg_review_rating": 4.81,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.919064,75.792041",
       "is_connected": true,
       "station_type": [
@@ -296,12 +296,12 @@
   "dc_count": 1,
   "ac_prices": [
     13.0,
-    13.0
+    16.0
   ],
   "dc_prices": [
-    22.52
+    21.99
   ],
-  "scraped_at": "2026-05-21T07:59:42.626840+00:00",
+  "scraped_at": "2026-05-22T10:43:20.432599+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import orjson
 import redis.asyncio as aioredis
 from sqlalchemy.ext.asyncio import AsyncSession
 
@@ -16,6 +17,11 @@ from api.schemas.responses import (
 _TTL = 300  # 5 minutes
 
 
+def _dumps(obj) -> bytes:
+    """orjson.dumps with Decimal-tolerant fallback."""
+    return orjson.dumps(obj, default=str)
+
+
 async def _cached(
     cache: aioredis.Redis | None,
     key: str,
@@ -26,19 +32,16 @@ async def _cached(
     if cache:
         raw = await cache.get(key)
         if raw:
-            import orjson
             data = orjson.loads(raw)
             return [model.model_validate(d) for d in data] if is_list else model.model_validate(data)
 
     result = await fn()
 
     if cache:
-        import orjson
-        payload = (
-            orjson.dumps([r.model_dump() if hasattr(r, "model_dump") else r for r in result])
-            if is_list
-            else orjson.dumps(result.model_dump() if hasattr(result, "model_dump") else result)
-        )
+        if is_list:
+            payload = _dumps([r.model_dump(mode="json") if hasattr(r, "model_dump") else r for r in result])
+        else:
+            payload = _dumps(result.model_dump(mode="json") if hasattr(result, "model_dump") else result)
         await cache.setex(key, _TTL, payload)
 
     return result
@@ -47,15 +50,13 @@ async def _cached(
 async def overview(session: AsyncSession, cache: aioredis.Redis | None) -> OverviewStats:
     key = "analytics:overview"
     if cache:
-        import orjson
         raw = await cache.get(key)
         if raw:
             return OverviewStats.model_validate(orjson.loads(raw))
     row = await repo.get_overview(session)
     result = OverviewStats.model_validate(row)
     if cache:
-        import orjson
-        await cache.setex(key, _TTL, orjson.dumps(result.model_dump()))
+        await cache.setex(key, _TTL, _dumps(result.model_dump(mode="json")))
     return result
 
 
@@ -94,7 +95,6 @@ async def ac_dc_breakdown(
 ) -> AcDcBreakdown | None:
     key = "analytics:ac_dc"
     if cache:
-        import orjson
         raw = await cache.get(key)
         if raw:
             return AcDcBreakdown.model_validate(orjson.loads(raw))
@@ -103,6 +103,5 @@ async def ac_dc_breakdown(
         return None
     result = AcDcBreakdown.model_validate(row)
     if cache:
-        import orjson
-        await cache.setex(key, _TTL, orjson.dumps(result.model_dump()))
+        await cache.setex(key, _TTL, _dumps(result.model_dump(mode="json")))
     return result

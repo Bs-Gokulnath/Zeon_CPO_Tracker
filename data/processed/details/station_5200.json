@@ -41,26 +41,26 @@
             "connector_id": 10228,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           },
           {
             "display_id": 2,
             "connector_id": 10229,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 180.0,
         "charger_name": "ELC AP | Miduthuru | Blue Moon Hampi Delight Motel & Restaurant 1",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "21/05/2026"
       },
       {
         "charger_id": 52290,
@@ -74,16 +74,16 @@
             "connector_id": 10230,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "ELC AP | Miduthuru | Blue Moon Hampi Delight Motel & Restaurant 2",
-        "last_used_on": "19/05/2026"
+        "last_used_on": "21/05/2026"
       }
     ],
     "review_stats": {
@@ -218,7 +218,7 @@
     24.0,
     21.0
   ],
-  "scraped_at": "2026-05-21T08:01:03.975751+00:00",
+  "scraped_at": "2026-05-22T10:44:01.705375+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

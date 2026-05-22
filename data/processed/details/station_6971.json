@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.62,
-    "no_of_reviews": 1080,
+    "no_of_reviews": 1084,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -68,8 +68,8 @@
     "plugin_details": [
       {
         "charger_id": 54717,
-        "price_with_currency": "₹ 24.99",
-        "price": 24.99,
+        "price_with_currency": "₹ 22.63",
+        "price": 22.63,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -97,7 +97,7 @@
         "type": "DC",
         "power_rating": 240.0,
         "charger_name": "Cubestop Mohgaon DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -147,7 +147,7 @@
       "longitude": 79.52383,
       "address": "VILL. MOHGAON NH7 PO Box 32 481663 SEONI, Seoni, Madhya Pradesh, 481663, India",
       "area": "VILL. MOHGAON NH7 PO Box 32 481663 SEONI",
-      "avg_review_rating": 4.48,
+      "avg_review_rating": 4.46,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.913615,79.52383",
       "is_connected": true,
       "station_type": [
@@ -212,7 +212,7 @@
       "area": "SEONI",
       "avg_review_rating": 4.61,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.20768,79.534331",
-      "is_connected": false,
+      "is_connected": true,
       "station_type": [
         {
           "type": "DC",
@@ -222,16 +222,16 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
     }
   ],
   "ac_count": 0,
   "dc_count": 1,
   "ac_prices": [],
   "dc_prices": [
-    24.99
+    22.63
   ],
-  "scraped_at": "2026-05-21T08:02:03.145295+00:00",
+  "scraped_at": "2026-05-22T10:44:53.649266+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.79,
-    "no_of_reviews": 80,
+    "no_of_reviews": 82,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
@@ -41,16 +41,16 @@
             "connector_id": 13459,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "faulted"
           }
         ],
         "type": "DC",
         "power_rating": 30.0,
         "charger_name": "2007405-SHREE BIHARIJI FILLING STATION",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -58,15 +58,15 @@
         "1": 0,
         "2": 1,
         "3": 5,
-        "4": 8,
-        "5": 86
+        "4": 7,
+        "5": 87
       }
     },
     "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
     "steps_to_reach": false,
     "station_city_name": "Haldwani",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Unavailable",
     "highest_power_rating": 30.0,
     "charger_type_of_station": "DC",
     "station_images": []
@@ -91,7 +91,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+charging.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
     },
     {
       "id": 7269,
@@ -184,7 +184,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:02:42.356075+00:00",
+  "scraped_at": "2026-05-22T10:45:22.275898+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

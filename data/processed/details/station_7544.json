@@ -67,7 +67,7 @@
             "availability": false,
             "error_message": "Disconnected",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "faulted"
           },
           {
             "display_id": 2,
@@ -223,7 +223,7 @@
     14.0,
     14.0
   ],
-  "scraped_at": "2026-05-21T08:03:15.397456+00:00",
+  "scraped_at": "2026-05-22T10:45:47.918702+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

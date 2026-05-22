@@ -41,16 +41,16 @@
             "connector_id": 13298,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
+            "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "faulted"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 30.0,
         "charger_name": "2001941-KALYANI COMMERCIALS LTD",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -66,7 +66,7 @@
     "steps_to_reach": false,
     "station_city_name": "Jhalawar",
     "station_access_type": "public",
-    "availability": "Unavailable",
+    "availability": "Available",
     "highest_power_rating": 30.0,
     "charger_type_of_station": "DC",
     "station_images": []
@@ -79,7 +79,7 @@
       "longitude": 76.123208,
       "address": "JHALAWAR, Jhalawar, Rajasthan, 326001, India",
       "area": "JHALAWAR",
-      "avg_review_rating": 4.67,
+      "avg_review_rating": 4.68,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.603872,76.123208",
       "is_connected": true,
       "station_type": [
@@ -184,7 +184,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:02:15.164459+00:00",
+  "scraped_at": "2026-05-22T10:45:05.176416+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

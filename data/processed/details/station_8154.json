@@ -26,8 +26,8 @@
         "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
       }
     ],
-    "avg_review_rating": 4.64,
-    "no_of_reviews": 1681,
+    "avg_review_rating": 4.65,
+    "no_of_reviews": 1682,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -69,16 +69,16 @@
             "connector_id": 15272,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "GRS Park DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56572,
@@ -266,7 +266,7 @@
   "dc_prices": [
     21.99
   ],
-  "scraped_at": "2026-05-21T08:04:06.165624+00:00",
+  "scraped_at": "2026-05-22T10:46:31.101059+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

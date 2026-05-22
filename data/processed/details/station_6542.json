@@ -27,7 +27,7 @@
       }
     ],
     "avg_review_rating": 4.78,
-    "no_of_reviews": 170,
+    "no_of_reviews": 171,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": false,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -78,7 +78,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "GMVN TRH Pandukeshwar DC Charger ",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 54031,
@@ -95,7 +95,7 @@
             "availability": false,
             "error_message": "Disconnected",
             "connector_type_id": 3,
-            "connector_status": "faulted"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
@@ -132,7 +132,7 @@
       "area": "Pandukeshwar",
       "avg_review_rating": 4.78,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.635506,79.543162",
-      "is_connected": true,
+      "is_connected": false,
       "station_type": [
         {
           "type": "DC",
@@ -147,7 +147,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
     },
     {
       "id": 6541,
@@ -210,7 +210,7 @@
       "area": "Guptkashi",
       "avg_review_rating": 4.8,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.529093,79.084785",
-      "is_connected": true,
+      "is_connected": false,
       "station_type": [
         {
           "type": "DC",
@@ -225,7 +225,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
     },
     {
       "id": 6538,
@@ -234,9 +234,9 @@
       "longitude": 79.254303,
       "address": "Kaleshwar, Chamoli, Chamoli and Gopeshwar, Uttarakhand, 246446, India",
       "area": "Kaleshwar, Chamoli",
-      "avg_review_rating": 4.74,
+      "avg_review_rating": 4.75,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.28923,79.254303",
-      "is_connected": true,
+      "is_connected": false,
       "station_type": [
         {
           "type": "DC",
@@ -251,7 +251,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
     }
   ],
   "ac_count": 1,
@@ -262,7 +262,7 @@
   "dc_prices": [
     12.99
   ],
-  "scraped_at": "2026-05-21T08:01:17.530952+00:00",
+  "scraped_at": "2026-05-22T10:44:12.572160+00:00",
   "parse_success": true,
   "missing_fields": [],
   "coverage_pct": 100.0

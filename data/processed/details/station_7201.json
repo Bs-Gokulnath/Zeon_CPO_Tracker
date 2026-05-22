@@ -41,16 +41,16 @@
             "connector_id": 13386,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "faulted"
           }
         ],
         "type": "DC",
         "power_rating": 30.0,
         "charger_name": "2006686-SRI MANJUNATHA FUEL STATION",
-        "last_used_on": "19/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -66,7 +66,7 @@
     "steps_to_reach": false,
     "station_city_name": "Bilgi",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Unavailable",
     "highest_power_rating": 30.0,
     "charger_type_of_station": "DC",
     "station_images": []
@@ -121,7 +121,7 @@
       "longitude": 75.174961,
       "address": "KEDILA VILLAGE, Bilgi, Karnataka, 574325, India",
       "area": "KEDILA VILLAGE",
-      "avg_review_rating": 4.53,
+      "avg_review_rating": 4.54,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.824611,75.174961",
       "is_connected": true,
       "station_type": [
@@ -144,7 +144,7 @@
       "area": "Banakal",
       "avg_review_rating": 4.84,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.1355,75.5481",
-      "is_connected": true,
+      "is_connected": false,
       "station_type": [
         {
           "type": "DC",
@@ -154,7 +154,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
     },
     {
       "id": 1718,
@@ -184,7 +184,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:02:30.705083+00:00",
+  "scraped_at": "2026-05-22T10:45:13.939926+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

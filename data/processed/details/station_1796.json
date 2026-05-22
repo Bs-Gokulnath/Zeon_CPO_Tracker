@@ -24,7 +24,7 @@
     "avg_review_rating": 3.56,
     "no_of_reviews": 62,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/AC.png",
-    "is_connected": false,
+    "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Sunfuel+Banner.png",
     "landmark": "None",
     "amenities_icon": [],
@@ -41,8 +41,8 @@
             "connector_id": 1656,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": false,
-            "error_message": "Disconnected",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 3,
             "connector_status": "available"
           }
@@ -64,8 +64,8 @@
             "connector_id": 1657,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": false,
-            "error_message": "Disconnected",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 3,
             "connector_status": "available"
           }
@@ -89,7 +89,7 @@
     "steps_to_reach": false,
     "station_city_name": "Mysore",
     "station_access_type": "public",
-    "availability": "Unavailable",
+    "availability": "Available",
     "highest_power_rating": 7.7,
     "charger_type_of_station": "AC",
     "station_images": []
@@ -102,7 +102,7 @@
     22.19
   ],
   "dc_prices": [],
-  "scraped_at": "2026-05-21T07:59:13.101221+00:00",
+  "scraped_at": "2026-05-22T10:42:41.580297+00:00",
   "parse_success": true,
   "missing_fields": [
     "amenities_icon"

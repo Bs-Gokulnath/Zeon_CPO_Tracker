@@ -54,17 +54,17 @@
             "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "preparing"
           },
           {
             "display_id": 2,
             "connector_id": 15897,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           },
           {
             "display_id": 3,
@@ -80,7 +80,7 @@
         "type": "DC",
         "power_rating": 177.0,
         "charger_name": "EPL Ecoplug Ravi Hotel 1",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 67497,
@@ -123,7 +123,7 @@
         "type": "AC",
         "power_rating": 26.0,
         "charger_name": "EPL Ecoplug Ravi Hotel 2",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -199,7 +199,7 @@
       "longitude": 76.944302,
       "address": "Take right from main entrance, Surface Parking, R 75, Sector 1, Main Rd, Gurugram, Haryana, 122051, India",
       "area": "Take right from main entrance, Surface Parking, R 75, Sector 1, Main Rd",
-      "avg_review_rating": 4.63,
+      "avg_review_rating": 4.62,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.366404,76.944302",
       "is_connected": true,
       "station_type": [
@@ -225,7 +225,7 @@
       "longitude": 76.954079,
       "address": "Opposite to Service Gate near Shopping complex, DLF Ultima, dlf garden city sector 81, gurugram, Gurugram, Haryana, 122001, India",
       "area": "Opposite to Service Gate near Shopping complex, DLF Ultima, dlf garden city sector 81, gurugram",
-      "avg_review_rating": 4.26,
+      "avg_review_rating": 4.27,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.388956,76.954079",
       "is_connected": true,
       "station_type": [
@@ -274,7 +274,7 @@
   "dc_prices": [
     22.0
   ],
-  "scraped_at": "2026-05-21T08:04:29.804581+00:00",
+  "scraped_at": "2026-05-22T10:46:50.990131+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

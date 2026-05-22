@@ -54,16 +54,16 @@
             "connector_id": 3109,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 3,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Sunfuel - Evolve Back Kamalapura Palace, Hampi",
-        "last_used_on": "14/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -79,10 +79,11 @@
     "steps_to_reach": false,
     "station_city_name": "Hospet",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Available in",
     "highest_power_rating": 7.4,
     "charger_type_of_station": "AC",
-    "station_images": []
+    "station_images": [],
+    "waiting_time": "2026-05-22 17:28:25"
   },
   "nearby_stations": [
     {
@@ -104,7 +105,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Sunfuel+-+default.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Sunfuel+charging.png"
     },
     {
       "id": 2266,
@@ -178,7 +179,7 @@
       "area": "Near Right Side of the Hotel Premises",
       "avg_review_rating": 4.65,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.63888,76.220383",
-      "is_connected": true,
+      "is_connected": false,
       "station_type": [
         {
           "type": "DC",
@@ -197,7 +198,7 @@
     17.88
   ],
   "dc_prices": [],
-  "scraped_at": "2026-05-21T07:59:42.418676+00:00",
+  "scraped_at": "2026-05-22T10:43:19.595947+00:00",
   "parse_success": true,
   "missing_fields": [],
   "coverage_pct": 100.0

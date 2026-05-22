@@ -21,8 +21,8 @@
         "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
       }
     ],
-    "avg_review_rating": 4.48,
-    "no_of_reviews": 23,
+    "avg_review_rating": 4.46,
+    "no_of_reviews": 26,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
@@ -41,16 +41,16 @@
             "connector_id": 15434,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 30.0,
         "charger_name": "UMASHANKAR USARETE_EV_DC",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 68739,
@@ -90,20 +90,19 @@
       "percentage_per_star": {
         "1": 4,
         "2": 4,
-        "3": 4,
-        "4": 13,
-        "5": 74
+        "3": 8,
+        "4": 12,
+        "5": 73
       }
     },
     "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
     "steps_to_reach": false,
     "station_city_name": "Seoni",
     "station_access_type": "public",
-    "availability": "Available in",
+    "availability": "Available",
     "highest_power_rating": 120.0,
     "charger_type_of_station": "DC",
-    "station_images": [],
-    "waiting_time": "2026-05-21 14:20:41"
+    "station_images": []
   },
   "nearby_stations": [
     {
@@ -113,7 +112,7 @@
       "longitude": 79.52383,
       "address": "VILL. MOHGAON NH7 PO Box 32 481663 SEONI, Seoni, Madhya Pradesh, 481663, India",
       "area": "VILL. MOHGAON NH7 PO Box 32 481663 SEONI",
-      "avg_review_rating": 4.48,
+      "avg_review_rating": 4.46,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.913615,79.52383",
       "is_connected": true,
       "station_type": [
@@ -125,7 +124,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+charging.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
     },
     {
       "id": 6971,
@@ -199,7 +198,7 @@
       "area": "SEONI",
       "avg_review_rating": 4.61,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.20768,79.534331",
-      "is_connected": false,
+      "is_connected": true,
       "station_type": [
         {
           "type": "DC",
@@ -209,7 +208,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
     }
   ],
   "ac_count": 0,
@@ -219,7 +218,7 @@
     14.0,
     14.0
   ],
-  "scraped_at": "2026-05-21T08:04:13.464560+00:00",
+  "scraped_at": "2026-05-22T10:46:36.519027+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

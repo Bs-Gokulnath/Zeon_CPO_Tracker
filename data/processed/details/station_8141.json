@@ -41,10 +41,10 @@
             "connector_id": 15223,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           },
           {
             "display_id": 2,
@@ -60,7 +60,7 @@
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "JAYBHOLE PETROLEUM  EV  - DC",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -89,7 +89,7 @@
       "longitude": 72.693407,
       "address": "Bharat Petroleum Dealer, Petrol Pump, Village Pirojpur,At Taluka-gandhinagar, Dist - Gandhinagar, Pincode - 304503, Gandhinagar, Gujarat, 382355, India",
       "area": "Bharat Petroleum Dealer, Petrol Pump, Village Pirojpur,At Taluka-gandhinagar, Dist - Gandhinagar, Pincode - 304503",
-      "avg_review_rating": 4.31,
+      "avg_review_rating": 4.36,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.148663,72.693407",
       "is_connected": true,
       "station_type": [
@@ -194,7 +194,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:04:00.315303+00:00",
+  "scraped_at": "2026-05-22T10:46:28.185299+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

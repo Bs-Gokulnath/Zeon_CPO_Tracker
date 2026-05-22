@@ -32,7 +32,7 @@
       }
     ],
     "avg_review_rating": 4.63,
-    "no_of_reviews": 8405,
+    "no_of_reviews": 8410,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/AC.png",
     "is_connected": true,
     "station_banner": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/statiq/statiq+banner.png",
@@ -51,16 +51,16 @@
             "connector_id": 2653,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "DC",
         "power_rating": 25.0,
         "charger_name": "MESCOM Bhavan DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 1180,
@@ -108,17 +108,17 @@
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
             "availability": false,
-            "error_message": "Charging",
+            "error_message": "Disconnected",
             "connector_type_id": 3,
-            "connector_status": "charging"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
             "connector_id": 2966,
             "connector_type": "Wall",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Disconnected",
             "connector_type_id": 5,
             "connector_status": "available"
           }
@@ -126,7 +126,7 @@
         "type": "AC",
         "power_rating": 10.7,
         "charger_name": "Pillar 138 MESCOM",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "21/05/2026"
       }
     ],
     "review_stats": {
@@ -142,10 +142,11 @@
     "steps_to_reach": false,
     "station_city_name": "Mangaluru",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Available in",
     "highest_power_rating": 25.0,
     "charger_type_of_station": "DC",
-    "station_images": []
+    "station_images": [],
+    "waiting_time": "2026-05-22 16:30:45"
   },
   "nearby_stations": [
     {
@@ -268,7 +269,7 @@
   "dc_prices": [
     15.0
   ],
-  "scraped_at": "2026-05-21T07:59:05.761752+00:00",
+  "scraped_at": "2026-05-22T10:42:36.277648+00:00",
   "parse_success": true,
   "missing_fields": [
     "amenities_icon"

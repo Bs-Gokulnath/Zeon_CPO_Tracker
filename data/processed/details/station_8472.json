@@ -42,25 +42,25 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Faulted",
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "faulted"
+            "connector_status": "charging"
           },
           {
             "display_id": 2,
             "connector_id": 16005,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
+            "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "faulted"
+            "connector_status": "preparing"
           }
         ],
         "type": "DC",
         "power_rating": 240.0,
         "charger_name": "TCZ GJ | Limbdi | HFM - Highway Food Mall 1",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -76,7 +76,7 @@
     "steps_to_reach": false,
     "station_city_name": "Limbdi",
     "station_access_type": "public",
-    "availability": "Unavailable",
+    "availability": "Available",
     "highest_power_rating": 240.0,
     "charger_type_of_station": "DC",
     "station_images": []
@@ -101,7 +101,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonecharging.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
     },
     {
       "id": 8222,
@@ -194,7 +194,7 @@
   "dc_prices": [
     22.0
   ],
-  "scraped_at": "2026-05-21T08:04:35.801351+00:00",
+  "scraped_at": "2026-05-22T10:46:56.181411+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

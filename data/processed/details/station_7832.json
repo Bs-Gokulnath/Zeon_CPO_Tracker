@@ -41,10 +41,10 @@
             "connector_id": 14409,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "faulted"
           },
           {
             "display_id": 2,
@@ -52,9 +52,9 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Charging",
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "faulted"
           }
         ],
         "type": "DC",
@@ -70,7 +70,7 @@
     "steps_to_reach": false,
     "station_city_name": "Kolhapur",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Unavailable",
     "highest_power_rating": 120.0,
     "charger_type_of_station": "DC",
     "station_images": []
@@ -95,7 +95,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mercedes_Branding_Logo.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mercedes_Focused_Offline_Map_Pin.png"
     },
     {
       "id": 8326,
@@ -179,7 +179,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
     }
   ],
   "ac_count": 0,
@@ -188,7 +188,7 @@
   "dc_prices": [
     24.0
   ],
-  "scraped_at": "2026-05-21T08:03:38.864934+00:00",
+  "scraped_at": "2026-05-22T10:46:10.518083+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

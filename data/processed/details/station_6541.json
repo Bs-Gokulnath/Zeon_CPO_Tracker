@@ -29,7 +29,7 @@
     "avg_review_rating": 4.7,
     "no_of_reviews": 56,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
-    "is_connected": true,
+    "is_connected": false,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
     "landmark": "Auli Ski Resort ",
     "amenities_icon": [
@@ -53,8 +53,8 @@
             "connector_id": 12008,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Disconnected",
             "connector_type_id": 1,
             "connector_status": "available"
           },
@@ -63,8 +63,8 @@
             "connector_id": 12009,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Disconnected",
             "connector_type_id": 1,
             "connector_status": "available"
           }
@@ -72,7 +72,7 @@
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "GMVN Auli Ski Resort DC Charger",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "21/05/2026"
       },
       {
         "charger_id": 54033,
@@ -111,7 +111,7 @@
     "steps_to_reach": false,
     "station_city_name": "Chamoli and Gopeshwar",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Unavailable",
     "highest_power_rating": 60.0,
     "charger_type_of_station": "DC",
     "station_images": []
@@ -126,7 +126,7 @@
       "area": "Chamoli",
       "avg_review_rating": 4.7,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.537588,79.565291",
-      "is_connected": true,
+      "is_connected": false,
       "station_type": [
         {
           "type": "DC",
@@ -141,7 +141,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
     },
     {
       "id": 6542,
@@ -204,7 +204,7 @@
       "area": "Kaleshwar, Chamoli",
       "avg_review_rating": 4.75,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.28923,79.254303",
-      "is_connected": true,
+      "is_connected": false,
       "station_type": [
         {
           "type": "DC",
@@ -219,7 +219,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
     },
     {
       "id": 6536,
@@ -230,7 +230,7 @@
       "area": "Karanprayag",
       "avg_review_rating": 4.65,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.259016,79.219795",
-      "is_connected": true,
+      "is_connected": false,
       "station_type": [
         {
           "type": "DC",
@@ -245,7 +245,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
     }
   ],
   "ac_count": 1,
@@ -256,7 +256,7 @@
   "dc_prices": [
     12.99
   ],
-  "scraped_at": "2026-05-21T08:01:17.566971+00:00",
+  "scraped_at": "2026-05-22T10:44:12.574141+00:00",
   "parse_success": true,
   "missing_fields": [],
   "coverage_pct": 100.0

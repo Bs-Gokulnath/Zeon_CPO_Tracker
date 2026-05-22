@@ -141,27 +141,6 @@
       "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
     },
     {
-      "id": 10611,
-      "station_name": "chargeMOD | Broad Bean Hotel | Vytila | EVOK",
-      "latitude": 9.962683,
-      "longitude": 76.318289,
-      "address": "Vyttila , Ernakulam, Kerala, 682019, India",
-      "area": "Vyttila ",
-      "avg_review_rating": 0.0,
-      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.962683,76.318289",
-      "is_connected": true,
-      "station_type": [
-        {
-          "type": "DC",
-          "bg_color": "#F4F4F7",
-          "text_color": "#101941"
-        }
-      ],
-      "access_type": 1,
-      "is_community_listed": false,
-      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
-    },
-    {
       "id": 5803,
       "station_name": "chargeMOD | KMRL ADMIN CORPORATE OFFICE",
       "latitude": 10.000313,
@@ -181,6 +160,27 @@
       "access_type": 1,
       "is_community_listed": false,
       "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 10611,
+      "station_name": "chargeMOD | Broad Bean Hotel | Vytila | EVOK",
+      "latitude": 9.962683,
+      "longitude": 76.318289,
+      "address": "Vyttila , Ernakulam, Kerala, 682019, India",
+      "area": "Vyttila ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.962683,76.318289",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
     }
   ],
   "ac_count": 0,
@@ -189,7 +189,7 @@
   "dc_prices": [
     20.88
   ],
-  "scraped_at": "2026-05-21T08:01:10.871823+00:00",
+  "scraped_at": "2026-05-22T10:44:08.212949+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

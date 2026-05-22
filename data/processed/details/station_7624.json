@@ -102,7 +102,7 @@
       "area": "Rajputana Resort Hotel and Restaurant Sherkot Road Bijnor Dhampu",
       "avg_review_rating": 4.73,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.316086,78.53914",
-      "is_connected": false,
+      "is_connected": true,
       "station_type": [
         {
           "type": "DC",
@@ -112,7 +112,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
     },
     {
       "id": 10817,
@@ -121,8 +121,29 @@
       "longitude": 78.79055,
       "address": "Dehradun Retail Territory/RO/DO, Udham Singh Nagar, Uttarakhand, 244712, India",
       "area": "Dehradun Retail Territory/RO/DO",
-      "avg_review_rating": 4.56,
+      "avg_review_rating": 4.57,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.307,78.79055",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 15271,
+      "station_name": "RAM FILLING STATION",
+      "latitude": 29.28663,
+      "longitude": 78.25901,
+      "address": "HALDAUR - BIJNOUR ROAD, SH-12, Bijnor, Uttar Pradesh, 246726, India",
+      "area": "HALDAUR - BIJNOUR ROAD, SH-12",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.28663,78.25901",
       "is_connected": true,
       "station_type": [
         {
@@ -155,27 +176,6 @@
       "access_type": 1,
       "is_community_listed": false,
       "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
-    },
-    {
-      "id": 9308,
-      "station_name": "UK | Jashpur | Sidhu The Corbett Restaurant",
-      "latitude": 29.282416,
-      "longitude": 78.863257,
-      "address": "7VJ7+V7, Jaspur, Uttarakhand, 244713, India",
-      "area": "7VJ7+V7",
-      "avg_review_rating": 4.71,
-      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.282416,78.863257",
-      "is_connected": true,
-      "station_type": [
-        {
-          "type": "DC",
-          "bg_color": "#F4F4F7",
-          "text_color": "#101941"
-        }
-      ],
-      "access_type": 1,
-      "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/gentari-default.png"
     }
   ],
   "ac_count": 0,
@@ -184,7 +184,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:03:21.954880+00:00",
+  "scraped_at": "2026-05-22T10:45:59.763467+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

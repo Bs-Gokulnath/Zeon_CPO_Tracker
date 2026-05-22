@@ -41,26 +41,26 @@
             "connector_id": 9187,
             "connector_type": "GBT",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 6,
-            "connector_status": "available"
+            "connector_status": "charging"
           },
           {
             "display_id": 2,
             "connector_id": 9188,
             "connector_type": "GBT",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 6,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "DC",
         "power_rating": 20.0,
         "charger_name": "HYD0001",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -194,7 +194,7 @@
   "dc_prices": [
     18.99
   ],
-  "scraped_at": "2026-05-21T08:00:01.125932+00:00",
+  "scraped_at": "2026-05-22T10:43:41.266344+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

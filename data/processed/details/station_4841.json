@@ -22,9 +22,9 @@
       }
     ],
     "avg_review_rating": 4.52,
-    "no_of_reviews": 1348,
+    "no_of_reviews": 1351,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
-    "is_connected": false,
+    "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
     "landmark": null,
     "amenities_icon": [
@@ -49,7 +49,7 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Disconnected",
+            "error_message": "Charging",
             "connector_type_id": 1,
             "connector_status": "charging"
           }
@@ -57,7 +57,7 @@
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "M&M Mahanth Motors DC Charger",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -73,10 +73,11 @@
     "steps_to_reach": false,
     "station_city_name": "Davangere",
     "station_access_type": "public",
-    "availability": "Unavailable",
+    "availability": "Available in",
     "highest_power_rating": 60.0,
     "charger_type_of_station": "DC",
-    "station_images": []
+    "station_images": [],
+    "waiting_time": "2026-05-22 16:54:06"
   },
   "nearby_stations": [
     {
@@ -98,7 +99,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
     },
     {
       "id": 12063,
@@ -124,7 +125,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
     },
     {
       "id": 14288,
@@ -166,7 +167,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
     },
     {
       "id": 14290,
@@ -196,7 +197,7 @@
   "dc_prices": [
     21.99
   ],
-  "scraped_at": "2026-05-21T08:00:01.093282+00:00",
+  "scraped_at": "2026-05-22T10:43:37.685339+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

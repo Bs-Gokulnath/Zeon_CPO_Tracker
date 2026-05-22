@@ -32,7 +32,7 @@
       }
     ],
     "avg_review_rating": 4.62,
-    "no_of_reviews": 2583,
+    "no_of_reviews": 2585,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -48,8 +48,8 @@
     "plugin_details": [
       {
         "charger_id": 2692,
-        "price_with_currency": "₹ 21.99",
-        "price": 21.99,
+        "price_with_currency": "₹ 24.99",
+        "price": 24.99,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -58,8 +58,8 @@
             "connector_id": 3862,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Disconnected",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
             "connector_status": "available"
           },
@@ -68,8 +68,8 @@
             "connector_id": 3863,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Disconnected",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
             "connector_status": "available"
           }
@@ -77,7 +77,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "Hotel Regenta Central Bharuch DC Charger",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 1030,
@@ -240,7 +240,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/unavailable+select.png"
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
     },
     {
       "id": 9662,
@@ -292,9 +292,9 @@
     12.0
   ],
   "dc_prices": [
-    21.99
+    24.99
   ],
-  "scraped_at": "2026-05-21T07:59:35.258114+00:00",
+  "scraped_at": "2026-05-22T10:43:08.661066+00:00",
   "parse_success": true,
   "missing_fields": [],
   "coverage_pct": 100.0

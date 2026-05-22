@@ -42,9 +42,9 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Faulted",
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "faulted"
+            "connector_status": "charging"
           },
           {
             "display_id": 2,
@@ -52,9 +52,9 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Faulted",
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "faulted"
+            "connector_status": "charging"
           }
         ],
         "type": "DC",
@@ -76,10 +76,11 @@
     "steps_to_reach": false,
     "station_city_name": "Shirdi",
     "station_access_type": "public",
-    "availability": "Unavailable",
+    "availability": "Available in",
     "highest_power_rating": 240.0,
     "charger_type_of_station": "DC",
-    "station_images": []
+    "station_images": [],
+    "waiting_time": "2026-05-22 16:34:08"
   },
   "nearby_stations": [
     {
@@ -199,7 +200,7 @@
   "dc_prices": [
     21.5
   ],
-  "scraped_at": "2026-05-21T08:04:43.444082+00:00",
+  "scraped_at": "2026-05-22T10:47:00.808795+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

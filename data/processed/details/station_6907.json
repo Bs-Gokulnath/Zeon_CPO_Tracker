@@ -21,10 +21,10 @@
         "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
       }
     ],
-    "avg_review_rating": 4.16,
-    "no_of_reviews": 25,
+    "avg_review_rating": 4.19,
+    "no_of_reviews": 26,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
-    "is_connected": true,
+    "is_connected": false,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
     "landmark": "AURANGABAD",
     "amenities_icon": [],
@@ -42,9 +42,9 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Faulted",
+            "error_message": "Disconnected",
             "connector_type_id": 1,
-            "connector_status": "unavailable"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
@@ -52,15 +52,15 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Faulted",
+            "error_message": "Disconnected",
             "connector_type_id": 1,
-            "connector_status": "unavailable"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "2000980-ARUJIT PETROLEUM",
-        "last_used_on": "18/05/2026"
+        "last_used_on": "21/05/2026"
       }
     ],
     "review_stats": {
@@ -68,8 +68,8 @@
         "1": 8,
         "2": 4,
         "3": 8,
-        "4": 24,
-        "5": 56
+        "4": 23,
+        "5": 58
       }
     },
     "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
@@ -89,7 +89,7 @@
       "longitude": 74.75964,
       "address": "BHARAT PETROLEUM DEALERS,  GUT NO 143 , MUMBAI NAGPUR ROAD, Jalgaon, Maharashtra, 423701, India",
       "area": "BHARAT PETROLEUM DEALERS,  GUT NO 143 , MUMBAI NAGPUR ROAD",
-      "avg_review_rating": 4.16,
+      "avg_review_rating": 4.19,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.91992,74.75964",
       "is_connected": false,
       "station_type": [
@@ -194,7 +194,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:01:54.321138+00:00",
+  "scraped_at": "2026-05-22T10:44:43.995696+00:00",
   "parse_success": true,
   "missing_fields": [
     "amenities_icon"

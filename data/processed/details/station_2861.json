@@ -24,7 +24,7 @@
     "avg_review_rating": 4.18,
     "no_of_reviews": 158,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
-    "is_connected": true,
+    "is_connected": false,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
     "landmark": null,
     "amenities_icon": [
@@ -49,7 +49,7 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Faulted",
+            "error_message": "Disconnected",
             "connector_type_id": 1,
             "connector_status": "unavailable"
           }
@@ -201,7 +201,7 @@
   "dc_prices": [
     21.99
   ],
-  "scraped_at": "2026-05-21T07:59:35.216141+00:00",
+  "scraped_at": "2026-05-22T10:43:09.001473+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

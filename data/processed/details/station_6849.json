@@ -58,16 +58,16 @@
             "connector_id": 12779,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "TSIIC IDA Jeedimetla EV Charging Station",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -119,7 +119,7 @@
       "area": "Jeedimetla, Medak Road, APIIC Colony, Chinthal",
       "avg_review_rating": 3.0,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.522281,78.442978",
-      "is_connected": true,
+      "is_connected": false,
       "station_type": [
         {
           "type": "DC",
@@ -129,7 +129,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
     },
     {
       "id": 12548,
@@ -201,7 +201,7 @@
   "dc_prices": [
     13.0
   ],
-  "scraped_at": "2026-05-21T08:01:48.966356+00:00",
+  "scraped_at": "2026-05-22T10:44:38.871172+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

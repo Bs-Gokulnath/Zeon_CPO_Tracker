@@ -44,7 +44,7 @@
             "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "preparing"
           },
           {
             "display_id": 2,
@@ -60,7 +60,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "MUM0012",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56419,
@@ -228,7 +228,7 @@
     18.99,
     18.99
   ],
-  "scraped_at": "2026-05-21T08:04:00.111556+00:00",
+  "scraped_at": "2026-05-22T10:46:26.304893+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

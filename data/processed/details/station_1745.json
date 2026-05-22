@@ -32,7 +32,7 @@
       }
     ],
     "avg_review_rating": 4.7,
-    "no_of_reviews": 4064,
+    "no_of_reviews": 4078,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/AC%2BDC.png",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -41,8 +41,8 @@
     "plugin_details": [
       {
         "charger_id": 1412,
-        "price_with_currency": "₹ 22.07",
-        "price": 22.07,
+        "price_with_currency": "₹ 24.99",
+        "price": 24.99,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -61,16 +61,16 @@
             "connector_id": 1892,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Finished",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "finishing"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "Centrio Mall DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 53994,
@@ -93,7 +93,7 @@
         "type": "AC",
         "power_rating": 22.0,
         "charger_name": "Centrio Mall BMW AC Charger 1",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "21/05/2026"
       },
       {
         "charger_id": 53995,
@@ -107,16 +107,16 @@
             "connector_id": 11951,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 3,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "AC",
         "power_rating": 22.0,
         "charger_name": "Centrio Mall BMW AC Charger 2",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -155,12 +155,12 @@
       "is_connected": true,
       "station_type": [
         {
-          "type": "DC",
+          "type": "AC",
           "bg_color": "#F4F4F7",
           "text_color": "#101941"
         },
         {
-          "type": "AC",
+          "type": "DC",
           "bg_color": "#F4F4F7",
           "text_color": "#101941"
         }
@@ -191,6 +191,27 @@
       "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargerKarodefault.png"
     },
     {
+      "id": 11727,
+      "station_name": "Near Gandhi Park  DC",
+      "latitude": 30.3266,
+      "longitude": 78.0448,
+      "address": "15, Dehradun, Uttarakhand, 248001, India",
+      "area": "15",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.3266,78.0448",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
       "id": 10455,
       "station_name": "Near Gandhi Park",
       "latitude": 30.3266,
@@ -215,27 +236,6 @@
       "access_type": 1,
       "is_community_listed": false,
       "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargerKarodefault.png"
-    },
-    {
-      "id": 11727,
-      "station_name": "Near Gandhi Park  DC",
-      "latitude": 30.3266,
-      "longitude": 78.0448,
-      "address": "15, Dehradun, Uttarakhand, 248001, India",
-      "area": "15",
-      "avg_review_rating": 0.0,
-      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.3266,78.0448",
-      "is_connected": true,
-      "station_type": [
-        {
-          "type": "DC",
-          "bg_color": "#F4F4F7",
-          "text_color": "#101941"
-        }
-      ],
-      "access_type": 1,
-      "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
     },
     {
       "id": 11703,
@@ -271,9 +271,9 @@
     14.0
   ],
   "dc_prices": [
-    22.07
+    24.99
   ],
-  "scraped_at": "2026-05-21T07:59:12.961017+00:00",
+  "scraped_at": "2026-05-22T10:42:41.428177+00:00",
   "parse_success": true,
   "missing_fields": [
     "amenities_icon"

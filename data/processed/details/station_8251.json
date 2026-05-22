@@ -21,8 +21,8 @@
         "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
       }
     ],
-    "avg_review_rating": 4.4,
-    "no_of_reviews": 448,
+    "avg_review_rating": 4.39,
+    "no_of_reviews": 449,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
@@ -41,10 +41,10 @@
             "connector_id": 15493,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Finished",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "finishing"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
@@ -52,15 +52,15 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Charging",
+            "error_message": "Finished",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "finishing"
           }
         ],
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "150815 B P EXPRESSWAY FOOD COURT",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -76,11 +76,10 @@
     "steps_to_reach": false,
     "station_city_name": "Pune Cantonment",
     "station_access_type": "public",
-    "availability": "Available in",
+    "availability": "Available",
     "highest_power_rating": 60.0,
     "charger_type_of_station": "DC",
-    "station_images": [],
-    "waiting_time": "2026-05-21 14:02:13"
+    "station_images": []
   },
   "nearby_stations": [
     {
@@ -90,7 +89,7 @@
       "longitude": 73.653228,
       "address": "Food Cour Talegaon, Pune Cantonment, Maharashtra, 410507, India",
       "area": "Food Cour Talegaon",
-      "avg_review_rating": 4.4,
+      "avg_review_rating": 4.39,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.712416,73.653228",
       "is_connected": true,
       "station_type": [
@@ -102,7 +101,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+charging.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
     },
     {
       "id": 10438,
@@ -174,9 +173,9 @@
       "longitude": 73.693298,
       "address": "Toll Plaza, Old Mumbai - Pune Hwy, near Somatane Phata, Varsoli, Talegaon Dabhade, Talegaon Dabhade, Maharashtra, 410506, India",
       "area": "Toll Plaza, Old Mumbai - Pune Hwy, near Somatane Phata, Varsoli, Talegaon Dabhade",
-      "avg_review_rating": 4.32,
+      "avg_review_rating": 4.33,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.7005,73.693298",
-      "is_connected": false,
+      "is_connected": true,
       "station_type": [
         {
           "type": "DC",
@@ -191,7 +190,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
     }
   ],
   "ac_count": 0,
@@ -200,7 +199,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:04:13.591534+00:00",
+  "scraped_at": "2026-05-22T10:46:36.749713+00:00",
   "parse_success": true,
   "missing_fields": [
     "amenities_icon"

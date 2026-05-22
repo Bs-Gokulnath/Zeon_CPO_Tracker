@@ -27,7 +27,7 @@
       }
     ],
     "avg_review_rating": 4.68,
-    "no_of_reviews": 696,
+    "no_of_reviews": 698,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -54,9 +54,9 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Charging",
+            "error_message": "Finished",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "finishing"
           },
           {
             "display_id": 2,
@@ -72,7 +72,7 @@
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "T.R.H Ganga Resort  DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 54041,
@@ -86,10 +86,10 @@
             "connector_id": 12033,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "available"
+            "connector_status": "faulted"
           }
         ],
         "type": "AC",
@@ -124,17 +124,17 @@
       "longitude": 78.306473,
       "address": "Sheesham Jhari, near Purnananda Inter College, Muni Ki Reti, , Rishikesh, Uttarakhand, 249137, India",
       "area": "Sheesham Jhari, near Purnananda Inter College, Muni Ki Reti, ",
-      "avg_review_rating": 4.67,
+      "avg_review_rating": 4.68,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.113459,78.306473",
       "is_connected": true,
       "station_type": [
         {
-          "type": "DC",
+          "type": "AC",
           "bg_color": "#F4F4F7",
           "text_color": "#101941"
         },
         {
-          "type": "AC",
+          "type": "DC",
           "bg_color": "#F4F4F7",
           "text_color": "#101941"
         }
@@ -155,12 +155,12 @@
       "is_connected": true,
       "station_type": [
         {
-          "type": "DC",
+          "type": "AC",
           "bg_color": "#F4F4F7",
           "text_color": "#101941"
         },
         {
-          "type": "AC",
+          "type": "DC",
           "bg_color": "#F4F4F7",
           "text_color": "#101941"
         }
@@ -181,12 +181,12 @@
       "is_connected": false,
       "station_type": [
         {
-          "type": "DC",
+          "type": "AC",
           "bg_color": "#F4F4F7",
           "text_color": "#101941"
         },
         {
-          "type": "AC",
+          "type": "DC",
           "bg_color": "#F4F4F7",
           "text_color": "#101941"
         }
@@ -207,12 +207,12 @@
       "is_connected": true,
       "station_type": [
         {
-          "type": "DC",
+          "type": "AC",
           "bg_color": "#F4F4F7",
           "text_color": "#101941"
         },
         {
-          "type": "AC",
+          "type": "DC",
           "bg_color": "#F4F4F7",
           "text_color": "#101941"
         }
@@ -251,7 +251,7 @@
   "dc_prices": [
     12.99
   ],
-  "scraped_at": "2026-05-21T08:01:17.458695+00:00",
+  "scraped_at": "2026-05-22T10:44:12.521482+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

@@ -88,6 +88,27 @@
       "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
     },
     {
+      "id": 16009,
+      "station_name": "Mirabilis Charging Station",
+      "latitude": 13.037046,
+      "longitude": 77.660771,
+      "address": "Survey No 71, Kolte-Patil Mirabilis Bengaluru, Hobli, Horamavu Agara, Horamavu, Bengaluru, Karnataka 560113, Bengaluru, Karnataka, 560116, India",
+      "area": "Survey No 71, Kolte-Patil Mirabilis Bengaluru, Hobli, Horamavu Agara, Horamavu, Bengaluru, Karnataka 560113",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.037046,77.660771",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
       "id": 11178,
       "station_name": "Shell Recharge T C Palya",
       "latitude": 13.021402,
@@ -154,27 +175,6 @@
       "access_type": 1,
       "is_community_listed": false,
       "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
-    },
-    {
-      "id": 11956,
-      "station_name": "Statiq Purva Promenade Station",
-      "latitude": 13.062354,
-      "longitude": 77.663171,
-      "address": "Purva Promenade, Hennur Road, Essel gardens, Bengaluru, Karnataka, 560077, India",
-      "area": "Purva Promenade, Hennur Road, Essel gardens",
-      "avg_review_rating": 0.0,
-      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.062354,77.663171",
-      "is_connected": false,
-      "station_type": [
-        {
-          "type": "AC",
-          "bg_color": "#F4F4F7",
-          "text_color": "#101941"
-        }
-      ],
-      "access_type": 2,
-      "is_community_listed": false,
-      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
     }
   ],
   "ac_count": 0,
@@ -183,7 +183,7 @@
   "dc_prices": [
     18.0
   ],
-  "scraped_at": "2026-05-21T08:01:28.276410+00:00",
+  "scraped_at": "2026-05-22T10:44:26.462791+00:00",
   "parse_success": true,
   "missing_fields": [
     "amenities_icon"

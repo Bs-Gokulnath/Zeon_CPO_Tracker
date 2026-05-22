@@ -21,8 +21,8 @@
         "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
       }
     ],
-    "avg_review_rating": 4.66,
-    "no_of_reviews": 4509,
+    "avg_review_rating": 4.67,
+    "no_of_reviews": 4518,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -50,8 +50,8 @@
     "plugin_details": [
       {
         "charger_id": 2262,
-        "price_with_currency": "₹ 21.99",
-        "price": 21.99,
+        "price_with_currency": "₹ 24.79",
+        "price": 24.79,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -60,21 +60,21 @@
             "connector_id": 3267,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "Nexus Esplanade DC Charger 1",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 2263,
-        "price_with_currency": "₹ 22.99",
-        "price": 22.99,
+        "price_with_currency": "₹ 23.04",
+        "price": 23.04,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -84,15 +84,15 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Charging",
+            "error_message": "Finished",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "finishing"
           }
         ],
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "Nexus Esplanade DC Charger 2",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -108,7 +108,7 @@
     "steps_to_reach": false,
     "station_city_name": "Bhubaneswar",
     "station_access_type": "public",
-    "availability": "Available in",
+    "availability": "Available",
     "highest_power_rating": 60.0,
     "charger_type_of_station": "DC",
     "station_images": [
@@ -120,8 +120,7 @@
         "id": 120,
         "station_image_url": "$22"
       }
-    ],
-    "waiting_time": "2026-05-21 13:51:51"
+    ]
   },
   "nearby_stations": [
     {
@@ -131,7 +130,7 @@
       "longitude": 85.856018,
       "address": "Unit No. 32, 721, Puri - Cuttack Road, Bhubaneswar, Odisha, 751010, India",
       "area": "Unit No. 32, 721, Puri - Cuttack Road",
-      "avg_review_rating": 4.66,
+      "avg_review_rating": 4.67,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.2915,85.856018",
       "is_connected": true,
       "station_type": [
@@ -234,10 +233,10 @@
   "dc_count": 2,
   "ac_prices": [],
   "dc_prices": [
-    21.99,
-    22.99
+    24.79,
+    23.04
   ],
-  "scraped_at": "2026-05-21T07:59:25.064848+00:00",
+  "scraped_at": "2026-05-22T10:42:54.257125+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

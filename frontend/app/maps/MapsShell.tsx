@@ -3,8 +3,10 @@
 import { useState } from "react";
 import dynamic from "next/dynamic";
 import { Navbar } from "@/components/layout/Navbar";
+import { Sidebar } from "@/components/layout/Sidebar";
 import { Skeleton } from "@/components/ui/skeleton";
 import { useGeoPoints } from "@/hooks/useGeoPoints";
+import { useFiltersParams } from "@/hooks/useFiltersParams";
 import { StationMapPanel } from "@/components/map/StationMapPanel";
 import { MapSearchBar } from "@/components/map/MapSearchBar";
 import { Zap, MapPin, Circle } from "lucide-react";
@@ -18,7 +20,8 @@ const OlaMapInner = dynamic(
 interface FlyTarget { lat: number; lng: number; zoom?: number }
 
 export function MapsShell() {
-  const { data: points = [], isLoading } = useGeoPoints();
+  const { filters } = useFiltersParams();
+  const { data: points = [], isLoading } = useGeoPoints(filters);
   const [selectedId, setSelectedId] = useState<number | null>(null);
   const [flyTo, setFlyTo]           = useState<FlyTarget | null>(null);
 
@@ -41,6 +44,11 @@ export function MapsShell() {
   return (
     <div className="flex flex-col h-screen bg-background">
       <Navbar />
+
+      <div className="flex flex-1 overflow-hidden">
+        <Sidebar />
+
+        <div className="flex flex-col flex-1 min-w-0 overflow-hidden">
 
       {/* Stats bar */}
       <div className="flex items-center gap-4 px-4 py-2 border-b border-border/50 bg-card/30 shrink-0 flex-wrap">
@@ -117,6 +125,8 @@ export function MapsShell() {
             onClose={() => setSelectedId(null)}
           />
         )}
+      </div>
+        </div>
       </div>
     </div>
   );

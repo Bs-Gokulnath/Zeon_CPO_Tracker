@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.68,
-    "no_of_reviews": 7598,
+    "no_of_reviews": 7603,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/DC.png",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -48,8 +48,8 @@
             "connector_id": 1801,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Disconnected",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
             "connector_status": "available"
           }
@@ -57,12 +57,12 @@
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "Elante Mall Chandigarh DC Charger 1",
-        "last_used_on": "17/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 1479,
-        "price_with_currency": "₹ 21.99",
-        "price": 21.99,
+        "price_with_currency": "₹ 24.48",
+        "price": 24.48,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -80,7 +80,7 @@
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "Elante Mall Chandigarh DC Charger 2",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 1663,
@@ -129,7 +129,7 @@
     "steps_to_reach": true,
     "station_city_name": "Chandigarh",
     "station_access_type": "public",
-    "availability": "Available in",
+    "availability": "Available",
     "highest_power_rating": 240.0,
     "charger_type_of_station": "DC",
     "station_images": [
@@ -137,8 +137,7 @@
         "id": 136,
         "station_image_url": "$21"
       }
-    ],
-    "waiting_time": "2026-05-21 13:53:13"
+    ]
   },
   "nearby_stations": [
     {
@@ -181,7 +180,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mercedes_Focused_Offline_Map_Pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mercedes_Branding_Logo.png"
     },
     {
       "id": 6672,
@@ -244,7 +243,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/unavailable+select.png"
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
     }
   ],
   "ac_count": 0,
@@ -252,10 +251,10 @@
   "ac_prices": [],
   "dc_prices": [
     21.99,
-    21.99,
+    24.48,
     23.99
   ],
-  "scraped_at": "2026-05-21T07:59:13.125112+00:00",
+  "scraped_at": "2026-05-22T10:42:41.492976+00:00",
   "parse_success": true,
   "missing_fields": [],
   "coverage_pct": 100.0

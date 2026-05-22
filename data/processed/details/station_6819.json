@@ -21,8 +21,8 @@
         "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
       }
     ],
-    "avg_review_rating": 4.73,
-    "no_of_reviews": 1277,
+    "avg_review_rating": 4.72,
+    "no_of_reviews": 1286,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -41,10 +41,10 @@
             "connector_id": 34405,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           },
           {
             "display_id": 2,
@@ -60,7 +60,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "Spaze Plazo DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -89,7 +89,7 @@
       "longitude": 77.038804,
       "address": "Near the Entry Gate of Spaze Plazo, Golf Course Ext Rd, Sector 69, Gurugram, Haryana, 122001, India",
       "area": "Near the Entry Gate of Spaze Plazo, Golf Course Ext Rd, Sector 69",
-      "avg_review_rating": 4.73,
+      "avg_review_rating": 4.72,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.400161,77.038804",
       "is_connected": true,
       "station_type": [
@@ -169,7 +169,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
     },
     {
       "id": 8950,
@@ -190,7 +190,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonecharging.png"
     }
   ],
   "ac_count": 0,
@@ -199,7 +199,7 @@
   "dc_prices": [
     21.99
   ],
-  "scraped_at": "2026-05-21T08:01:48.345051+00:00",
+  "scraped_at": "2026-05-22T10:44:38.941806+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

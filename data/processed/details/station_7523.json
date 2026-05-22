@@ -123,6 +123,27 @@
       "area": "No.432, Opp. GMIT COLLEGE, Near Panchamaha Kshetra, Harihara Road P.B. Road Davanagere, Karnataka ",
       "avg_review_rating": 4.52,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=14.473654,75.886179",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
+    },
+    {
+      "id": 8341,
+      "station_name": "Statiq x TATA.ev Hotel Nisarga Station",
+      "latitude": 14.559433,
+      "longitude": 75.724927,
+      "address": "Left side of Hotel Main Entrance, Bangalore-Pune Highway, Haveri, Karnataka, 581145, India",
+      "area": "Left side of Hotel Main Entrance, Bangalore-Pune Highway",
+      "avg_review_rating": 4.63,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=14.559433,75.724927",
       "is_connected": false,
       "station_type": [
         {
@@ -134,27 +155,6 @@
       "access_type": 1,
       "is_community_listed": false,
       "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
-    },
-    {
-      "id": 8341,
-      "station_name": "Statiq x TATA.ev Hotel Nisarga Station",
-      "latitude": 14.559433,
-      "longitude": 75.724927,
-      "address": "Left side of Hotel Main Entrance, Bangalore-Pune Highway, Haveri, Karnataka, 581145, India",
-      "area": "Left side of Hotel Main Entrance, Bangalore-Pune Highway",
-      "avg_review_rating": 4.63,
-      "navigation_link": "https://www.google.com/maps/search/?api=1&query=14.559433,75.724927",
-      "is_connected": true,
-      "station_type": [
-        {
-          "type": "DC",
-          "bg_color": "#F4F4F7",
-          "text_color": "#101941"
-        }
-      ],
-      "access_type": 1,
-      "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
     },
     {
       "id": 12063,
@@ -180,7 +180,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
     }
   ],
   "ac_count": 0,
@@ -189,7 +189,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:03:14.926747+00:00",
+  "scraped_at": "2026-05-22T10:45:47.903038+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

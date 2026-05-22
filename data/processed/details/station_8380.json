@@ -54,13 +54,13 @@
             "availability": false,
             "error_message": "Disconnected",
             "connector_type_id": 1,
-            "connector_status": "faulted"
+            "connector_status": "finishing"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "100124 RAJENDRA FUEL CENTRE",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -89,7 +89,7 @@
       "longitude": 74.03609,
       "address": "Loni kalbhor, near loni dep pune , Pune, Maharashtra, 412201, India",
       "area": "Loni kalbhor, near loni dep pune ",
-      "avg_review_rating": 4.71,
+      "avg_review_rating": 4.7,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.48928,74.03609",
       "is_connected": true,
       "station_type": [
@@ -199,7 +199,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:04:29.660380+00:00",
+  "scraped_at": "2026-05-22T10:46:50.984436+00:00",
   "parse_success": true,
   "missing_fields": [
     "amenities_icon"

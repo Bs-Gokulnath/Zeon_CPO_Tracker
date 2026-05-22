@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.46,
-    "no_of_reviews": 205,
+    "no_of_reviews": 207,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Glida+Banner.png",
@@ -74,10 +74,10 @@
             "connector_id": 12538,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           },
           {
             "display_id": 2,
@@ -93,7 +93,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "VLD0002",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 54359,
@@ -126,7 +126,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "VLD0003",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -262,7 +262,7 @@
     18.99,
     18.99
   ],
-  "scraped_at": "2026-05-21T08:01:48.134525+00:00",
+  "scraped_at": "2026-05-22T10:44:38.625257+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

@@ -149,12 +149,12 @@
       "is_connected": true,
       "station_type": [
         {
-          "type": "DC",
+          "type": "AC",
           "bg_color": "#F4F4F7",
           "text_color": "#101941"
         },
         {
-          "type": "AC",
+          "type": "DC",
           "bg_color": "#F4F4F7",
           "text_color": "#101941"
         }
@@ -213,7 +213,7 @@
     17.88
   ],
   "dc_prices": [],
-  "scraped_at": "2026-05-21T07:58:59.986092+00:00",
+  "scraped_at": "2026-05-22T10:42:31.493851+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

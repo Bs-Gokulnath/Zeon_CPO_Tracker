@@ -56,10 +56,10 @@
             "connector_id": 9559,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "DC",
@@ -197,7 +197,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "BAN0053",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "21/05/2026"
       },
       {
         "charger_id": 51826,
@@ -740,10 +740,10 @@
             "connector_id": 9592,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": false,
+            "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "faulted"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
@@ -970,10 +970,10 @@
             "connector_id": 9602,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "available"
+            "connector_status": "faulted"
           }
         ],
         "type": "AC",
@@ -1191,7 +1191,7 @@
     18.99,
     18.99
   ],
-  "scraped_at": "2026-05-21T08:00:03.361708+00:00",
+  "scraped_at": "2026-05-22T10:43:41.439458+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

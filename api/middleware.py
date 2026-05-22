@@ -23,8 +23,8 @@ class TimingMiddleware(BaseHTTPMiddleware):
 def register_middleware(app: FastAPI) -> None:
     app.add_middleware(
         CORSMiddleware,
-        allow_origins=["http://localhost:3000", "http://localhost:3001", "http://127.0.0.1:3000"],
-        allow_methods=["GET", "POST"],
+        allow_origin_regex=r"https?://(localhost|127\.0\.0\.1|192\.168\.\d+\.\d+|10\.\d+\.\d+\.\d+|172\.(1[6-9]|2\d|3[01])\.\d+\.\d+|122\.165\.240\.235)(:\d+)?",
+        allow_methods=["*"],
         allow_headers=["*"],
     )
     app.add_middleware(GZipMiddleware, minimum_size=512)

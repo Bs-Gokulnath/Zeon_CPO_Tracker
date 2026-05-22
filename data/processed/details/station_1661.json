@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.46,
-    "no_of_reviews": 4472,
+    "no_of_reviews": 4477,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/DC.png",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -64,8 +64,8 @@
       },
       {
         "charger_id": 69849,
-        "price_with_currency": "₹ 26.99",
-        "price": 26.99,
+        "price_with_currency": "₹ 29.08",
+        "price": 29.08,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -74,26 +74,26 @@
             "connector_id": 35721,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "unavailable"
           },
           {
             "display_id": 2,
             "connector_id": 35722,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "unavailable"
           }
         ],
         "type": "DC",
         "power_rating": 480.0,
         "charger_name": "Crystal World DC Charger 2",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -109,7 +109,7 @@
     "steps_to_reach": false,
     "station_city_name": "Haridwar",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Unavailable",
     "highest_power_rating": 480.0,
     "charger_type_of_station": "DC",
     "station_images": [
@@ -231,9 +231,9 @@
   "ac_prices": [],
   "dc_prices": [
     21.99,
-    26.99
+    29.08
   ],
-  "scraped_at": "2026-05-21T07:59:05.902759+00:00",
+  "scraped_at": "2026-05-22T10:42:36.338171+00:00",
   "parse_success": true,
   "missing_fields": [
     "amenities_icon"

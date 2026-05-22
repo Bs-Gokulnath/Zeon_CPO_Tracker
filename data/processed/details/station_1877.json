@@ -27,9 +27,9 @@
       }
     ],
     "avg_review_rating": 4.35,
-    "no_of_reviews": 3333,
+    "no_of_reviews": 3335,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
-    "is_connected": true,
+    "is_connected": false,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
     "landmark": null,
     "amenities_icon": [
@@ -43,8 +43,8 @@
     "plugin_details": [
       {
         "charger_id": 1833,
-        "price_with_currency": "₹ 24.99",
-        "price": 24.99,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -53,10 +53,10 @@
             "connector_id": 2575,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Disconnected",
             "connector_type_id": 1,
-            "connector_status": "preparing"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
@@ -101,7 +101,7 @@
     "steps_to_reach": false,
     "station_city_name": "Bareilly",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Unavailable",
     "highest_power_rating": 60.0,
     "charger_type_of_station": "DC",
     "station_images": []
@@ -182,7 +182,7 @@
       "longitude": 79.42481,
       "address": "OPP. RAILWAY WORKSHOP,, Bareilly, Uttar Pradesh, 243122, India",
       "area": "OPP. RAILWAY WORKSHOP,",
-      "avg_review_rating": 4.68,
+      "avg_review_rating": 4.64,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.405206,79.42481",
       "is_connected": true,
       "station_type": [
@@ -222,10 +222,10 @@
   "dc_count": 2,
   "ac_prices": [],
   "dc_prices": [
-    24.99,
+    21.99,
     21.99
   ],
-  "scraped_at": "2026-05-21T07:59:13.346699+00:00",
+  "scraped_at": "2026-05-22T10:42:41.601408+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

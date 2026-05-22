@@ -22,17 +22,17 @@
       }
     ],
     "avg_review_rating": 4.58,
-    "no_of_reviews": 1513,
+    "no_of_reviews": 1514,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/DC.png",
-    "is_connected": true,
+    "is_connected": false,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
     "landmark": "None",
     "amenities_icon": [],
     "plugin_details": [
       {
         "charger_id": 1185,
-        "price_with_currency": "₹ 21.99",
-        "price": 21.99,
+        "price_with_currency": "₹ 23.38",
+        "price": 23.38,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -41,8 +41,8 @@
             "connector_id": 1555,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Disconnected",
             "connector_type_id": 1,
             "connector_status": "available"
           }
@@ -50,7 +50,7 @@
         "type": "DC",
         "power_rating": 30.0,
         "charger_name": "140% Veg Gulshan Dhaba Kotwan DC Charger",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -66,7 +66,7 @@
     "steps_to_reach": false,
     "station_city_name": "Mathura",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Unavailable",
     "highest_power_rating": 30.0,
     "charger_type_of_station": "DC",
     "station_images": []
@@ -81,7 +81,7 @@
       "area": "140% Veg Gulshan Dhaba, Kotwan",
       "avg_review_rating": 4.58,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.84745,77.409248",
-      "is_connected": true,
+      "is_connected": false,
       "station_type": [
         {
           "type": "DC",
@@ -91,7 +91,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
     },
     {
       "id": 12890,
@@ -117,7 +117,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
     },
     {
       "id": 4964,
@@ -192,9 +192,9 @@
   "dc_count": 1,
   "ac_prices": [],
   "dc_prices": [
-    21.99
+    23.38
   ],
-  "scraped_at": "2026-05-21T07:59:05.938454+00:00",
+  "scraped_at": "2026-05-22T10:42:36.423296+00:00",
   "parse_success": true,
   "missing_fields": [
     "amenities_icon"

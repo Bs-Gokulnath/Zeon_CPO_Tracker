@@ -32,7 +32,7 @@
       }
     ],
     "avg_review_rating": 4.77,
-    "no_of_reviews": 3822,
+    "no_of_reviews": 3834,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -54,8 +54,8 @@
     "plugin_details": [
       {
         "charger_id": 52062,
-        "price_with_currency": "₹ 24.16",
-        "price": 24.16,
+        "price_with_currency": "₹ 22.32",
+        "price": 22.32,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -83,7 +83,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "Sheraton New Delhi DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 52063,
@@ -140,10 +140,10 @@
             "connector_id": 9930,
             "connector_type": "Wall",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 5,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
@@ -251,7 +251,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
     },
     {
       "id": 11782,
@@ -308,9 +308,9 @@
     12.0
   ],
   "dc_prices": [
-    24.16
+    22.32
   ],
-  "scraped_at": "2026-05-21T08:00:58.222862+00:00",
+  "scraped_at": "2026-05-22T10:43:57.728762+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.85,
-    "no_of_reviews": 10275,
+    "no_of_reviews": 10284,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -38,8 +38,8 @@
     "plugin_details": [
       {
         "charger_id": 54148,
-        "price_with_currency": "₹ 23.3",
-        "price": 23.3,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -48,10 +48,10 @@
             "connector_id": 12229,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
@@ -67,7 +67,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "Divyasree Omega DC Charger 1",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 54149,
@@ -91,16 +91,16 @@
             "connector_id": 12232,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "preparing"
+            "connector_status": "charging"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "Divyasree Omega DC Charger 2",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -237,10 +237,10 @@
   "dc_count": 2,
   "ac_prices": [],
   "dc_prices": [
-    23.3,
+    21.99,
     21.99
   ],
-  "scraped_at": "2026-05-21T08:01:34.725797+00:00",
+  "scraped_at": "2026-05-22T10:44:28.220873+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

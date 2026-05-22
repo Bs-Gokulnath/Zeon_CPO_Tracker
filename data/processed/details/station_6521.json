@@ -27,7 +27,7 @@
       }
     ],
     "avg_review_rating": 4.7,
-    "no_of_reviews": 1389,
+    "no_of_reviews": 1391,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -86,16 +86,16 @@
             "connector_id": 12046,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": false,
-            "error_message": "Disconnected",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
         "power_rating": 7.5,
         "charger_name": "U.T.C Bus Station Rishikesh AC Charger",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "21/05/2026"
       }
     ],
     "review_stats": {
@@ -202,7 +202,7 @@
       "longitude": 78.306473,
       "address": "Sheesham Jhari, near Purnananda Inter College, Muni Ki Reti, , Rishikesh, Uttarakhand, 249137, India",
       "area": "Sheesham Jhari, near Purnananda Inter College, Muni Ki Reti, ",
-      "avg_review_rating": 4.67,
+      "avg_review_rating": 4.68,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.113459,78.306473",
       "is_connected": true,
       "station_type": [
@@ -251,7 +251,7 @@
   "dc_prices": [
     12.99
   ],
-  "scraped_at": "2026-05-21T08:01:17.437844+00:00",
+  "scraped_at": "2026-05-22T10:44:12.493273+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

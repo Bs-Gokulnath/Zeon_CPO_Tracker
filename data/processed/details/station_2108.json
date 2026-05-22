@@ -41,16 +41,16 @@
             "connector_id": 3505,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 30.0,
         "charger_name": "EFI Sharvil Ventures  1",
-        "last_used_on": "19/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -163,7 +163,7 @@
       "longitude": 73.138884,
       "address": "RO AT KHOLKHE, PNAVEL (NH 4) SHEDUNG, PANVEL,, Panvel, Maharashtra, 410221, India",
       "area": "RO AT KHOLKHE, PNAVEL (NH 4) SHEDUNG, PANVEL,",
-      "avg_review_rating": 4.59,
+      "avg_review_rating": 4.6,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.966234,73.138884",
       "is_connected": true,
       "station_type": [
@@ -184,7 +184,7 @@
   "dc_prices": [
     25.0
   ],
-  "scraped_at": "2026-05-21T07:59:25.168573+00:00",
+  "scraped_at": "2026-05-22T10:42:55.524064+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

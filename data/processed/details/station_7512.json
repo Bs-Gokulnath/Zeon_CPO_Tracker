@@ -21,8 +21,8 @@
         "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
       }
     ],
-    "avg_review_rating": 4.5,
-    "no_of_reviews": 16,
+    "avg_review_rating": 4.41,
+    "no_of_reviews": 17,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
@@ -50,16 +50,16 @@
         "type": "DC",
         "power_rating": 30.0,
         "charger_name": "2001958-MAA VAKRANGEE PETROLEUM",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
       "percentage_per_star": {
         "1": 6,
         "2": 0,
-        "3": 6,
+        "3": 12,
         "4": 12,
-        "5": 75
+        "5": 71
       }
     },
     "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
@@ -79,7 +79,7 @@
       "longitude": 74.496485,
       "address": "BHADESAR, Dholpur, Rajasthan, 312613, India",
       "area": "BHADESAR",
-      "avg_review_rating": 4.5,
+      "avg_review_rating": 4.41,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.771987,74.496485",
       "is_connected": true,
       "station_type": [
@@ -185,7 +185,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
     }
   ],
   "ac_count": 0,
@@ -194,7 +194,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:03:06.760486+00:00",
+  "scraped_at": "2026-05-22T10:45:40.954305+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

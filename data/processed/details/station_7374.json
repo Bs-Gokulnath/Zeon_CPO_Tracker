@@ -48,16 +48,16 @@
             "connector_id": 13559,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 30.0,
         "charger_name": "2005453-AMIN TRANSPORT PVT. LTD.",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -73,11 +73,10 @@
     "steps_to_reach": false,
     "station_city_name": "Achalpur",
     "station_access_type": "public",
-    "availability": "Available in",
+    "availability": "Available",
     "highest_power_rating": 30.0,
     "charger_type_of_station": "DC",
-    "station_images": [],
-    "waiting_time": "2026-05-21 15:27:09"
+    "station_images": []
   },
   "nearby_stations": [
     {
@@ -207,7 +206,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:02:55.432634+00:00",
+  "scraped_at": "2026-05-22T10:45:32.139515+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

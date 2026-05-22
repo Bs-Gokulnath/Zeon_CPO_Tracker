@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.75,
-    "no_of_reviews": 9847,
+    "no_of_reviews": 9862,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -48,10 +48,10 @@
             "connector_id": 3425,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Finished",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "finishing"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
@@ -67,12 +67,12 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "Trifecta Adatto DC Charger 1",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 2389,
-        "price_with_currency": "₹ 21.99",
-        "price": 21.99,
+        "price_with_currency": "₹ 24.99",
+        "price": 24.99,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -100,7 +100,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "Trifecta Adatto DC Charger 2",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -235,7 +235,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+default+(8).png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
     }
   ],
   "ac_count": 0,
@@ -243,9 +243,9 @@
   "ac_prices": [],
   "dc_prices": [
     21.99,
-    21.99
+    24.99
   ],
-  "scraped_at": "2026-05-21T07:59:25.190181+00:00",
+  "scraped_at": "2026-05-22T10:42:54.946751+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

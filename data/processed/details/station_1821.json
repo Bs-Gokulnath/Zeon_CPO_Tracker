@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.78,
-    "no_of_reviews": 6245,
+    "no_of_reviews": 6249,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/DC.png",
     "is_connected": true,
     "station_banner": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/network-branding/GMR/GMR+banner.png",
@@ -48,18 +48,18 @@
             "connector_id": 2293,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Disconnected",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           },
           {
             "display_id": 2,
             "connector_id": 2294,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Disconnected",
             "connector_type_id": 1,
             "connector_status": "available"
           }
@@ -67,7 +67,7 @@
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "GMR Green CCS Charger 6",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 69555,
@@ -100,7 +100,7 @@
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "GMR Green CCS Charger 1",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 69556,
@@ -269,7 +269,7 @@
     19.99,
     19.99
   ],
-  "scraped_at": "2026-05-21T07:59:13.141791+00:00",
+  "scraped_at": "2026-05-22T10:42:41.588381+00:00",
   "parse_success": true,
   "missing_fields": [],
   "coverage_pct": 100.0

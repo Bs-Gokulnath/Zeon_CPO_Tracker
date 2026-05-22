@@ -41,10 +41,10 @@
             "connector_id": 13675,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "faulted"
           }
         ],
         "type": "DC",
@@ -66,7 +66,7 @@
     "steps_to_reach": false,
     "station_city_name": "Karaikal",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Unavailable",
     "highest_power_rating": 30.0,
     "charger_type_of_station": "DC",
     "station_images": []
@@ -142,7 +142,7 @@
       "longitude": 79.819082,
       "address": "PONDICHERRY, Pondicherry, Pondicherry, 605008, India",
       "area": "PONDICHERRY",
-      "avg_review_rating": 4.52,
+      "avg_review_rating": 4.5,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.952538,79.819082",
       "is_connected": true,
       "station_type": [
@@ -184,7 +184,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:03:06.633559+00:00",
+  "scraped_at": "2026-05-22T10:45:40.897126+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

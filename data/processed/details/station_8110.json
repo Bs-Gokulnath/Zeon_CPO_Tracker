@@ -36,8 +36,8 @@
         "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
       }
     ],
-    "avg_review_rating": 4.81,
-    "no_of_reviews": 16830,
+    "avg_review_rating": 4.8,
+    "no_of_reviews": 16921,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -72,7 +72,7 @@
         "type": "DC",
         "power_rating": 40.0,
         "charger_name": "MLCP Noida Sec-18 Zone2 DC 40 Charger2",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56364,
@@ -86,16 +86,16 @@
             "connector_id": 15104,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "preparing"
+            "connector_status": "charging"
           }
         ],
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "MLCP Noida Sec-18 Zone2 DC 40 Charger3",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56365,
@@ -141,7 +141,7 @@
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "MLCP Noida Sec-18 Zone2 DC 40 Charger5",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56367,
@@ -156,15 +156,15 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Faulted",
+            "error_message": "Disconnected",
             "connector_type_id": 1,
-            "connector_status": "unavailable"
+            "connector_status": "finishing"
           }
         ],
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "MLCP Noida Sec-18 Zone2 DC 40 Charger6",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56368,
@@ -179,7 +179,7 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Faulted",
+            "error_message": "Disconnected",
             "connector_type_id": 1,
             "connector_status": "unavailable"
           }
@@ -202,15 +202,15 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Charging",
+            "error_message": "Disconnected",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "unavailable"
           }
         ],
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "MLCP Noida Sec-18 Zone2 DC 40 Charger8",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56370,
@@ -225,15 +225,15 @@
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
             "availability": false,
-            "error_message": "Charging",
+            "error_message": "Finished",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "finishing"
           }
         ],
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "MLCP Noida Sec-18 Zone2 DC 40 Charger9",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56371,
@@ -256,12 +256,12 @@
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "MLCP Noida Sec-18 Zone2 DC 40 Charger10",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56384,
-        "price_with_currency": "₹ 24.99",
-        "price": 24.99,
+        "price_with_currency": "₹ 24.49",
+        "price": 24.49,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -280,21 +280,21 @@
             "connector_id": 15125,
             "connector_type": "GBT",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 6,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 30.0,
         "charger_name": "MLCP Noida Sec-18 Zone3 Exicom GBT 30 Charger1 ",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56385,
-        "price_with_currency": "₹ 24.99",
-        "price": 24.99,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -303,31 +303,31 @@
             "connector_id": 15126,
             "connector_type": "GBT",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 6,
-            "connector_status": "available"
+            "connector_status": "charging"
           },
           {
             "display_id": 2,
             "connector_id": 15127,
             "connector_type": "GBT",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 6,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 30.0,
         "charger_name": "MLCP Noida Sec-18 Zone3 Exicom GBT 30 Charger2",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56386,
-        "price_with_currency": "₹ 23.2",
-        "price": 23.2,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -339,23 +339,23 @@
             "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 6,
-            "connector_status": "preparing"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
             "connector_id": 15129,
             "connector_type": "GBT",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 6,
-            "connector_status": "available"
+            "connector_status": "unavailable"
           }
         ],
         "type": "DC",
         "power_rating": 30.0,
         "charger_name": "MLCP Noida Sec-18 Zone3 Exicom GBT 30 Charger3",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56387,
@@ -491,8 +491,8 @@
       },
       {
         "charger_id": 56391,
-        "price_with_currency": "₹ 24.97",
-        "price": 24.97,
+        "price_with_currency": "₹ 24.73",
+        "price": 24.73,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -511,16 +511,16 @@
             "connector_id": 15139,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "preparing"
+            "connector_status": "charging"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "MLCP Noida Sec-18 Zone3 Exicom 120 Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 59404,
@@ -553,7 +553,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "MLCP Zone1 DC Charger 9",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 60224,
@@ -576,7 +576,7 @@
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "MLCP Zone1 DC Charger 13",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 60225,
@@ -590,16 +590,16 @@
             "connector_id": 21280,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "DC",
         "power_rating": 60.0,
         "charger_name": "MLCP Zone1 DC Charger 12",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 61349,
@@ -616,7 +616,7 @@
             "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "preparing"
           }
         ],
         "type": "DC",
@@ -639,13 +639,13 @@
             "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "preparing"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 25.0,
         "charger_name": "MLCP Zone1 DC Charger 10 Delta",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 61351,
@@ -691,7 +691,7 @@
         "type": "DC",
         "power_rating": 12.5,
         "charger_name": "MLCP Zone 2 DC Charger 6 Delta ",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 61353,
@@ -714,7 +714,7 @@
         "type": "DC",
         "power_rating": 12.5,
         "charger_name": "MLCP Zone 2 DC Charger 7 Delta",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 61354,
@@ -737,7 +737,7 @@
         "type": "DC",
         "power_rating": 12.5,
         "charger_name": "MLCP Zone 2 DC Charger 11 Delta ",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "21/05/2026"
       },
       {
         "charger_id": 61355,
@@ -806,7 +806,7 @@
         "type": "DC",
         "power_rating": 12.5,
         "charger_name": "MLCP Zone 2 DC Charger 9 Delta",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 61669,
@@ -829,7 +829,7 @@
         "type": "DC",
         "power_rating": 12.5,
         "charger_name": "MLCP Zone 1 DC Charger 13 Delta",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 61670,
@@ -843,16 +843,16 @@
             "connector_id": 23492,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 12.5,
         "charger_name": "MLCP Zone 2 DC Charger 4 Delta",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 61671,
@@ -875,7 +875,7 @@
         "type": "DC",
         "power_rating": 12.5,
         "charger_name": "MLCP Zone 2 DC Charger 8 Delta",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 61672,
@@ -898,7 +898,7 @@
         "type": "DC",
         "power_rating": 12.5,
         "charger_name": "MLCP Zone 2 DC Charger 10 Delta",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 61673,
@@ -921,12 +921,12 @@
         "type": "DC",
         "power_rating": 12.5,
         "charger_name": "MLCP Zone 1 DC Charger 3 Delta",
-        "last_used_on": "19/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 63567,
-        "price_with_currency": "₹ 24.99",
-        "price": 24.99,
+        "price_with_currency": "₹ 24.5",
+        "price": 24.5,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -954,7 +954,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "MLCP Zone 2 DC Charger 1",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 66379,
@@ -977,7 +977,7 @@
         "type": "DC",
         "power_rating": 30.0,
         "charger_name": "MLCP Zone3 DC Charger 14",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 66799,
@@ -1023,12 +1023,12 @@
         "type": "DC",
         "power_rating": 12.5,
         "charger_name": "MLCP Zone1 DC Charger 2 Delta",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 67223,
-        "price_with_currency": "₹ 21.99",
-        "price": 21.99,
+        "price_with_currency": "₹ 24.99",
+        "price": 24.99,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -1056,7 +1056,7 @@
         "type": "DC",
         "power_rating": 84.0,
         "charger_name": "MLCP Zone 3 DC Charger 15",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 69168,
@@ -1070,26 +1070,26 @@
             "connector_id": 34683,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
             "connector_id": 34684,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "MLCP Zone1 DC Charger 3",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 69169,
@@ -1106,7 +1106,7 @@
             "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "preparing"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
@@ -1122,7 +1122,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "MLCP Zone1 DC Charger 4",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56311,
@@ -1136,16 +1136,16 @@
             "connector_id": 15038,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 3,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar1 MLCP Zone1 Charger ",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56312,
@@ -1162,7 +1162,7 @@
             "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "preparing"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
@@ -1182,16 +1182,16 @@
             "connector_id": 15041,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar4 MLCP Zone1 Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56315,
@@ -1214,7 +1214,7 @@
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar5 MLCP Zone1 Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56316,
@@ -1228,16 +1228,16 @@
             "connector_id": 15043,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar6 MLCP Zone1 Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56317,
@@ -1306,7 +1306,7 @@
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar10 MLCP Zone1 Charger",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "21/05/2026"
       },
       {
         "charger_id": 56321,
@@ -1320,16 +1320,16 @@
             "connector_id": 15048,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar11 MLCP Zone1 Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56322,
@@ -1346,13 +1346,13 @@
             "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "preparing"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar12 MLCP Zone1 Charger",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56323,
@@ -1375,7 +1375,7 @@
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar13 MLCP Zone1 Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56324,
@@ -1389,16 +1389,16 @@
             "connector_id": 15051,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar14 MLCP Zone1 Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56325,
@@ -1458,16 +1458,16 @@
             "connector_id": 15055,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 3,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar18 MLCP Zone1 Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56329,
@@ -1490,7 +1490,7 @@
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar19 MLCP Zone2 Charger ",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56330,
@@ -1513,7 +1513,7 @@
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar20 MLCP Zone2 Charger ",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56347,
@@ -1553,13 +1553,13 @@
             "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "preparing"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar23 MLCP Zone2 Charger",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56351,
@@ -1573,16 +1573,16 @@
             "connector_id": 15090,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar26 MLCP Zone2 Charger",
-        "last_used_on": "19/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56352,
@@ -1628,7 +1628,7 @@
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar29 MLCP Zone2 Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56355,
@@ -1645,13 +1645,13 @@
             "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "preparing"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar30 MLCP Zone2 Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56356,
@@ -1674,7 +1674,7 @@
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar31 MLCP Zone2 Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56357,
@@ -1697,7 +1697,7 @@
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar32 MLCP Zone2 Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56359,
@@ -1711,16 +1711,16 @@
             "connector_id": 15098,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar34 MLCP Zone2 Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56360,
@@ -1766,7 +1766,7 @@
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar37 MLCP Zone3 Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56373,
@@ -1780,16 +1780,16 @@
             "connector_id": 15113,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar38 MLCP Zone3 Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56374,
@@ -1803,16 +1803,16 @@
             "connector_id": 15114,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar39 MLCP Zone3 Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56375,
@@ -1852,13 +1852,13 @@
             "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "preparing"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar41 MLCP Zone3 Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56377,
@@ -1898,13 +1898,13 @@
             "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "preparing"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar43 MLCP Zone3 Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56379,
@@ -1927,7 +1927,7 @@
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar44 MLCP Zone3 Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56381,
@@ -1941,16 +1941,16 @@
             "connector_id": 15121,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 3,
-            "connector_status": "preparing"
+            "connector_status": "charging"
           }
         ],
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar46 MLCP Zone3 Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56382,
@@ -1967,13 +1967,13 @@
             "availability": true,
             "error_message": "Faulted",
             "connector_type_id": 3,
-            "connector_status": "preparing"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar47 MLCP Zone3 Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 56383,
@@ -1996,7 +1996,7 @@
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar48 MLCP Zone3 Charger",
-        "last_used_on": "15/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 60953,
@@ -2019,7 +2019,7 @@
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar16 MLCP Zone1 Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 60954,
@@ -2042,12 +2042,12 @@
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Pillar3 MLCP Zone1 Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 62537,
-        "price_with_currency": "₹ 17.17",
-        "price": 17.17,
+        "price_with_currency": "₹ 14.99",
+        "price": 14.99,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -2057,9 +2057,9 @@
             "connector_type": "Wall",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
             "availability": false,
-            "error_message": "Charging",
+            "error_message": "Disconnected",
             "connector_type_id": 5,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
@@ -2080,7 +2080,7 @@
             "connector_type": "Wall",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
             "availability": false,
-            "error_message": "Charging",
+            "error_message": "Disconnected",
             "connector_type_id": 5,
             "connector_status": "charging"
           }
@@ -2102,16 +2102,16 @@
             "connector_id": 24782,
             "connector_type": "Wall",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 5,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
         "power_rating": 3.3,
         "charger_name": "MLCP Noida Sec-18 Zone 1 AC Charger 8c",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 62935,
@@ -2126,7 +2126,7 @@
             "connector_type": "Wall",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
             "availability": false,
-            "error_message": "Charging",
+            "error_message": "Disconnected",
             "connector_type_id": 5,
             "connector_status": "charging"
           }
@@ -2134,12 +2134,12 @@
         "type": "AC",
         "power_rating": 3.3,
         "charger_name": "MLCP Noida Sec-18 Zone 2 AC Charger 36a",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 62936,
-        "price_with_currency": "₹ 17.99",
-        "price": 17.99,
+        "price_with_currency": "₹ 16.25",
+        "price": 16.25,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -2148,16 +2148,16 @@
             "connector_id": 25615,
             "connector_type": "Wall",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 5,
-            "connector_status": "charging"
+            "connector_status": "available"
           }
         ],
         "type": "AC",
         "power_rating": 3.3,
         "charger_name": "MLCP Noida Sec-18 Zone 2 AC Charger 36b",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 62937,
@@ -2209,7 +2209,7 @@
       "longitude": 77.321148,
       "address": "Near DLF Mall of India, Noida sector 18 MLCP parking, Noida, Uttar Pradesh, 201301, India",
       "area": "Near DLF Mall of India, Noida sector 18 MLCP parking",
-      "avg_review_rating": 4.81,
+      "avg_review_rating": 4.8,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.569824,77.321148",
       "is_connected": true,
       "station_type": [
@@ -2235,7 +2235,7 @@
       "longitude": 77.322225,
       "address": "MLCP Parking, Sector 18, Noida, Uttar Pradesh, 201301, India",
       "area": "MLCP Parking, Sector 18",
-      "avg_review_rating": 4.75,
+      "avg_review_rating": 4.77,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.569867,77.322225",
       "is_connected": true,
       "station_type": [
@@ -2258,7 +2258,7 @@
       "area": "Noida sector 18 MLCP parking",
       "avg_review_rating": 5.0,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.569867,77.322225",
-      "is_connected": false,
+      "is_connected": true,
       "station_type": [
         {
           "type": "DC",
@@ -2289,7 +2289,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eFill+charging.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eFill+-+default.png"
     },
     {
       "id": 1757,
@@ -2356,11 +2356,11 @@
     14.49,
     14.49,
     14.49,
-    17.17,
     14.99,
     14.99,
     14.99,
-    17.99,
+    14.99,
+    16.25,
     14.99
   ],
   "dc_prices": [
@@ -2373,40 +2373,40 @@
     21.99,
     21.99,
     21.99,
+    24.49,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    24.73,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    24.5,
+    21.99,
+    21.99,
+    21.99,
     24.99,
-    24.99,
-    23.2,
-    21.99,
-    21.99,
-    21.99,
-    21.99,
-    24.97,
-    21.99,
-    21.99,
-    21.99,
-    21.99,
-    21.99,
-    21.99,
-    21.99,
-    21.99,
-    21.99,
-    21.99,
-    21.99,
-    21.99,
-    21.99,
-    21.99,
-    21.99,
-    21.99,
-    21.99,
-    24.99,
-    21.99,
-    21.99,
-    21.99,
-    21.99,
     21.99,
     21.99
   ],
-  "scraped_at": "2026-05-21T08:04:00.156191+00:00",
+  "scraped_at": "2026-05-22T10:46:26.338821+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

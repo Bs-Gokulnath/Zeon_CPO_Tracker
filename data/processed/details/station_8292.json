@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.57,
-    "no_of_reviews": 716,
+    "no_of_reviews": 717,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-banner-2.png",
@@ -51,16 +51,16 @@
             "connector_id": 15611,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Charging",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "Hyundai Hotel Ahmedia Restaurant DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -89,7 +89,7 @@
       "longitude": 78.644088,
       "address": "NH-48, Bangalore, National Highway, Vaniyambadi, Tamil Nadu, 635751, India",
       "area": "NH-48, Bangalore, National Highway",
-      "avg_review_rating": 4.56,
+      "avg_review_rating": 4.57,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.702022,78.644088",
       "is_connected": true,
       "station_type": [
@@ -194,7 +194,7 @@
   "dc_prices": [
     26.0
   ],
-  "scraped_at": "2026-05-21T08:04:13.744215+00:00",
+  "scraped_at": "2026-05-22T10:46:37.582743+00:00",
   "parse_success": true,
   "missing_fields": [
     "amenities_icon"

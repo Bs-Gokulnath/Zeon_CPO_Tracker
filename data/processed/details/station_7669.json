@@ -21,8 +21,8 @@
         "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
       }
     ],
-    "avg_review_rating": 4.58,
-    "no_of_reviews": 12,
+    "avg_review_rating": 4.62,
+    "no_of_reviews": 13,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": false,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
@@ -44,13 +44,13 @@
             "availability": false,
             "error_message": "Disconnected",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "charging"
           }
         ],
         "type": "DC",
         "power_rating": 30.0,
         "charger_name": "2021413-CHANDRA KIRAN FUEL STATION",
-        "last_used_on": "18/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -58,8 +58,8 @@
         "1": 0,
         "2": 8,
         "3": 0,
-        "4": 17,
-        "5": 75
+        "4": 15,
+        "5": 77
       }
     },
     "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
@@ -79,7 +79,7 @@
       "longitude": 76.333917,
       "address": "CHITRADURGA, Chitradurga, Karnataka, 577502, India",
       "area": "CHITRADURGA",
-      "avg_review_rating": 4.58,
+      "avg_review_rating": 4.62,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=14.268303,76.333917",
       "is_connected": false,
       "station_type": [
@@ -184,7 +184,7 @@
   "dc_prices": [
     14.0
   ],
-  "scraped_at": "2026-05-21T08:03:26.388164+00:00",
+  "scraped_at": "2026-05-22T10:46:00.078308+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

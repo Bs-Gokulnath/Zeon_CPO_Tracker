@@ -166,10 +166,13 @@ def _df_to_records(df: pd.DataFrame, columns: list[str]) -> list[tuple]:
         if col not in df.columns:
             df[col] = None
 
-    sub = df[columns].copy()
-    # NaN → None: works for all dtypes including object columns
+    sub = df[columns].astype(object).copy()
+    # NaN → None: cast to object first so float-NaN becomes Python None, not float('nan')
     sub = sub.where(pd.notna(sub), None)
-    return [tuple(row) for row in sub.values.tolist()]
+    return [
+        tuple(None if (isinstance(v, float) and pd.isna(v)) else v for v in row)
+        for row in sub.itertuples(index=False, name=None)
+    ]
 
 
 # ── Public API ────────────────────────────────────────────────────────────────

@@ -181,25 +181,25 @@
       "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
     },
     {
-      "id": 8250,
-      "station_name": "Hyundai Elements Mall Charging Station",
-      "latitude": 13.045442,
-      "longitude": 77.626924,
-      "address": "MS Ramaiah North City Road Entrance, Survey No. 132(P), 133(P), & 134(P) of Nagavara Village 100 wide Thanisandra Main Rd,, Bengaluru, Karnataka, 560077, India",
-      "area": "MS Ramaiah North City Road Entrance, Survey No. 132(P), 133(P), & 134(P) of Nagavara Village 100 wide Thanisandra Main Rd,",
-      "avg_review_rating": 4.67,
-      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.045442,77.626924",
+      "id": 16009,
+      "station_name": "Mirabilis Charging Station",
+      "latitude": 13.037046,
+      "longitude": 77.660771,
+      "address": "Survey No 71, Kolte-Patil Mirabilis Bengaluru, Hobli, Horamavu Agara, Horamavu, Bengaluru, Karnataka 560113, Bengaluru, Karnataka, 560116, India",
+      "area": "Survey No 71, Kolte-Patil Mirabilis Bengaluru, Hobli, Horamavu Agara, Horamavu, Bengaluru, Karnataka 560113",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.037046,77.660771",
       "is_connected": true,
       "station_type": [
         {
-          "type": "DC",
+          "type": "AC",
           "bg_color": "#F4F4F7",
           "text_color": "#101941"
         }
       ],
-      "access_type": 1,
+      "access_type": 2,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-online-not-selected.png"
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
     }
   ],
   "ac_count": 1,
@@ -208,7 +208,7 @@
     18.0
   ],
   "dc_prices": [],
-  "scraped_at": "2026-05-21T08:01:34.662836+00:00",
+  "scraped_at": "2026-05-22T10:44:28.203997+00:00",
   "parse_success": true,
   "missing_fields": [
     "amenities_icon"

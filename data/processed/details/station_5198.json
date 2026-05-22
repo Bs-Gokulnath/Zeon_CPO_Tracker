@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.81,
-    "no_of_reviews": 1213,
+    "no_of_reviews": 1216,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -38,8 +38,8 @@
     "plugin_details": [
       {
         "charger_id": 52283,
-        "price_with_currency": "₹ 24.99",
-        "price": 24.99,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -48,26 +48,26 @@
             "connector_id": 10220,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
             "connector_id": 10221,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "preparing"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "Spaze IT Park DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -83,11 +83,10 @@
     "steps_to_reach": true,
     "station_city_name": "Gurugram",
     "station_access_type": "public",
-    "availability": "Available in",
+    "availability": "Available",
     "highest_power_rating": 120.0,
     "charger_type_of_station": "DC",
-    "station_images": [],
-    "waiting_time": "2026-05-21 13:43:04"
+    "station_images": []
   },
   "nearby_stations": [
     {
@@ -109,7 +108,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
     },
     {
       "id": 8950,
@@ -205,9 +204,9 @@
   "dc_count": 1,
   "ac_prices": [],
   "dc_prices": [
-    24.99
+    21.99
   ],
-  "scraped_at": "2026-05-21T08:01:03.997923+00:00",
+  "scraped_at": "2026-05-22T10:44:01.428534+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

@@ -24,7 +24,7 @@
     "avg_review_rating": 5.0,
     "no_of_reviews": 1,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/AC.png",
-    "is_connected": true,
+    "is_connected": false,
     "station_banner": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/statiq/statiq+banner.png",
     "landmark": null,
     "amenities_icon": [],
@@ -41,8 +41,8 @@
             "connector_id": 2260,
             "connector_type": "Wall",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Disconnected",
             "connector_type_id": 5,
             "connector_status": "available"
           }
@@ -66,7 +66,7 @@
     "steps_to_reach": false,
     "station_city_name": "Chikmagalur",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Unavailable",
     "highest_power_rating": 3.3,
     "charger_type_of_station": "AC",
     "station_images": []
@@ -81,7 +81,7 @@
       "area": "Huigere",
       "avg_review_rating": 0.0,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.3237,75.5112",
-      "is_connected": true,
+      "is_connected": false,
       "station_type": [
         {
           "type": "AC",
@@ -91,7 +91,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/statiq/statiq+pin.png"
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
     },
     {
       "id": 1672,
@@ -184,7 +184,7 @@
     15.0
   ],
   "dc_prices": [],
-  "scraped_at": "2026-05-21T07:59:06.120370+00:00",
+  "scraped_at": "2026-05-22T10:42:36.421344+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

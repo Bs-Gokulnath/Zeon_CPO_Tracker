@@ -96,6 +96,27 @@
   },
   "nearby_stations": [
     {
+      "id": 1155,
+      "station_name": "Sunfuel - ITC Maurya",
+      "latitude": 28.5975,
+      "longitude": 77.172897,
+      "address": "ITC Maurya\nSardar Patel Marg, Akhaura Block,\nDiplomatic Enclave, New Delhi, Delhi, 110021, India",
+      "area": "ITC Maurya\nSardar Patel Marg, Akhaura Block,\nDiplomatic Enclave",
+      "avg_review_rating": 4.78,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.5975,77.172897",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
       "id": 6722,
       "station_name": "Statiq ITC Maurya Station",
       "latitude": 28.597788,
@@ -120,27 +141,6 @@
       "access_type": 2,
       "is_community_listed": false,
       "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
-    },
-    {
-      "id": 1155,
-      "station_name": "Sunfuel - ITC Maurya",
-      "latitude": 28.5975,
-      "longitude": 77.172897,
-      "address": "ITC Maurya\nSardar Patel Marg, Akhaura Block,\nDiplomatic Enclave, New Delhi, Delhi, 110021, India",
-      "area": "ITC Maurya\nSardar Patel Marg, Akhaura Block,\nDiplomatic Enclave",
-      "avg_review_rating": 4.78,
-      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.5975,77.172897",
-      "is_connected": false,
-      "station_type": [
-        {
-          "type": "AC",
-          "bg_color": "#F4F4F7",
-          "text_color": "#101941"
-        }
-      ],
-      "access_type": 1,
-      "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
     },
     {
       "id": 10343,
@@ -213,7 +213,7 @@
     15.0
   ],
   "dc_prices": [],
-  "scraped_at": "2026-05-21T07:58:59.348233+00:00",
+  "scraped_at": "2026-05-22T10:42:31.177947+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark",

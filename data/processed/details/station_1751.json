@@ -32,7 +32,7 @@
       }
     ],
     "avg_review_rating": 4.73,
-    "no_of_reviews": 4869,
+    "no_of_reviews": 4873,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/AC%2BDC.png",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -70,7 +70,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "JMD Galleria DC Charger 2",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 54068,
@@ -84,16 +84,16 @@
             "connector_id": 12069,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
+            "availability": false,
             "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "faulted"
           }
         ],
         "type": "DC",
         "power_rating": 30.0,
         "charger_name": "JMD Galleria DC Charger 1",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 1404,
@@ -126,7 +126,7 @@
         "type": "AC",
         "power_rating": 10.7,
         "charger_name": "JMD Galleria AdWall 1b",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 1432,
@@ -159,7 +159,7 @@
         "type": "AC",
         "power_rating": 10.7,
         "charger_name": "JMD Galleria Adwall 1a",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -261,7 +261,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
     },
     {
       "id": 5194,
@@ -291,7 +291,7 @@
       "longitude": 77.038979,
       "address": " Sohna - Gurgaon Road, Gurugram, Haryana, 122001, India",
       "area": " Sohna - Gurgaon Road",
-      "avg_review_rating": 4.27,
+      "avg_review_rating": 4.26,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.417313,77.038979",
       "is_connected": true,
       "station_type": [
@@ -316,7 +316,7 @@
     21.99,
     21.99
   ],
-  "scraped_at": "2026-05-21T07:59:12.971210+00:00",
+  "scraped_at": "2026-05-22T10:42:41.583248+00:00",
   "parse_success": true,
   "missing_fields": [
     "amenities_icon"

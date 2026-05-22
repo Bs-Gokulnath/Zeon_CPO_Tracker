@@ -24,7 +24,7 @@
     "avg_review_rating": 4.25,
     "no_of_reviews": 65,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
-    "is_connected": true,
+    "is_connected": false,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
     "landmark": null,
     "amenities_icon": [
@@ -123,8 +123,8 @@
             "connector_id": 9957,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Disconnected",
             "connector_type_id": 3,
             "connector_status": "available"
           }
@@ -148,7 +148,7 @@
     "steps_to_reach": false,
     "station_city_name": "Sawai Madhopur",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Unavailable",
     "highest_power_rating": 22.0,
     "charger_type_of_station": "AC",
     "station_images": []
@@ -163,7 +163,7 @@
       "area": "The Kipling Lodge, Ranthambore,Charoda Rd, Ranthambore",
       "avg_review_rating": 4.25,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.0884,76.433502",
-      "is_connected": true,
+      "is_connected": false,
       "station_type": [
         {
           "type": "AC",
@@ -173,7 +173,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
     },
     {
       "id": 13270,
@@ -269,7 +269,7 @@
     14.0
   ],
   "dc_prices": [],
-  "scraped_at": "2026-05-21T08:00:58.053416+00:00",
+  "scraped_at": "2026-05-22T10:43:56.913933+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

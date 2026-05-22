@@ -31,10 +31,10 @@
         "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
       }
     ],
-    "avg_review_rating": 4.32,
-    "no_of_reviews": 1500,
+    "avg_review_rating": 4.33,
+    "no_of_reviews": 1503,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/AC%2BDC.png",
-    "is_connected": false,
+    "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
     "landmark": null,
     "amenities_icon": [
@@ -64,26 +64,26 @@
             "connector_id": 1509,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Disconnected",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "preparing"
           },
           {
             "display_id": 2,
             "connector_id": 1510,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Disconnected",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "preparing"
           }
         ],
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "Bhajan Singh Da Dhabha DC Charger",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       },
       {
         "charger_id": 54529,
@@ -97,8 +97,8 @@
             "connector_id": 12816,
             "connector_type": "Type-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
-            "availability": false,
-            "error_message": "Disconnected",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 3,
             "connector_status": "available"
           }
@@ -106,7 +106,7 @@
         "type": "AC",
         "power_rating": 7.4,
         "charger_name": "Bhajan Singh Da Dhaba AC Charger",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -122,7 +122,7 @@
     "steps_to_reach": false,
     "station_city_name": "Talegaon Dabhade",
     "station_access_type": "public",
-    "availability": "Unavailable",
+    "availability": "Available",
     "highest_power_rating": 120.0,
     "charger_type_of_station": "DC",
     "station_images": []
@@ -210,7 +210,7 @@
       "area": "Food Cour Talegaon",
       "avg_review_rating": 4.4,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.712416,73.653228",
-      "is_connected": false,
+      "is_connected": true,
       "station_type": [
         {
           "type": "DC",
@@ -220,7 +220,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
     },
     {
       "id": 10438,
@@ -252,7 +252,7 @@
   "dc_prices": [
     21.99
   ],
-  "scraped_at": "2026-05-21T07:59:00.217628+00:00",
+  "scraped_at": "2026-05-22T10:42:33.021024+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"

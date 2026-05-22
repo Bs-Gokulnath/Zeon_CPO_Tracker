@@ -22,7 +22,7 @@
       }
     ],
     "avg_review_rating": 4.73,
-    "no_of_reviews": 2895,
+    "no_of_reviews": 2897,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
     "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
@@ -44,8 +44,8 @@
     "plugin_details": [
       {
         "charger_id": 2675,
-        "price_with_currency": "₹ 21.99",
-        "price": 21.99,
+        "price_with_currency": "₹ 23.58",
+        "price": 23.58,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -54,10 +54,10 @@
             "connector_id": 3831,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Charging",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "charging"
+            "connector_status": "available"
           },
           {
             "display_id": 2,
@@ -73,7 +73,7 @@
         "type": "DC",
         "power_rating": 120.0,
         "charger_name": "Hyatt Palace Bharuch DC Charger",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -208,16 +208,16 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/unavailable+select.png"
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
     }
   ],
   "ac_count": 0,
   "dc_count": 1,
   "ac_prices": [],
   "dc_prices": [
-    21.99
+    23.58
   ],
-  "scraped_at": "2026-05-21T07:59:35.235782+00:00",
+  "scraped_at": "2026-05-22T10:43:08.616806+00:00",
   "parse_success": true,
   "missing_fields": [],
   "coverage_pct": 100.0

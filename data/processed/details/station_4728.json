@@ -29,7 +29,7 @@
     "avg_review_rating": 4.56,
     "no_of_reviews": 232,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
-    "is_connected": true,
+    "is_connected": false,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
     "landmark": "Near DM Office",
     "amenities_icon": [
@@ -53,20 +53,20 @@
             "connector_id": 8810,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Disconnected",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "unavailable"
           },
           {
             "display_id": 2,
             "connector_id": 8811,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Disconnected",
             "connector_type_id": 1,
-            "connector_status": "available"
+            "connector_status": "unavailable"
           }
         ],
         "type": "DC",
@@ -88,7 +88,7 @@
     "steps_to_reach": false,
     "station_city_name": "Faizabad",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Unavailable",
     "highest_power_rating": 120.0,
     "charger_type_of_station": "DC",
     "station_images": []
@@ -106,19 +106,19 @@
       "is_connected": true,
       "station_type": [
         {
-          "type": "DC",
+          "type": "AC",
           "bg_color": "#F4F4F7",
           "text_color": "#101941"
         },
         {
-          "type": "AC",
+          "type": "DC",
           "bg_color": "#F4F4F7",
           "text_color": "#101941"
         }
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
     },
     {
       "id": 7430,
@@ -202,7 +202,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+charging.png"
     }
   ],
   "ac_count": 0,
@@ -211,7 +211,7 @@
   "dc_prices": [
     21.99
   ],
-  "scraped_at": "2026-05-21T07:59:47.664505+00:00",
+  "scraped_at": "2026-05-22T10:43:29.282142+00:00",
   "parse_success": true,
   "missing_fields": [],
   "coverage_pct": 100.0

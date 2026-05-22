@@ -22,9 +22,9 @@
       }
     ],
     "avg_review_rating": 4.59,
-    "no_of_reviews": 2904,
+    "no_of_reviews": 2906,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/DC.png",
-    "is_connected": true,
+    "is_connected": false,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
     "landmark": "None",
     "amenities_icon": [
@@ -44,8 +44,8 @@
     "plugin_details": [
       {
         "charger_id": 1028,
-        "price_with_currency": "₹ 23.93",
-        "price": 23.93,
+        "price_with_currency": "₹ 24.99",
+        "price": 24.99,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -54,8 +54,8 @@
             "connector_id": 1316,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": true,
-            "error_message": "Faulted",
+            "availability": false,
+            "error_message": "Disconnected",
             "connector_type_id": 1,
             "connector_status": "available"
           }
@@ -63,7 +63,7 @@
         "type": "DC",
         "power_rating": 30.0,
         "charger_name": "Saviruchi Veg DC Charger",
-        "last_used_on": "21/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -79,7 +79,7 @@
     "steps_to_reach": false,
     "station_city_name": "Mandya",
     "station_access_type": "public",
-    "availability": "Available",
+    "availability": "Unavailable",
     "highest_power_rating": 30.0,
     "charger_type_of_station": "DC",
     "station_images": []
@@ -176,7 +176,7 @@
       "longitude": 76.937964,
       "address": "No-888, Benguluru-Mysuru Express way, Kasba-2 Hobli, MC Road Hosabudanoor, Mandya Karnataka -571401, Mandya, Karnataka, 571401, India",
       "area": "No-888, Benguluru-Mysuru Express way, Kasba-2 Hobli, MC Road Hosabudanoor, Mandya Karnataka -571401",
-      "avg_review_rating": 4.61,
+      "avg_review_rating": 4.6,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.547729,76.937964",
       "is_connected": true,
       "station_type": [
@@ -195,9 +195,9 @@
   "dc_count": 1,
   "ac_prices": [],
   "dc_prices": [
-    23.93
+    24.99
   ],
-  "scraped_at": "2026-05-21T07:58:59.935747+00:00",
+  "scraped_at": "2026-05-22T10:42:31.479981+00:00",
   "parse_success": true,
   "missing_fields": [],
   "coverage_pct": 100.0

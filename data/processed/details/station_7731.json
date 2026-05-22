@@ -21,10 +21,10 @@
         "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
       }
     ],
-    "avg_review_rating": 4.6,
-    "no_of_reviews": 1726,
+    "avg_review_rating": 4.59,
+    "no_of_reviews": 1727,
     "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
-    "is_connected": false,
+    "is_connected": true,
     "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
     "landmark": null,
     "amenities_icon": [
@@ -50,8 +50,8 @@
     "plugin_details": [
       {
         "charger_id": 55667,
-        "price_with_currency": "₹ 21.99",
-        "price": 21.99,
+        "price_with_currency": "₹ 24.99",
+        "price": 24.99,
         "currency": "INR",
         "symbol": "₹",
         "connectors": [
@@ -60,26 +60,26 @@
             "connector_id": 14091,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Disconnected",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "unavailable"
+            "connector_status": "preparing"
           },
           {
             "display_id": 2,
             "connector_id": 14092,
             "connector_type": "CCS-2",
             "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
-            "availability": false,
-            "error_message": "Disconnected",
+            "availability": true,
+            "error_message": "Faulted",
             "connector_type_id": 1,
-            "connector_status": "unavailable"
+            "connector_status": "available"
           }
         ],
         "type": "DC",
         "power_rating": 240.0,
         "charger_name": "Empire Kunigal DC Charger",
-        "last_used_on": "20/05/2026"
+        "last_used_on": "22/05/2026"
       }
     ],
     "review_stats": {
@@ -95,7 +95,7 @@
     "steps_to_reach": false,
     "station_city_name": "Bengaluru",
     "station_access_type": "public",
-    "availability": "Unavailable",
+    "availability": "Available",
     "highest_power_rating": 240.0,
     "charger_type_of_station": "DC",
     "station_images": []
@@ -108,9 +108,9 @@
       "longitude": 76.924401,
       "address": "Right side of Empire Kunigal Entrance, Nr to A S Tea Point, No 75 Byldakere Yediyur Hobli Kunigal, Bengaluru, Karnataka, 571418, India",
       "area": "Right side of Empire Kunigal Entrance, Nr to A S Tea Point, No 75 Byldakere Yediyur Hobli Kunigal",
-      "avg_review_rating": 4.6,
+      "avg_review_rating": 4.59,
       "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.997233,76.924401",
-      "is_connected": false,
+      "is_connected": true,
       "station_type": [
         {
           "type": "DC",
@@ -120,7 +120,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
     },
     {
       "id": 13078,
@@ -141,7 +141,7 @@
       ],
       "access_type": 1,
       "is_community_listed": false,
-      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
     },
     {
       "id": 3599,
@@ -211,9 +211,9 @@
   "dc_count": 1,
   "ac_prices": [],
   "dc_prices": [
-    21.99
+    24.99
   ],
-  "scraped_at": "2026-05-21T08:03:33.785434+00:00",
+  "scraped_at": "2026-05-22T10:46:05.385034+00:00",
   "parse_success": true,
   "missing_fields": [
     "landmark"
