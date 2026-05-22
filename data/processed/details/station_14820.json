@@ -1,0 +1,209 @@
+{
+  "station_id": 14820,
+  "station_detail": {
+    "station_id": 14820,
+    "station_name": "D.P.VELAUDHAM & SON",
+    "latitude": 12.607803,
+    "longitude": 78.099501,
+    "address": "KRISHNAGIRI, Krishnagiri, Tamil Nadu, 635117, India",
+    "area": "KRISHNAGIRI",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.607803,78.099501",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8726 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.59,
+    "no_of_reviews": 39,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 67758,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 32415,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 32416,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "D.P.VELAUDHAM & SON",
+        "last_used_on": "07/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 5,
+        "2": 0,
+        "3": 8,
+        "4": 5,
+        "5": 82
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Krishnagiri",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14820,
+      "station_name": "D.P.VELAUDHAM & SON",
+      "latitude": 12.607803,
+      "longitude": 78.099501,
+      "address": "KRISHNAGIRI, Krishnagiri, Tamil Nadu, 635117, India",
+      "area": "KRISHNAGIRI",
+      "avg_review_rating": 4.59,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.607803,78.099501",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14160,
+      "station_name": "logistics park hosur EV car Point 1",
+      "latitude": 12.624736,
+      "longitude": 78.07903,
+      "address": "Shoolagiri, Bengaluru, Karnataka, 635117, India",
+      "area": "Shoolagiri",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.624736,78.07903",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    },
+    {
+      "id": 16004,
+      "station_name": "TN | Krishnagiri | Hotel Saravanaa Bavaa-II (Private)",
+      "latitude": 12.589642,
+      "longitude": 78.143677,
+      "address": "Saravanabava Hotel, Krishnagiri, Tamil Nadu, 635115, India",
+      "area": "Saravanabava Hotel",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.589642,78.143677",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8538,
+      "station_name": "TN | Krishnagiri | Hotel Saravanaa Bavaa-II",
+      "latitude": 12.589642,
+      "longitude": 78.143677,
+      "address": "Saravanabava Hotel, Krishnagiri, Tamil Nadu, 635115, India",
+      "area": "Saravanabava Hotel",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.589642,78.143677",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 14821,
+      "station_name": "BP-HOSUR",
+      "latitude": 12.640649,
+      "longitude": 78.064074,
+      "address": "KRISHNAGIRI, Krishnagiri, Tamil Nadu, 635109, India",
+      "area": "KRISHNAGIRI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.640649,78.064074",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:14:26.947160+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

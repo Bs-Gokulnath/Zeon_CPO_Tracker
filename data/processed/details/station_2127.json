@@ -1,0 +1,207 @@
+{
+  "station_id": 2127,
+  "station_detail": {
+    "station_id": 2127,
+    "station_name": "Statiq Hotel Tourist Boarding Restaurant Station",
+    "latitude": 16.664479,
+    "longitude": 75.806522,
+    "address": "https://maps.app.goo.gl/nE1NhiyzKHjkfsrx9 At Post Managuli, Zero Point, Managuli, NH50, Mangoli, Karnataka 586122, India, Bijapur, Karnataka, 586122, India",
+    "area": "https://maps.app.goo.gl/nE1NhiyzKHjkfsrx9 At Post Managuli, Zero Point, Managuli, NH50, Mangoli, Karnataka 586122, India",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.664479,75.806522",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8506 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.45,
+    "no_of_reviews": 354,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 559,
+        "id": 1
+      },
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 560,
+        "id": 2
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 2453,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 3528,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "Hotel Tourist Boarding Restaurant DC Charger",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 7,
+        "2": 2,
+        "3": 2,
+        "4": 16,
+        "5": 73
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bijapur",
+    "station_access_type": "public",
+    "availability": "Available in",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": [],
+    "waiting_time": "2026-05-21 14:04:33"
+  },
+  "nearby_stations": [
+    {
+      "id": 2127,
+      "station_name": "Statiq Hotel Tourist Boarding Restaurant Station",
+      "latitude": 16.664479,
+      "longitude": 75.806522,
+      "address": "https://maps.app.goo.gl/nE1NhiyzKHjkfsrx9 At Post Managuli, Zero Point, Managuli, NH50, Mangoli, Karnataka 586122, India, Bijapur, Karnataka, 586122, India",
+      "area": "https://maps.app.goo.gl/nE1NhiyzKHjkfsrx9 At Post Managuli, Zero Point, Managuli, NH50, Mangoli, Karnataka 586122, India",
+      "avg_review_rating": 4.45,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.664479,75.806522",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 7211,
+      "station_name": "2006069-BP-BIJAPUR",
+      "latitude": 16.74239,
+      "longitude": 75.753424,
+      "address": "BIJAPUR, Bijapur, Karnataka, 586122, India",
+      "area": "BIJAPUR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.74239,75.753424",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10909,
+      "station_name": "BP-BIJAPUR",
+      "latitude": 16.742542,
+      "longitude": 75.753367,
+      "address": "BIJAPUR, Bijapur, Karnataka, 586122, India",
+      "area": "BIJAPUR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.742542,75.753367",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9489,
+      "station_name": "KA | Vijayapura | Narayan Hyundai ",
+      "latitude": 16.797286,
+      "longitude": 75.733745,
+      "address": "Sy. No. 7/B, Vijayapura, Karnataka, 586109, India",
+      "area": "Sy. No. 7/B",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.797286,75.733745",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 12491,
+      "station_name": "ID(3a7ckn) Hundekar petroleum",
+      "latitude": 16.85992,
+      "longitude": 75.727425,
+      "address": "Sector 76B, Vijayapura, Karnataka, 586101, India",
+      "area": "Sector 76B",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.85992,75.727425",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.99
+  ],
+  "scraped_at": "2026-05-21T07:59:25.361742+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

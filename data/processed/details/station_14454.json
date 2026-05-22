@@ -1,0 +1,198 @@
+{
+  "station_id": 14454,
+  "station_detail": {
+    "station_id": 14454,
+    "station_name": "Jeeva Fuel Zone",
+    "latitude": 11.22733,
+    "longitude": 77.096007,
+    "address": "Coimbatore, Coimbatore, Tamil Nadu, 641653, India",
+    "area": "Coimbatore",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.22733,77.096007",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8610 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 66801,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 31124,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 31125,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "Jeeva Fuel Zone",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Coimbatore",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14454,
+      "station_name": "Jeeva Fuel Zone",
+      "latitude": 11.22733,
+      "longitude": 77.096007,
+      "address": "Coimbatore, Coimbatore, Tamil Nadu, 641653, India",
+      "area": "Coimbatore",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.22733,77.096007",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14260,
+      "station_name": "Thangavel Fuels",
+      "latitude": 11.221244,
+      "longitude": 77.139524,
+      "address": "Coimbatore, Coimbatore, Tamil Nadu, 641653, India",
+      "area": "Coimbatore",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.221244,77.139524",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9279,
+      "station_name": "Vetri Vinayakar Agencies",
+      "latitude": 11.163081,
+      "longitude": 77.051521,
+      "address": "Coimbatore, Coimbatore, Tamil Nadu, 641107, India",
+      "area": "Coimbatore",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.163081,77.051521",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12650,
+      "station_name": "id(jmfeqq)SAM PETROLEUM",
+      "latitude": 11.144417,
+      "longitude": 77.160544,
+      "address": "Mopperipalayam, Mopperipalayam, Tamil Nadu, 641659, India",
+      "area": "Mopperipalayam",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.144417,77.160544",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 14271,
+      "station_name": "SchuF 4W 22kW AC Charger",
+      "latitude": 11.112456,
+      "longitude": 77.134205,
+      "address": "6/13, Karumathampatti, Tamil Nadu, 641659, India",
+      "area": "6/13",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.112456,77.134205",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:13:46.265411+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

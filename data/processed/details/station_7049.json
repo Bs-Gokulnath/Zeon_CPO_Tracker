@@ -1,0 +1,188 @@
+{
+  "station_id": 7049,
+  "station_detail": {
+    "station_id": 7049,
+    "station_name": "2000722-VEEJAY SERVICE STATION ADHOC",
+    "latitude": 28.634552,
+    "longitude": 77.315473,
+    "address": "DELHI, Delhi, Delhi, 110096, India",
+    "area": "DELHI",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.634552,77.315473",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8781 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54890,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13236,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "2000722-VEEJAY SERVICE STATION ADHOC",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Delhi",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7049,
+      "station_name": "2000722-VEEJAY SERVICE STATION ADHOC",
+      "latitude": 28.634552,
+      "longitude": 77.315473,
+      "address": "DELHI, Delhi, Delhi, 110096, India",
+      "area": "DELHI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.634552,77.315473",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 2871,
+      "station_name": "Sunfuel - Park Inn by Radisson New Delhi IP Extens",
+      "latitude": 28.630911,
+      "longitude": 77.314659,
+      "address": "Plot No. 6A, I.P.Extension, New Delhi, Delhi, 110092, India",
+      "area": "Plot No. 6A, I.P.Extension",
+      "avg_review_rating": 4.55,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.630911,77.314659",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15857,
+      "station_name": "DMRC Staff Quarters Vinod Nagar by Reliable Charge DMRC staff quarters, Vinod Nagar Khichripur Rd, Mayur Vihar Phase I, Khichripur, Kalyan Puri, New Delhi, Delhi, 110091",
+      "latitude": 28.6239,
+      "longitude": 77.315619,
+      "address": "DMRC staff quarters, Delhi, Delhi, 110091, India",
+      "area": "DMRC staff quarters",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.6239,77.315619",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 6942,
+      "station_name": "Statiq IGL MCD Dhalao Mayur Vihar Station",
+      "latitude": 28.620647,
+      "longitude": 77.309066,
+      "address": "Opposite Kalyanvas Mayur Vihar Ph-II, Ward No. 11E, Mayur Vihar Ph II, Dhalao Near Gate 4, Pocket C, New Delhi, Delhi, 110022, India",
+      "area": "Opposite Kalyanvas Mayur Vihar Ph-II, Ward No. 11E, Mayur Vihar Ph II, Dhalao Near Gate 4, Pocket C",
+      "avg_review_rating": 4.74,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.620647,77.309066",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 15541,
+      "station_name": "DDA Shopping complex Rajdhani  Enclave by Reliable Charge New Rajdhani Enclave, Swasthya Vihar, Delhi, 110092",
+      "latitude": 28.642883,
+      "longitude": 77.296536,
+      "address": "New Rajdhani Enclave, Delhi, Delhi, 110092, India",
+      "area": "New Rajdhani Enclave",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.642883,77.296536",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:02:09.891697+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

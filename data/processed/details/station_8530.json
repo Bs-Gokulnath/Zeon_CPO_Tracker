@@ -1,0 +1,204 @@
+{
+  "station_id": 8530,
+  "station_detail": {
+    "station_id": 8530,
+    "station_name": "MH | Pune | R R Kirad Hyundai",
+    "latitude": 18.497866,
+    "longitude": 73.961178,
+    "address": "Survey No. 80, Pune, Maharashtra, 412307, India",
+    "area": "Survey No. 80",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.497866,73.961178",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8327 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.75,
+    "no_of_reviews": 20,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 57021,
+        "price_with_currency": "₹ 21.5",
+        "price": 21.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16127,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 16128,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "TCZ MH | Pune | R R Kirad Hyundai 1",
+        "last_used_on": "19/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 10,
+        "4": 5,
+        "5": 85
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Pune",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8530,
+      "station_name": "MH | Pune | R R Kirad Hyundai",
+      "latitude": 18.497866,
+      "longitude": 73.961178,
+      "address": "Survey No. 80, Pune, Maharashtra, 412307, India",
+      "area": "Survey No. 80",
+      "avg_review_rating": 4.75,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.497866,73.961178",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 13875,
+      "station_name": "Building No-4, EV Charger no-3-4W",
+      "latitude": 18.492043,
+      "longitude": 73.953486,
+      "address": "Phursungi, Pune, Maharashtra, 412308, India",
+      "area": "Phursungi",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.492043,73.953486",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    },
+    {
+      "id": 13746,
+      "station_name": "Building no-5, 4W- EV02",
+      "latitude": 18.49019,
+      "longitude": 73.954596,
+      "address": "Phursungi, Pune, Maharashtra, 412308, India",
+      "area": "Phursungi",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.49019,73.954596",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    },
+    {
+      "id": 13629,
+      "station_name": "Building no-5 - 4W - EV01",
+      "latitude": 18.490151,
+      "longitude": 73.954555,
+      "address": "Phursungi, Pune, Maharashtra, 412308, India",
+      "area": "Phursungi",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.490151,73.954555",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    },
+    {
+      "id": 14129,
+      "station_name": "Building 2 - 4W",
+      "latitude": 18.490864,
+      "longitude": 73.951992,
+      "address": "Phursungi, Pune, Maharashtra, 412308, India",
+      "area": "Phursungi",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.490864,73.951992",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.5
+  ],
+  "scraped_at": "2026-05-21T08:04:43.689765+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

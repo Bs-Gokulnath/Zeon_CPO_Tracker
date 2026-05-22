@@ -1,0 +1,194 @@
+{
+  "station_id": 6640,
+  "station_detail": {
+    "station_id": 6640,
+    "station_name": "VINAYAK PETROL PUMP",
+    "latitude": 15.900546,
+    "longitude": 74.773232,
+    "address": "BHARAT PETROLEUM CORPORATION LTD, NESARGI, BAILHONGAL TALUK, NESARGI,591121 BELGAUM, INDIA, Belgaum, Karnataka, 591121, India",
+    "area": "BHARAT PETROLEUM CORPORATION LTD, NESARGI, BAILHONGAL TALUK, NESARGI,591121 BELGAUM, INDIA",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.900546,74.773232",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8390 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.67,
+    "no_of_reviews": 6,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54158,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 12246,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "VINAYAK PETROL PUMP - EV DC Charger 30Kw",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 17,
+        "4": 0,
+        "5": 83
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Belgaum",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 6640,
+      "station_name": "VINAYAK PETROL PUMP",
+      "latitude": 15.900546,
+      "longitude": 74.773232,
+      "address": "BHARAT PETROLEUM CORPORATION LTD, NESARGI, BAILHONGAL TALUK, NESARGI,591121 BELGAUM, INDIA, Belgaum, Karnataka, 591121, India",
+      "area": "BHARAT PETROLEUM CORPORATION LTD, NESARGI, BAILHONGAL TALUK, NESARGI,591121 BELGAUM, INDIA",
+      "avg_review_rating": 4.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.900546,74.773232",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 11130,
+      "station_name": "M/s. BOLANNAVAR PETROLEUMS",
+      "latitude": 15.821046,
+      "longitude": 74.850269,
+      "address": "Belgaum, Belgaum, Karnataka, 591102, India",
+      "area": "Belgaum",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.821046,74.850269",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 14791,
+      "station_name": "JAI HANUMAN PETROLEUM",
+      "latitude": 15.868404,
+      "longitude": 74.597713,
+      "address": "Belgaum, Belgaum, Karnataka, 591124, India",
+      "area": "Belgaum",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.868404,74.597713",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13002,
+      "station_name": "ID(c2jfey) Highway Fuel Point",
+      "latitude": 15.73334,
+      "longitude": 74.683166,
+      "address": "M K Hubli, M K Hubli, Karnataka, 591118, India",
+      "area": "M K Hubli",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.73334,74.683166",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 7224,
+      "station_name": "2018311-SHRI MAHALINGESHWAR PETROLEUMS",
+      "latitude": 15.805791,
+      "longitude": 74.575337,
+      "address": "BASTAWAD VILLAGE,BELGAUM DISTRICT, Bilgi, Karnataka, 590020, India",
+      "area": "BASTAWAD VILLAGE,BELGAUM DISTRICT",
+      "avg_review_rating": 4.84,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.805791,74.575337",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:01:34.832241+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

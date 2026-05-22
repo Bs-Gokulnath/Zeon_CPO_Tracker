@@ -1,0 +1,218 @@
+{
+  "station_id": 1236,
+  "station_detail": {
+    "station_id": 1236,
+    "station_name": "Sunfuel - The Westin Pushkar Resort & Spa",
+    "latitude": 26.4547,
+    "longitude": 74.504601,
+    "address": "The Westin Pushkar Resort & Spa, Khasra No. 1242 1243, 1196/1726, Village Surajkund, Motisar Rd, Pushkar, Rajasthan, 305022, India",
+    "area": "The Westin Pushkar Resort & Spa, Khasra No. 1242 1243, 1196/1726, Village Surajkund, Motisar Rd",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.4547,74.504601",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8478 kms",
+    "operational_time": "00:00 To 23:59",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 3.77,
+    "no_of_reviews": 13,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/AC.png",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Sunfuel+Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 247,
+        "price_with_currency": "₹ 15.72",
+        "price": 15.72,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 363,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.7,
+        "charger_name": "Sunfuel - The Westin Pushkar Resort & Spa 1",
+        "last_used_on": "15/06/2024"
+      },
+      {
+        "charger_id": 313,
+        "price_with_currency": "₹ 15.72",
+        "price": 15.72,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 449,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.7,
+        "charger_name": "Sunfuel - The Westin Pushkar Resort & Spa 2",
+        "last_used_on": "26/03/2024"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 15,
+        "2": 8,
+        "3": 8,
+        "4": 23,
+        "5": 46
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Pushkar",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 7.7,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 1236,
+      "station_name": "Sunfuel - The Westin Pushkar Resort & Spa",
+      "latitude": 26.4547,
+      "longitude": 74.504601,
+      "address": "The Westin Pushkar Resort & Spa, Khasra No. 1242 1243, 1196/1726, Village Surajkund, Motisar Rd, Pushkar, Rajasthan, 305022, India",
+      "area": "The Westin Pushkar Resort & Spa, Khasra No. 1242 1243, 1196/1726, Village Surajkund, Motisar Rd",
+      "avg_review_rating": 3.77,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.4547,74.504601",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 14351,
+      "station_name": "Pushkar Fort - Luxury Heritage Resort",
+      "latitude": 26.486519,
+      "longitude": 74.532463,
+      "address": "Ganahera, Ajmer, Rajasthan, 305022, India",
+      "area": "Ganahera",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.486519,74.532463",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/unavailable+select.png"
+    },
+    {
+      "id": 9904,
+      "station_name": "Bamboo Saa Mulberry Resort",
+      "latitude": 26.500505,
+      "longitude": 74.54831,
+      "address": "Sunil Gour Devnagar Rd, Pushkar, Rajasthan, 305001, India",
+      "area": "Sunil Gour Devnagar Rd",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.500505,74.54831",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 14901,
+      "station_name": "1810 AD Pushkar - ChargeJet",
+      "latitude": 26.499621,
+      "longitude": 74.591724,
+      "address": "24 Village, Pushkar, Rajasthan, 305022, India",
+      "area": "24 Village",
+      "avg_review_rating": 4.88,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.499621,74.591724",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargeJet_Branding_Logo_Pin.png"
+    },
+    {
+      "id": 12539,
+      "station_name": "ID(68843e)Awat kala filling station",
+      "latitude": 26.375666,
+      "longitude": 74.625539,
+      "address": "Jodhpur - Jaipur Road, Jaipur, Rajasthan, 305206, India",
+      "area": "Jodhpur - Jaipur Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.375666,74.625539",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    }
+  ],
+  "ac_count": 2,
+  "dc_count": 0,
+  "ac_prices": [
+    15.72,
+    15.72
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T07:58:59.633609+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

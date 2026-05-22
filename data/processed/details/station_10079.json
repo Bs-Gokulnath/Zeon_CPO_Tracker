@@ -1,0 +1,197 @@
+{
+  "station_id": 10079,
+  "station_detail": {
+    "station_id": 10079,
+    "station_name": "2023897-DURGESH PETROLEUM",
+    "latitude": 20.00409,
+    "longitude": 76.35034,
+    "address": "GATE NO 66P GOVARDHAN NAGAR, Buldhana, Maharashtra, 443001, India",
+    "area": "GATE NO 66P GOVARDHAN NAGAR",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.00409,76.35034",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8592 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": "SINDH KHED RAJA",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 59261,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 19848,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 19849,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "2023897-DURGESH PETROLEUM",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Buldhana",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10079,
+      "station_name": "2023897-DURGESH PETROLEUM",
+      "latitude": 20.00409,
+      "longitude": 76.35034,
+      "address": "GATE NO 66P GOVARDHAN NAGAR, Buldhana, Maharashtra, 443001, India",
+      "area": "GATE NO 66P GOVARDHAN NAGAR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.00409,76.35034",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10074,
+      "station_name": "2012123-JAY KAMALAJAA PETROLEUM",
+      "latitude": 19.99212,
+      "longitude": 76.52403,
+      "address": "SURVEY NO 216,TA: BULDANA, Buldhana, Maharashtra, 444101, India",
+      "area": "SURVEY NO 216,TA: BULDANA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.99212,76.52403",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 6763,
+      "station_name": "Varad Petroleum",
+      "latitude": 19.691525,
+      "longitude": 76.246105,
+      "address": "GUT NO. 116, YADALAPUR,JALNA-MANTH RD, PO WATUR TAL-PARTUR, DISTRICT - JALNA, Jalna, Maharashtra, 431501, India",
+      "area": "GUT NO. 116, YADALAPUR,JALNA-MANTH RD, PO WATUR TAL-PARTUR, DISTRICT - JALNA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.691525,76.246105",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 6927,
+      "station_name": "250884 LAXMI CHANDRA BECHARDAS ADHOC",
+      "latitude": 19.91821,
+      "longitude": 75.99413,
+      "address": "BHARAT PETROLEUM CORPN. LTD,   SAMRUDDHI MAHAMARG-   MUMBAI NAGPUR EXPRESSWAY  GUT NO- 16, Village : KADVANCHI,   City – JALNA, Ahmednagar, Maharashtra, 431203, India",
+      "area": "BHARAT PETROLEUM CORPN. LTD,   SAMRUDDHI MAHAMARG-   MUMBAI NAGPUR EXPRESSWAY  GUT NO- 16, Village : KADVANCHI,   City – JALNA",
+      "avg_review_rating": 4.35,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.91821,75.99413",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 6766,
+      "station_name": "Vijay Auto Services",
+      "latitude": 19.650563,
+      "longitude": 76.345482,
+      "address": "GUT NO 127, KENDHALI SHIVAR, JALNA MANTHA ROAD , TAL- MANTHA, DISTRICT - JALNA, Jalna, Maharashtra, 431504, India",
+      "area": "GUT NO 127, KENDHALI SHIVAR, JALNA MANTHA ROAD , TAL- MANTHA, DISTRICT - JALNA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.650563,76.345482",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:07:55.090539+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

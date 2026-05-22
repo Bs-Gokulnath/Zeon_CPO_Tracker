@@ -1,0 +1,111 @@
+{
+  "station_id": 1796,
+  "station_detail": {
+    "station_id": 1796,
+    "station_name": "Sunfuel - Radisson Blu Plaza Hotel Mysore",
+    "latitude": 12.2989,
+    "longitude": 76.665398,
+    "address": "NO.1, M.G.ROAD, , Mysore, Karnataka, 570010, India",
+    "area": "NO.1, M.G.ROAD, ",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.2989,76.665398",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8569 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 3.56,
+    "no_of_reviews": 62,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/AC.png",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Sunfuel+Banner.png",
+    "landmark": "None",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 1260,
+        "price_with_currency": "₹ 22.19",
+        "price": 22.19,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 1656,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.7,
+        "charger_name": "Sunfuel - Radisson Blu Plaza Hotel Mysore 1",
+        "last_used_on": "20/04/2026"
+      },
+      {
+        "charger_id": 1261,
+        "price_with_currency": "₹ 22.19",
+        "price": 22.19,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 1657,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.7,
+        "charger_name": "Sunfuel - Radisson Blu Plaza Hotel Mysore 2",
+        "last_used_on": "10/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 27,
+        "2": 0,
+        "3": 6,
+        "4": 21,
+        "5": 45
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Mysore",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 7.7,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [],
+  "ac_count": 2,
+  "dc_count": 0,
+  "ac_prices": [
+    22.19,
+    22.19
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T07:59:13.101221+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

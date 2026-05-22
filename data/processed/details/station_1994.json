@@ -1,0 +1,210 @@
+{
+  "station_id": 1994,
+  "station_detail": {
+    "station_id": 1994,
+    "station_name": "Torrent Power - Prahladnagar EV Charging Station ",
+    "latitude": 23.013746,
+    "longitude": 72.506477,
+    "address": "33, Plug Point, Nr. Auda Garden, Ahmedabad, Gujarat, 380015, India",
+    "area": "33, Plug Point, Nr. Auda Garden",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.013746,72.506477",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8230 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.68,
+    "no_of_reviews": 7133,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Torrent_Banner1.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 414,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 2116,
+        "price_with_currency": "₹ 13.0",
+        "price": 13.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 3072,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 3073,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Prahladnagar Plug Point DC Charger",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 4,
+        "2": 1,
+        "3": 2,
+        "4": 10,
+        "5": 83
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ahmedabad",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 1994,
+      "station_name": "Torrent Power - Prahladnagar EV Charging Station ",
+      "latitude": 23.013746,
+      "longitude": 72.506477,
+      "address": "33, Plug Point, Nr. Auda Garden, Ahmedabad, Gujarat, 380015, India",
+      "area": "33, Plug Point, Nr. Auda Garden",
+      "avg_review_rating": 4.68,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.013746,72.506477",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/torrent_map_pin.png"
+    },
+    {
+      "id": 14147,
+      "station_name": "Royal Orchid 4W",
+      "latitude": 23.006748,
+      "longitude": 72.506188,
+      "address": "Prahlad Nagar, Ahmedabad, Gujarat, 380015, India",
+      "area": "Prahlad Nagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.006748,72.506188",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+default+(8).png"
+    },
+    {
+      "id": 6670,
+      "station_name": "Autobots Volvo Showroom",
+      "latitude": 23.000463,
+      "longitude": 72.499908,
+      "address": "G2 & G3, Bhaskar House, Near Y.M.C.A. Club, S.G. Highway,, Ahmedabad, Gujarat, 380055, India",
+      "area": "G2 & G3, Bhaskar House, Near Y.M.C.A. Club, S.G. Highway,",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.000463,72.499908",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 8467,
+      "station_name": "GJ | Ahmedabad | Courtyard By Marriott",
+      "latitude": 23.027638,
+      "longitude": 72.512553,
+      "address": "Ramdev Nagar Cross Road, Ahmedabad, Gujarat, 380015, India",
+      "area": "Ramdev Nagar Cross Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.027638,72.512553",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 4977,
+      "station_name": "GLIDA MG Ahmedabad",
+      "latitude": 22.996682,
+      "longitude": 72.498227,
+      "address": "MG Ahmedabad Makarba MG Ahmedabad Plot no 2, Ahmedabad, Gujarat, 380051, India",
+      "area": "MG Ahmedabad Makarba MG Ahmedabad Plot no 2",
+      "avg_review_rating": 4.31,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.996682,72.498227",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    13.0
+  ],
+  "scraped_at": "2026-05-21T07:59:19.287394+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

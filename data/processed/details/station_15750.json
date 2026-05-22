@@ -1,0 +1,217 @@
+{
+  "station_id": 15750,
+  "station_detail": {
+    "station_id": 15750,
+    "station_name": "KKP Renewables | Prabha EV | 3.3 kW",
+    "latitude": 8.734438,
+    "longitude": 76.897984,
+    "address": "PVMX+Q5H, Thiruvananthapuram, Kerala, 695612, India",
+    "area": "PVMX+Q5H",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.734438,76.897984",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8577 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Prabha_Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 69399,
+        "price_with_currency": "₹ 21.5",
+        "price": 21.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35057,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "AMK KKP Renewables | Prabha EV | 3.3 kW 1",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 69639,
+        "price_with_currency": "₹ 21.5",
+        "price": 21.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35363,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "AMK KKP Renewables | Prabha EV | 3.3 kW 2",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Thiruvananthapuram",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 3.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15750,
+      "station_name": "KKP Renewables | Prabha EV | 3.3 kW",
+      "latitude": 8.734438,
+      "longitude": 76.897984,
+      "address": "PVMX+Q5H, Thiruvananthapuram, Kerala, 695612, India",
+      "area": "PVMX+Q5H",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.734438,76.897984",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Prabha_map_pin.png"
+    },
+    {
+      "id": 12416,
+      "station_name": "chargeMOD | Vazhiyorakkada Hotel | Kilimanoor | EVOK",
+      "latitude": 8.785806,
+      "longitude": 76.883827,
+      "address": "Kilimanoor - Kottarakkara Rd, Trivandrum, Kerala, 695601, India",
+      "area": "Kilimanoor - Kottarakkara Rd",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.785806,76.883827",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 11973,
+      "station_name": "KCCS FUELS",
+      "latitude": 8.652395,
+      "longitude": 76.907463,
+      "address": "KOLIYACODE, POTHENCODE TO VENJARAMOODU, THIRUVANANTHAPURAM, Ernakulam, Kerala, 695607, India",
+      "area": "KOLIYACODE, POTHENCODE TO VENJARAMOODU, THIRUVANANTHAPURAM",
+      "avg_review_rating": 4.5,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.652395,76.907463",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 5716,
+      "station_name": "chargeMOD | KERALAEV EVCS VEMBAYAM",
+      "latitude": 8.651895,
+      "longitude": 76.928,
+      "address": "Vattappara-Thattathumala Road, Thiruvananthapuram, Kerala, 695615, India",
+      "area": "Vattappara-Thattathumala Road",
+      "avg_review_rating": 4.36,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.651895,76.928",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 5622,
+      "station_name": "chargeMOD | Edackodu Bank EVCS",
+      "latitude": 8.671912,
+      "longitude": 76.834833,
+      "address": "Edackodu Service Co-operative Bank, Thiruvananthapuram, Kerala, 676506, India",
+      "area": "Edackodu Service Co-operative Bank",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.671912,76.834833",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    }
+  ],
+  "ac_count": 2,
+  "dc_count": 0,
+  "ac_prices": [
+    21.5,
+    21.5
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:16:40.501004+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

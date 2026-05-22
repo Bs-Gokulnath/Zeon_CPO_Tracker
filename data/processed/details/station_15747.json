@@ -1,0 +1,222 @@
+{
+  "station_id": 15747,
+  "station_detail": {
+    "station_id": 15747,
+    "station_name": "KC Charging | Prabha EV | 30 kW",
+    "latitude": 11.435227,
+    "longitude": 75.954328,
+    "address": "CXM3+XPJ, Kozhikode, Kerala, 673573, India",
+    "area": "CXM3+XPJ",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.435227,75.954328",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8486 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Prabha_Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 69394,
+        "price_with_currency": "₹ 21.5",
+        "price": 21.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35052,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "AMK KC Charging | Prabha EV | 30 kW 1",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 69641,
+        "price_with_currency": "₹ 21.5",
+        "price": 21.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35366,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "AMK KC Charging | Prabha EV | 30 kW 2",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Kozhikode",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15747,
+      "station_name": "KC Charging | Prabha EV | 30 kW",
+      "latitude": 11.435227,
+      "longitude": 75.954328,
+      "address": "CXM3+XPJ, Kozhikode, Kerala, 673573, India",
+      "area": "CXM3+XPJ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.435227,75.954328",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Prabha_offline_pin.png"
+    },
+    {
+      "id": 15103,
+      "station_name": "Blexy Petroleum",
+      "latitude": 11.4072,
+      "longitude": 75.932,
+      "address": "BHARAT PETROLEUM RETAIL OUTLET AT THAMARASSERY,CALICUT, Calicut, Kerala, 673573, India",
+      "area": "BHARAT PETROLEUM RETAIL OUTLET AT THAMARASSERY,CALICUT",
+      "avg_review_rating": 4.48,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.4072,75.932",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 15860,
+      "station_name": "EQ EV | Prabha EV | 120 kW / EQ EV | Prabha EV | 3.3 kW",
+      "latitude": 11.480937,
+      "longitude": 75.975547,
+      "address": "FXJG+F66, Kozhikode, Kerala, 673586, India",
+      "area": "FXJG+F66",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.480937,75.975547",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Prabha_map_pin.png"
+    },
+    {
+      "id": 7080,
+      "station_name": "2001225-M/S.K.M.R.PETROLEUM",
+      "latitude": 11.483621,
+      "longitude": 76.008542,
+      "address": "KOZHIKODE, Kozhikode, Kerala, 673001, India",
+      "area": "KOZHIKODE",
+      "avg_review_rating": 4.55,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.483621,76.008542",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+charging.png"
+    },
+    {
+      "id": 5612,
+      "station_name": "chargeMOD | LOCUS EVCS DC FAST CALICUT",
+      "latitude": 11.339766,
+      "longitude": 75.89873,
+      "address": "Hanging Bridge, Kozhikode, Kerala, 673571, India",
+      "area": "Hanging Bridge",
+      "avg_review_rating": 3.83,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.339766,75.89873",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 2,
+  "ac_prices": [],
+  "dc_prices": [
+    21.5,
+    21.5
+  ],
+  "scraped_at": "2026-05-21T08:16:40.525914+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

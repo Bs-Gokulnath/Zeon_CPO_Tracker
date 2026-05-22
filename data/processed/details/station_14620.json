@@ -1,0 +1,204 @@
+{
+  "station_id": 14620,
+  "station_detail": {
+    "station_id": 14620,
+    "station_name": "Sri Ram Enterprisess",
+    "latitude": 10.645703,
+    "longitude": 76.974019,
+    "address": "Coimbatore, Coimbatore, Tamil Nadu, 642004, India",
+    "area": "Coimbatore",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.645703,76.974019",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8594 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.4,
+    "no_of_reviews": 55,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 67404,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 31860,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 31861,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "Sri Ram Enterprisess",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 7,
+        "2": 0,
+        "3": 4,
+        "4": 24,
+        "5": 65
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Coimbatore",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14620,
+      "station_name": "Sri Ram Enterprisess",
+      "latitude": 10.645703,
+      "longitude": 76.974019,
+      "address": "Coimbatore, Coimbatore, Tamil Nadu, 642004, India",
+      "area": "Coimbatore",
+      "avg_review_rating": 4.4,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.645703,76.974019",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 14593,
+      "station_name": "PTLUS-unit II",
+      "latitude": 10.669099,
+      "longitude": 76.98083,
+      "address": "NALLUR, SFNO 60/3&60/4 POLLACHI-PALGHAT RD,NALLUR, NALLUR, POLLACHI, COIMBATORE - 642005, Coimbatore, Tamil Nadu, 642005, India",
+      "area": "NALLUR, SFNO 60/3&60/4 POLLACHI-PALGHAT RD,NALLUR, NALLUR, POLLACHI, COIMBATORE - 642005",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.669099,76.98083",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12021,
+      "station_name": "Mm Petro Fuels",
+      "latitude": 10.662353,
+      "longitude": 77.004011,
+      "address": "45/2,PALAKKAD MAIN ROAD,POLLACHI TOWN,PO, 45/2,PALAKKAD MAIN ROAD,POLLACHI TOWN,PO, POLLACHI, POLLACHI, COIMBATORE - 642001, Coimbatore, Tamil Nadu, 642001, India",
+      "area": "45/2,PALAKKAD MAIN ROAD,POLLACHI TOWN,PO, 45/2,PALAKKAD MAIN ROAD,POLLACHI TOWN,PO, POLLACHI, POLLACHI, COIMBATORE - 642001",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.662353,77.004011",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13537,
+      "station_name": "Jeyasurya Agency",
+      "latitude": 10.634,
+      "longitude": 77.00805,
+      "address": "Coimbatore, Coimbatore, Tamil Nadu, 642006, India",
+      "area": "Coimbatore",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.634,77.00805",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14592,
+      "station_name": "N.MAHALINGAM & CO.",
+      "latitude": 10.667991,
+      "longitude": 77.007135,
+      "address": "PLOT NO.11, COIMBATORE ROAD, POLLACHI, POLLACHI, COIMBATORE - 642002, Coimbatore, Tamil Nadu, 642002, India",
+      "area": "PLOT NO.11, COIMBATORE ROAD, POLLACHI, POLLACHI, COIMBATORE - 642002",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.667991,77.007135",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:14:03.361305+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

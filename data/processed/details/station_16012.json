@@ -1,0 +1,198 @@
+{
+  "station_id": 16012,
+  "station_detail": {
+    "station_id": 16012,
+    "station_name": "TN | Kanchipuram | Sarovar Portico",
+    "latitude": 12.938607,
+    "longitude": 79.91367,
+    "address": "Nenmeli, Kanchipuram, Tamil Nadu, 602105, India",
+    "area": "Nenmeli",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.938607,79.91367",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8924 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 70074,
+        "price_with_currency": "₹ 21.0",
+        "price": 21.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 36079,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 36080,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "TCZ TN | Kanchipuram | Sarovar Portico 1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Kanchipuram",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 16012,
+      "station_name": "TN | Kanchipuram | Sarovar Portico",
+      "latitude": 12.938607,
+      "longitude": 79.91367,
+      "address": "Nenmeli, Kanchipuram, Tamil Nadu, 602105, India",
+      "area": "Nenmeli",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.938607,79.91367",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8656,
+      "station_name": "TN | Chennai | Fairfield By Marriott - Sriperumbudur",
+      "latitude": 12.932786,
+      "longitude": 79.90579,
+      "address": "Sf No 153/6A Sipcot Industrial Park, Chennai, Tamil Nadu, 602106, India",
+      "area": "Sf No 153/6A Sipcot Industrial Park",
+      "avg_review_rating": 4.69,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.932786,79.90579",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 15983,
+      "station_name": "TN | Sriperumbudur | Pondur - Oragadam(Private)",
+      "latitude": 12.928314,
+      "longitude": 79.934471,
+      "address": "WWHM+4F8, Sriperumbudur, Tamil Nadu, 602105, India",
+      "area": "WWHM+4F8",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.928314,79.934471",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 12112,
+      "station_name": "TN | Sriperumbudur | Pondur - Oragadam",
+      "latitude": 12.928314,
+      "longitude": 79.934471,
+      "address": "WWHM+4F8, Sriperumbudur, Tamil Nadu, 602105, India",
+      "area": "WWHM+4F8",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.928314,79.934471",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 8896,
+      "station_name": "SSM AGENCIES",
+      "latitude": 12.955034,
+      "longitude": 79.939591,
+      "address": "SY NO 1569, VRP CHATRAM, NH4, Kanchipuram, Tamil Nadu, 602105, India",
+      "area": "SY NO 1569, VRP CHATRAM, NH4",
+      "avg_review_rating": 4.75,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.955034,79.939591",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.0
+  ],
+  "scraped_at": "2026-05-21T08:17:17.254658+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

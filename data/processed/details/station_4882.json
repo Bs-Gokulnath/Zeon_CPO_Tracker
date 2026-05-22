@@ -1,0 +1,198 @@
+{
+  "station_id": 4882,
+  "station_detail": {
+    "station_id": 4882,
+    "station_name": "HMR Yousufguda",
+    "latitude": 17.43522,
+    "longitude": 78.427565,
+    "address": "A-91, Hyderabad, Telangana, 500045, India",
+    "area": "A-91",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.43522,78.427565",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8790 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 6,
+        "connector_name": "GBT",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Glida+Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68640,
+        "price_with_currency": "₹ 18.99",
+        "price": 18.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33914,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 6,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 33915,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 6,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 40.0,
+        "charger_name": "FCD GLIDA HMR Yousufguda 2",
+        "last_used_on": "09/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Hyderabad",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 40.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 4882,
+      "station_name": "HMR Yousufguda",
+      "latitude": 17.43522,
+      "longitude": 78.427565,
+      "address": "A-91, Hyderabad, Telangana, 500045, India",
+      "area": "A-91",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.43522,78.427565",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/unavailable+select.png"
+    },
+    {
+      "id": 2003,
+      "station_name": "Krishna Kanth Park Charging Station",
+      "latitude": 17.44124,
+      "longitude": 78.431824,
+      "address": "Street No 4, Vamika Arcade, Hyderabad, Telangana, 500045, India",
+      "area": "Street No 4, Vamika Arcade",
+      "avg_review_rating": 3.68,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.44124,78.431824",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 10321,
+      "station_name": "33/11 KV Model Substation Erragadda",
+      "latitude": 17.444579,
+      "longitude": 78.42869,
+      "address": "Erragadda, Hyderabad, Telangana, 500018, India",
+      "area": "Erragadda",
+      "avg_review_rating": 4.2,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.444579,78.42869",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 6559,
+      "station_name": "REIL TSSPDCL Directors quarters",
+      "latitude": 17.444731,
+      "longitude": 78.431068,
+      "address": "AP Transco, Hyderabad, Telangana, 500045, India",
+      "area": "AP Transco",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.444731,78.431068",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8585,
+      "station_name": "KBR Park Gate No.03, Jubilee Hills, Hyderabad",
+      "latitude": 17.425592,
+      "longitude": 78.418813,
+      "address": "Jubilee Hills, Hyderabad, Telangana, 500096, India",
+      "area": "Jubilee Hills",
+      "avg_review_rating": 2.15,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.425592,78.418813",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    18.99
+  ],
+  "scraped_at": "2026-05-21T08:00:01.103811+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

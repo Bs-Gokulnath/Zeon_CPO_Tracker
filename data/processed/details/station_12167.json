@@ -1,0 +1,203 @@
+{
+  "station_id": 12167,
+  "station_detail": {
+    "station_id": 12167,
+    "station_name": "chargeMOD | Akshaya EVCS | Kazhakkoottam",
+    "latitude": 8.565411,
+    "longitude": 76.874478,
+    "address": "ABACUS AKSHAYA BUILDING, Thiruvananthapuram, Kerala, 695582, India",
+    "area": "ABACUS AKSHAYA BUILDING",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.565411,76.874478",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8574 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Chargemod+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 63560,
+        "price_with_currency": "₹ 20.88",
+        "price": 20.88,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26495,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 26496,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "CMD chargeMOD | Akshaya EV Fast Charging Station  1",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Thiruvananthapuram",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12167,
+      "station_name": "chargeMOD | Akshaya EVCS | Kazhakkoottam",
+      "latitude": 8.565411,
+      "longitude": 76.874478,
+      "address": "ABACUS AKSHAYA BUILDING, Thiruvananthapuram, Kerala, 695582, India",
+      "area": "ABACUS AKSHAYA BUILDING",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.565411,76.874478",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 5867,
+      "station_name": "chargeMOD | TECHNOPARK EVCS TRIVANDRUM",
+      "latitude": 8.560351,
+      "longitude": 76.878112,
+      "address": "Only for Technopark Staffs - Nila building, Thiruvananthapuram, Kerala, 695581, India",
+      "area": "Only for Technopark Staffs - Nila building",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.560351,76.878112",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(3).png"
+    },
+    {
+      "id": 5527,
+      "station_name": "chargeMOD | V KAY SUPERMARKET EVCS KAZHAKKOOTTAM | EVOK - CHARGEMOD",
+      "latitude": 8.575188,
+      "longitude": 76.868406,
+      "address": "Kanyakumari - selam hwy, Thiruvananthapuram, Kerala, 676506, India",
+      "area": "Kanyakumari - selam hwy",
+      "avg_review_rating": 4.38,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.575188,76.868406",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 10562,
+      "station_name": "chargeMOD | chargeMOD Corporate Office",
+      "latitude": 8.553556,
+      "longitude": 76.876479,
+      "address": "Near Technopark Phase 1, Thiruvananthapuram, Kerala, 695582, India",
+      "area": "Near Technopark Phase 1",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.553556,76.876479",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 12230,
+      "station_name": "chargeMOD | Hybrid Cabs EVCS | Kazhakuttom",
+      "latitude": 8.552514,
+      "longitude": 76.874509,
+      "address": "Kazhakuttom Railway Station Rd, Thiruvananthapuram, Kerala, 695582, India",
+      "area": "Kazhakuttom Railway Station Rd",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.552514,76.874509",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(3).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    20.88
+  ],
+  "scraped_at": "2026-05-21T08:11:27.363231+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

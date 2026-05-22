@@ -1,0 +1,221 @@
+{
+  "station_id": 12193,
+  "station_detail": {
+    "station_id": 12193,
+    "station_name": "Statiq Prestige Cyber Greens Station",
+    "latitude": 10.011039,
+    "longitude": 76.367808,
+    "address": "Prestige Cyber Greens, Smart City Rd, Kakkanad, Kochi, Kerala, 682030, India",
+    "area": "Prestige Cyber Greens, Smart City Rd, Kakkanad",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.011039,76.367808",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8524 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.67,
+    "no_of_reviews": 3,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 13289,
+        "id": 1
+      },
+      {
+        "type": "Wifi",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/wifi+.png",
+        "map_id": 13290,
+        "id": 6
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 63616,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26584,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 26585,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 240.0,
+        "charger_name": "Prestige Cyber Greens DC Charger",
+        "last_used_on": "22/10/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 33,
+        "5": 67
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Kochi",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 240.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12193,
+      "station_name": "Statiq Prestige Cyber Greens Station",
+      "latitude": 10.011039,
+      "longitude": 76.367808,
+      "address": "Prestige Cyber Greens, Smart City Rd, Kakkanad, Kochi, Kerala, 682030, India",
+      "area": "Prestige Cyber Greens, Smart City Rd, Kakkanad",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.011039,76.367808",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 5588,
+      "station_name": "chargeMOD | VISMAYA EVCS INFOPARK",
+      "latitude": 10.008107,
+      "longitude": 76.364741,
+      "address": "Vismaya, Ernakulam, Kerala, 682030, India",
+      "area": "Vismaya",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.008107,76.364741",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(3).png"
+    },
+    {
+      "id": 9594,
+      "station_name": "Cognizant Charging Station_CNC_Kochi, Kerala",
+      "latitude": 10.004965,
+      "longitude": 76.375151,
+      "address": "Cognizant Technology Solutions India Private Limited (IN271), 5th - 8th floor, Infopark IT/ITES SEZ, Village Puthencruz and Kunnathunadu, Taluka Kunnathunadu, Ernakulam District, Kerala, City: Kochi S, Kochi, Kerala, 682303, India",
+      "area": "Cognizant Technology Solutions India Private Limited (IN271), 5th - 8th floor, Infopark IT/ITES SEZ, Village Puthencruz and Kunnathunadu, Taluka Kunnathunadu, Ernakulam District, Kerala, City: Kochi S",
+      "avg_review_rating": 4.82,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.004965,76.375151",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 10612,
+      "station_name": "chargeMOD | WE CONNECT  EVCS | Kakkanad",
+      "latitude": 10.00172,
+      "longitude": 76.361564,
+      "address": "Sunpaul Blueberry, Ernakulam, Kerala, 682030, India",
+      "area": "Sunpaul Blueberry",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.00172,76.361564",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 7929,
+      "station_name": "Statiq Wonderla Kochi Station",
+      "latitude": 10.02612,
+      "longitude": 76.392011,
+      "address": "Opposite to Staff Parking, Kumarapuram, PO, Pallikkara, Kochi, Kerala, 683565, India",
+      "area": "Opposite to Staff Parking, Kumarapuram, PO, Pallikkara",
+      "avg_review_rating": 4.53,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.02612,76.392011",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.99
+  ],
+  "scraped_at": "2026-05-21T08:11:34.077640+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

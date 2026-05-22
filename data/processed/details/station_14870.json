@@ -1,0 +1,193 @@
+{
+  "station_id": 14870,
+  "station_detail": {
+    "station_id": 14870,
+    "station_name": "Meru Tower  - 4W",
+    "latitude": 18.985506,
+    "longitude": 72.836168,
+    "address": "Ghodapdeo, Mumbai, Maharashtra, 400033, India",
+    "area": "Ghodapdeo",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.985506,72.836168",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8214 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Gentari+(5).png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 67822,
+        "price_with_currency": "₹ 22.88",
+        "price": 22.88,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 32527,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "BLT Meru Tower  - 4W 1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Mumbai",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 7.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14870,
+      "station_name": "Meru Tower  - 4W",
+      "latitude": 18.985506,
+      "longitude": 72.836168,
+      "address": "Ghodapdeo, Mumbai, Maharashtra, 400033, India",
+      "area": "Ghodapdeo",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.985506,72.836168",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    },
+    {
+      "id": 12775,
+      "station_name": "ID(gnvpfe) BMC APPLO MILL COMPOUND",
+      "latitude": 18.987457,
+      "longitude": 72.829569,
+      "address": "Shastri Nagar, Mumbai, Maharashtra, 400013, India",
+      "area": "Shastri Nagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.987457,72.829569",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 2851,
+      "station_name": "Statiq AdWall Deepak Jyoti Towe Station",
+      "latitude": 18.993055,
+      "longitude": 72.841942,
+      "address": "J D Ambedkar Marg, Mumbai, Maharashtra, 400033, India",
+      "area": "J D Ambedkar Marg",
+      "avg_review_rating": 4.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.993055,72.841942",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 6973,
+      "station_name": "Statiq ITC Grand Central Station",
+      "latitude": 18.998369,
+      "longitude": 72.838777,
+      "address": "In front of the main gate in porch area parking, 287, Dr Baba Saheb Ambedkar Rd, Parel,, Mumbai, Maharashtra, 600032, India",
+      "area": "In front of the main gate in porch area parking, 287, Dr Baba Saheb Ambedkar Rd, Parel,",
+      "avg_review_rating": 4.71,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.998369,72.838777",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 8636,
+      "station_name": "MH | Mumbai | Aarcee Overseas Trading",
+      "latitude": 18.993502,
+      "longitude": 72.848524,
+      "address": "Tokershi Jivraj Rd, Mumbai, Maharashtra, 400015, India",
+      "area": "Tokershi Jivraj Rd",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.993502,72.848524",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    22.88
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:14:33.107765+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

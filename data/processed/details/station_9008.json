@@ -1,0 +1,198 @@
+{
+  "station_id": 9008,
+  "station_detail": {
+    "station_id": 9008,
+    "station_name": "M/s. SIDHART PETROLEUM",
+    "latitude": 22.711054,
+    "longitude": 73.913504,
+    "address": "DAHOD, Dahod, Gujarat, 389380, India",
+    "area": "DAHOD",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.711054,73.913504",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8370 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 57794,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 17398,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 17399,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "M/s. SIDHART PETROLEUM",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Dahod",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9008,
+      "station_name": "M/s. SIDHART PETROLEUM",
+      "latitude": 22.711054,
+      "longitude": 73.913504,
+      "address": "DAHOD, Dahod, Gujarat, 389380, India",
+      "area": "DAHOD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.711054,73.913504",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 11268,
+      "station_name": "TIRTH PETROLEUM",
+      "latitude": 22.808343,
+      "longitude": 73.917604,
+      "address": "DAHOD, Dahod, Gujarat, 389130, India",
+      "area": "DAHOD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.808343,73.917604",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13415,
+      "station_name": "ID(rvevji)HEER petroleum",
+      "latitude": 22.830643,
+      "longitude": 73.959506,
+      "address": "National Highway 47, Pania, Gujarat, 389140, India",
+      "area": "National Highway 47",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.830643,73.959506",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 13148,
+      "station_name": "ID(okgo81)Raj petroleum",
+      "latitude": 22.84053,
+      "longitude": 74.084169,
+      "address": "Dhadhela, Dhadhela, Gujarat, 389140, India",
+      "area": "Dhadhela",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.84053,74.084169",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 13074,
+      "station_name": "ID(j41tnm)Babji petroleum",
+      "latitude": 22.891354,
+      "longitude": 74.025327,
+      "address": "Gujarat State Highway 62, Fatepura, Gujarat, 389146, India",
+      "area": "Gujarat State Highway 62",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.891354,74.025327",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:05:50.763592+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,429 @@
+{
+  "station_id": 8669,
+  "station_detail": {
+    "station_id": 8669,
+    "station_name": "KA | Bengaluru | JW Marriott Hotel - UB City",
+    "latitude": 12.972,
+    "longitude": 77.595253,
+    "address": "24/1, Bengaluru, Karnataka, 560001, India",
+    "area": "24/1",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.972,77.595253",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8673 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.97,
+    "no_of_reviews": 34,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 57176,
+        "price_with_currency": "₹ 22.0",
+        "price": 22.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16422,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 16423,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "TCZ KA | Bengaluru | JW Marriott Hotel - UB City 1",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3,
+        "5": 97
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bengaluru",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8669,
+      "station_name": "KA | Bengaluru | JW Marriott Hotel - UB City",
+      "latitude": 12.972,
+      "longitude": 77.595253,
+      "address": "24/1, Bengaluru, Karnataka, 560001, India",
+      "area": "24/1",
+      "avg_review_rating": 4.97,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.972,77.595253",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 14861,
+      "station_name": "Statiq Marriott Executive Apartment-UB City",
+      "latitude": 12.971726,
+      "longitude": 77.595872,
+      "address": "24, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka, 560001, India",
+      "area": "24, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar",
+      "avg_review_rating": 4.9,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.971726,77.595872",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 7839,
+      "station_name": "KA | Bengaluru | MB#Sundaram Motors Kasturba Road",
+      "latitude": 12.974006,
+      "longitude": 77.596089,
+      "address": "107, Bengaluru, Karnataka, 560001, India",
+      "area": "107",
+      "avg_review_rating": 4.63,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.974006,77.596089",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mercedes_Branding_Logo.png"
+    },
+    {
+      "id": 5182,
+      "station_name": "Statiq ITC Gardenia Station",
+      "latitude": 12.966551,
+      "longitude": 77.596008,
+      "address": "Near Basement Exit, ITC Gardenia, 1, Residency Rd, Ashok Nagar, Bengaluru, Karnataka, 560025, India",
+      "area": "Near Basement Exit, ITC Gardenia, 1, Residency Rd, Ashok Nagar",
+      "avg_review_rating": 4.72,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.966551,77.596008",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 2005,
+      "station_name": "Sunfuel - Bangalore Club",
+      "latitude": 12.97323,
+      "longitude": 77.599731,
+      "address": "No.10, Residency Rd, Shanthala Nagar, Bengaluru, Karnataka, 560025, India",
+      "area": "No.10, Residency Rd, Shanthala Nagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.97323,77.599731",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 4856,
+      "station_name": "GLIDA Audi Bengaluru",
+      "latitude": 12.970142,
+      "longitude": 77.600496,
+      "address": "No 1 & 2, Bengaluru, Karnataka, 560001, India",
+      "area": "No 1 & 2",
+      "avg_review_rating": 4.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.970142,77.600496",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    },
+    {
+      "id": 1180,
+      "station_name": "SunFuel - 27 Summit (Private Charging Only for Residents)",
+      "latitude": 12.96414,
+      "longitude": 77.59422,
+      "address": "Survey No. 18, Sri Ram Mandira Road, Sampangi Rama Nagar, Bengaluru, Karnataka, 560025, India",
+      "area": "Survey No. 18, Sri Ram Mandira Road, Sampangi Rama Nagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.96414,77.59422",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Sunfuel+-+default.png"
+    },
+    {
+      "id": 10283,
+      "station_name": "VECV Bangalore Charging Station",
+      "latitude": 12.962608,
+      "longitude": 77.595114,
+      "address": "No. 35/3, Central Bangalore showroom, Ground Floor Under Richmond Circle Flyover, Langford Rd, Bengaluru, Karnataka 560025, Bengaluru, Karnataka, 560025, India",
+      "area": "No. 35/3, Central Bangalore showroom, Ground Floor Under Richmond Circle Flyover, Langford Rd, Bengaluru, Karnataka 560025",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.962608,77.595114",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 11228,
+      "station_name": "Shell Recharge Prestige Minsk Square - Captive",
+      "latitude": 12.98168,
+      "longitude": 77.59596,
+      "address": "Dr. Ambedkar Road, Bengaluru, Karnataka, 560001, India",
+      "area": "Dr. Ambedkar Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.98168,77.59596",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
+    },
+    {
+      "id": 2215,
+      "station_name": "Statiq Divyasree Chambers Station",
+      "latitude": 12.96162,
+      "longitude": 77.599297,
+      "address": "Divyasree Chambers, 11, Shaughnessy Road, Bengaluru, Karnataka, 560025, India",
+      "area": "Divyasree Chambers, 11, Shaughnessy Road",
+      "avg_review_rating": 4.79,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.96162,77.599297",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 4941,
+      "station_name": "GLIDA Forum Rexwalk Mall",
+      "latitude": 12.972649,
+      "longitude": 77.606954,
+      "address": "Forum rex walk Mall Brigade Road Shanthala nagar Ashok nagar, Bengaluru, Karnataka, 560001, India",
+      "area": "Forum rex walk Mall Brigade Road Shanthala nagar Ashok nagar",
+      "avg_review_rating": 4.43,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.972649,77.606954",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    },
+    {
+      "id": 1806,
+      "station_name": "Sunfuel - Radisson Blu Atria Bengaluru",
+      "latitude": 12.98099,
+      "longitude": 77.586151,
+      "address": "# 1, Palace Rd, Ambedkar Veedhi, Bengaluru, Karnataka, 560001, India",
+      "area": "# 1, Palace Rd, Ambedkar Veedhi",
+      "avg_review_rating": 4.42,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.98099,77.586151",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 14137,
+      "station_name": "Freedom Park 24kW CCS2 (CP-1)",
+      "latitude": 12.978502,
+      "longitude": 77.581334,
+      "address": "Gandhi Nagar, Bengaluru, Karnataka, 560009, India",
+      "area": "Gandhi Nagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.978502,77.581334",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    },
+    {
+      "id": 13697,
+      "station_name": "Freedom Park 24kW CCS2 (CP-2)",
+      "latitude": 12.978492,
+      "longitude": 77.581318,
+      "address": "Gandhi Nagar, Bengaluru, Karnataka, 560009, India",
+      "area": "Gandhi Nagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.978492,77.581318",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    },
+    {
+      "id": 14302,
+      "station_name": "KA | Bengaluru | Prestige Trade Tower ",
+      "latitude": 12.9858,
+      "longitude": 77.587676,
+      "address": "45/1, Bengaluru, Karnataka, 560001, India",
+      "area": "45/1",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.9858,77.587676",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    22.0
+  ],
+  "scraped_at": "2026-05-21T08:05:09.068787+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

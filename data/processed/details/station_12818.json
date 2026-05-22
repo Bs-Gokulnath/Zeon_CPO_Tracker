@@ -1,0 +1,204 @@
+{
+  "station_id": 12818,
+  "station_detail": {
+    "station_id": 12818,
+    "station_name": "2020349-ATARI SALES SERVICES",
+    "latitude": 23.623303,
+    "longitude": 78.041311,
+    "address": "ATARI KHEJDA, Vidisha, Madhya Pradesh, 464001, India",
+    "area": "ATARI KHEJDA",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.623303,78.041311",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8800 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 2,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 64449,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 27939,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 27940,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "ATARI SALES SERVICES",
+        "last_used_on": "27/02/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Vidisha",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12818,
+      "station_name": "2020349-ATARI SALES SERVICES",
+      "latitude": 23.623303,
+      "longitude": 78.041311,
+      "address": "ATARI KHEJDA, Vidisha, Madhya Pradesh, 464001, India",
+      "area": "ATARI KHEJDA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.623303,78.041311",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10473,
+      "station_name": "2010257-PRAKASH PETROLEUM",
+      "latitude": 23.582442,
+      "longitude": 78.328316,
+      "address": "BEGAMGANJ TOWN, FATEHPUR, BEGAMGANJ, Raisen, Madhya Pradesh, 464881, India",
+      "area": "BEGAMGANJ TOWN, FATEHPUR, BEGAMGANJ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.582442,78.328316",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10470,
+      "station_name": "2006792-JUGAL AUTO AGENCIES",
+      "latitude": 23.915831,
+      "longitude": 77.894948,
+      "address": "AMBANAGAR, AMBANAGAR, GANJBASODA, VIDISHA, Vidisha, Madhya Pradesh, 464221, India",
+      "area": "AMBANAGAR, AMBANAGAR, GANJBASODA, VIDISHA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.915831,77.894948",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10479,
+      "station_name": "2006871-SANCHI FUELS",
+      "latitude": 23.35014,
+      "longitude": 77.77235,
+      "address": "SANCHI ROAD, GOPALPUR, RAISEN, Raisen, Madhya Pradesh, 464551, India",
+      "area": "SANCHI ROAD, GOPALPUR, RAISEN",
+      "avg_review_rating": 4.7,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.35014,77.77235",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 7260,
+      "station_name": "2006859-PARVATI VINOD PETROLEUM",
+      "latitude": 23.78978,
+      "longitude": 78.41058,
+      "address": "RAHATGARH, Rahatgarh, Madhya Pradesh, 470119, India",
+      "area": "RAHATGARH",
+      "avg_review_rating": 4.69,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.78978,78.41058",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:12:52.761019+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,217 @@
+{
+  "station_id": 1793,
+  "station_detail": {
+    "station_id": 1793,
+    "station_name": "Sunfuel - Radisson Mumbai Andheri MIDC",
+    "latitude": 19.118389,
+    "longitude": 72.864754,
+    "address": "X - 22, MIDC Central Rd, Hanuman Nagar, Mumbai, Maharashtra, 400093, India",
+    "area": "X - 22, MIDC Central Rd, Hanuman Nagar",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.118389,72.864754",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8219 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 4.71,
+    "no_of_reviews": 145,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/AC.png",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Sunfuel+Banner.png",
+    "landmark": "None",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 1114,
+        "price_with_currency": "₹ 16.44",
+        "price": 16.44,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 1453,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "Sunfuel - Radisson Mumbai Andheri MIDC 2",
+        "last_used_on": "13/06/2025"
+      },
+      {
+        "charger_id": 1257,
+        "price_with_currency": "₹ 16.44",
+        "price": 16.44,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 1653,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.7,
+        "charger_name": "Sunfuel - Radisson Mumbai Andheri MIDC 1",
+        "last_used_on": "28/02/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 6,
+        "2": 0,
+        "3": 2,
+        "4": 3,
+        "5": 90
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Mumbai",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 22.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 1793,
+      "station_name": "Sunfuel - Radisson Mumbai Andheri MIDC",
+      "latitude": 19.118389,
+      "longitude": 72.864754,
+      "address": "X - 22, MIDC Central Rd, Hanuman Nagar, Mumbai, Maharashtra, 400093, India",
+      "area": "X - 22, MIDC Central Rd, Hanuman Nagar",
+      "avg_review_rating": 4.71,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.118389,72.864754",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8494,
+      "station_name": "MH | Mumbai | Courtyard by Marriott Mumbai International Airport",
+      "latitude": 19.114314,
+      "longitude": 72.864212,
+      "address": "Cts 215, Mumbai, Maharashtra, 400059, India",
+      "area": "Cts 215",
+      "avg_review_rating": 4.9,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.114314,72.864212",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 8689,
+      "station_name": "Statiq Hilton Mumbai Station",
+      "latitude": 19.10448,
+      "longitude": 72.870703,
+      "address": "Chhatrapati Shivaji Maharaj Int'l Airport Rd, Ashok Nagar, Andheri East, Mumbai, Maharashtra, 400099, India",
+      "area": "Chhatrapati Shivaji Maharaj Int'l Airport Rd, Ashok Nagar, Andheri East",
+      "avg_review_rating": 4.44,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.10448,72.870703",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 5196,
+      "station_name": "Statiq ITC Maratha Station",
+      "latitude": 19.103402,
+      "longitude": 72.870242,
+      "address": "Left Main Porch area from main entrance, ITC Maratha, Ashok Nagar, Andheri East, Mumbai, Maharashtra, 400059, India",
+      "area": "Left Main Porch area from main entrance, ITC Maratha, Ashok Nagar, Andheri East",
+      "avg_review_rating": 4.75,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.103402,72.870242",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 7831,
+      "station_name": "MH | Mumbai | MB#Auto Hangar India Pvt Ltd - Vile Parley",
+      "latitude": 19.108558,
+      "longitude": 72.846414,
+      "address": "AUTO HANGAR INDIA PRIVATE LIMITED Vishnu, Mumbai, Maharashtra, 400057, India",
+      "area": "AUTO HANGAR INDIA PRIVATE LIMITED Vishnu",
+      "avg_review_rating": 4.86,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.108558,72.846414",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mercedes_Focused_Offline_Map_Pin.png"
+    }
+  ],
+  "ac_count": 2,
+  "dc_count": 0,
+  "ac_prices": [
+    16.44,
+    16.44
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T07:59:13.080864+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

@@ -1,0 +1,198 @@
+{
+  "station_id": 8325,
+  "station_detail": {
+    "station_id": 8325,
+    "station_name": "RAVI AUTO SERVICES",
+    "latitude": 19.119592,
+    "longitude": 73.056172,
+    "address": "PIMPRI THANE, Pimpri, Maharashtra, 400612, India",
+    "area": "PIMPRI THANE",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.119592,73.056172",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8239 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 56761,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 15678,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 15679,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "RAVI AUTO SERVICES - 136549",
+        "last_used_on": "28/04/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Pimpri",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8325,
+      "station_name": "RAVI AUTO SERVICES",
+      "latitude": 19.119592,
+      "longitude": 73.056172,
+      "address": "PIMPRI THANE, Pimpri, Maharashtra, 400612, India",
+      "area": "PIMPRI THANE",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.119592,73.056172",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12218,
+      "station_name": "MH | Thane | Arsh Hyundai",
+      "latitude": 19.149106,
+      "longitude": 73.053705,
+      "address": "Arsh House, Thane, Maharashtra, 421204, India",
+      "area": "Arsh House",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.149106,73.053705",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8136,
+      "station_name": "V.K.MISHRA",
+      "latitude": 19.095114,
+      "longitude": 73.074867,
+      "address": "VILLAGE DHANSAR,, Raigad, Maharashtra, 410203, India",
+      "area": "VILLAGE DHANSAR,",
+      "avg_review_rating": 4.89,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.095114,73.074867",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 8125,
+      "station_name": "GLIDA Mukta Developers",
+      "latitude": 19.154566,
+      "longitude": 73.061958,
+      "address": "Shop No. 16, Thane, Maharashtra, 421204, India",
+      "area": "Shop No. 16",
+      "avg_review_rating": 4.43,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.154566,73.061958",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    },
+    {
+      "id": 8594,
+      "station_name": "BP MAHAPE",
+      "latitude": 19.11433,
+      "longitude": 73.016196,
+      "address": "MAHAPE , THANA, Thane, Maharashtra, 400701, India",
+      "area": "MAHAPE , THANA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.11433,73.016196",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:04:18.919525+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

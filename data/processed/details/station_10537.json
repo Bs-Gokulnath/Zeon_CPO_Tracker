@@ -1,0 +1,198 @@
+{
+  "station_id": 10537,
+  "station_detail": {
+    "station_id": 10537,
+    "station_name": "chargeMOD | Kadharkkaante Chayakkada | FILL NXT EVCS",
+    "latitude": 10.732771,
+    "longitude": 76.037443,
+    "address": "Changaramkulam, Malappuram, Kerala, 679591, India",
+    "area": "Changaramkulam",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.732771,76.037443",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8492 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Chargemod+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 60247,
+        "price_with_currency": "₹ 20.88",
+        "price": 20.88,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 21306,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "CMD chargeMOD | Kadharkkaante Chayakkada | FILL NXT EVCS 1",
+        "last_used_on": "19/08/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Malappuram",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10537,
+      "station_name": "chargeMOD | Kadharkkaante Chayakkada | FILL NXT EVCS",
+      "latitude": 10.732771,
+      "longitude": 76.037443,
+      "address": "Changaramkulam, Malappuram, Kerala, 679591, India",
+      "area": "Changaramkulam",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.732771,76.037443",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(3).png"
+    },
+    {
+      "id": 5629,
+      "station_name": "chargeMOD | Sihla Energy EVCS Changaramkulam",
+      "latitude": 10.734766,
+      "longitude": 76.048552,
+      "address": "Thrissur - Kunnamkulam Rd, Malappuram, Kerala, 679591, India",
+      "area": "Thrissur - Kunnamkulam Rd",
+      "avg_review_rating": 4.74,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.734766,76.048552",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 12229,
+      "station_name": "chargeMOD | K4 EV Fast Charging Station",
+      "latitude": 10.705057,
+      "longitude": 76.089306,
+      "address": "Kunnamkulam, Thrissur, Kerala, 680519, India",
+      "area": "Kunnamkulam",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.705057,76.089306",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 5770,
+      "station_name": "chargeMOD | Maranchery Bank EVCS",
+      "latitude": 10.733836,
+      "longitude": 75.974796,
+      "address": "Guruvayur, Malappuram, Kerala, 679581, India",
+      "area": "Guruvayur",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.733836,75.974796",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 5602,
+      "station_name": "chargeMOD | ELEKTROMECK EVCS KUNNAMKULAM",
+      "latitude": 10.677103,
+      "longitude": 76.08273,
+      "address": "Kunnamkulam, Thrissur, Kerala, 680619, India",
+      "area": "Kunnamkulam",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.677103,76.08273",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(3).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    20.88
+  ],
+  "scraped_at": "2026-05-21T08:08:45.620016+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

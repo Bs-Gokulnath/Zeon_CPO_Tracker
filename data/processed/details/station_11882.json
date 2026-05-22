@@ -1,0 +1,204 @@
+{
+  "station_id": 11882,
+  "station_detail": {
+    "station_id": 11882,
+    "station_name": "LE KONN ENERGY STATIONS",
+    "latitude": 9.96368,
+    "longitude": 78.09722,
+    "address": "MADURAI, Madurai, Tamil Nadu, 625018, India",
+    "area": "MADURAI",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.96368,78.09722",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8714 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.46,
+    "no_of_reviews": 63,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 62898,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 25531,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 25532,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "LE KONN ENERGY STATIONS",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 5,
+        "2": 2,
+        "3": 6,
+        "4": 17,
+        "5": 70
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Madurai",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11882,
+      "station_name": "LE KONN ENERGY STATIONS",
+      "latitude": 9.96368,
+      "longitude": 78.09722,
+      "address": "MADURAI, Madurai, Tamil Nadu, 625018, India",
+      "area": "MADURAI",
+      "avg_review_rating": 4.46,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.96368,78.09722",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 8648,
+      "station_name": "TN | Madurai | Courtyard by Marriott Madurai",
+      "latitude": 9.940594,
+      "longitude": 78.139099,
+      "address": "168, Madurai, Tamil Nadu, 625002, India",
+      "area": "168",
+      "avg_review_rating": 4.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.940594,78.139099",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 12957,
+      "station_name": "Id(7ps4pv)SNS FUELS",
+      "latitude": 10.003513,
+      "longitude": 78.0207,
+      "address": "Service Road, Dabhethar Santhai, Tamil Nadu, 625402, India",
+      "area": "Service Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.003513,78.0207",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 10405,
+      "station_name": "Hyundai Hotel Ariyas Veg Station",
+      "latitude": 9.889987,
+      "longitude": 78.034675,
+      "address": "Hotel Ariyas, No.102/1B, Thanakkankulam Village Dindugul to Thirumangalam Bypass Road, Thiruparankundram Taluk, Madurai, Tamil Nadu, 625006, India",
+      "area": "Hotel Ariyas, No.102/1B, Thanakkankulam Village Dindugul to Thirumangalam Bypass Road, Thiruparankundram Taluk",
+      "avg_review_rating": 4.46,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.889987,78.034675",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-online-not-selected.png"
+    },
+    {
+      "id": 7541,
+      "station_name": "2000418-ASA JOTHY AGENCIES",
+      "latitude": 10.032106,
+      "longitude": 78.014355,
+      "address": "THANICHIAM, Abiramam, Tamil Nadu, 625221, India",
+      "area": "THANICHIAM",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.032106,78.014355",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:10:45.231287+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

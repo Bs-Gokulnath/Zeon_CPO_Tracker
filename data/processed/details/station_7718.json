@@ -1,0 +1,194 @@
+{
+  "station_id": 7718,
+  "station_detail": {
+    "station_id": 7718,
+    "station_name": "SUPER MILEAGE",
+    "latitude": 12.1575,
+    "longitude": 78.1576,
+    "address": "K NADUHALLI K NADUHALLI DHARMAPURI DHARMAPURI 636701, Dharmapuri, Tamil Nadu, 636701, India",
+    "area": "K NADUHALLI K NADUHALLI DHARMAPURI DHARMAPURI 636701",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.1575,78.1576",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8730 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 13281,
+        "id": 2
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 55590,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 14006,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "SUPER MILEAGE EVAC",
+        "last_used_on": "26/10/2024"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Dharmapuri",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 3.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7718,
+      "station_name": "SUPER MILEAGE",
+      "latitude": 12.1575,
+      "longitude": 78.1576,
+      "address": "K NADUHALLI K NADUHALLI DHARMAPURI DHARMAPURI 636701, Dharmapuri, Tamil Nadu, 636701, India",
+      "area": "K NADUHALLI K NADUHALLI DHARMAPURI DHARMAPURI 636701",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.1575,78.1576",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13028,
+      "station_name": "ID(zj3rpz) Sri Murugan Fuel Zone",
+      "latitude": 12.235576,
+      "longitude": 78.195491,
+      "address": "Golden Ezhil Nager, Poonathanahalli, Tamil Nadu, 635205, India",
+      "area": "Golden Ezhil Nager",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.235576,78.195491",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 6704,
+      "station_name": "2010416-MK AGENCIES",
+      "latitude": 12.274217,
+      "longitude": 78.196999,
+      "address": "NH-7, PALACODE TALUK, KERAGODAHALLI, KERGODHALLI, PALACODE, DHARMAPURI- 636808, Dharmapuri, Tamil Nadu, 636808, India",
+      "area": "NH-7, PALACODE TALUK, KERAGODAHALLI, KERGODHALLI, PALACODE, DHARMAPURI- 636808",
+      "avg_review_rating": 4.45,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.274217,78.196999",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13258,
+      "station_name": "ID(zp5mc3) Adhoc Sri Raghavendra Agency",
+      "latitude": 12.289713,
+      "longitude": 78.198298,
+      "address": "Adilam, Adilam, Tamil Nadu, 635111, India",
+      "area": "Adilam",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.289713,78.198298",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 14847,
+      "station_name": "RAJADURAI",
+      "latitude": 12.304891,
+      "longitude": 78.208039,
+      "address": "Karur, Karur, Tamil Nadu, 635111, India",
+      "area": "Karur",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.304891,78.208039",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    14.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:03:32.742144+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

@@ -1,0 +1,188 @@
+{
+  "station_id": 12596,
+  "station_detail": {
+    "station_id": 12596,
+    "station_name": "ID(2yqq25) HP AGASTI",
+    "latitude": 20.838094,
+    "longitude": 86.308498,
+    "address": "Banapur, Banapur, Odisha, 755007, India",
+    "area": "Banapur",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.838094,86.308498",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9634 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/networks-logo/HP+E+charge-Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 64225,
+        "price_with_currency": "₹ 15.05",
+        "price": 15.05,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 27536,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "HPL ID(2yqq25) HP AGASTI 1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Banapur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12596,
+      "station_name": "ID(2yqq25) HP AGASTI",
+      "latitude": 20.838094,
+      "longitude": 86.308498,
+      "address": "Banapur, Banapur, Odisha, 755007, India",
+      "area": "Banapur",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.838094,86.308498",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 12060,
+      "station_name": "OD | Soti | Shanti Family Restaurant",
+      "latitude": 20.899507,
+      "longitude": 86.21692,
+      "address": "V6X8+QQP, Soti, Odisha, 755015, India",
+      "area": "V6X8+QQP",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.899507,86.21692",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 9729,
+      "station_name": "KRUPAJAL FILLING STATION",
+      "latitude": 20.915851,
+      "longitude": 86.223992,
+      "address": "JAJPUR, Jajpur, Odisha, 755043, India",
+      "area": "JAJPUR",
+      "avg_review_rating": 4.49,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.915851,86.223992",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 12989,
+      "station_name": "ID(auhpf7) Shreye Sadhya Highway Fuels",
+      "latitude": 20.965099,
+      "longitude": 86.386977,
+      "address": "Sasan, Sasan, Odisha, India",
+      "area": "Sasan",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.965099,86.386977",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 7483,
+      "station_name": "2002543-BP-CHANDIKHOL",
+      "latitude": 20.708271,
+      "longitude": 86.134958,
+      "address": "CHANDIKHOL, Kochinda, Odisha, 755024, India",
+      "area": "CHANDIKHOL",
+      "avg_review_rating": 4.48,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.708271,86.134958",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    15.05
+  ],
+  "scraped_at": "2026-05-21T08:12:17.240640+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

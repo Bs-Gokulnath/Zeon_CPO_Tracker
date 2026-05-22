@@ -1,0 +1,193 @@
+{
+  "station_id": 9916,
+  "station_detail": {
+    "station_id": 9916,
+    "station_name": "AMAN AUTO FUELS",
+    "latitude": 27.851306,
+    "longitude": 81.487061,
+    "address": "CD BLOCK BALHA ON NANPARA- IMAMGANJ ROAD, Ibrahimpur, Uttar Pradesh, 271865, India",
+    "area": "CD BLOCK BALHA ON NANPARA- IMAMGANJ ROAD",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.851306,81.487061",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9181 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 59036,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 19511,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "AMAN AUTO FUELS ac",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ibrahimpur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 3.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9916,
+      "station_name": "AMAN AUTO FUELS",
+      "latitude": 27.851306,
+      "longitude": 81.487061,
+      "address": "CD BLOCK BALHA ON NANPARA- IMAMGANJ ROAD, Ibrahimpur, Uttar Pradesh, 271865, India",
+      "area": "CD BLOCK BALHA ON NANPARA- IMAMGANJ ROAD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.851306,81.487061",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15590,
+      "station_name": "TULSHYAN FILLING CENTER",
+      "latitude": 27.56161,
+      "longitude": 81.63635,
+      "address": "RO AT VILLAGE NAGRAUR SH-30, Bahraich, Uttar Pradesh, 271801, India",
+      "area": "RO AT VILLAGE NAGRAUR SH-30",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.56161,81.63635",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15384,
+      "station_name": "GAJPATIPUR FILLING STATION",
+      "latitude": 27.526177,
+      "longitude": 81.566024,
+      "address": "RO AT VILLAGE GAJPATIPUR,BAHRAICH, Bahraich, Uttar Pradesh, 271801, India",
+      "area": "RO AT VILLAGE GAJPATIPUR,BAHRAICH",
+      "avg_review_rating": 4.48,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.526177,81.566024",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 14894,
+      "station_name": "2010366 CHAUDHARY FILLING STATION",
+      "latitude": 27.870966,
+      "longitude": 81.0652,
+      "address": "NRO AT BASATHIYA, Lakhimpur, Uttar Pradesh, 262723, India",
+      "area": "NRO AT BASATHIYA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.870966,81.0652",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 6857,
+      "station_name": "SHAKTI FUEL CENTRE",
+      "latitude": 27.518431,
+      "longitude": 81.937646,
+      "address": "IKAUNA, Ikauna, Uttar Pradesh, 271201, India",
+      "area": "IKAUNA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.518431,81.937646",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    14.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:07:38.358097+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

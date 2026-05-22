@@ -1,0 +1,242 @@
+{
+  "station_id": 15934,
+  "station_detail": {
+    "station_id": 15934,
+    "station_name": "EESL UK Transit Camp",
+    "latitude": 30.115459,
+    "longitude": 78.29334,
+    "address": "Char Dham Transit Center, Adarsh Gram, Rishikesh, Uttarakhand, Rishikesh, Uttarakhand, 249201, India",
+    "area": "Char Dham Transit Center, Adarsh Gram, Rishikesh, Uttarakhand",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.115459,78.29334",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8893 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 2,
+        "connector_name": "CHAdeMO",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/chademo.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/banner.png",
+    "landmark": "Near Bus Stand",
+    "amenities_icon": [
+      {
+        "type": "Lodging",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/lodging.png",
+        "map_id": 13492,
+        "id": 5
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 69903,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35791,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 35792,
+            "connector_type": "CHAdeMO",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/chademo.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 2,
+            "connector_status": "unavailable"
+          },
+          {
+            "display_id": 3,
+            "connector_id": 35793,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 142.0,
+        "charger_name": "EESL UK Transit Camp 142kW CCS2/Type2",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Rishikesh",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 142.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15934,
+      "station_name": "EESL UK Transit Camp",
+      "latitude": 30.115459,
+      "longitude": 78.29334,
+      "address": "Char Dham Transit Center, Adarsh Gram, Rishikesh, Uttarakhand, Rishikesh, Uttarakhand, 249201, India",
+      "area": "Char Dham Transit Center, Adarsh Gram, Rishikesh, Uttarakhand",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.115459,78.29334",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 6523,
+      "station_name": "GMVN TRH Rishilok Rishikesh Charging Station",
+      "latitude": 30.118128,
+      "longitude": 78.302704,
+      "address": "RISHILOK,GMVN GUEST HOUSE, Near Kailash Gate, Muni Ki Reti, , Rishikesh, Uttarakhand, 249137, India",
+      "area": "RISHILOK,GMVN GUEST HOUSE, Near Kailash Gate, Muni Ki Reti, ",
+      "avg_review_rating": 4.78,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.118128,78.302704",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 6521,
+      "station_name": "U.T.C Bus Station Rishikesh Charging Station",
+      "latitude": 30.116631,
+      "longitude": 78.283058,
+      "address": "Natraj Chowk Bus stand,Ashutosh Nagar, , Rishikesh, Uttarakhand, 249201, India",
+      "area": "Natraj Chowk Bus stand,Ashutosh Nagar, ",
+      "avg_review_rating": 4.7,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.116631,78.283058",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 6524,
+      "station_name": "GMVN TRH Ganga Resort Rishikesh Charging Station",
+      "latitude": 30.113459,
+      "longitude": 78.306473,
+      "address": "Sheesham Jhari, near Purnananda Inter College, Muni Ki Reti, , Rishikesh, Uttarakhand, 249137, India",
+      "area": "Sheesham Jhari, near Purnananda Inter College, Muni Ki Reti, ",
+      "avg_review_rating": 4.68,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.113459,78.306473",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 8543,
+      "station_name": "UK | Rishikesh | The Westin Resort & Spa, Himalayas",
+      "latitude": 30.161147,
+      "longitude": 78.299194,
+      "address": "Khasra No 605, Rishikesh, Uttarakhand, 249175, India",
+      "area": "Khasra No 605",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.161147,78.299194",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    20.0
+  ],
+  "scraped_at": "2026-05-21T08:17:08.508740+00:00",
+  "parse_success": true,
+  "missing_fields": [],
+  "coverage_pct": 100.0
+}

@@ -1,0 +1,209 @@
+{
+  "station_id": 9716,
+  "station_detail": {
+    "station_id": 9716,
+    "station_name": "33/11 KV Shamshabad Sub Station",
+    "latitude": 17.25968,
+    "longitude": 78.385099,
+    "address": "Shamshabad, Ranga Reddy district, Telangana, 501218, India",
+    "area": "Shamshabad",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.25968,78.385099",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8784 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 3.75,
+    "no_of_reviews": 20,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": "33/11 KV Shamshabad SS",
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 12626,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 58731,
+        "price_with_currency": "₹ 13.0",
+        "price": 13.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 19064,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 19065,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "33/11 KV Shamshabad Sub Station",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 25,
+        "2": 0,
+        "3": 10,
+        "4": 5,
+        "5": 60
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ranga Reddy district",
+    "station_access_type": "public",
+    "availability": "Available in",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": [],
+    "waiting_time": "2026-05-21 17:25:43"
+  },
+  "nearby_stations": [
+    {
+      "id": 9716,
+      "station_name": "33/11 KV Shamshabad Sub Station",
+      "latitude": 17.25968,
+      "longitude": 78.385099,
+      "address": "Shamshabad, Ranga Reddy district, Telangana, 501218, India",
+      "area": "Shamshabad",
+      "avg_review_rating": 3.75,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.25968,78.385099",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
+    },
+    {
+      "id": 12535,
+      "station_name": "ID(3f4927) HANUMAN FILLING STATION",
+      "latitude": 17.271978,
+      "longitude": 78.396704,
+      "address": "Hyderabad, Hyderabad, Telangana, India",
+      "area": "Hyderabad",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.271978,78.396704",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 11833,
+      "station_name": "SVM Grand",
+      "latitude": 17.229533,
+      "longitude": 78.352214,
+      "address": "69J4+X5C, Hyderabad, Telangana, 509217, India",
+      "area": "69J4+X5C",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.229533,78.352214",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ur_Group+483953+(1).png"
+    },
+    {
+      "id": 4803,
+      "station_name": "REIL SRIGOPAL SERVICE STATION",
+      "latitude": 17.299246,
+      "longitude": 78.41938,
+      "address": "GAGANPAHAD, RANGA REDDY , Hyderabad, Telangana, 501323, India",
+      "area": "GAGANPAHAD, RANGA REDDY ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.299246,78.41938",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 10003,
+      "station_name": "M/s. M/S SRIGOPAL SER.STN",
+      "latitude": 17.299248,
+      "longitude": 78.419565,
+      "address": "RANGA REDDY, Ranga Reddy district, Telangana, 501323, India",
+      "area": "RANGA REDDY",
+      "avg_review_rating": 4.68,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.299248,78.419565",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    13.0
+  ],
+  "scraped_at": "2026-05-21T08:07:13.960279+00:00",
+  "parse_success": true,
+  "missing_fields": [],
+  "coverage_pct": 100.0
+}

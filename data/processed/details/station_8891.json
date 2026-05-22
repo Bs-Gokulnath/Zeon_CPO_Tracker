@@ -1,0 +1,204 @@
+{
+  "station_id": 8891,
+  "station_detail": {
+    "station_id": 8891,
+    "station_name": "UP | Gorakhpur | Courtyard by Marriott",
+    "latitude": 26.733622,
+    "longitude": 83.390321,
+    "address": "Nauka Vihar Rd, Gorakhpur, Uttar Pradesh, 273010, India",
+    "area": "Nauka Vihar Rd",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.733622,83.390321",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9361 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 2,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 57659,
+        "price_with_currency": "₹ 22.0",
+        "price": 22.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 17150,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 17151,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "TCZ UP | Gorakhpur | Courtyard by Marriott 1",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Gorakhpur",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8891,
+      "station_name": "UP | Gorakhpur | Courtyard by Marriott",
+      "latitude": 26.733622,
+      "longitude": 83.390321,
+      "address": "Nauka Vihar Rd, Gorakhpur, Uttar Pradesh, 273010, India",
+      "area": "Nauka Vihar Rd",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.733622,83.390321",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonecharging.png"
+    },
+    {
+      "id": 11820,
+      "station_name": "2007040-MODERN FILLING STATION",
+      "latitude": 26.732877,
+      "longitude": 83.341312,
+      "address": "NAUSARH(BIRDGHAT),, Gorakhpur, Uttar Pradesh, 273005, India",
+      "area": "NAUSARH(BIRDGHAT),",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.732877,83.341312",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 11837,
+      "station_name": "2007044-OM AUTOMOBILES (HSD)",
+      "latitude": 26.738737,
+      "longitude": 83.314258,
+      "address": "KULLIA,, Gorakhpur, Uttar Pradesh, 273001, India",
+      "area": "KULLIA,",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.738737,83.314258",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15397,
+      "station_name": "PRABHAT FILLING STATION",
+      "latitude": 26.818103,
+      "longitude": 83.349468,
+      "address": "OLD MAHESHRA BAZAR, GORAKHPUR, Gorakhpur, Uttar Pradesh, 273001, India",
+      "area": "OLD MAHESHRA BAZAR, GORAKHPUR",
+      "avg_review_rating": 4.61,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.818103,83.349468",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10481,
+      "station_name": "2011713-INDIA AUTO FUELS",
+      "latitude": 26.61748,
+      "longitude": 83.632757,
+      "address": "BHATAULI BUJURG, Deoria, Uttar Pradesh, 274202, India",
+      "area": "BHATAULI BUJURG",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.61748,83.632757",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    22.0
+  ],
+  "scraped_at": "2026-05-21T08:05:31.392899+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

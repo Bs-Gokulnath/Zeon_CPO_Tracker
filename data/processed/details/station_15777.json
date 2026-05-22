@@ -1,0 +1,198 @@
+{
+  "station_id": 15777,
+  "station_detail": {
+    "station_id": 15777,
+    "station_name": "RASHMI DEVI FUELS",
+    "latitude": 21.428183,
+    "longitude": 80.973909,
+    "address": "RAJNANDGAON TO CHUIKHADAN ROAD, Khairagarh, Chhattisgarh, 492001, India",
+    "area": "RAJNANDGAON TO CHUIKHADAN ROAD",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.428183,80.973909",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9083 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 69508,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35195,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 35196,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "RASHMI DEVI FUELS",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Khairagarh",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15777,
+      "station_name": "RASHMI DEVI FUELS",
+      "latitude": 21.428183,
+      "longitude": 80.973909,
+      "address": "RAJNANDGAON TO CHUIKHADAN ROAD, Khairagarh, Chhattisgarh, 492001, India",
+      "area": "RAJNANDGAON TO CHUIKHADAN ROAD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.428183,80.973909",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 11999,
+      "station_name": "2007440-CHOPRA FUELS",
+      "latitude": 21.4073,
+      "longitude": 80.983305,
+      "address": "KHAIRGARH CHHUIKHADA, Khairagarh, Chhattisgarh, 491881, India",
+      "area": "KHAIRGARH CHHUIKHADA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.4073,80.983305",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 15228,
+      "station_name": "ASHOK FUEL CENTRE",
+      "latitude": 21.191403,
+      "longitude": 81.047218,
+      "address": "RO AT PADUMTARA, KHAIRAGARH ROAD, Rajnandgaon, Chhattisgarh, 491441, India",
+      "area": "RO AT PADUMTARA, KHAIRAGARH ROAD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.191403,81.047218",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 11925,
+      "station_name": "2007436-BHILAI MOTOR TEMPOS",
+      "latitude": 21.186774,
+      "longitude": 81.2146,
+      "address": "SILODA, Durg, Chhattisgarh, 491001, India",
+      "area": "SILODA",
+      "avg_review_rating": 4.21,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.186774,81.2146",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12169,
+      "station_name": "2007620-RAJNANDGAON PETROL",
+      "latitude": 21.093872,
+      "longitude": 80.987823,
+      "address": "G.E Road Rajnandgaon, Pend,, Rajnandgaon, Chhattisgarh, 491441, India",
+      "area": "G.E Road Rajnandgaon, Pend,",
+      "avg_review_rating": 4.78,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.093872,80.987823",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:16:53.060057+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

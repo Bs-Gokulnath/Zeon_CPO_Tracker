@@ -1,0 +1,253 @@
+{
+  "station_id": 11233,
+  "station_detail": {
+    "station_id": 11233,
+    "station_name": "Shell Recharge Tathwade",
+    "latitude": 18.614056,
+    "longitude": 73.74886,
+    "address": "Bengaluru Mumbai Hwy, Pune, Maharashtra, 411033, India",
+    "area": "Bengaluru Mumbai Hwy",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.614056,73.74886",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8306 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.26,
+    "no_of_reviews": 178,
+    "station_image_url": null,
+    "is_connected": true,
+    "station_banner": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/banners/updatedbannerimage.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 13183,
+        "id": 1
+      },
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 13184,
+        "id": 2
+      },
+      {
+        "type": "Car Care",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/car+care+(1).png",
+        "map_id": 13185,
+        "id": 4
+      },
+      {
+        "type": "Store",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/store.png",
+        "map_id": 13186,
+        "id": 3
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 61605,
+        "price_with_currency": "₹ 24.0",
+        "price": 24.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23391,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 23392,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "SR - TAT - Charger 1",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61606,
+        "price_with_currency": "₹ 24.0",
+        "price": 24.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23393,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "SR - TAT - Charger 2",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 11,
+        "2": 2,
+        "3": 4,
+        "4": 15,
+        "5": 67
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Pune",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11233,
+      "station_name": "Shell Recharge Tathwade",
+      "latitude": 18.614056,
+      "longitude": 73.74886,
+      "address": "Bengaluru Mumbai Hwy, Pune, Maharashtra, 411033, India",
+      "area": "Bengaluru Mumbai Hwy",
+      "avg_review_rating": 4.26,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.614056,73.74886",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
+    },
+    {
+      "id": 8932,
+      "station_name": "MH | Pune | Garve Hyundai",
+      "latitude": 18.599864,
+      "longitude": 73.753707,
+      "address": "S.No - 136/ 1, Pune, Maharashtra, 411057, India",
+      "area": "S.No - 136/ 1",
+      "avg_review_rating": 4.76,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.599864,73.753707",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 4948,
+      "station_name": "GLIDA MG Pune Wakad",
+      "latitude": 18.599187,
+      "longitude": 73.753892,
+      "address": "B.U.Bhandari Auto Pvt. Ltd. Survey no 142, Pune, Maharashtra, 411057, India",
+      "area": "B.U.Bhandari Auto Pvt. Ltd. Survey no 142",
+      "avg_review_rating": 4.69,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.599187,73.753892",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    },
+    {
+      "id": 13139,
+      "station_name": "ID(foovqm) Sai Expressway Service",
+      "latitude": 18.628379,
+      "longitude": 73.742139,
+      "address": "Jeevan Nagar, Dattwadi, Maharashtra, 411033, India",
+      "area": "Jeevan Nagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.628379,73.742139",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 6551,
+      "station_name": "REIL IOCL Retail outlet, Tathawade",
+      "latitude": 18.63014,
+      "longitude": 73.742851,
+      "address": "Mulshi, Pune, Maharashtra, 411033, India",
+      "area": "Mulshi",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.63014,73.742851",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 2,
+  "ac_prices": [],
+  "dc_prices": [
+    24.0,
+    24.0
+  ],
+  "scraped_at": "2026-05-21T08:10:08.264164+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "station_image_url",
+    "landmark"
+  ],
+  "coverage_pct": 90.9
+}

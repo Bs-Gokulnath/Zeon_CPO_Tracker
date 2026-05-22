@@ -1,0 +1,193 @@
+{
+  "station_id": 1672,
+  "station_detail": {
+    "station_id": 1672,
+    "station_name": "Kalasa Section-1 Office Charging Station",
+    "latitude": 13.23468,
+    "longitude": 75.356934,
+    "address": "KEB Office, Chikmagalur, Karnataka, 577124, India",
+    "area": "KEB Office",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.23468,75.356934",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8432 kms",
+    "operational_time": "00:00 To 23:59",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 3.93,
+    "no_of_reviews": 30,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/statiq/statiq+banner.png",
+    "landmark": "None",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 1290,
+        "price_with_currency": "₹ 15.0",
+        "price": 15.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 1696,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "Smartplug181 Kalasa Section-1 Office",
+        "last_used_on": "27/05/2024"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 17,
+        "2": 10,
+        "3": 0,
+        "4": 10,
+        "5": 63
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Chikmagalur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 3.3,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 1672,
+      "station_name": "Kalasa Section-1 Office Charging Station",
+      "latitude": 13.23468,
+      "longitude": 75.356934,
+      "address": "KEB Office, Chikmagalur, Karnataka, 577124, India",
+      "area": "KEB Office",
+      "avg_review_rating": 3.93,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.23468,75.356934",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 1671,
+      "station_name": "Balehonnur Subdivision Office Charging Station",
+      "latitude": 13.3237,
+      "longitude": 75.5112,
+      "address": "Huigere, Chikmagalur, Karnataka, 577136, India",
+      "area": "Huigere",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.3237,75.5112",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/statiq/statiq+pin.png"
+    },
+    {
+      "id": 15285,
+      "station_name": "Purple Orange  Cafe DC Charger",
+      "latitude": 13.1355,
+      "longitude": 75.5481,
+      "address": "Banakal, Chikmagalur, Karnataka, 577113, India",
+      "area": "Banakal",
+      "avg_review_rating": 4.84,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.1355,75.5481",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 1713,
+      "station_name": "Dharmasthala Section Office Charging Station",
+      "latitude": 12.9461,
+      "longitude": 75.380898,
+      "address": "Dakshina Kannada, Mangalore, Karnataka, 574216, India",
+      "area": "Dakshina Kannada",
+      "avg_review_rating": 4.51,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.9461,75.380898",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 1620,
+      "station_name": "MESCOM Mudigere Charging Station",
+      "latitude": 13.1459,
+      "longitude": 75.641899,
+      "address": "Karadagodu, Mudigere, Karnataka, 577132, India",
+      "area": "Karadagodu",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.1459,75.641899",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/statiq/statiq+pin.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    15.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T07:59:06.008022+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

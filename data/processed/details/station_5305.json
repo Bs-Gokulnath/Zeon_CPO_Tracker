@@ -1,0 +1,217 @@
+{
+  "station_id": 5305,
+  "station_detail": {
+    "station_id": 5305,
+    "station_name": "chargeMOD | VISTA DRIVELINE MOTORS",
+    "latitude": 9.940919,
+    "longitude": 76.37477,
+    "address": "Bypass Rd, Ernakulam, Kerala, 682305, India",
+    "area": "Bypass Rd",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.940919,76.37477",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8525 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Chargemod+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 52421,
+        "price_with_currency": "₹ 13.0",
+        "price": 13.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 10370,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "CMD VISTA DRIVELINE MOTORS 1",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 52422,
+        "price_with_currency": "₹ 13.0",
+        "price": 13.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 10371,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "CMD VISTA DRIVELINE MOTORS 2",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ernakulam",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 3.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 5305,
+      "station_name": "chargeMOD | VISTA DRIVELINE MOTORS",
+      "latitude": 9.940919,
+      "longitude": 76.37477,
+      "address": "Bypass Rd, Ernakulam, Kerala, 682305, India",
+      "area": "Bypass Rd",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.940919,76.37477",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 9444,
+      "station_name": "2002191-SUPER AGENCIES",
+      "latitude": 9.944764,
+      "longitude": 76.372344,
+      "address": "THIRUVANKULAM, Thiruvankulam, Kerala, 682305, India",
+      "area": "THIRUVANKULAM",
+      "avg_review_rating": 4.39,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.944764,76.372344",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 10567,
+      "station_name": "chargeMOD | PPG HOME EVCS",
+      "latitude": 9.932949,
+      "longitude": 76.388736,
+      "address": "Thrippunithura, Ernakulam, Kerala, 682312, India",
+      "area": "Thrippunithura",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.932949,76.388736",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 6162,
+      "station_name": "chargeMOD | RAOS EVCS STATION",
+      "latitude": 9.932398,
+      "longitude": 76.388531,
+      "address": "Bypass Road, Ernakulam, Kerala, 682312, India",
+      "area": "Bypass Road",
+      "avg_review_rating": 3.71,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.932398,76.388531",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 6154,
+      "station_name": "chargeMOD | LiON EVCS MARADU",
+      "latitude": 9.942311,
+      "longitude": 76.333916,
+      "address": "Near Mini Bypass Junction, Ernakulam, Kerala, 682038, India",
+      "area": "Near Mini Bypass Junction",
+      "avg_review_rating": 4.42,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.942311,76.333916",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    }
+  ],
+  "ac_count": 2,
+  "dc_count": 0,
+  "ac_prices": [
+    13.0,
+    13.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:01:04.270857+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

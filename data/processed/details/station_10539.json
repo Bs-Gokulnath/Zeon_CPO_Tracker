@@ -1,0 +1,198 @@
+{
+  "station_id": 10539,
+  "station_detail": {
+    "station_id": 10539,
+    "station_name": "chargeMOD | Relax Point Restaurant",
+    "latitude": 10.923061,
+    "longitude": 76.032891,
+    "address": "Karippol, Malappuram, Kerala, 676552, India",
+    "area": "Karippol",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.923061,76.032891",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8492 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Chargemod+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 60249,
+        "price_with_currency": "₹ 20.88",
+        "price": 20.88,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 21310,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 21316,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "CMD chargeMOD | Relax Point Restaurant 1",
+        "last_used_on": "10/09/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Malappuram",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10539,
+      "station_name": "chargeMOD | Relax Point Restaurant",
+      "latitude": 10.923061,
+      "longitude": 76.032891,
+      "address": "Karippol, Malappuram, Kerala, 676552, India",
+      "area": "Karippol",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.923061,76.032891",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 10554,
+      "station_name": "chargeMOD | Thirunilath EVCS Charging Station ",
+      "latitude": 11.001743,
+      "longitude": 75.980543,
+      "address": "Kottakal, Malappuram, Kerala, 676501, India",
+      "area": "Kottakal",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.001743,75.980543",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 10564,
+      "station_name": "chargeMOD | Syndicate Mall and Cinemas | Karinganad | EVOK",
+      "latitude": 10.878486,
+      "longitude": 76.187055,
+      "address": "Perinthalmanna Road, Palakkad, Kerala, 679309, India",
+      "area": "Perinthalmanna Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.878486,76.187055",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 10587,
+      "station_name": "chargeMOD | Sihla energy | EVCS | CV Junction Ponnani ",
+      "latitude": 10.784841,
+      "longitude": 75.946979,
+      "address": "CV Junction , Malappuram, Kerala, 679557, India",
+      "area": "CV Junction ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.784841,75.946979",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 7237,
+      "station_name": "2001199-CHALILAKATH &SONS",
+      "latitude": 10.984261,
+      "longitude": 76.188069,
+      "address": "TIRURKAD, Alangad, Kerala, 679321, India",
+      "area": "TIRURKAD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.984261,76.188069",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    20.88
+  ],
+  "scraped_at": "2026-05-21T08:08:45.739171+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

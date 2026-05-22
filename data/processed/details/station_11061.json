@@ -1,0 +1,198 @@
+{
+  "station_id": 11061,
+  "station_detail": {
+    "station_id": 11061,
+    "station_name": "SAIPRASAD PETROLEUM MA",
+    "latitude": 20.320169,
+    "longitude": 74.198761,
+    "address": "THANE, Thane, Maharashtra, 423101, India",
+    "area": "THANE",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.320169,74.198761",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8371 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 61275,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22900,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 22901,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "SAIPRASAD PETROLEUM MA",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Thane",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11061,
+      "station_name": "SAIPRASAD PETROLEUM MA",
+      "latitude": 20.320169,
+      "longitude": 74.198761,
+      "address": "THANE, Thane, Maharashtra, 423101, India",
+      "area": "THANE",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.320169,74.198761",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13173,
+      "station_name": "ID(kjb9xz) Shriyam petroleum",
+      "latitude": 20.308317,
+      "longitude": 74.157622,
+      "address": "Adgaon, Adgaon, Maharashtra, 423101, India",
+      "area": "Adgaon",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.308317,74.157622",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 7427,
+      "station_name": "2013964-SHIVAJIRAO JADHAV & SONS",
+      "latitude": 20.275419,
+      "longitude": 74.096491,
+      "address": "VADALIBHOI, Achalpur, Maharashtra, 423101, India",
+      "area": "VADALIBHOI",
+      "avg_review_rating": 4.58,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.275419,74.096491",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12533,
+      "station_name": "ID(kf7p2n) Yash petroleum",
+      "latitude": 20.263751,
+      "longitude": 74.087441,
+      "address": "Nashik, Nashik, Maharashtra, 423117, India",
+      "area": "Nashik",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.263751,74.087441",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 13241,
+      "station_name": "ID(un3tuw) ASMITATAI DIGHAVKAR PETROLEUM DEOLA",
+      "latitude": 20.459647,
+      "longitude": 74.168613,
+      "address": "Abhinandan Weigh Bridge, Deola, Maharashtra, 423102, India",
+      "area": "Abhinandan Weigh Bridge",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.459647,74.168613",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:09:40.616132+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

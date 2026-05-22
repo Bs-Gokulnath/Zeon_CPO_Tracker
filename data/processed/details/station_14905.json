@@ -1,0 +1,238 @@
+{
+  "station_id": 14905,
+  "station_detail": {
+    "station_id": 14905,
+    "station_name": "Mannat Paota (Charge_iN by Mahindra)",
+    "latitude": 27.56256,
+    "longitude": 76.075607,
+    "address": "VPO Bawdi N.H 8, Paota, Rajasthan, 303106, India",
+    "area": "VPO Bawdi N.H 8",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.56256,76.075607",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8647 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.96,
+    "no_of_reviews": 24,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/MnM_Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 67868,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 32604,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 32605,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 360.0,
+        "charger_name": "MPC Mannat Paota (Charge_IN by Mahindra) 1",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 67869,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 32606,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 32607,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 360.0,
+        "charger_name": "MPC Mannat Paota (Charge_IN by Mahindra) 2",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4,
+        "5": 96
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Paota",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 360.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14905,
+      "station_name": "Mannat Paota (Charge_iN by Mahindra)",
+      "latitude": 27.56256,
+      "longitude": 76.075607,
+      "address": "VPO Bawdi N.H 8, Paota, Rajasthan, 303106, India",
+      "area": "VPO Bawdi N.H 8",
+      "avg_review_rating": 4.96,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.56256,76.075607",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mahindra_Branding_logo.png"
+    },
+    {
+      "id": 8043,
+      "station_name": "EarthtronEv Mannat Paota",
+      "latitude": 27.562024,
+      "longitude": 76.075431,
+      "address": "VPO Bawdi N.H 8, Jaipur, Rajasthan, 303106, India",
+      "area": "VPO Bawdi N.H 8",
+      "avg_review_rating": 4.16,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.562024,76.075431",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 12795,
+      "station_name": "ID(gf2sba) Shree Balaji Filling Station",
+      "latitude": 27.56742,
+      "longitude": 76.07284,
+      "address": "National Highway 48, Jaipur, Rajasthan, 303106, India",
+      "area": "National Highway 48",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.56742,76.07284",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 4784,
+      "station_name": "REIL Tirupati Fuel Centre",
+      "latitude": 27.572033,
+      "longitude": 76.074036,
+      "address": "Heer Ki Baodi, Jaipur, Rajasthan, 303106, India",
+      "area": "Heer Ki Baodi",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.572033,76.074036",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 7539,
+      "station_name": "2023933-SHRI MAI FILLING STATION",
+      "latitude": 27.617883,
+      "longitude": 76.103126,
+      "address": "PAOTA PRAGPURA, Dholpur, Rajasthan, 303107, India",
+      "area": "PAOTA PRAGPURA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.617883,76.103126",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 2,
+  "ac_prices": [],
+  "dc_prices": [
+    20.0,
+    20.0
+  ],
+  "scraped_at": "2026-05-21T08:14:44.956884+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

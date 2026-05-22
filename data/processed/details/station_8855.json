@@ -1,0 +1,198 @@
+{
+  "station_id": 8855,
+  "station_detail": {
+    "station_id": 8855,
+    "station_name": "RISHABHDEV FILLING STATION",
+    "latitude": 24.12282,
+    "longitude": 73.69436,
+    "address": "PIPLIYA, RISHABDEO, Udaipur, Rajasthan, 313208, India",
+    "area": "PIPLIYA, RISHABDEO",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.12282,73.69436",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8365 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68348,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33415,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 33416,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "RISHABHDEV FILLING STATION",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Udaipur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8855,
+      "station_name": "RISHABHDEV FILLING STATION",
+      "latitude": 24.12282,
+      "longitude": 73.69436,
+      "address": "PIPLIYA, RISHABDEO, Udaipur, Rajasthan, 313208, India",
+      "area": "PIPLIYA, RISHABDEO",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.12282,73.69436",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 5026,
+      "station_name": "GLIDA HPCL L&R",
+      "latitude": 24.1048,
+      "longitude": 73.69206,
+      "address": "Ajmer - Ahmedabad Highway NH 48, Dungarpur, Rajasthan, 313802, India",
+      "area": "Ajmer - Ahmedabad Highway NH 48",
+      "avg_review_rating": 2.56,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.1048,73.69206",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    },
+    {
+      "id": 7499,
+      "station_name": "2001875-DEEPAK FILLING STATION",
+      "latitude": 24.080097,
+      "longitude": 73.686065,
+      "address": "RIKABDEV, Dholpur, Rajasthan, 312403, India",
+      "area": "RIKABDEV",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.080097,73.686065",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7496,
+      "station_name": "2001819-BP KESARIYAJI",
+      "latitude": 24.072701,
+      "longitude": 73.683178,
+      "address": "RIKHABDEO, Dholpur, Rajasthan, 313802, India",
+      "area": "RIKHABDEO",
+      "avg_review_rating": 4.64,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.072701,73.683178",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7751,
+      "station_name": "RJ | Kanuwara | Bittu Da Dhaba",
+      "latitude": 24.050003,
+      "longitude": 73.665893,
+      "address": "Rishabhdev, Kherwara Chhaoni, Rajasthan, 313802, India",
+      "area": "Rishabhdev",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.050003,73.665893",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:05:30.874787+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

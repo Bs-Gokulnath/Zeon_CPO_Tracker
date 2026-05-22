@@ -1,0 +1,188 @@
+{
+  "station_id": 7379,
+  "station_detail": {
+    "station_id": 7379,
+    "station_name": "2005832-V.B. PAREKH",
+    "latitude": 17.766566,
+    "longitude": 73.98856,
+    "address": "NAGEWADI, Achalpur, Maharashtra, 415105, India",
+    "area": "NAGEWADI",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.766566,73.98856",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8323 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 55218,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13564,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "2005832-V.B. PAREKH",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Achalpur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7379,
+      "station_name": "2005832-V.B. PAREKH",
+      "latitude": 17.766566,
+      "longitude": 73.98856,
+      "address": "NAGEWADI, Achalpur, Maharashtra, 415105, India",
+      "area": "NAGEWADI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.766566,73.98856",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13485,
+      "station_name": "ID(fhp21g)pooja petroleum Satara",
+      "latitude": 17.73005,
+      "longitude": 74.016647,
+      "address": "Mhasave, Mhasave, Maharashtra, 415015, India",
+      "area": "Mhasave",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.73005,74.016647",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 7465,
+      "station_name": "2020034-SHREEJI PETROLEUM",
+      "latitude": 17.8341,
+      "longitude": 73.9525,
+      "address": "UDTARE, Achalpur, Maharashtra, 415513, India",
+      "area": "UDTARE",
+      "avg_review_rating": 4.61,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.8341,73.9525",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9473,
+      "station_name": "KADAM PETROLEUM",
+      "latitude": 17.691484,
+      "longitude": 74.000829,
+      "address": "KADAM PETROLEUM,RADHIKA ROAD,NEAR MARKET YARD, DIST-SATARA-415002, Satara, Maharashtra, 415002, India",
+      "area": "KADAM PETROLEUM,RADHIKA ROAD,NEAR MARKET YARD, DIST-SATARA-415002",
+      "avg_review_rating": 4.41,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.691484,74.000829",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12315,
+      "station_name": "SHEWALE AUTOBAHN",
+      "latitude": 17.848693,
+      "longitude": 73.952298,
+      "address": "AT PACHWAD, ON NH4 PUNE BANGALORE HW, Satara, Maharashtra, 415513, India",
+      "area": "AT PACHWAD, ON NH4 PUNE BANGALORE HW",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.848693,73.952298",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:02:55.547623+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,204 @@
+{
+  "station_id": 11906,
+  "station_detail": {
+    "station_id": 11906,
+    "station_name": "BP-GADOTA",
+    "latitude": 26.785379,
+    "longitude": 75.409821,
+    "address": "JAIPUR, Jaipur, Rajasthan, 303008, India",
+    "area": "JAIPUR",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.785379,75.409821",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8572 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.25,
+    "no_of_reviews": 144,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 62943,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 25627,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 25628,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "BP-GADOTA",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 13,
+        "2": 3,
+        "3": 2,
+        "4": 10,
+        "5": 72
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Jaipur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11906,
+      "station_name": "BP-GADOTA",
+      "latitude": 26.785379,
+      "longitude": 75.409821,
+      "address": "JAIPUR, Jaipur, Rajasthan, 303008, India",
+      "area": "JAIPUR",
+      "avg_review_rating": 4.25,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.785379,75.409821",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 11901,
+      "station_name": "BP- GADOTA 2",
+      "latitude": 26.781897,
+      "longitude": 75.396874,
+      "address": "JAIPUR, Jaipur, Rajasthan, 303008, India",
+      "area": "JAIPUR",
+      "avg_review_rating": 4.77,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.781897,75.396874",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 4955,
+      "station_name": "GLIDA Hotel Saket",
+      "latitude": 26.810254,
+      "longitude": 75.484009,
+      "address": "Mahlan, Jaipur, Rajasthan, 303007, India",
+      "area": "Mahlan",
+      "avg_review_rating": 4.52,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.810254,75.484009",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    },
+    {
+      "id": 14596,
+      "station_name": "RJ | Dudu | Hotel Quality India",
+      "latitude": 26.753994,
+      "longitude": 75.334522,
+      "address": "Q83M+HQ, Dudu, Rajasthan, 303348, India",
+      "area": "Q83M+HQ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.753994,75.334522",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 13363,
+      "station_name": "ID(q3o1mx)-Mahalaxmi filling station",
+      "latitude": 26.857733,
+      "longitude": 75.446995,
+      "address": "Petrol Pump Road, Boraj, Rajasthan, 303338, India",
+      "area": "Petrol Pump Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.857733,75.446995",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:10:46.135063+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

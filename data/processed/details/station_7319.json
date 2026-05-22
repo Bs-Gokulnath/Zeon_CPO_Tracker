@@ -1,0 +1,193 @@
+{
+  "station_id": 7319,
+  "station_detail": {
+    "station_id": 7319,
+    "station_name": "2008228-HUKAMCHAND FAKIRCHAND(KAKUA)",
+    "latitude": 27.082282,
+    "longitude": 77.989216,
+    "address": "AGRA, Agra, Uttar Pradesh, 282010, India",
+    "area": "AGRA",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.082282,77.989216",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8830 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 55158,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13504,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "2008228-HUKAMCHAND FAKIRCHAND(KAKUA)",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Agra",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7319,
+      "station_name": "2008228-HUKAMCHAND FAKIRCHAND(KAKUA)",
+      "latitude": 27.082282,
+      "longitude": 77.989216,
+      "address": "AGRA, Agra, Uttar Pradesh, 282010, India",
+      "area": "AGRA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.082282,77.989216",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 6564,
+      "station_name": "\"REIL Kargil Auto/Bharat Petroleum, Brij Auto Katl",
+      "latitude": 27.167191,
+      "longitude": 78.008667,
+      "address": "Rakabganj, Agra, Uttar Pradesh, 282001, India",
+      "area": "Rakabganj",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.167191,78.008667",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 2083,
+      "station_name": "Statiq Padam High Street Station",
+      "latitude": 27.148661,
+      "longitude": 78.053047,
+      "address": "Hamsabad, Agra, Uttar Pradesh, 282001, India",
+      "area": "Hamsabad",
+      "avg_review_rating": 4.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.148661,78.053047",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 6565,
+      "station_name": "REIL M/s Amar Autos/Bharat Petroleum, Petrol Pump ",
+      "latitude": 27.171789,
+      "longitude": 78.009117,
+      "address": "MG Road, Agra, Uttar Pradesh, 282001, India",
+      "area": "MG Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.171789,78.009117",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 6577,
+      "station_name": "Statiq ITC Mughal Station",
+      "latitude": 27.16143,
+      "longitude": 78.04541,
+      "address": "ITC Mughal, Tajganj Ground Floor Fatehabad Road 4 kms and 15 minutes drive from Taj Mahal, , Agra, Uttar Pradesh, 282001, India",
+      "area": "ITC Mughal, Tajganj Ground Floor Fatehabad Road 4 kms and 15 minutes drive from Taj Mahal, ",
+      "avg_review_rating": 4.61,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.16143,78.04541",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:02:49.067330+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,204 @@
+{
+  "station_id": 12756,
+  "station_detail": {
+    "station_id": 12756,
+    "station_name": "ID(mf2ku4) Shiv Shakti Petroleum",
+    "latitude": 22.34318,
+    "longitude": 70.806918,
+    "address": "Gujarat State Highway 24, Rajkot, Gujarat, 360003, India",
+    "area": "Gujarat State Highway 24",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.34318,70.806918",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8048 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 2,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/networks-logo/HP+E+charge-Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 64387,
+        "price_with_currency": "₹ 15.05",
+        "price": 15.05,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 27820,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 27826,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "HPL ID(mf2ku4) Shiv Shakti Petroleum 1",
+        "last_used_on": "13/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Rajkot",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12756,
+      "station_name": "ID(mf2ku4) Shiv Shakti Petroleum",
+      "latitude": 22.34318,
+      "longitude": 70.806918,
+      "address": "Gujarat State Highway 24, Rajkot, Gujarat, 360003, India",
+      "area": "Gujarat State Highway 24",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.34318,70.806918",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 12555,
+      "station_name": "ID(2c3f2m) HP Auto Center RMC-3",
+      "latitude": 22.306695,
+      "longitude": 70.830032,
+      "address": "4-6-777, Rajkot, Gujarat, 360002, India",
+      "area": "4-6-777",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.306695,70.830032",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 9851,
+      "station_name": "Atul Motor Pvt. Ltd.",
+      "latitude": 22.32389,
+      "longitude": 70.84924,
+      "address": "Juno Morbi Rd, Rajkot, Gujarat, 360002, India",
+      "area": "Juno Morbi Rd",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.32389,70.84924",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 9848,
+      "station_name": "Aadarsh Green Technology and Solutions",
+      "latitude": 22.3054,
+      "longitude": 70.783254,
+      "address": "AADARSH GREEN Shree krishna kunj , Rajkot, Gujarat, 360007, India",
+      "area": "AADARSH GREEN Shree krishna kunj ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.3054,70.783254",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 10808,
+      "station_name": "Shukla Ashar & Co",
+      "latitude": 22.335326,
+      "longitude": 70.856289,
+      "address": "Sokhada Rd, Ruda Transport Nagar, Rajkot, Gujarat, 360003, India",
+      "area": "Sokhada Rd, Ruda Transport Nagar",
+      "avg_review_rating": 4.69,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.335326,70.856289",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    15.05
+  ],
+  "scraped_at": "2026-05-21T08:12:46.707784+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

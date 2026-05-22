@@ -1,0 +1,204 @@
+{
+  "station_id": 15680,
+  "station_detail": {
+    "station_id": 15680,
+    "station_name": "Mira Petroleum",
+    "latitude": 22.68108,
+    "longitude": 70.75667,
+    "address": "TANKARA OPP. DAYANAND POLYPLA , Tankara, Gujarat, 363650, India",
+    "area": "TANKARA OPP. DAYANAND POLYPLA ",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.68108,70.75667",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8048 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.63,
+    "no_of_reviews": 27,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 69250,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34830,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 34831,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "Mira Petroleum",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 4,
+        "3": 4,
+        "4": 19,
+        "5": 74
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Tankara",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15680,
+      "station_name": "Mira Petroleum",
+      "latitude": 22.68108,
+      "longitude": 70.75667,
+      "address": "TANKARA OPP. DAYANAND POLYPLA , Tankara, Gujarat, 363650, India",
+      "area": "TANKARA OPP. DAYANAND POLYPLA ",
+      "avg_review_rating": 4.63,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.68108,70.75667",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8885,
+      "station_name": "Gulab Petroleum",
+      "latitude": 22.670768,
+      "longitude": 70.751991,
+      "address": "MORBI, Morbi, Gujarat, 363650, India",
+      "area": "MORBI",
+      "avg_review_rating": 4.83,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.670768,70.751991",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 13351,
+      "station_name": "ID(cd3smt) Silver petroleum",
+      "latitude": 22.728936,
+      "longitude": 70.787639,
+      "address": "Lajai, Lajai, Gujarat, 363641, India",
+      "area": "Lajai",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.728936,70.787639",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 9085,
+      "station_name": "KIRTI PETROLEUM MORBI",
+      "latitude": 22.819537,
+      "longitude": 70.810177,
+      "address": "MORBI, Morbi, Gujarat, 363641, India",
+      "area": "MORBI",
+      "avg_review_rating": 4.78,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.819537,70.810177",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 11135,
+      "station_name": "TULSI",
+      "latitude": 22.746675,
+      "longitude": 70.923631,
+      "address": "MORBI, Morbi, Gujarat, 363642, India",
+      "area": "MORBI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.746675,70.923631",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:16:32.685384+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

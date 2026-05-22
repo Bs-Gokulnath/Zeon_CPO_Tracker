@@ -1,0 +1,214 @@
+{
+  "station_id": 6752,
+  "station_detail": {
+    "station_id": 6752,
+    "station_name": "Ecoplug E Plug energy Office DC Charger",
+    "latitude": 27.608162,
+    "longitude": 76.613853,
+    "address": "raath nagar vijay mandir road, Alwar, Rajasthan, 301001, India",
+    "area": "raath nagar vijay mandir road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.608162,76.613853",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8700 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.43,
+    "no_of_reviews": 7,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Eplug.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54296,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 12430,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 12431,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "EPL Ecoplug energy India limited office E Plug energy Office DC Charger 1",
+        "last_used_on": "11/03/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 14,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 86
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Alwar",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11283,
+      "station_name": "Ecoplug Udaan Dhaba",
+      "latitude": 27.607984,
+      "longitude": 76.613782,
+      "address": "NH - 44, Kurukshetra, Haryana, 136135, India",
+      "area": "NH - 44",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.607984,76.613782",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 6752,
+      "station_name": "Ecoplug E Plug energy Office DC Charger",
+      "latitude": 27.608162,
+      "longitude": 76.613853,
+      "address": "raath nagar vijay mandir road, Alwar, Rajasthan, 301001, India",
+      "area": "raath nagar vijay mandir road",
+      "avg_review_rating": 4.43,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.608162,76.613853",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 14666,
+      "station_name": "Ecoplug Barista cafe",
+      "latitude": 27.607465,
+      "longitude": 76.609401,
+      "address": "NH-54, Amritsar, Punjab, 143502, India",
+      "area": "NH-54",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.607465,76.609401",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 6757,
+      "station_name": "Ecoplug Ecoplug Energy India Limited",
+      "latitude": 27.592691,
+      "longitude": 76.614265,
+      "address": "KH.NO.147 BALLABODA VIJAY MANDIR ROAD, Alwar, Rajasthan, 301001, India",
+      "area": "KH.NO.147 BALLABODA VIJAY MANDIR ROAD",
+      "avg_review_rating": 4.54,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.592691,76.614265",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 8421,
+      "station_name": "Ecoplug M/s Trehan Home Developers Private Limited",
+      "latitude": 27.60248,
+      "longitude": 76.631791,
+      "address": "02, Alwar, Rajasthan, 301001, India",
+      "area": "02",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.60248,76.631791",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    20.0
+  ],
+  "scraped_at": "2026-05-21T08:01:40.925396+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

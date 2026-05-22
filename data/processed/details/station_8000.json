@@ -1,0 +1,209 @@
+{
+  "station_id": 8000,
+  "station_detail": {
+    "station_id": 8000,
+    "station_name": "UP | Noida | Mercedes-Benz Silver Arrows Noida",
+    "latitude": 28.595723,
+    "longitude": 77.330449,
+    "address": "D7, Noida, Uttar Pradesh, 201301, India",
+    "area": "D7",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.595723,77.330449",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8782 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.04,
+    "no_of_reviews": 24,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Mercedes_Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 56098,
+        "price_with_currency": "₹ 50.0",
+        "price": 50.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 14795,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 14796,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 360.0,
+        "charger_name": "EVX UP | Noida | Mercedes-Benz Silver Arrows Noida 1",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 17,
+        "2": 0,
+        "3": 4,
+        "4": 21,
+        "5": 58
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Noida",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 360.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8000,
+      "station_name": "UP | Noida | Mercedes-Benz Silver Arrows Noida",
+      "latitude": 28.595723,
+      "longitude": 77.330449,
+      "address": "D7, Noida, Uttar Pradesh, 201301, India",
+      "area": "D7",
+      "avg_review_rating": 4.04,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.595723,77.330449",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mercedes_Branding_Logo.png"
+    },
+    {
+      "id": 2177,
+      "station_name": "Statiq AdWall Pawittra Apartmen Station",
+      "latitude": 28.601465,
+      "longitude": 77.31739,
+      "address": "Shaheed Budh Ram Singh Marg, Delhi, Delhi, 110096, India",
+      "area": "Shaheed Budh Ram Singh Marg",
+      "avg_review_rating": 4.8,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.601465,77.31739",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 5028,
+      "station_name": "GLIDA MG Noida",
+      "latitude": 28.59054,
+      "longitude": 77.31486,
+      "address": "C-12, Noida, Uttar Pradesh, 201301, India",
+      "area": "C-12",
+      "avg_review_rating": 4.6,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.59054,77.31486",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    },
+    {
+      "id": 14222,
+      "station_name": "Deepanshu Jain",
+      "latitude": 28.604931,
+      "longitude": 77.343505,
+      "address": "IC Panchdeep Colony Sector 56 Noida UP 201301, Noida, Uttar Pradesh, 201301, India",
+      "area": "IC Panchdeep Colony Sector 56 Noida UP 201301",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.604931,77.343505",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    },
+    {
+      "id": 10941,
+      "station_name": "Reliable Charge Head Office",
+      "latitude": 28.585719,
+      "longitude": 77.313712,
+      "address": "B-13, Noida, Uttar Pradesh, 201301, India",
+      "area": "B-13",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.585719,77.313712",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    50.0
+  ],
+  "scraped_at": "2026-05-21T08:03:50.610559+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

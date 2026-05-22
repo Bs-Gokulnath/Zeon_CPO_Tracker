@@ -1,0 +1,266 @@
+{
+  "station_id": 10812,
+  "station_detail": {
+    "station_id": 10812,
+    "station_name": "Fortune Sonthalia by SSI - Adya Energy",
+    "latitude": 17.385654,
+    "longitude": 78.33212,
+    "address": "Kokapet Rd, Narsingi, Hyderabad, Telangana 500075, Hyderabad, Telangana, 500075, India",
+    "area": "Kokapet Rd, Narsingi, Hyderabad, Telangana 500075",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.385654,78.33212",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8780 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 4.48,
+    "no_of_reviews": 83,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 60742,
+        "price_with_currency": "₹ 15.0",
+        "price": 15.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22068,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": " AC 22 KW - FSSV Block A -  Charger 1",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61127,
+        "price_with_currency": "₹ 15.0",
+        "price": 15.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22653,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 3,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "AC 22 KW - FSSV Block A - Charger 2",
+        "last_used_on": "20/05/2026"
+      },
+      {
+        "charger_id": 61159,
+        "price_with_currency": "₹ 15.0",
+        "price": 15.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22708,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 3,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "AC 22 KW - FSSV Block B - Charger 2",
+        "last_used_on": "20/05/2026"
+      },
+      {
+        "charger_id": 61160,
+        "price_with_currency": "₹ 15.0",
+        "price": 15.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22709,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "AC 22KW - FSSV Block B - Charger 1",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 7,
+        "2": 2,
+        "3": 1,
+        "4": 13,
+        "5": 76
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Hyderabad",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 22.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10812,
+      "station_name": "Fortune Sonthalia by SSI - Adya Energy",
+      "latitude": 17.385654,
+      "longitude": 78.33212,
+      "address": "Kokapet Rd, Narsingi, Hyderabad, Telangana 500075, Hyderabad, Telangana, 500075, India",
+      "area": "Kokapet Rd, Narsingi, Hyderabad, Telangana 500075",
+      "avg_review_rating": 4.47,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.385654,78.33212",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 8182,
+      "station_name": "Rajapushpa Regalia e-Mobility",
+      "latitude": 17.388262,
+      "longitude": 78.340751,
+      "address": "kokapet, Hyderabad, Telangana, 500075, India",
+      "area": "kokapet",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.388262,78.340751",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mercedes_Branding_Logo.png"
+    },
+    {
+      "id": 15715,
+      "station_name": "chargeMOD | Gnana Power Solutions EVCS",
+      "latitude": 17.38709,
+      "longitude": 78.34629,
+      "address": "Gandipet Main Road, Hyderabad, Telangana, 500075, India",
+      "area": "Gandipet Main Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.38709,78.34629",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(3).png"
+    },
+    {
+      "id": 14061,
+      "station_name": "United Avenues-Car1",
+      "latitude": 17.381561,
+      "longitude": 78.346457,
+      "address": "98JW+JMC Hyderabad, Hyderabad, Telangana, 500075, India",
+      "area": "98JW+JMC Hyderabad",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.381561,78.346457",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    },
+    {
+      "id": 13796,
+      "station_name": "ADVANCE AUTO PARTS CAR-2",
+      "latitude": 17.403451,
+      "longitude": 78.331472,
+      "address": "500075, Hyderabad, Telangana, 500075, India",
+      "area": "500075",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.403451,78.331472",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+default+(8).png"
+    }
+  ],
+  "ac_count": 4,
+  "dc_count": 0,
+  "ac_prices": [
+    15.0,
+    15.0,
+    15.0,
+    15.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:09:08.976881+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

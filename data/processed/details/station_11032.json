@@ -1,0 +1,210 @@
+{
+  "station_id": 11032,
+  "station_detail": {
+    "station_id": 11032,
+    "station_name": "BHARAT AUTO FUELS",
+    "latitude": 21.168796,
+    "longitude": 72.735077,
+    "address": "SURAT, Surat, Gujarat, 394510, India",
+    "area": "SURAT",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.168796,72.735077",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8230 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.5,
+    "no_of_reviews": 2,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 13241,
+        "id": 2
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 61243,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22837,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "finishing"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 22838,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "BHARAT AUTO FUELS",
+        "last_used_on": "14/04/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 50,
+        "5": 50
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Surat",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11032,
+      "station_name": "BHARAT AUTO FUELS",
+      "latitude": 21.168796,
+      "longitude": 72.735077,
+      "address": "SURAT, Surat, Gujarat, 394510, India",
+      "area": "SURAT",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.168796,72.735077",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 4902,
+      "station_name": "GLIDA MG Surat Bhatpore",
+      "latitude": 21.168077,
+      "longitude": 72.735781,
+      "address": "Nanavati Autosquare Private limited. MG Workshop. Plot 220/328, Surat, Gujarat, 394510, India",
+      "area": "Nanavati Autosquare Private limited. MG Workshop. Plot 220/328",
+      "avg_review_rating": 4.65,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.168077,72.735781",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    },
+    {
+      "id": 11034,
+      "station_name": "VINOD PETROLEUM CENTER",
+      "latitude": 21.181703,
+      "longitude": 72.763583,
+      "address": "SURAT, Surat, Gujarat, 395009, India",
+      "area": "SURAT",
+      "avg_review_rating": 4.74,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.181703,72.763583",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 10358,
+      "station_name": "Mr.Multicuisine Restaurant and Banquet",
+      "latitude": 21.164119,
+      "longitude": 72.778305,
+      "address": "Swastik House, Surat, Gujarat, 395007, India",
+      "area": "Swastik House",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.164119,72.778305",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 9390,
+      "station_name": "GJ | Surat | Navjivan Hyundai",
+      "latitude": 21.199793,
+      "longitude": 72.783199,
+      "address": "Navjivan motors Pvt.Ltd. near L.P. Savani, Surat, Gujarat, 395009, India",
+      "area": "Navjivan motors Pvt.Ltd. near L.P. Savani",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.199793,72.783199",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:09:39.796388+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

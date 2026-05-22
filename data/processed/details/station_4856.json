@@ -1,0 +1,209 @@
+{
+  "station_id": 4856,
+  "station_detail": {
+    "station_id": 4856,
+    "station_name": "GLIDA Audi Bengaluru",
+    "latitude": 12.970142,
+    "longitude": 77.600496,
+    "address": "No 1 & 2, Bengaluru, Karnataka, 560001, India",
+    "area": "No 1 & 2",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.970142,77.600496",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8674 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.62,
+    "no_of_reviews": 416,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Glida+Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 51509,
+        "price_with_currency": "₹ 18.99",
+        "price": 18.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 9137,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 9138,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "BAN0048",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 6,
+        "2": 1,
+        "3": 1,
+        "4": 11,
+        "5": 82
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bengaluru",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 4856,
+      "station_name": "GLIDA Audi Bengaluru",
+      "latitude": 12.970142,
+      "longitude": 77.600496,
+      "address": "No 1 & 2, Bengaluru, Karnataka, 560001, India",
+      "area": "No 1 & 2",
+      "avg_review_rating": 4.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.970142,77.600496",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    },
+    {
+      "id": 2005,
+      "station_name": "Sunfuel - Bangalore Club",
+      "latitude": 12.97323,
+      "longitude": 77.599731,
+      "address": "No.10, Residency Rd, Shanthala Nagar, Bengaluru, Karnataka, 560025, India",
+      "area": "No.10, Residency Rd, Shanthala Nagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.97323,77.599731",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 14861,
+      "station_name": "Statiq Marriott Executive Apartment-UB City",
+      "latitude": 12.971726,
+      "longitude": 77.595872,
+      "address": "24, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka, 560001, India",
+      "area": "24, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar",
+      "avg_review_rating": 4.9,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.971726,77.595872",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 8669,
+      "station_name": "KA | Bengaluru | JW Marriott Hotel - UB City",
+      "latitude": 12.972,
+      "longitude": 77.595253,
+      "address": "24/1, Bengaluru, Karnataka, 560001, India",
+      "area": "24/1",
+      "avg_review_rating": 4.97,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.972,77.595253",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 5182,
+      "station_name": "Statiq ITC Gardenia Station",
+      "latitude": 12.966551,
+      "longitude": 77.596008,
+      "address": "Near Basement Exit, ITC Gardenia, 1, Residency Rd, Ashok Nagar, Bengaluru, Karnataka, 560025, India",
+      "area": "Near Basement Exit, ITC Gardenia, 1, Residency Rd, Ashok Nagar",
+      "avg_review_rating": 4.72,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.966551,77.596008",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    18.99
+  ],
+  "scraped_at": "2026-05-21T08:00:01.192534+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

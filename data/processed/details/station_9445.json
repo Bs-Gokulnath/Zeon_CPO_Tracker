@@ -1,0 +1,208 @@
+{
+  "station_id": 9445,
+  "station_detail": {
+    "station_id": 9445,
+    "station_name": "2015925-KOCHI METROL RAIL IMT BPCL PUMP",
+    "latitude": 10.058839,
+    "longitude": 76.322105,
+    "address": "NH544,North Kalllamassery, Ernakulam, Kerala, 682504, India",
+    "area": "NH544,North Kalllamassery",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.058839,76.322105",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8519 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.0,
+    "no_of_reviews": 7,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": "Kalamassery",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 58368,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 18332,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 18333,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "2015925-BP BOLGATTY",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 14,
+        "2": 14,
+        "3": 0,
+        "4": 0,
+        "5": 71
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ernakulam",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9445,
+      "station_name": "2015925-KOCHI METROL RAIL IMT BPCL PUMP",
+      "latitude": 10.058839,
+      "longitude": 76.322105,
+      "address": "NH544,North Kalllamassery, Ernakulam, Kerala, 682504, India",
+      "area": "NH544,North Kalllamassery",
+      "avg_review_rating": 4.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.058839,76.322105",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12246,
+      "station_name": "chargeMOD | EVM MG Motor Coastline Garage | Cochin",
+      "latitude": 10.077276,
+      "longitude": 76.337681,
+      "address": "Opp. Metro pillar No.155, Ernakulam, Kerala, 683106, India",
+      "area": "Opp. Metro pillar No.155",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.077276,76.337681",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 6488,
+      "station_name": "chargeMOD | Steelane | Kalamassery | EVOK",
+      "latitude": 10.040489,
+      "longitude": 76.338579,
+      "address": "Seaport - Airport  road, Ernakulam, Kerala, 682021, India",
+      "area": "Seaport - Airport  road",
+      "avg_review_rating": 4.7,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.040489,76.338579",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 5549,
+      "station_name": "chargeMOD | OTOTORCS PPF | EVOK | Ambattukavu",
+      "latitude": 10.081953,
+      "longitude": 76.340104,
+      "address": "Ambattukavu, Ernakulam, Kerala, 683501, India",
+      "area": "Ambattukavu",
+      "avg_review_rating": 4.5,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.081953,76.340104",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(3).png"
+    },
+    {
+      "id": 10622,
+      "station_name": "chargeMOD | FLASH CHARGE | EVCS EDAPPALLY",
+      "latitude": 10.02781,
+      "longitude": 76.311064,
+      "address": " Near Peni Ice Cream, Ernakulam, Kerala, 682024, India",
+      "area": " Near Peni Ice Cream",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.02781,76.311064",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:06:13.485948+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

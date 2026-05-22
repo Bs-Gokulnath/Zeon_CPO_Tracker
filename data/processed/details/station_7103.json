@@ -1,0 +1,188 @@
+{
+  "station_id": 7103,
+  "station_detail": {
+    "station_id": 7103,
+    "station_name": "2013259-JAY BOOTBHAVANI PETROLEUM",
+    "latitude": 22.548985,
+    "longitude": 71.591063,
+    "address": "VASTADI, Bechar, Gujarat, 363410, India",
+    "area": "VASTADI",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.548985,71.591063",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8131 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54942,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13288,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "2013259-JAY BOOTBHAVANI PETROLEUM",
+        "last_used_on": "14/03/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bechar",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7103,
+      "station_name": "2013259-JAY BOOTBHAVANI PETROLEUM",
+      "latitude": 22.548985,
+      "longitude": 71.591063,
+      "address": "VASTADI, Bechar, Gujarat, 363410, India",
+      "area": "VASTADI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.548985,71.591063",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15668,
+      "station_name": "Statiq Darshan Hotel Station",
+      "latitude": 22.548521,
+      "longitude": 71.588222,
+      "address": "At Darshan Hotel 4-Wheeler Parking Area Vastadi, Sayla Limbdi Highway, National Highway 8A, Navi Morwad, None, Limbdi, Gujarat, 363435, India",
+      "area": "At Darshan Hotel 4-Wheeler Parking Area Vastadi, Sayla Limbdi Highway, National Highway 8A, Navi Morwad, None",
+      "avg_review_rating": 4.56,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.548521,71.588222",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8146,
+      "station_name": "ZALAVAD PETROLEUM",
+      "latitude": 22.541432,
+      "longitude": 71.546746,
+      "address": "RO AT SAYLA TO AHMEDABAD M S 132 TO, Surendranagar, Gujarat, 363421, India",
+      "area": "RO AT SAYLA TO AHMEDABAD M S 132 TO",
+      "avg_review_rating": 4.86,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.541432,71.546746",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7816,
+      "station_name": "NIYATI PETROLEUM",
+      "latitude": 22.561035,
+      "longitude": 71.637459,
+      "address": "RO AT VADOD, Surendranagar, Gujarat, 363520, India",
+      "area": "RO AT VADOD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.561035,71.637459",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8728,
+      "station_name": "GLIDA SFM - Sai Food Mall",
+      "latitude": 22.565894,
+      "longitude": 71.66779,
+      "address": "Rajkot - Ahemdabad Highway, Surendranagar, Gujarat, 363421, India",
+      "area": "Rajkot - Ahemdabad Highway",
+      "avg_review_rating": 4.46,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.565894,71.66779",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:02:15.135344+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

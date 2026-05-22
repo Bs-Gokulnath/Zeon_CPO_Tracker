@@ -1,0 +1,204 @@
+{
+  "station_id": 8301,
+  "station_detail": {
+    "station_id": 8301,
+    "station_name": "SHRI HARI FUELS",
+    "latitude": 19.15338,
+    "longitude": 75.015054,
+    "address": "KARANJI, Ahmadnagar, Maharashtra, 414106, India",
+    "area": "KARANJI",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.15338,75.015054",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8444 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.74,
+    "no_of_reviews": 73,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 56733,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 15632,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 15633,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "SHRI HARI FUELS",
+        "last_used_on": "12/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 15,
+        "5": 82
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ahmadnagar",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8301,
+      "station_name": "SHRI HARI FUELS",
+      "latitude": 19.15338,
+      "longitude": 75.015054,
+      "address": "KARANJI, Ahmadnagar, Maharashtra, 414106, India",
+      "area": "KARANJI",
+      "avg_review_rating": 4.74,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.15338,75.015054",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12961,
+      "station_name": "ID(vuvhsf) Apurva Petroleum",
+      "latitude": 19.147745,
+      "longitude": 75.009393,
+      "address": "Ahmednagar - Pathardi Road, Karanji, Maharashtra, 414106, India",
+      "area": "Ahmednagar - Pathardi Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.147745,75.009393",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 13460,
+      "station_name": "ID(3amg7y) Sai Baba petroleum",
+      "latitude": 19.189182,
+      "longitude": 75.138286,
+      "address": "Malibabhulgaon, Malibabhulgaon, Maharashtra, 414102, India",
+      "area": "Malibabhulgaon",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.189182,75.138286",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 7462,
+      "station_name": "2019937-VITHOBA RAJE PETROLEUM",
+      "latitude": 19.185573,
+      "longitude": 75.159933,
+      "address": "MALIBABHULGAON, Achalpur, Maharashtra, 414102, India",
+      "area": "MALIBABHULGAON",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.185573,75.159933",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7408,
+      "station_name": "2012360-MANISHA PETROLEUM",
+      "latitude": 19.332695,
+      "longitude": 74.869582,
+      "address": "GHODEGAON, Ahmednagar, Maharashtra, 414606, India",
+      "area": "GHODEGAON",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.332695,74.869582",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:04:18.722572+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

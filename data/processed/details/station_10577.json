@@ -1,0 +1,223 @@
+{
+  "station_id": 10577,
+  "station_detail": {
+    "station_id": 10577,
+    "station_name": "chargeMOD | NUKE EVCS SREEKARYAM",
+    "latitude": 8.548527,
+    "longitude": 76.918382,
+    "address": "National Highway 47 , Thiruvananthapuram, Kerala, 695017, India",
+    "area": "National Highway 47 ",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.548527,76.918382",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8578 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Chargemod+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 60318,
+        "price_with_currency": "₹ 20.88",
+        "price": 20.88,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 21409,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "CMD chargeMOD | NUKE EVCS SREEKARYAM 1",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 60320,
+        "price_with_currency": "₹ 13.0",
+        "price": 13.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 21417,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "CMD chargeMOD | NUKE EVCS SREEKARYAM 2",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Thiruvananthapuram",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10577,
+      "station_name": "chargeMOD | NUKE EVCS SREEKARYAM",
+      "latitude": 8.548527,
+      "longitude": 76.918382,
+      "address": "National Highway 47 , Thiruvananthapuram, Kerala, 695017, India",
+      "area": "National Highway 47 ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.548527,76.918382",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 5642,
+      "station_name": "chargeMOD | KERALAEV MBCET EEE 2",
+      "latitude": 8.546928,
+      "longitude": 76.93837,
+      "address": "Mar Baselios College of Engineering and Technology, Thiruvananthapuram, Kerala, 695015, India",
+      "area": "Mar Baselios College of Engineering and Technology",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.546928,76.93837",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(3).png"
+    },
+    {
+      "id": 6355,
+      "station_name": "chargeMOD | KERALAEV MBCET EEE 1",
+      "latitude": 8.548823,
+      "longitude": 76.938469,
+      "address": "Mar Baselios College of Engineering and Technology, Thiruvananthapuram, Kerala, 695015, India",
+      "area": "Mar Baselios College of Engineering and Technology",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.548823,76.938469",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 10425,
+      "station_name": "chargeMOD | ELECTRO ZONE EVCS | 40kW Single | Pangappara",
+      "latitude": 8.560836,
+      "longitude": 76.89784,
+      "address": "Pangappara, Thiruvananthapuram, Kerala, 695581, India",
+      "area": "Pangappara",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.560836,76.89784",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 5483,
+      "station_name": "chargeMOD | KERALAEV NALANCHIRA",
+      "latitude": 8.552631,
+      "longitude": 76.943001,
+      "address": "Vydyuthi Energy Services, Thiruvananthapuram, Kerala, 695044, India",
+      "area": "Vydyuthi Energy Services",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.552631,76.943001",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 1,
+  "ac_prices": [
+    13.0
+  ],
+  "dc_prices": [
+    20.88
+  ],
+  "scraped_at": "2026-05-21T08:08:53.590773+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,203 @@
+{
+  "station_id": 15361,
+  "station_detail": {
+    "station_id": 15361,
+    "station_name": "Mitali Service Station",
+    "latitude": 18.482536,
+    "longitude": 73.826713,
+    "address": "Sinhgad Rd, Hingane Home Colony,, Pune, Maharashtra, 411051, India",
+    "area": "Sinhgad Rd, Hingane Home Colony,",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.482536,73.826713",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8313 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 9,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": "Dnyanganga Junior College",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68596,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33832,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 33833,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "Mitali Service Station",
+        "last_used_on": "29/03/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Pune",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15361,
+      "station_name": "Mitali Service Station",
+      "latitude": 18.482536,
+      "longitude": 73.826713,
+      "address": "Sinhgad Rd, Hingane Home Colony,, Pune, Maharashtra, 411051, India",
+      "area": "Sinhgad Rd, Hingane Home Colony,",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.482536,73.826713",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14207,
+      "station_name": "Swaranjali Level2",
+      "latitude": 18.4878,
+      "longitude": 73.844823,
+      "address": "Sahakar Nagar 2, Pune, Maharashtra, 411009, India",
+      "area": "Sahakar Nagar 2",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.4878,73.844823",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    },
+    {
+      "id": 11828,
+      "station_name": "HOTEL DECCAN PAVILLION",
+      "latitude": 18.4596,
+      "longitude": 73.82522,
+      "address": "NAVLE CHOWK BYPASS, Pune, Maharashtra, 411041, India",
+      "area": "NAVLE CHOWK BYPASS",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.4596,73.82522",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 8590,
+      "station_name": "VARDHAMAN PETROL DEPOT",
+      "latitude": 18.4831,
+      "longitude": 73.802299,
+      "address": "\"RO AT WARJE OPP WARJE PMT BUS STOP, WARJE ROAD, PUNE, Pune, Maharashtra, 411058, India",
+      "area": "\"RO AT WARJE OPP WARJE PMT BUS STOP, WARJE ROAD, PUNE",
+      "avg_review_rating": 4.4,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.4831,73.802299",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14153,
+      "station_name": "Ratnankur apartment 4W-02",
+      "latitude": 18.506362,
+      "longitude": 73.818022,
+      "address": "Mayur Colony, Pune, Maharashtra, 411038, India",
+      "area": "Mayur Colony",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.506362,73.818022",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:15:43.350317+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

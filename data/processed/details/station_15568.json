@@ -1,0 +1,198 @@
+{
+  "station_id": 15568,
+  "station_detail": {
+    "station_id": 15568,
+    "station_name": "RAJDHANI FUEL SERVICE",
+    "latitude": 13.33978,
+    "longitude": 78.205575,
+    "address": "\"NEAR DEVANAGONTHI RLY STN,  CHINTAMANI RD, NR RAILWAY GATE,\", Srinivaspur, Karnataka, 563135, India",
+    "area": "\"NEAR DEVANAGONTHI RLY STN,  CHINTAMANI RD, NR RAILWAY GATE,\"",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.33978,78.205575",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8741 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 69004,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34441,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 34442,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "RAJDHANI FUEL SERVICE",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Srinivaspur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15568,
+      "station_name": "RAJDHANI FUEL SERVICE",
+      "latitude": 13.33978,
+      "longitude": 78.205575,
+      "address": "\"NEAR DEVANAGONTHI RLY STN,  CHINTAMANI RD, NR RAILWAY GATE,\", Srinivaspur, Karnataka, 563135, India",
+      "area": "\"NEAR DEVANAGONTHI RLY STN,  CHINTAMANI RD, NR RAILWAY GATE,\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.33978,78.205575",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15572,
+      "station_name": "BEERESHWARA FUELING STATION",
+      "latitude": 13.21184,
+      "longitude": 78.1012,
+      "address": "\"NEAR DEVANAGONTHI RLY STN,  SY NO 137/2, KOLAR-CHINTAMANI RD, SUGGATTUR\", Hubli, Karnataka, 563126, India",
+      "area": "\"NEAR DEVANAGONTHI RLY STN,  SY NO 137/2, KOLAR-CHINTAMANI RD, SUGGATTUR\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.21184,78.1012",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15295,
+      "station_name": "SRI DODDANARAYANA REDDY PETROL BUNK",
+      "latitude": 13.4051,
+      "longitude": 78.03676,
+      "address": "SY NO. 110/2B, THIMMASANDRA VILLAGE, AMBAJIDURGA HOBLI,, Chintamani, Karnataka, 563125, India",
+      "area": "SY NO. 110/2B, THIMMASANDRA VILLAGE, AMBAJIDURGA HOBLI,",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.4051,78.03676",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15578,
+      "station_name": "SRI SAI HANUMAN SERVICE STATION",
+      "latitude": 13.1467,
+      "longitude": 78.1307,
+      "address": "RO AT KOLAR TOWN ON CHICKBALLAPUR R, Kolar, Karnataka, 563101, India",
+      "area": "RO AT KOLAR TOWN ON CHICKBALLAPUR R",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.1467,78.1307",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 3904,
+      "station_name": "SK International Innn Charging Station",
+      "latitude": 13.133041,
+      "longitude": 78.220505,
+      "address": "Channarayapura Road, Ajjapanahalli, Kolar, Karnataka, 563103, India",
+      "area": "Channarayapura Road, Ajjapanahalli",
+      "avg_review_rating": 4.58,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.133041,78.220505",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:16:15.647722+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

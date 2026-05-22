@@ -1,0 +1,217 @@
+{
+  "station_id": 6550,
+  "station_detail": {
+    "station_id": 6550,
+    "station_name": "REIL HPCL Auto Care Centre",
+    "latitude": 18.792839,
+    "longitude": 73.296944,
+    "address": " Sajgaon Mumbai, Navi Mumbai, Maharashtra, 410203, India",
+    "area": " Sajgaon Mumbai",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.792839,73.296944",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8261 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 2,
+        "connector_name": "CHAdeMO",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/chademo.png"
+      },
+      {
+        "id": 6,
+        "connector_name": "GBT",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/REIL/REIL_Banner.png",
+    "landmark": "near Khalapur Toll Gate",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54059,
+        "price_with_currency": "₹ 18.0",
+        "price": 18.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 12055,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 12056,
+            "connector_type": "CHAdeMO",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/chademo.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 2,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 3,
+            "connector_id": 12057,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 6,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 122.0,
+        "charger_name": "EV Charger CCS2-122 KW",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Navi Mumbai",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 122.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 6550,
+      "station_name": "REIL HPCL Auto Care Centre",
+      "latitude": 18.792839,
+      "longitude": 73.296944,
+      "address": " Sajgaon Mumbai, Navi Mumbai, Maharashtra, 410203, India",
+      "area": " Sajgaon Mumbai",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.792839,73.296944",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8047,
+      "station_name": "RAM PETROLEUM",
+      "latitude": 18.799334,
+      "longitude": 73.302676,
+      "address": "SARSAN,KHOPOLI, Khopoli, Maharashtra, 410203, India",
+      "area": "SARSAN,KHOPOLI",
+      "avg_review_rating": 4.7,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.799334,73.302676",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 7334,
+      "station_name": "2000113-KRISHNA PETROLEUM",
+      "latitude": 18.834624,
+      "longitude": 73.287394,
+      "address": "KHALAPUR, Achalpur, Maharashtra, 410202, India",
+      "area": "KHALAPUR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.834624,73.287394",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7338,
+      "station_name": "2000129-HEMKUNT AUTOMOBILES",
+      "latitude": 18.849055,
+      "longitude": 73.278063,
+      "address": "KALOTE, Achalpur, Maharashtra, 410203, India",
+      "area": "KALOTE",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.849055,73.278063",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13522,
+      "station_name": "Ikshana Resort and Spa, Khandala",
+      "latitude": 18.763413,
+      "longitude": 73.369039,
+      "address": "CTS No. 627, Pune, Maharashtra, 410301, India",
+      "area": "CTS No. 627",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.763413,73.369039",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/verde/default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    18.0
+  ],
+  "scraped_at": "2026-05-21T08:01:27.825620+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

@@ -1,0 +1,238 @@
+{
+  "station_id": 9295,
+  "station_detail": {
+    "station_id": 9295,
+    "station_name": "UP | Rampur | Haryana Punjab Dhaba",
+    "latitude": 28.794255,
+    "longitude": 78.966291,
+    "address": "Munda Pande Chak Dafe Singh, Moradabad, Uttar Pradesh, 244001, India",
+    "area": "Munda Pande Chak Dafe Singh",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.794255,78.966291",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8943 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.21,
+    "no_of_reviews": 19,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/gentari-Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 58143,
+        "price_with_currency": "₹ 18.0",
+        "price": 18.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 17963,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 17965,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "GNT UP | Rampur | Haryana Punjab Dhaba 1",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 69676,
+        "price_with_currency": "₹ 22.05",
+        "price": 22.05,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35417,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 35418,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "GNT UP | Rampur | Haryana Punjab Dhaba 2",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 11,
+        "2": 0,
+        "3": 11,
+        "4": 16,
+        "5": 63
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Moradabad",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9295,
+      "station_name": "UP | Rampur | Haryana Punjab Dhaba",
+      "latitude": 28.794255,
+      "longitude": 78.966291,
+      "address": "Munda Pande Chak Dafe Singh, Moradabad, Uttar Pradesh, 244001, India",
+      "area": "Munda Pande Chak Dafe Singh",
+      "avg_review_rating": 4.21,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.794255,78.966291",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/gentari-default.png"
+    },
+    {
+      "id": 13375,
+      "station_name": "ID(94j9ze) HP CENTRE MUNDAPANDEY",
+      "latitude": 28.817862,
+      "longitude": 78.891878,
+      "address": "Chamraua, Chamraua, Uttar Pradesh, 244104, India",
+      "area": "Chamraua",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.817862,78.891878",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 13232,
+      "station_name": "ID(g87u8o)-Madhuri HP",
+      "latitude": 28.843395,
+      "longitude": 79.145166,
+      "address": "Bhot, Bhot, Uttar Pradesh, 244927, India",
+      "area": "Bhot",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.843395,79.145166",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 8631,
+      "station_name": "UP | Bilaspur | Punjabi Potli",
+      "latitude": 28.863835,
+      "longitude": 79.192967,
+      "address": "V57V+G3H, Rampur, Uttar Pradesh, 244921, India",
+      "area": "V57V+G3H",
+      "avg_review_rating": 4.86,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.863835,79.192967",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 9320,
+      "station_name": "UP | Moradabad | Hotel Holiday Regency",
+      "latitude": 28.823544,
+      "longitude": 78.685191,
+      "address": "9th, Moradabad, Uttar Pradesh, 244001, India",
+      "area": "9th",
+      "avg_review_rating": 4.7,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.823544,78.685191",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/gentari-default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 2,
+  "ac_prices": [],
+  "dc_prices": [
+    18.0,
+    22.05
+  ],
+  "scraped_at": "2026-05-21T08:05:55.995341+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

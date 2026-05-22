@@ -1,0 +1,193 @@
+{
+  "station_id": 6703,
+  "station_detail": {
+    "station_id": 6703,
+    "station_name": "Kundan Petroleum",
+    "latitude": 19.710625,
+    "longitude": 74.480133,
+    "address": "SURVEY NO. 324/4/1, ON NAGAR - MANMAD RD, TALUKA - RAHATA, DISTRICT - AHMEDNAGAR, Ahmednagar, Maharashtra, 423107, India",
+    "area": "SURVEY NO. 324/4/1, ON NAGAR - MANMAD RD, TALUKA - RAHATA, DISTRICT - AHMEDNAGAR",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.710625,74.480133",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8394 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54230,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 12351,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "Kundan Petroleum - EV AC Charger 3kw",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ahmednagar",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 3.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 6703,
+      "station_name": "Kundan Petroleum",
+      "latitude": 19.710625,
+      "longitude": 74.480133,
+      "address": "SURVEY NO. 324/4/1, ON NAGAR - MANMAD RD, TALUKA - RAHATA, DISTRICT - AHMEDNAGAR, Ahmednagar, Maharashtra, 423107, India",
+      "area": "SURVEY NO. 324/4/1, ON NAGAR - MANMAD RD, TALUKA - RAHATA, DISTRICT - AHMEDNAGAR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.710625,74.480133",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12587,
+      "station_name": "ID(gzwmyn) SKGS Sai Siddhi Petroleum",
+      "latitude": 19.746476,
+      "longitude": 74.477743,
+      "address": "Manmad Road, Shirdi, Maharashtra, 423109, India",
+      "area": "Manmad Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.746476,74.477743",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 14107,
+      "station_name": "PUSHPAK RESTAURANT",
+      "latitude": 19.75319,
+      "longitude": 74.47714,
+      "address": "PUSHPAK RESORT , Shirdi, Maharashtra, 423109, India",
+      "area": "PUSHPAK RESORT ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.75319,74.47714",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    },
+    {
+      "id": 1576,
+      "station_name": "Statiq Hotel The Executive Inn Station",
+      "latitude": 19.7591,
+      "longitude": 74.476402,
+      "address": "Hotel The Executive Inn, Near Ratnakar Bank, Nagar, Manmad Rd, opp. Indian Oil Petrol Pump, Shirdi, Maharashtra 423109, Shirdi, Maharashtra, 423109, India",
+      "area": "Hotel The Executive Inn, Near Ratnakar Bank, Nagar, Manmad Rd, opp. Indian Oil Petrol Pump, Shirdi, Maharashtra 423109",
+      "avg_review_rating": 4.63,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.7591,74.476402",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 7737,
+      "station_name": "GLIDA Hotel Season Choice",
+      "latitude": 19.77151,
+      "longitude": 74.473271,
+      "address": "Opposite Police Station, Ahmednagar, Maharashtra, 423109, India",
+      "area": "Opposite Police Station",
+      "avg_review_rating": 4.45,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.77151,74.473271",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-charging-not-selected-pin.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    14.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:01:40.088023+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

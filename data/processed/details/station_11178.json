@@ -1,0 +1,312 @@
+{
+  "station_id": 11178,
+  "station_detail": {
+    "station_id": 11178,
+    "station_name": "Shell Recharge T C Palya",
+    "latitude": 13.021402,
+    "longitude": 77.678842,
+    "address": "T C Palya, Bengaluru, Karnataka, 560016, India",
+    "area": "T C Palya",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.021402,77.678842",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8682 kms",
+    "operational_time": "00:00 To 23:59",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 4.44,
+    "no_of_reviews": 261,
+    "station_image_url": null,
+    "is_connected": true,
+    "station_banner": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/banners/updatedbannerimage.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 12985,
+        "id": 1
+      },
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 12986,
+        "id": 2
+      },
+      {
+        "type": "Car Care",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/car+care+(1).png",
+        "map_id": 12987,
+        "id": 4
+      },
+      {
+        "type": "Store",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/store.png",
+        "map_id": 12988,
+        "id": 3
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 61458,
+        "price_with_currency": "₹ 23.0",
+        "price": 23.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23202,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 23203,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 240.0,
+        "charger_name": "SR- TCP  Charger 1",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61459,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23204,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "SR- TCP Charger 2",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61460,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23205,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "SR- TCP Charger 4",
+        "last_used_on": "16/05/2025"
+      },
+      {
+        "charger_id": 61461,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23206,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "SR- TCP Charger 3",
+        "last_used_on": "29/11/2024"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 6,
+        "2": 5,
+        "3": 3,
+        "4": 11,
+        "5": 75
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bengaluru",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 240.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11178,
+      "station_name": "Shell Recharge T C Palya",
+      "latitude": 13.021402,
+      "longitude": 77.678842,
+      "address": "T C Palya, Bengaluru, Karnataka, 560016, India",
+      "area": "T C Palya",
+      "avg_review_rating": 4.44,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.021402,77.678842",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
+    },
+    {
+      "id": 6612,
+      "station_name": "REIL Kalpatharu Enterprises",
+      "latitude": 13.01831,
+      "longitude": 77.67791,
+      "address": "KODI HALLI, JEEVAN BHIMA NAGAR, Bengaluru, Karnataka, 560075, India",
+      "area": "KODI HALLI, JEEVAN BHIMA NAGAR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.01831,77.67791",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 6602,
+      "station_name": "REIL M.R. ENTERPRISES",
+      "latitude": 13.0312,
+      "longitude": 77.669594,
+      "address": "KALKERE VILLAGE, Bengaluru, Karnataka, 560043, India",
+      "area": "KALKERE VILLAGE",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.0312,77.669594",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 6620,
+      "station_name": "REIL RTO, East Kasturi nagar",
+      "latitude": 13.00443,
+      "longitude": 77.664513,
+      "address": "East Kasturi Nagar, Bengaluru, Karnataka, 560016, India",
+      "area": "East Kasturi Nagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.00443,77.664513",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 4947,
+      "station_name": "GLIDA MG Bengaluru Narayanapura ORR",
+      "latitude": 12.995418,
+      "longitude": 77.68454,
+      "address": "Shree Bhuvaneswari Vokkaligara Sangha, Bengaluru, Karnataka, 560016, India",
+      "area": "Shree Bhuvaneswari Vokkaligara Sangha",
+      "avg_review_rating": 4.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.995418,77.68454",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/unavailable+select.png"
+    }
+  ],
+  "ac_count": 3,
+  "dc_count": 1,
+  "ac_prices": [
+    20.0,
+    20.0,
+    20.0
+  ],
+  "dc_prices": [
+    23.0
+  ],
+  "scraped_at": "2026-05-21T08:09:58.513207+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "station_image_url",
+    "landmark"
+  ],
+  "coverage_pct": 90.9
+}

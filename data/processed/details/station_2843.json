@@ -1,0 +1,215 @@
+{
+  "station_id": 2843,
+  "station_detail": {
+    "station_id": 2843,
+    "station_name": "Statiq AMPL Chennai-MMH05 Station",
+    "latitude": 13.0718,
+    "longitude": 80.222397,
+    "address": "Entrance Gate, 107/1, Chennai, Tamil Nadu, 600029, India",
+    "area": "Entrance Gate, 107/1",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.0718,80.222397",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8958 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.41,
+    "no_of_reviews": 714,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 730,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 3585,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 5033,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "AMPL Chennai-MMH05 DC Charger",
+        "last_used_on": "23/04/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 8,
+        "2": 1,
+        "3": 3,
+        "4": 15,
+        "5": 72
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Chennai",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 2843,
+      "station_name": "Statiq AMPL Chennai-MMH05 Station",
+      "latitude": 13.0718,
+      "longitude": 80.222397,
+      "address": "Entrance Gate, 107/1, Chennai, Tamil Nadu, 600029, India",
+      "area": "Entrance Gate, 107/1",
+      "avg_review_rating": 4.41,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.0718,80.222397",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 15800,
+      "station_name": "EESL Chennai Shenoy Nagar Metro Station",
+      "latitude": 13.075588,
+      "longitude": 80.232113,
+      "address": "Shenoy Nagar Metro Station, Chennai, Tamil Nadu, Chennai, Tamil Nadu, 600030, India",
+      "area": "Shenoy Nagar Metro Station, Chennai, Tamil Nadu",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.075588,80.232113",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15818,
+      "station_name": "EESL Chennai Pachiayppa Metro Station",
+      "latitude": 13.07561,
+      "longitude": 80.232114,
+      "address": "Pachiayppa Metro Station, Chennai, Tamil Nadu, Chennai, Tamil Nadu, 600010, India",
+      "area": "Pachiayppa Metro Station, Chennai, Tamil Nadu",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.07561,80.232114",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15792,
+      "station_name": "EESL Chennai Anna Nagar East Metro Station",
+      "latitude": 13.084713,
+      "longitude": 80.219897,
+      "address": "Anna Nagar East Metro Station, Chennai, Tamil Nadu, Chennai, Tamil Nadu, 600102, India",
+      "area": "Anna Nagar East Metro Station, Chennai, Tamil Nadu",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.084713,80.219897",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8731,
+      "station_name": "TN | Chennai | Hotel Arun International",
+      "latitude": 13.072249,
+      "longitude": 80.202531,
+      "address": "239, Chennai, Tamil Nadu, 600107, India",
+      "area": "239",
+      "avg_review_rating": 3.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.072249,80.202531",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-online-not-selected.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.99
+  ],
+  "scraped_at": "2026-05-21T07:59:35.404838+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

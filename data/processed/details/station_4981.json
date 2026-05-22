@@ -1,0 +1,214 @@
+{
+  "station_id": 4981,
+  "station_detail": {
+    "station_id": 4981,
+    "station_name": "GLIDA Fun & Food Carnival",
+    "latitude": 29.309785,
+    "longitude": 77.720031,
+    "address": "NH 58, Muzaffarnagar, Uttar Pradesh, 251201, India",
+    "area": "NH 58",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.309785,77.720031",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8828 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.53,
+    "no_of_reviews": 838,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Glida+Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 51977,
+        "price_with_currency": "₹ 18.99",
+        "price": 18.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 9772,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 9773,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "MOZ0002",
+        "last_used_on": "17/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 6,
+        "2": 2,
+        "3": 2,
+        "4": 12,
+        "5": 78
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Muzaffarnagar",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 4981,
+      "station_name": "GLIDA Fun & Food Carnival",
+      "latitude": 29.309785,
+      "longitude": 77.720031,
+      "address": "NH 58, Muzaffarnagar, Uttar Pradesh, 251201, India",
+      "area": "NH 58",
+      "avg_review_rating": 4.53,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.309785,77.720031",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/unavailable+select.png"
+    },
+    {
+      "id": 1162,
+      "station_name": "Statiq Fun and Food Carnival Station",
+      "latitude": 29.309559,
+      "longitude": 77.721992,
+      "address": "Left side of the Main Entrance Gate, Fun and Food Carnival, NH 58, Khatauli, Uttar Pradesh, 251201, India",
+      "area": "Left side of the Main Entrance Gate, Fun and Food Carnival, NH 58",
+      "avg_review_rating": 4.69,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.309559,77.721992",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 11027,
+      "station_name": "2016206-SIYA RAM FUELS",
+      "latitude": 29.309436,
+      "longitude": 77.729484,
+      "address": "RO AT VILLAGE-BHAINSI, KHATAULI -MUZAFFARNAGAR ROAD, Muzaffarnagar, Uttar Pradesh, 251201, India",
+      "area": "RO AT VILLAGE-BHAINSI, KHATAULI -MUZAFFARNAGAR ROAD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.309436,77.729484",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9832,
+      "station_name": "Ecoplug Gulshan Dhaba Khatauli",
+      "latitude": 29.319835,
+      "longitude": 77.724085,
+      "address": "Delhi-Haridwar Road, Muzaffarnagar, Uttar Pradesh, 251318, India",
+      "area": "Delhi-Haridwar Road",
+      "avg_review_rating": 4.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.319835,77.724085",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 5193,
+      "station_name": "Hyundai Devrana Charging Station",
+      "latitude": 29.331837,
+      "longitude": 77.721352,
+      "address": "Hotel parking area near exit, Plot No. 318, Akbarpur-Mansurpur, Near Indian Oil Petrol Station, Munawarpur Khurd, Devrana, Akbarpur, Uttar Pradesh, 251203, India",
+      "area": "Hotel parking area near exit, Plot No. 318, Akbarpur-Mansurpur, Near Indian Oil Petrol Station, Munawarpur Khurd, Devrana",
+      "avg_review_rating": 4.72,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.331837,77.721352",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-online-not-selected.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    18.99
+  ],
+  "scraped_at": "2026-05-21T08:00:50.833582+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

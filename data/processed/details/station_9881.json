@@ -1,0 +1,236 @@
+{
+  "station_id": 9881,
+  "station_detail": {
+    "station_id": 9881,
+    "station_name": "TEJAS ELECTRIC (2W/3W/4W)",
+    "latitude": 23.834574,
+    "longitude": 71.627286,
+    "address": "RJMG+RWP, Radhanpur, Gujarat, 385340, India",
+    "area": "RJMG+RWP",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.834574,71.627286",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8153 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/yocharge_Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 61206,
+        "price_with_currency": "₹ 21.0",
+        "price": 21.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22773,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "YHB TEJAS ELECTRIC (2W/3W/4W) 6",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 61207,
+        "price_with_currency": "₹ 21.0",
+        "price": 21.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22774,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "YHB TEJAS ELECTRIC (2W/3W/4W) 7",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 61220,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22796,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "YHB TEJAS ELECTRIC (2W/3W/4W) 8",
+        "last_used_on": "07/01/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Radhanpur",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 22.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9881,
+      "station_name": "TEJAS ELECTRIC (2W/3W/4W)",
+      "latitude": 23.834574,
+      "longitude": 71.627286,
+      "address": "RJMG+RWP, Radhanpur, Gujarat, 385340, India",
+      "area": "RJMG+RWP",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.834574,71.627286",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 11293,
+      "station_name": "JAY MATAJI PETROLEUM",
+      "latitude": 23.813175,
+      "longitude": 71.537336,
+      "address": "PATAN, Patan, Gujarat, 385340, India",
+      "area": "PATAN",
+      "avg_review_rating": 4.51,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.813175,71.537336",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7081,
+      "station_name": "2003997-GOPAL PETROLEUM",
+      "latitude": 23.957288,
+      "longitude": 71.809355,
+      "address": "THARA, Bechar, Gujarat, 385555, India",
+      "area": "THARA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.957288,71.809355",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7102,
+      "station_name": "2013081-NARANDAN PETROLEUM",
+      "latitude": 23.796005,
+      "longitude": 71.26883,
+      "address": "SANTALPUR, Bechar, Gujarat, 385360, India",
+      "area": "SANTALPUR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.796005,71.26883",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 6858,
+      "station_name": "S N PETROLEUM",
+      "latitude": 24.100449,
+      "longitude": 71.937403,
+      "address": "\"Bharat Petroleum Dealer,  PETROL PUMP  N.H- 27, Khima- Shihori Highway  At & Post Khimna, taluka Kankrej dist Banaskantha Pincode 385554\", Valsad, Gujarat, 396125, India",
+      "area": "\"Bharat Petroleum Dealer,  PETROL PUMP  N.H- 27, Khima- Shihori Highway  At & Post Khimna, taluka Kankrej dist Banaskantha Pincode 385554\"",
+      "avg_review_rating": 3.43,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.100449,71.937403",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 3,
+  "dc_count": 0,
+  "ac_prices": [
+    21.0,
+    21.0,
+    20.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:07:26.730303+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

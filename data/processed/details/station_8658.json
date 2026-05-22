@@ -1,0 +1,209 @@
+{
+  "station_id": 8658,
+  "station_detail": {
+    "station_id": 8658,
+    "station_name": "MH | Mumbai | Powai Hiranandani Gardens",
+    "latitude": 19.120173,
+    "longitude": 72.912779,
+    "address": "Technology St, Mumbai, Maharashtra, 400076, India",
+    "area": "Technology St",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.120173,72.912779",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8224 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.25,
+    "no_of_reviews": 4,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 57165,
+        "price_with_currency": "₹ 21.0",
+        "price": 21.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16400,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 16401,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 90.0,
+        "charger_name": "TCZ MH | Mumbai | Powai Hiranandani Gardens 1",
+        "last_used_on": "02/04/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 75,
+        "5": 25
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Mumbai",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 90.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8658,
+      "station_name": "MH | Mumbai | Powai Hiranandani Gardens",
+      "latitude": 19.120173,
+      "longitude": 72.912779,
+      "address": "Technology St, Mumbai, Maharashtra, 400076, India",
+      "area": "Technology St",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.120173,72.912779",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 12532,
+      "station_name": "ID(3amu33) Western Petroleum  ID-3amu33",
+      "latitude": 19.110448,
+      "longitude": 72.92567,
+      "address": "Godrej & Boyce Industry Estate, Mumbai, Maharashtra, 400079, India",
+      "area": "Godrej & Boyce Industry Estate",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.110448,72.92567",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 8498,
+      "station_name": "MH | Mumbai | The Westin Mumbai Powai Lake",
+      "latitude": 19.134097,
+      "longitude": 72.901002,
+      "address": "The Westin Mumbai Powai Lake Kailash Nagar, Mumbai, Maharashtra, 400076, India",
+      "area": "The Westin Mumbai Powai Lake Kailash Nagar",
+      "avg_review_rating": 4.77,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.134097,72.901002",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 12423,
+      "station_name": "MH | Powai | Prima Bay",
+      "latitude": 19.124416,
+      "longitude": 72.893677,
+      "address": "CTS No.117A/1D, Mumbai, Maharashtra, 400072, India",
+      "area": "CTS No.117A/1D",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.124416,72.893677",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 12594,
+      "station_name": "ID(6udrs9) Batra Brother",
+      "latitude": 19.105121,
+      "longitude": 72.887404,
+      "address": "Sag Baug, Mumbai, Maharashtra, 400072, India",
+      "area": "Sag Baug",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.105121,72.887404",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.0
+  ],
+  "scraped_at": "2026-05-21T08:05:08.732456+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

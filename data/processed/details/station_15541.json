@@ -1,0 +1,212 @@
+{
+  "station_id": 15541,
+  "station_detail": {
+    "station_id": 15541,
+    "station_name": "DDA Shopping complex Rajdhani  Enclave by Reliable Charge New Rajdhani Enclave, Swasthya Vihar, Delhi, 110092",
+    "latitude": 28.642883,
+    "longitude": 77.296536,
+    "address": "New Rajdhani Enclave, Delhi, Delhi, 110092, India",
+    "area": "New Rajdhani Enclave",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.642883,77.296536",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8780 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/yocharge_Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68935,
+        "price_with_currency": "₹ 21.0",
+        "price": 21.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34345,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "YHB DDA Shopping complex Rajdhani  Enclave by Reliable Charge New Rajdhani Enclave, Swasthya Vihar, Delhi, 110092 1",
+        "last_used_on": "19/05/2026"
+      },
+      {
+        "charger_id": 68936,
+        "price_with_currency": "₹ 21.0",
+        "price": 21.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34346,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "YHB DDA Shopping complex Rajdhani  Enclave by Reliable Charge New Rajdhani Enclave, Swasthya Vihar, Delhi, 110092 2",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Delhi",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15541,
+      "station_name": "DDA Shopping complex Rajdhani  Enclave by Reliable Charge New Rajdhani Enclave, Swasthya Vihar, Delhi, 110092",
+      "latitude": 28.642883,
+      "longitude": 77.296536,
+      "address": "New Rajdhani Enclave, Delhi, Delhi, 110092, India",
+      "area": "New Rajdhani Enclave",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.642883,77.296536",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 15990,
+      "station_name": "Ecoplug Laxmi Nagar (MCD Parking)",
+      "latitude": 28.6386,
+      "longitude": 77.2873,
+      "address": "In front of Plot No. 15 to 19, New Delhi, Delhi, 110092, India",
+      "area": "In front of Plot No. 15 to 19",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.6386,77.2873",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 15523,
+      "station_name": "MCD Parking Baldev Park near Shivaji Dharmshala by Reliable Charge 32, Street Number 21, near Dixit Dairy, Anarkali Colony South, Baldev Park, Krishna Nagar, Delhi, 110051",
+      "latitude": 28.647437,
+      "longitude": 77.285994,
+      "address": "32, Delhi, Delhi, 110051, India",
+      "area": "32",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.647437,77.285994",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 10363,
+      "station_name": "Park Plaza BYPL",
+      "latitude": 28.659068,
+      "longitude": 77.298104,
+      "address": "Park Plaza Delhi Cbd Shahdara, Delhi, Delhi, 110095, India",
+      "area": "Park Plaza Delhi Cbd Shahdara",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.659068,77.298104",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/verde/default.png"
+    },
+    {
+      "id": 7049,
+      "station_name": "2000722-VEEJAY SERVICE STATION ADHOC",
+      "latitude": 28.634552,
+      "longitude": 77.315473,
+      "address": "DELHI, Delhi, Delhi, 110096, India",
+      "area": "DELHI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.634552,77.315473",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 2,
+  "ac_prices": [],
+  "dc_prices": [
+    21.0,
+    21.0
+  ],
+  "scraped_at": "2026-05-21T08:16:07.794598+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

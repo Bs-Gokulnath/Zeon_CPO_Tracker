@@ -1,0 +1,318 @@
+{
+  "station_id": 11170,
+  "station_detail": {
+    "station_id": 11170,
+    "station_name": "Shell Recharge Thanisandra ",
+    "latitude": 13.051611,
+    "longitude": 77.630767,
+    "address": "Thanisandra Main Road, Bengaluru, Karnataka, 560077, India",
+    "area": "Thanisandra Main Road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.051611,77.630767",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8677 kms",
+    "operational_time": "00:00 To 23:59",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 4.56,
+    "no_of_reviews": 112,
+    "station_image_url": null,
+    "is_connected": true,
+    "station_banner": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/banners/updatedbannerimage.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 12953,
+        "id": 1
+      },
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 12954,
+        "id": 2
+      },
+      {
+        "type": "Car Care",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/car+care+(1).png",
+        "map_id": 12955,
+        "id": 4
+      },
+      {
+        "type": "Store",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/store.png",
+        "map_id": 12956,
+        "id": 3
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 61431,
+        "price_with_currency": "₹ 23.0",
+        "price": 23.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23167,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 23168,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "SR- THN Charger 1",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61432,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23169,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "SR- THN Charger 2",
+        "last_used_on": "20/04/2024"
+      },
+      {
+        "charger_id": 61433,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23170,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "SR- THN Charger 3",
+        "last_used_on": "23/12/2024"
+      },
+      {
+        "charger_id": 61434,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23171,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "SR- THN Charger 4",
+        "last_used_on": "30/05/2024"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 4,
+        "2": 1,
+        "3": 6,
+        "4": 11,
+        "5": 78
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bengaluru",
+    "station_access_type": "public",
+    "availability": "Available in",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": [
+      {
+        "id": 716,
+        "station_image_url": "$21"
+      }
+    ],
+    "waiting_time": "2026-05-21 15:03:37"
+  },
+  "nearby_stations": [
+    {
+      "id": 11170,
+      "station_name": "Shell Recharge Thanisandra ",
+      "latitude": 13.051611,
+      "longitude": 77.630767,
+      "address": "Thanisandra Main Road, Bengaluru, Karnataka, 560077, India",
+      "area": "Thanisandra Main Road",
+      "avg_review_rating": 4.56,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.051611,77.630767",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
+    },
+    {
+      "id": 12280,
+      "station_name": "Manyata Tech Park F3 (Only for Manyata Employees)",
+      "latitude": 13.0472,
+      "longitude": 77.6258,
+      "address": "Manyata Tech Park F3 , Bengaluru, Karnataka, 400021, India",
+      "area": "Manyata Tech Park F3 ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.0472,77.6258",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8250,
+      "station_name": "Hyundai Elements Mall Charging Station",
+      "latitude": 13.045442,
+      "longitude": 77.626924,
+      "address": "MS Ramaiah North City Road Entrance, Survey No. 132(P), 133(P), & 134(P) of Nagavara Village 100 wide Thanisandra Main Rd,, Bengaluru, Karnataka, 560077, India",
+      "area": "MS Ramaiah North City Road Entrance, Survey No. 132(P), 133(P), & 134(P) of Nagavara Village 100 wide Thanisandra Main Rd,",
+      "avg_review_rating": 4.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.045442,77.626924",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-online-not-selected.png"
+    },
+    {
+      "id": 12284,
+      "station_name": "Manyata Tech Park G6 Mlcp (Only for Manyata Employees)",
+      "latitude": 13.0485,
+      "longitude": 77.6238,
+      "address": "Manyata Tech Park G6 Mlcp, Bengaluru, Karnataka, 400021, India",
+      "area": "Manyata Tech Park G6 Mlcp",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.0485,77.6238",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 6616,
+      "station_name": "REIL PATEL SERVICE STATION",
+      "latitude": 13.05955,
+      "longitude": 77.648819,
+      "address": " Kothanur, Bengaluru, Karnataka, 560077, India",
+      "area": " Kothanur",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.05955,77.648819",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 3,
+  "dc_count": 1,
+  "ac_prices": [
+    20.0,
+    20.0,
+    20.0
+  ],
+  "dc_prices": [
+    23.0
+  ],
+  "scraped_at": "2026-05-21T08:09:58.492729+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "station_image_url",
+    "landmark"
+  ],
+  "coverage_pct": 90.9
+}

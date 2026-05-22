@@ -1,0 +1,210 @@
+{
+  "station_id": 3676,
+  "station_detail": {
+    "station_id": 3676,
+    "station_name": "Statiq CBC Motors Station",
+    "latitude": 8.4664,
+    "longitude": 76.939201,
+    "address": "TC NO.68/1795/1, Thiruvananthapuram, Kerala, 695008, India",
+    "area": "TC NO.68/1795/1",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.4664,76.939201",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8580 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.13,
+    "no_of_reviews": 391,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 11269,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 16959,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 6761,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "CBC Motors DC Charger",
+        "last_used_on": "19/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 10,
+        "2": 3,
+        "3": 6,
+        "4": 25,
+        "5": 55
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Thiruvananthapuram",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 3676,
+      "station_name": "Statiq CBC Motors Station",
+      "latitude": 8.4664,
+      "longitude": 76.939201,
+      "address": "TC NO.68/1795/1, Thiruvananthapuram, Kerala, 695008, India",
+      "area": "TC NO.68/1795/1",
+      "avg_review_rating": 4.13,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.4664,76.939201",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 6301,
+      "station_name": "chargeMOD | POWERHUB EVCS Attukal ",
+      "latitude": 8.466496,
+      "longitude": 76.960888,
+      "address": "Homeopathic MCH, Thiruvananthapuram, Kerala, 87109, India",
+      "area": "Homeopathic MCH",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.466496,76.960888",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 14743,
+      "station_name": "chargeMOD | CHANDRA EVCS | Pettah",
+      "latitude": 8.49453,
+      "longitude": 76.929984,
+      "address": "Railway Hospital Road, Thiruvananthapuram, Kerala, 695024, India",
+      "area": "Railway Hospital Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.49453,76.929984",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 12239,
+      "station_name": "chargeMOD | ILLAM 80kW | EVOK | CHACKA",
+      "latitude": 8.49191,
+      "longitude": 76.920181,
+      "address": "Towards Chacka-Karikkakom Road, Thiruvananthapuram, Kerala, 695024, India",
+      "area": "Towards Chacka-Karikkakom Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.49191,76.920181",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 3675,
+      "station_name": "Statiq Hilton Garden Inn Trivandrum Station",
+      "latitude": 8.49985,
+      "longitude": 76.950302,
+      "address": "Hilton Garden Inn - Trivandrum, Thiruvananthapuram, Kerala, 695039, India",
+      "area": "Hilton Garden Inn - Trivandrum",
+      "avg_review_rating": 4.61,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.49985,76.950302",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.99
+  ],
+  "scraped_at": "2026-05-21T07:59:42.649055+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

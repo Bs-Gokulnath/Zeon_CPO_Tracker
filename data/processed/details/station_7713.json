@@ -1,0 +1,316 @@
+{
+  "station_id": 7713,
+  "station_detail": {
+    "station_id": 7713,
+    "station_name": "EarthtronEV BSES Patparganj",
+    "latitude": 28.621521,
+    "longitude": 77.293576,
+    "address": "Mother Dairy Marg, Delhi, Delhi, 110092, India",
+    "area": "Mother Dairy Marg",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.621521,77.293576",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8779 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 6,
+        "connector_name": "GBT",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png"
+      },
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 2,
+        "connector_name": "CHAdeMO",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/chademo.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 4.37,
+    "no_of_reviews": 563,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/earthtronev_Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 55561,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13930,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 6,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 13931,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 6,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "ELC EarthtronEV BSES office 1",
+        "last_used_on": "04/09/2025"
+      },
+      {
+        "charger_id": 55562,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13932,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 6,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 15.0,
+        "charger_name": "ELC EarthtronEV BSES office 2",
+        "last_used_on": "26/02/2025"
+      },
+      {
+        "charger_id": 55563,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13933,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 6,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 15.0,
+        "charger_name": "ELC EarthtronEV BSES office 3",
+        "last_used_on": "30/08/2025"
+      },
+      {
+        "charger_id": 55564,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13934,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 13935,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 3,
+            "connector_id": 13936,
+            "connector_type": "CHAdeMO",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/chademo.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 2,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 142.0,
+        "charger_name": "ELC EarthtronEV BSES office 4",
+        "last_used_on": "13/09/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 12,
+        "2": 2,
+        "3": 2,
+        "4": 6,
+        "5": 79
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Delhi",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 142.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7713,
+      "station_name": "EarthtronEV BSES Patparganj",
+      "latitude": 28.621521,
+      "longitude": 77.293576,
+      "address": "Mother Dairy Marg, Delhi, Delhi, 110092, India",
+      "area": "Mother Dairy Marg",
+      "avg_review_rating": 4.37,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.621521,77.293576",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/earthtronev_default.png"
+    },
+    {
+      "id": 15537,
+      "station_name": "MCD Parking Parmanand hospital West Vinod Nagar by Reliable Charge MCD Parking In front of swami Parmanand prakritik chikits alaya west vinod nagar",
+      "latitude": 28.621912,
+      "longitude": 77.295775,
+      "address": "MCD Parking In front of swami Parmanand prakr, Delhi, Delhi, India",
+      "area": "MCD Parking In front of swami Parmanand prakr",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.621912,77.295775",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 15519,
+      "station_name": "MCD Parking West ganesh nagar chowk by Reliable Charge MCD Parking, near mother dairy plant west ganesh nagar chowk",
+      "latitude": 28.621198,
+      "longitude": 77.285315,
+      "address": "MCD Parking, Delhi, Delhi, India",
+      "area": "MCD Parking",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.621198,77.285315",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 6942,
+      "station_name": "Statiq IGL MCD Dhalao Mayur Vihar Station",
+      "latitude": 28.620647,
+      "longitude": 77.309066,
+      "address": "Opposite Kalyanvas Mayur Vihar Ph-II, Ward No. 11E, Mayur Vihar Ph II, Dhalao Near Gate 4, Pocket C, New Delhi, Delhi, 110022, India",
+      "area": "Opposite Kalyanvas Mayur Vihar Ph-II, Ward No. 11E, Mayur Vihar Ph II, Dhalao Near Gate 4, Pocket C",
+      "avg_review_rating": 4.74,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.620647,77.309066",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 15534,
+      "station_name": "MCD Parking near Lakshmi Nagar metro by Reliable Charge MCD Parking, near Metro Station Laxmi Nagar, Block S 2, East, Shakarpur, Delhi, 110092",
+      "latitude": 28.628854,
+      "longitude": 77.2755,
+      "address": "MCD Parking, Delhi, Delhi, 110092, India",
+      "area": "MCD Parking",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.628854,77.2755",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 4,
+  "ac_prices": [],
+  "dc_prices": [
+    20.0,
+    20.0,
+    20.0,
+    20.0
+  ],
+  "scraped_at": "2026-05-21T08:03:32.816525+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

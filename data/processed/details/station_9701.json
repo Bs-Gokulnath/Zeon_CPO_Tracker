@@ -1,0 +1,204 @@
+{
+  "station_id": 9701,
+  "station_detail": {
+    "station_id": 9701,
+    "station_name": "M/s. Sri Dhenupureeswarar Agency",
+    "latitude": 12.29534,
+    "longitude": 79.72968,
+    "address": "SY. NO. 13/17B, SY. NO.13/17B,NALLATHUR VILLAGE, VILLAGE-NALLATHUR, THALUK-TINDIVANAM, DISTRICT-VILUPPURAM, Vilavur, Tamil Nadu, 604305, India",
+    "area": "SY. NO. 13/17B, SY. NO.13/17B,NALLATHUR VILLAGE, VILLAGE-NALLATHUR, THALUK-TINDIVANAM, DISTRICT-VILUPPURAM",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.29534,79.72968",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8901 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 2.0,
+    "no_of_reviews": 4,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 58709,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 19030,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 19031,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "M/s. Sri Dhenupureeswarar Agency",
+        "last_used_on": "31/01/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 75,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 25
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Vilavur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9701,
+      "station_name": "M/s. Sri Dhenupureeswarar Agency",
+      "latitude": 12.29534,
+      "longitude": 79.72968,
+      "address": "SY. NO. 13/17B, SY. NO.13/17B,NALLATHUR VILLAGE, VILLAGE-NALLATHUR, THALUK-TINDIVANAM, DISTRICT-VILUPPURAM, Vilavur, Tamil Nadu, 604305, India",
+      "area": "SY. NO. 13/17B, SY. NO.13/17B,NALLATHUR VILLAGE, VILLAGE-NALLATHUR, THALUK-TINDIVANAM, DISTRICT-VILUPPURAM",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.29534,79.72968",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10992,
+      "station_name": "M/s. Saravana Agencies",
+      "latitude": 12.214071,
+      "longitude": 79.86634,
+      "address": "Villupuram, Villupuram, Tamil Nadu, 604301, India",
+      "area": "Villupuram",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.214071,79.86634",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 11028,
+      "station_name": "Sakthi Madhumalar Agency",
+      "latitude": 12.433721,
+      "longitude": 79.832381,
+      "address": "Melmaruvathur, Chengalpattu, Tamil Nadu, 603319, India",
+      "area": "Melmaruvathur",
+      "avg_review_rating": 4.64,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.433721,79.832381",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7491,
+      "station_name": "2015267-SRI SIVAGAMI FUEL STATION",
+      "latitude": 12.062076,
+      "longitude": 79.824072,
+      "address": "KALAPET, Karaikal, Pondicherry, 605014, India",
+      "area": "KALAPET",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.062076,79.824072",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 11975,
+      "station_name": "A.S.MOHAMED RAFI AGENCIES",
+      "latitude": 12.527677,
+      "longitude": 79.897605,
+      "address": "266/4A, 267/1, 277/2, 268 (P), G.S.T. ROAD KARUNGUZHI, Chennai, Tamil Nadu, 603306, India",
+      "area": "266/4A, 267/1, 277/2, 268 (P), G.S.T. ROAD KARUNGUZHI",
+      "avg_review_rating": 3.15,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.527677,79.897605",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:07:13.680912+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

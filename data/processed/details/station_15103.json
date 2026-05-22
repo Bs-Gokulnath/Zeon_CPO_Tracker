@@ -1,0 +1,214 @@
+{
+  "station_id": 15103,
+  "station_detail": {
+    "station_id": 15103,
+    "station_name": "Blexy Petroleum",
+    "latitude": 11.4072,
+    "longitude": 75.932,
+    "address": "BHARAT PETROLEUM RETAIL OUTLET AT THAMARASSERY,CALICUT, Calicut, Kerala, 673573, India",
+    "area": "BHARAT PETROLEUM RETAIL OUTLET AT THAMARASSERY,CALICUT",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.4072,75.932",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8484 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.48,
+    "no_of_reviews": 27,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68181,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33132,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 33133,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "Blexy Petroleum EVDC",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 7,
+        "2": 0,
+        "3": 0,
+        "4": 22,
+        "5": 70
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Calicut",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15103,
+      "station_name": "Blexy Petroleum",
+      "latitude": 11.4072,
+      "longitude": 75.932,
+      "address": "BHARAT PETROLEUM RETAIL OUTLET AT THAMARASSERY,CALICUT, Calicut, Kerala, 673573, India",
+      "area": "BHARAT PETROLEUM RETAIL OUTLET AT THAMARASSERY,CALICUT",
+      "avg_review_rating": 4.48,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.4072,75.932",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 15747,
+      "station_name": "KC Charging | Prabha EV | 30 kW",
+      "latitude": 11.435227,
+      "longitude": 75.954328,
+      "address": "CXM3+XPJ, Kozhikode, Kerala, 673573, India",
+      "area": "CXM3+XPJ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.435227,75.954328",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Prabha_offline_pin.png"
+    },
+    {
+      "id": 5612,
+      "station_name": "chargeMOD | LOCUS EVCS DC FAST CALICUT",
+      "latitude": 11.339766,
+      "longitude": 75.89873,
+      "address": "Hanging Bridge, Kozhikode, Kerala, 673571, India",
+      "area": "Hanging Bridge",
+      "avg_review_rating": 3.83,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.339766,75.89873",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 15860,
+      "station_name": "EQ EV | Prabha EV | 120 kW / EQ EV | Prabha EV | 3.3 kW",
+      "latitude": 11.480937,
+      "longitude": 75.975547,
+      "address": "FXJG+F66, Kozhikode, Kerala, 673586, India",
+      "area": "FXJG+F66",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.480937,75.975547",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Prabha_map_pin.png"
+    },
+    {
+      "id": 7240,
+      "station_name": "2001202-P K PETROLEUM",
+      "latitude": 11.32815,
+      "longitude": 75.886268,
+      "address": "ELEVENTH MILE, Alangad, Kerala, 673571, India",
+      "area": "ELEVENTH MILE",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.32815,75.886268",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:15:08.696384+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

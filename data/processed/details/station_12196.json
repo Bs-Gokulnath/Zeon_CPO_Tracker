@@ -1,0 +1,238 @@
+{
+  "station_id": 12196,
+  "station_detail": {
+    "station_id": 12196,
+    "station_name": "RJ | Sirohi | Hotel Dhanlakshmi ",
+    "latitude": 24.577358,
+    "longitude": 72.866599,
+    "address": "HVG8+WJG, Sirohi, Rajasthan, 307032, India",
+    "area": "HVG8+WJG",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.577358,72.866599",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8288 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 4,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 63641,
+        "price_with_currency": "₹ 22.0",
+        "price": 22.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26612,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 26613,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 480.0,
+        "charger_name": "TCZ RJ | Sirohi | Hotel Dhanlakshmi  1",
+        "last_used_on": "18/05/2026"
+      },
+      {
+        "charger_id": 63642,
+        "price_with_currency": "₹ 22.0",
+        "price": 22.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26614,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 26615,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 480.0,
+        "charger_name": "TCZ RJ | Sirohi | Hotel Dhanlakshmi  2",
+        "last_used_on": "17/04/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Sirohi",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 480.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12196,
+      "station_name": "RJ | Sirohi | Hotel Dhanlakshmi ",
+      "latitude": 24.577358,
+      "longitude": 72.866599,
+      "address": "HVG8+WJG, Sirohi, Rajasthan, 307032, India",
+      "area": "HVG8+WJG",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.577358,72.866599",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonecharging.png"
+    },
+    {
+      "id": 15867,
+      "station_name": "RJ | Sirohi | Hotel Dhanlakshmi(Private)",
+      "latitude": 24.577358,
+      "longitude": 72.866599,
+      "address": "HVG8+WJG, Sirohi, Rajasthan, 307032, India",
+      "area": "HVG8+WJG",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.577358,72.866599",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15929,
+      "station_name": "RJ | Sirohi | DhanLakshmi Dhaba",
+      "latitude": 24.575682,
+      "longitude": 72.866868,
+      "address": "2824/178, Sirohi, Rajasthan, 307032, India",
+      "area": "2824/178",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.575682,72.866868",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8745,
+      "station_name": "AMAR JAWAN FS",
+      "latitude": 24.569138,
+      "longitude": 72.861071,
+      "address": "SIROHI, Sirohi, Rajasthan, 307023, India",
+      "area": "SIROHI",
+      "avg_review_rating": 4.8,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.569138,72.861071",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 12937,
+      "station_name": "ID(63g3km)KRISHNA FILLING STATION",
+      "latitude": 24.623208,
+      "longitude": 72.899867,
+      "address": "Udvariya, Udvariya, Rajasthan, 307023, India",
+      "area": "Udvariya",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.623208,72.899867",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 2,
+  "ac_prices": [],
+  "dc_prices": [
+    22.0,
+    22.0
+  ],
+  "scraped_at": "2026-05-21T08:11:34.006038+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

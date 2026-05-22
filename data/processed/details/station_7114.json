@@ -1,0 +1,194 @@
+{
+  "station_id": 7114,
+  "station_detail": {
+    "station_id": 7114,
+    "station_name": "2017667-VEER PETROLEUM",
+    "latitude": 23.654407,
+    "longitude": 73.316574,
+    "address": "ARAVALLI, Bechar, Gujarat, 383355, India",
+    "area": "ARAVALLI",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.654407,73.316574",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8321 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.75,
+    "no_of_reviews": 4,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54953,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13299,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "2017667-VEER PETROLEUM",
+        "last_used_on": "28/03/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 25,
+        "5": 75
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bechar",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7114,
+      "station_name": "2017667-VEER PETROLEUM",
+      "latitude": 23.654407,
+      "longitude": 73.316574,
+      "address": "ARAVALLI, Bechar, Gujarat, 383355, India",
+      "area": "ARAVALLI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.654407,73.316574",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 11065,
+      "station_name": "Shree ganesh petroleum ",
+      "latitude": 23.654407,
+      "longitude": 73.316574,
+      "address": "At karjan toll surat baroda rd, Karjan, Gujarat, 332249, India",
+      "area": "At karjan toll surat baroda rd",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.654407,73.316574",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9906,
+      "station_name": "Shamliya ji Food Court",
+      "latitude": 23.650778,
+      "longitude": 73.312832,
+      "address": "Shamliya Food Court Asal, Himatnagar, Gujarat, 383355, India",
+      "area": "Shamliya Food Court Asal",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.650778,73.312832",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 10452,
+      "station_name": "Ecoplug Hotel Savariya",
+      "latitude": 23.635895,
+      "longitude": 73.340285,
+      "address": "Survey No-50p1, Sabar Kantha, Gujarat, 383250, India",
+      "area": "Survey No-50p1",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.635895,73.340285",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 9986,
+      "station_name": "M/s. CHAUDHARY PETROLEUM",
+      "latitude": 23.653452,
+      "longitude": 73.348793,
+      "address": "ARVALLI, Vadodara, Gujarat, 383355, India",
+      "area": "ARVALLI",
+      "avg_review_rating": 4.66,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.653452,73.348793",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:02:15.306496+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

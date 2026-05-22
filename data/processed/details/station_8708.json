@@ -1,0 +1,228 @@
+{
+  "station_id": 8708,
+  "station_detail": {
+    "station_id": 8708,
+    "station_name": "V Club Tatvam Villas",
+    "latitude": 28.406399,
+    "longitude": 77.038109,
+    "address": "V Club, Gurugram, Haryana, 122001, India",
+    "area": "V Club",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.406399,77.038109",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8752 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 3.82,
+    "no_of_reviews": 11,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/1c+Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 57280,
+        "price_with_currency": "₹ 16.5",
+        "price": 16.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16552,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB V Club Tatvam Villas 1",
+        "last_used_on": "10/04/2026"
+      },
+      {
+        "charger_id": 57282,
+        "price_with_currency": "₹ 16.5",
+        "price": 16.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16554,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "MMB V Club Tatvam Villas 2",
+        "last_used_on": "24/04/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 18,
+        "2": 0,
+        "3": 0,
+        "4": 45,
+        "5": 36
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Gurugram",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 7.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8708,
+      "station_name": "V Club Tatvam Villas",
+      "latitude": 28.406399,
+      "longitude": 77.038109,
+      "address": "V Club, Gurugram, Haryana, 122001, India",
+      "area": "V Club",
+      "avg_review_rating": 3.82,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.406399,77.038109",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 1489,
+      "station_name": "Statiq Park View City Station",
+      "latitude": 28.404739,
+      "longitude": 77.042503,
+      "address": "Tatvam Villas, Dhani, Sector 48, Gurugram, Haryana, 122001, India",
+      "area": "Tatvam Villas, Dhani, Sector 48",
+      "avg_review_rating": 4.83,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.404739,77.042503",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 6819,
+      "station_name": "Statiq Spaze Plazo Station",
+      "latitude": 28.400161,
+      "longitude": 77.038804,
+      "address": "Near the Entry Gate of Spaze Plazo, Golf Course Ext Rd, Sector 69, Gurugram, Haryana, 122001, India",
+      "area": "Near the Entry Gate of Spaze Plazo, Golf Course Ext Rd, Sector 69",
+      "avg_review_rating": 4.73,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.400161,77.038804",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 5198,
+      "station_name": "Statiq Spaze IT Park Station",
+      "latitude": 28.4132,
+      "longitude": 77.042587,
+      "address": "Main Entry Gate in front of Shopper Stop Tower A,Spaze iTech ParkSohna - Gurgaon Rd, near Shoppers Stop, Block S, Sector 49, Gurugram, Haryana, 122018, India",
+      "area": "Main Entry Gate in front of Shopper Stop Tower A,Spaze iTech ParkSohna - Gurgaon Rd, near Shoppers Stop, Block S, Sector 49",
+      "avg_review_rating": 4.81,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.4132,77.042587",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
+    },
+    {
+      "id": 8950,
+      "station_name": "HR | Gurugram | Universal Trade Tower",
+      "latitude": 28.415353,
+      "longitude": 77.041793,
+      "address": "952, Gurugram, Haryana, 122018, India",
+      "area": "952",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.415353,77.041793",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    }
+  ],
+  "ac_count": 2,
+  "dc_count": 0,
+  "ac_prices": [
+    16.5,
+    16.5
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:05:09.105763+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

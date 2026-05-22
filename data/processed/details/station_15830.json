@@ -1,0 +1,243 @@
+{
+  "station_id": 15830,
+  "station_detail": {
+    "station_id": 15830,
+    "station_name": "EESL Nagpur METRO BHAWAN",
+    "latitude": 21.129822,
+    "longitude": 79.066353,
+    "address": "Near Deekshabhoomi, Ramdaspeth, Nagpur, Maharashtra, Nagpur, Maharashtra, 440010, India",
+    "area": "Near Deekshabhoomi, Ramdaspeth, Nagpur, Maharashtra",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.129822,79.066353",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8884 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 2,
+        "connector_name": "CHAdeMO",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/chademo.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 69596,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35315,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 35316,
+            "connector_type": "CHAdeMO",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/chademo.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 2,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 3,
+            "connector_id": 35317,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 142.0,
+        "charger_name": "EESL Nagpur Metro Bhavan 142kW CCS/CHAdeMO/T2",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Nagpur",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 142.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15830,
+      "station_name": "EESL Nagpur METRO BHAWAN",
+      "latitude": 21.129822,
+      "longitude": 79.066353,
+      "address": "Near Deekshabhoomi, Ramdaspeth, Nagpur, Maharashtra, Nagpur, Maharashtra, 440010, India",
+      "area": "Near Deekshabhoomi, Ramdaspeth, Nagpur, Maharashtra",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.129822,79.066353",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/default.png"
+    },
+    {
+      "id": 15787,
+      "station_name": "EESL Nagpur Rahate Colony Metro Station",
+      "latitude": 21.12789,
+      "longitude": 79.073608,
+      "address": "Rahate Colony, Nagpur, Maharashtra, Nagpur, Maharashtra, 440013, India",
+      "area": "Rahate Colony, Nagpur, Maharashtra",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.12789,79.073608",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15753,
+      "station_name": "EESL Nagpur Inst. Of Engineers Metro Station",
+      "latitude": 21.138293,
+      "longitude": 79.067935,
+      "address": "Inst. Of Engineers Metro Station, Nagpur, Maharashtra, Nagpur, Maharashtra, 440010, India",
+      "area": "Inst. Of Engineers Metro Station, Nagpur, Maharashtra",
+      "avg_review_rating": 4.68,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.138293,79.067935",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/default.png"
+    },
+    {
+      "id": 15683,
+      "station_name": "EESL Nagpur Shankar Nagar Metro Station",
+      "latitude": 21.136173,
+      "longitude": 79.059563,
+      "address": "Nagpur Metro Station, Shankar Nagar Metro Station, Nagpur, Maharashtra, Nagpur, Maharashtra, 440015, India",
+      "area": "Nagpur Metro Station, Shankar Nagar Metro Station, Nagpur, Maharashtra",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.136173,79.059563",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/default.png"
+    },
+    {
+      "id": 15754,
+      "station_name": "EESL Nagpur Jhansi Rani Square Metro Station",
+      "latitude": 21.136173,
+      "longitude": 79.059563,
+      "address": "Jhansi Rani Square Metro Station, Nagpur, Maharashtra, Nagpur, Maharashtra, 440010, India",
+      "area": "Jhansi Rani Square Metro Station, Nagpur, Maharashtra",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.136173,79.059563",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    20.0
+  ],
+  "scraped_at": "2026-05-21T08:16:55.247908+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

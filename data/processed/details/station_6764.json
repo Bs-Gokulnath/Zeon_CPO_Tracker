@@ -1,0 +1,140 @@
+{
+  "station_id": 6764,
+  "station_detail": {
+    "station_id": 6764,
+    "station_name": "Statiq Marasa Sarovar Tirupati Station",
+    "latitude": 13.656372,
+    "longitude": 79.435998,
+    "address": "Right side of the entrance driveway, 12th Cross, Karakambadi Rd, near AGS Company, Upadhyaya Nagar, Tirupati, Andhra Pradesh, 517507, India",
+    "area": "Right side of the entrance driveway, 12th Cross, Karakambadi Rd, near AGS Company, Upadhyaya Nagar",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.656372,79.435998",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8876 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 4.71,
+    "no_of_reviews": 1563,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 11884,
+        "id": 2
+      },
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 11885,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 54317,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 12465,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 12466,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Marasa Sarovar Tirupati DC Charger",
+        "last_used_on": "20/05/2026"
+      },
+      {
+        "charger_id": 54318,
+        "price_with_currency": "₹ 11.99",
+        "price": 11.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 12467,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "Marasa Sarovar Tirupati BMW AC Charger",
+        "last_used_on": "19/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 2,
+        "2": 1,
+        "3": 4,
+        "4": 13,
+        "5": 81
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Tirupati",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [],
+  "ac_count": 1,
+  "dc_count": 1,
+  "ac_prices": [
+    11.99
+  ],
+  "dc_prices": [
+    21.99
+  ],
+  "scraped_at": "2026-05-21T08:01:41.071802+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

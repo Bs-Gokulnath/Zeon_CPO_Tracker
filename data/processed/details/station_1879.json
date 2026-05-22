@@ -1,0 +1,198 @@
+{
+  "station_id": 1879,
+  "station_detail": {
+    "station_id": 1879,
+    "station_name": "Statiq DIT University Station",
+    "latitude": 30.400797,
+    "longitude": 78.078491,
+    "address": "DIT University, Dehradun, Uttarakhand, 248001, India",
+    "area": "DIT University",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.400797,78.078491",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8876 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.39,
+    "no_of_reviews": 1948,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": "Opposite Golden Manor",
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 261,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 1743,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 2419,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "preparing"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "DIT University DC Charger",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 9,
+        "2": 2,
+        "3": 3,
+        "4": 14,
+        "5": 72
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Dehradun",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 1879,
+      "station_name": "Statiq DIT University Station",
+      "latitude": 30.400797,
+      "longitude": 78.078491,
+      "address": "DIT University, Dehradun, Uttarakhand, 248001, India",
+      "area": "DIT University",
+      "avg_review_rating": 4.39,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.400797,78.078491",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 11890,
+      "station_name": "MAYALKA PETROLEUM",
+      "latitude": 30.385326,
+      "longitude": 78.074494,
+      "address": "RO AT MUSSORIE DIVERSION,DEHRADUN- MUSSORIE ROAD, Dehradun, Uttarakhand, 248001, India",
+      "area": "RO AT MUSSORIE DIVERSION,DEHRADUN- MUSSORIE ROAD",
+      "avg_review_rating": 4.32,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.385326,78.074494",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 13763,
+      "station_name": "Sara eminent",
+      "latitude": 30.384756,
+      "longitude": 78.073214,
+      "address": "Mussorie diversion road, Dehradun, Uttarakhand, 248014, India",
+      "area": "Mussorie diversion road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.384756,78.073214",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    },
+    {
+      "id": 13646,
+      "station_name": "Sara Eminent",
+      "latitude": 30.385693,
+      "longitude": 78.090299,
+      "address": "Mussorie diversion road, Dehradun, Uttarakhand, 248009, India",
+      "area": "Mussorie diversion road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.385693,78.090299",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    },
+    {
+      "id": 8542,
+      "station_name": "UK | Dehradun | Fairfield By Marriott",
+      "latitude": 30.37718,
+      "longitude": 78.076919,
+      "address": "Mauza, Dehradun, Uttarakhand, 248001, India",
+      "area": "Mauza",
+      "avg_review_rating": 4.43,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.37718,78.076919",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.99
+  ],
+  "scraped_at": "2026-05-21T07:59:15.127438+00:00",
+  "parse_success": true,
+  "missing_fields": [],
+  "coverage_pct": 100.0
+}

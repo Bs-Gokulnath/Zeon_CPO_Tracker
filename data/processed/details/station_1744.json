@@ -1,0 +1,188 @@
+{
+  "station_id": 1744,
+  "station_detail": {
+    "station_id": 1744,
+    "station_name": "Sunfuel - Auramah Valley Shimla",
+    "latitude": 31.1667,
+    "longitude": 77.181702,
+    "address": "Village - Tikkar, Naldehra, Shimla, Himachal Pradesh, 171007, India",
+    "area": "Village - Tikkar, Naldehra",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.1667,77.181702",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8800 kms",
+    "operational_time": "00:00 To 23:59",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/AC.png",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Sunfuel+Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 1268,
+        "price_with_currency": "₹ 15.0",
+        "price": 15.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 1664,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.7,
+        "charger_name": "Sunfuel - Auramah Valley Shimla",
+        "last_used_on": "03/06/2024"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Shimla",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 7.7,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 1744,
+      "station_name": "Sunfuel - Auramah Valley Shimla",
+      "latitude": 31.1667,
+      "longitude": 77.181702,
+      "address": "Village - Tikkar, Naldehra, Shimla, Himachal Pradesh, 171007, India",
+      "area": "Village - Tikkar, Naldehra",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.1667,77.181702",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 1727,
+      "station_name": "Sunfuel - Radisson Jass Shimla",
+      "latitude": 31.1122,
+      "longitude": 77.177101,
+      "address": "Goodwood Estate, Shimla, Himachal Pradesh, 171001, India",
+      "area": "Goodwood Estate",
+      "avg_review_rating": 2.83,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.1122,77.177101",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 4757,
+      "station_name": "REIL HP Autocade Station",
+      "latitude": 31.10644,
+      "longitude": 77.173607,
+      "address": "Shimla By-Pass, NH-22, Below Brockhurst, Shimla, Himachal Pradesh, 171009, India",
+      "area": "Shimla By-Pass, NH-22, Below Brockhurst",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.10644,77.173607",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 5030,
+      "station_name": "REIL Municipal Corporation Car Parking, Tuti Kandi",
+      "latitude": 31.099867,
+      "longitude": 77.142418,
+      "address": "Tuti Kandi, Shimla, Himachal Pradesh, 171005, India",
+      "area": "Tuti Kandi",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.099867,77.142418",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 4753,
+      "station_name": "REIL Swaraj Filling Station",
+      "latitude": 31.086613,
+      "longitude": 77.194504,
+      "address": "Near Powerhouse, Ambla-Shimla-Kaurik Road, Shimla, Himachal Pradesh, 171006, India",
+      "area": "Near Powerhouse, Ambla-Shimla-Kaurik Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.086613,77.194504",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    15.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T07:59:12.992973+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

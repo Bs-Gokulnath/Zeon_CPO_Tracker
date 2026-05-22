@@ -1,0 +1,214 @@
+{
+  "station_id": 7705,
+  "station_detail": {
+    "station_id": 7705,
+    "station_name": "Ecoplug EPL Innovative Technologies",
+    "latitude": 28.626781,
+    "longitude": 77.122657,
+    "address": "b-74-1, Delhi, Delhi, 110064, India",
+    "area": "b-74-1",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.626781,77.122657",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8762 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.96,
+    "no_of_reviews": 24,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Eplug.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 55544,
+        "price_with_currency": "₹ 22.0",
+        "price": 22.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13900,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 13901,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "EPL Ecoplug EPL Innovative Technologies EPL Innovative Technologies 1",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4,
+        "5": 96
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Delhi",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7705,
+      "station_name": "Ecoplug EPL Innovative Technologies",
+      "latitude": 28.626781,
+      "longitude": 77.122657,
+      "address": "b-74-1, Delhi, Delhi, 110064, India",
+      "area": "b-74-1",
+      "avg_review_rating": 4.96,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.626781,77.122657",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 1886,
+      "station_name": "Statiq BSES Hub Rajouri Garden",
+      "latitude": 28.638378,
+      "longitude": 77.121048,
+      "address": "J block, New Delhi, Delhi, 110027, India",
+      "area": "J block",
+      "avg_review_rating": 4.79,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.638378,77.121048",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 11738,
+      "station_name": "A1 Banquet hall",
+      "latitude": 28.6337,
+      "longitude": 77.1396,
+      "address": "Naraina Flyover, New Delhi, Delhi, 110028, India",
+      "area": "Naraina Flyover",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.6337,77.1396",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargerKarodefault.png"
+    },
+    {
+      "id": 10362,
+      "station_name": "Rajouri Garden Multi Level parking",
+      "latitude": 28.644011,
+      "longitude": 77.115976,
+      "address": "Rajouri Garden, New Delhi, Delhi, 110027, India",
+      "area": "Rajouri Garden",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.644011,77.115976",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15866,
+      "station_name": "DL |  New Delhi | BMW - Infinity Cars Rajouri",
+      "latitude": 28.644707,
+      "longitude": 77.126723,
+      "address": "C-5, New Delhi, Delhi, 110027, India",
+      "area": "C-5",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.644707,77.126723",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    22.0
+  ],
+  "scraped_at": "2026-05-21T08:03:32.804150+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

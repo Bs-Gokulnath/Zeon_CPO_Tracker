@@ -1,0 +1,194 @@
+{
+  "station_id": 8461,
+  "station_detail": {
+    "station_id": 8461,
+    "station_name": "GA | Goa | JW Marriott Goa",
+    "latitude": 15.599011,
+    "longitude": 73.743159,
+    "address": "Bardez, Goa, Goa, 403509, India",
+    "area": "Bardez",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.599011,73.743159",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8277 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 2.5,
+    "no_of_reviews": 2,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 56940,
+        "price_with_currency": "₹ 21.5",
+        "price": 21.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 15986,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "TCZ GA | Goa | JW Marriott Goa 1",
+        "last_used_on": "07/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 50,
+        "2": 0,
+        "3": 0,
+        "4": 50,
+        "5": 0
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Goa",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8461,
+      "station_name": "GA | Goa | JW Marriott Goa",
+      "latitude": 15.599011,
+      "longitude": 73.743159,
+      "address": "Bardez, Goa, Goa, 403509, India",
+      "area": "Bardez",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.599011,73.743159",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 8465,
+      "station_name": "GA | Goa | ibis Styles Goa Vagator",
+      "latitude": 15.599282,
+      "longitude": 73.745457,
+      "address": "Survey No. 374, Goa, Goa, 403509, India",
+      "area": "Survey No. 374",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.599282,73.745457",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 8464,
+      "station_name": "GA | Goa | The Westin Goa",
+      "latitude": 15.588677,
+      "longitude": 73.743734,
+      "address": "Survey No 204/1 Sub Division 1, Goa, Goa, 403509, India",
+      "area": "Survey No 204/1 Sub Division 1",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.588677,73.743734",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 2131,
+      "station_name": "Statiq Hotel Regent Laguna Station",
+      "latitude": 15.583175,
+      "longitude": 73.744354,
+      "address": "North Goa, Goa, Goa, 403509, India",
+      "area": "North Goa",
+      "avg_review_rating": 4.65,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.583175,73.744354",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
+    },
+    {
+      "id": 14773,
+      "station_name": "Statiq The Yellow House Station",
+      "latitude": 15.579713,
+      "longitude": 73.75877,
+      "address": "THE YELLOW HOUSE – IHCL SELEQTIONS, House No-1241, Gaonwadi, Anjuna, Goa, Goa, 403509, India",
+      "area": "THE YELLOW HOUSE – IHCL SELEQTIONS, House No-1241, Gaonwadi, Anjuna",
+      "avg_review_rating": 4.82,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.579713,73.75877",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.5
+  ],
+  "scraped_at": "2026-05-21T08:04:35.765709+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

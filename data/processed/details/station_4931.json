@@ -1,0 +1,356 @@
+{
+  "station_id": 4931,
+  "station_detail": {
+    "station_id": 4931,
+    "station_name": "HMR Madhapur",
+    "latitude": 17.436096,
+    "longitude": 78.40005,
+    "address": "Plot No 735 Rd no 37&38 left lane after Chroma, Hyderabad, Telangana, 500033, India",
+    "area": "Plot No 735 Rd no 37&38 left lane after Chroma",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.436096,78.40005",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8787 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 6,
+        "connector_name": "GBT",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png"
+      }
+    ],
+    "avg_review_rating": 4.67,
+    "no_of_reviews": 7105,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Glida+Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 51725,
+        "price_with_currency": "₹ 18.99",
+        "price": 18.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 9427,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 9428,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "HYD0070",
+        "last_used_on": "01/09/2025"
+      },
+      {
+        "charger_id": 51726,
+        "price_with_currency": "₹ 18.99",
+        "price": 18.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 9429,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 9430,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "HYD0058",
+        "last_used_on": "10/09/2025"
+      },
+      {
+        "charger_id": 51727,
+        "price_with_currency": "₹ 18.99",
+        "price": 18.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 9431,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 6,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 9432,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 6,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "HYD0037",
+        "last_used_on": "10/09/2025"
+      },
+      {
+        "charger_id": 61689,
+        "price_with_currency": "₹ 18.99",
+        "price": 18.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23530,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 23531,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 3,
+            "connector_id": 23532,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 4,
+            "connector_id": 23533,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 5,
+            "connector_id": 23534,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 6,
+            "connector_id": 23535,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 1200.0,
+        "charger_name": "FCD HMR Madhapur 4",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 4,
+        "2": 1,
+        "3": 1,
+        "4": 11,
+        "5": 83
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Hyderabad",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 1200.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 4931,
+      "station_name": "HMR Madhapur",
+      "latitude": 17.436096,
+      "longitude": 78.40005,
+      "address": "Plot No 735 Rd no 37&38 left lane after Chroma, Hyderabad, Telangana, 500033, India",
+      "area": "Plot No 735 Rd no 37&38 left lane after Chroma",
+      "avg_review_rating": 4.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.436096,78.40005",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    },
+    {
+      "id": 4975,
+      "station_name": "GLIDA Mochi Shoes",
+      "latitude": 17.434289,
+      "longitude": 78.403396,
+      "address": "Mochi Shoes Plot No, Hyderabad, Telangana, 500033, India",
+      "area": "Mochi Shoes Plot No",
+      "avg_review_rating": 4.54,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.434289,78.403396",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/unavailable+select.png"
+    },
+    {
+      "id": 7849,
+      "station_name": "TS | Hyderabad | MB#Mahavir Motors",
+      "latitude": 17.438963,
+      "longitude": 78.39626,
+      "address": "\"Registered Office, Hyderabad, Telangana, 500081, India",
+      "area": "\"Registered Office",
+      "avg_review_rating": 3.94,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.438963,78.39626",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mercedes_Branding_Logo.png"
+    },
+    {
+      "id": 11993,
+      "station_name": "Soni Travels Charging Hub",
+      "latitude": 17.434926,
+      "longitude": 78.392673,
+      "address": "Kavuri Hills Phase 1, Hyderabad, Telangana, 500033, India",
+      "area": "Kavuri Hills Phase 1",
+      "avg_review_rating": 4.5,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.434926,78.392673",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+default+(11).png"
+    },
+    {
+      "id": 1864,
+      "station_name": "Durgam Cheruvu Charging Station",
+      "latitude": 17.436876,
+      "longitude": 78.388519,
+      "address": "Parking, Hyderabad, Telangana, 500033, India",
+      "area": "Parking",
+      "avg_review_rating": 3.49,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.436876,78.388519",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 4,
+  "ac_prices": [],
+  "dc_prices": [
+    18.99,
+    18.99,
+    18.99,
+    18.99
+  ],
+  "scraped_at": "2026-05-21T08:00:01.324039+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

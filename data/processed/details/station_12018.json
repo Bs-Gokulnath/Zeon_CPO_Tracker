@@ -1,0 +1,204 @@
+{
+  "station_id": 12018,
+  "station_detail": {
+    "station_id": 12018,
+    "station_name": "Vibhavari fuels",
+    "latitude": 13.637678,
+    "longitude": 78.636816,
+    "address": "VAYALPADU VILLAGE, VAYALPADU MANDAL, Nellore, Andhra Pradesh, 517299, India",
+    "area": "VAYALPADU VILLAGE, VAYALPADU MANDAL",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.637678,78.636816",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8789 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 2.8,
+    "no_of_reviews": 5,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 63380,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26169,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 26170,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Vibhavari fuels",
+        "last_used_on": "02/12/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 40,
+        "2": 20,
+        "3": 0,
+        "4": 0,
+        "5": 40
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Nellore",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12018,
+      "station_name": "Vibhavari fuels",
+      "latitude": 13.637678,
+      "longitude": 78.636816,
+      "address": "VAYALPADU VILLAGE, VAYALPADU MANDAL, Nellore, Andhra Pradesh, 517299, India",
+      "area": "VAYALPADU VILLAGE, VAYALPADU MANDAL",
+      "avg_review_rating": 2.8,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.637678,78.636816",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 11838,
+      "station_name": "J. GOPAL KARTHIKEYA FILLING STATION",
+      "latitude": 13.542794,
+      "longitude": 78.518794,
+      "address": "ANNAMAYYA, Nellore, Andhra Pradesh, 517325, India",
+      "area": "ANNAMAYYA",
+      "avg_review_rating": 2.71,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.542794,78.518794",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13315,
+      "station_name": "ID(2tokob)Ramakrishna filling center",
+      "latitude": 13.824318,
+      "longitude": 78.790035,
+      "address": "Kalakada - Somala Road, Kalakada, Andhra Pradesh, 517236, India",
+      "area": "Kalakada - Somala Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.824318,78.790035",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 15775,
+      "station_name": "N.A.R.AGENCIES",
+      "latitude": 13.375813,
+      "longitude": 78.56706,
+      "address": "PUNGANUR VILLAGE, PUNGANUR MANDAL, Chittoor, Andhra Pradesh, 517247, India",
+      "area": "PUNGANUR VILLAGE, PUNGANUR MANDAL",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.375813,78.56706",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 12919,
+      "station_name": "GMG FUEL STATION",
+      "latitude": 13.29485,
+      "longitude": 78.6688,
+      "address": "MUTHUKURU VILLAGE , VA KOTHUR, PEDAPANJANI MANDAL, Nellore, Andhra Pradesh, 517408, India",
+      "area": "MUTHUKURU VILLAGE , VA KOTHUR, PEDAPANJANI MANDAL",
+      "avg_review_rating": 4.5,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.29485,78.6688",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:11:09.025786+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

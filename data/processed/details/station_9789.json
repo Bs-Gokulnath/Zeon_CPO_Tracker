@@ -1,0 +1,177 @@
+{
+  "station_id": 9789,
+  "station_detail": {
+    "station_id": 9789,
+    "station_name": "NES BIJOYNAGAR",
+    "latitude": 26.635539,
+    "longitude": 93.55515,
+    "address": "NES BIJOYNAGAR  BHARAT PETROLEUM DEALERS  BARTEZPUR  BIJOYNAGAR  DIST. KAMRUP  ASSAM, Kamrup, Assam, 781134, India",
+    "area": "NES BIJOYNAGAR  BHARAT PETROLEUM DEALERS  BARTEZPUR  BIJOYNAGAR  DIST. KAMRUP  ASSAM",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.635539,93.55515",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "10372 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 67207,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 31577,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 31578,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "NES BIJOYNAGAR",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Kamrup",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9789,
+      "station_name": "NES BIJOYNAGAR",
+      "latitude": 26.635539,
+      "longitude": 93.55515,
+      "address": "NES BIJOYNAGAR  BHARAT PETROLEUM DEALERS  BARTEZPUR  BIJOYNAGAR  DIST. KAMRUP  ASSAM, Kamrup, Assam, 781134, India",
+      "area": "NES BIJOYNAGAR  BHARAT PETROLEUM DEALERS  BARTEZPUR  BIJOYNAGAR  DIST. KAMRUP  ASSAM",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.635539,93.55515",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7026,
+      "station_name": "2010913-NES KAZIRANGA",
+      "latitude": 26.610664,
+      "longitude": 93.480429,
+      "address": "KAZIRANGA, Chandrapur Bagicha, Assam, 785609, India",
+      "area": "KAZIRANGA",
+      "avg_review_rating": 4.82,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.610664,93.480429",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 7421,
+      "station_name": "2011375-S B FUELS",
+      "latitude": 26.873822,
+      "longitude": 93.599664,
+      "address": "GOHPUR, Gohpur, Assam, 784165, India",
+      "area": "GOHPUR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.873822,93.599664",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14399,
+      "station_name": "BAGHMARI SERVICE STATION",
+      "latitude": 26.736482,
+      "longitude": 93.118772,
+      "address": "BISWANATH, Biswanath Chariali, Assam, 784176, India",
+      "area": "BISWANATH",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.736482,93.118772",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:07:19.461411+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

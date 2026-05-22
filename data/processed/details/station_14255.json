@@ -1,0 +1,205 @@
+{
+  "station_id": 14255,
+  "station_detail": {
+    "station_id": 14255,
+    "station_name": "2000763-SAHAS FILLING STATION",
+    "latitude": 28.667984,
+    "longitude": 77.087537,
+    "address": "WEST DELHI, Delhi, Delhi, 110001, India",
+    "area": "WEST DELHI",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.667984,77.087537",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8760 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.43,
+    "no_of_reviews": 396,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 66091,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 30262,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 30263,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "SAHAS FILLING STATION",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 9,
+        "2": 2,
+        "3": 4,
+        "4": 9,
+        "5": 77
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Delhi",
+    "station_access_type": "public",
+    "availability": "Available in",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": [],
+    "waiting_time": "2026-05-21 14:00:25"
+  },
+  "nearby_stations": [
+    {
+      "id": 14255,
+      "station_name": "2000763-SAHAS FILLING STATION",
+      "latitude": 28.667984,
+      "longitude": 77.087537,
+      "address": "WEST DELHI, Delhi, Delhi, 110001, India",
+      "area": "WEST DELHI",
+      "avg_review_rating": 4.43,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.667984,77.087537",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 4827,
+      "station_name": "Statiq BSES Hub Paschim Vihar Metro Station",
+      "latitude": 28.667051,
+      "longitude": 77.092819,
+      "address": "Near DJB Paschim Vihar,Block J, Reserve Bank Enclave, Paschim Vihard, Delhi, Delhi, 110063, India",
+      "area": "Near DJB Paschim Vihar,Block J, Reserve Bank Enclave, Paschim Vihard",
+      "avg_review_rating": 4.69,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.667051,77.092819",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 4831,
+      "station_name": "Statiq BSES Hub Peeragarhi Metro Station",
+      "latitude": 28.679632,
+      "longitude": 77.091621,
+      "address": "Near Peeragarhi Metro Station, Ekta Enclave, Peeragarhi Village, Paschim Vihar, Delhi, Delhi, 110087, India",
+      "area": "Near Peeragarhi Metro Station, Ekta Enclave, Peeragarhi Village, Paschim Vihar",
+      "avg_review_rating": 4.7,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.679632,77.091621",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 11711,
+      "station_name": "Paschim Vihar West",
+      "latitude": 28.6786,
+      "longitude": 77.1004,
+      "address": "Jain Muni Guru Ramkrishan Marg, New Delhi, Delhi, 110063, India",
+      "area": "Jain Muni Guru Ramkrishan Marg",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.6786,77.1004",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargerKarodefault.png"
+    },
+    {
+      "id": 7053,
+      "station_name": "2000746-SHANKAR FILLING STATION",
+      "latitude": 28.66721,
+      "longitude": 77.11895,
+      "address": "DELHI, Delhi, Delhi, 110026, India",
+      "area": "DELHI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.66721,77.11895",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:13:23.011681+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

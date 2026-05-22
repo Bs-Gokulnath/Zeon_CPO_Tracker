@@ -1,0 +1,198 @@
+{
+  "station_id": 15072,
+  "station_detail": {
+    "station_id": 15072,
+    "station_name": "JSK FUEL STATION",
+    "latitude": 13.011556,
+    "longitude": 80.129095,
+    "address": "KUNDRATHUR PORUR MAIN ROAD CHENNAI 600122, Chennai, Tamil Nadu, 600122, India",
+    "area": "KUNDRATHUR PORUR MAIN ROAD CHENNAI 600122",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.011556,80.129095",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8948 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68104,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33014,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 33015,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "JSK FUEL STATION",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Chennai",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15072,
+      "station_name": "JSK FUEL STATION",
+      "latitude": 13.011556,
+      "longitude": 80.129095,
+      "address": "KUNDRATHUR PORUR MAIN ROAD CHENNAI 600122, Chennai, Tamil Nadu, 600122, India",
+      "area": "KUNDRATHUR PORUR MAIN ROAD CHENNAI 600122",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.011556,80.129095",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 2030,
+      "station_name": "Statiq MM Motors Station",
+      "latitude": 13.0388,
+      "longitude": 80.133102,
+      "address": "235, Mount Poonamallee Road, Chennai, Tamil Nadu, 600056, India",
+      "area": "235, Mount Poonamallee Road",
+      "avg_review_rating": 4.46,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.0388,80.133102",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 11968,
+      "station_name": "SVM KIA",
+      "latitude": 13.0466,
+      "longitude": 80.1279,
+      "address": "SVM KIA, Door No. 2/105, Mount Poondhmalle RD, Kattupakkam, Chennai- 600056, Chennai, Tamil Nadu, 600056, India",
+      "area": "SVM KIA, Door No. 2/105, Mount Poondhmalle RD, Kattupakkam, Chennai- 600056",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.0466,80.1279",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 14215,
+      "station_name": "REDINGTON CAR EV CHARGER",
+      "latitude": 12.974987,
+      "longitude": 80.12654,
+      "address": "velachery, Chennai, Tamil Nadu, 600075, India",
+      "area": "velachery",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.974987,80.12654",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+default+(8).png"
+    },
+    {
+      "id": 11242,
+      "station_name": "Shell Recharge Kattupakkam",
+      "latitude": 13.047137,
+      "longitude": 80.120003,
+      "address": "Poonamalle Taluk, Tiruvallur, Chennai, Tamil Nadu, 600056, India",
+      "area": "Poonamalle Taluk, Tiruvallur",
+      "avg_review_rating": 4.53,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.047137,80.120003",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:15:08.530649+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

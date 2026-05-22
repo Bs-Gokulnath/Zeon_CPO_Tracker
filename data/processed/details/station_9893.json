@@ -1,0 +1,229 @@
+{
+  "station_id": 9893,
+  "station_detail": {
+    "station_id": 9893,
+    "station_name": "AMRIT HOTEL (4W/3W/2W)",
+    "latitude": 23.265928,
+    "longitude": 72.463386,
+    "address": "7F87+2FF, Kalol, Gujarat, 382721, India",
+    "area": "7F87+2FF",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.265928,72.463386",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8229 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      },
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 1,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/yocharge_Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 60798,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22134,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "YHB AMRIT HOTEL (4W/3W/2W) 6",
+        "last_used_on": "19/05/2026"
+      },
+      {
+        "charger_id": 60797,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22133,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "YHB AMRIT HOTEL (4W/3W/2W) 5",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Kalol",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9893,
+      "station_name": "AMRIT HOTEL (4W/3W/2W)",
+      "latitude": 23.265928,
+      "longitude": 72.463386,
+      "address": "7F87+2FF, Kalol, Gujarat, 382721, India",
+      "area": "7F87+2FF",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.265928,72.463386",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 12498,
+      "station_name": "ID(cu5386) Swastik Service Centre",
+      "latitude": 23.283143,
+      "longitude": 72.440456,
+      "address": "Phase 4, Chhatral, Gujarat, 382729, India",
+      "area": "Phase 4",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.283143,72.440456",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 6899,
+      "station_name": "2012779-YASHRAJ PETROLEUM",
+      "latitude": 23.2042,
+      "longitude": 72.47203,
+      "address": "RO AT KHATRAJ CHAUKADI TO KALOL (SE, Gandhinagar, Gujarat, 382721, India",
+      "area": "RO AT KHATRAJ CHAUKADI TO KALOL (SE",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.2042,72.47203",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8593,
+      "station_name": "M/s. BHAGYALAXMI PETROLEUM",
+      "latitude": 23.28349,
+      "longitude": 72.37882,
+      "address": "KADI-CHATRAL ROAD,KADI-KALOL,  MEHSANA, BUDHASAN,KADI,MEHSANA, Mehsana, Gujarat, 382715, India",
+      "area": "KADI-CHATRAL ROAD,KADI-KALOL,  MEHSANA, BUDHASAN,KADI,MEHSANA",
+      "avg_review_rating": 4.63,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.28349,72.37882",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 6661,
+      "station_name": "2013989-SHREE BAHUCHAR PETROLEUM",
+      "latitude": 23.304398,
+      "longitude": 72.54525,
+      "address": "BHADOL CROSS ROAD KALOL, Mansa - Gandhinagar Hwy, Sardhav, Gujarat 382640\t\t\t\t, Gandhinagar, Gujarat, 382640, India",
+      "area": "BHADOL CROSS ROAD KALOL, Mansa - Gandhinagar Hwy, Sardhav, Gujarat 382640\t\t\t\t",
+      "avg_review_rating": 4.82,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.304398,72.54525",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 1,
+  "ac_prices": [
+    20.0
+  ],
+  "dc_prices": [
+    20.0
+  ],
+  "scraped_at": "2026-05-21T08:07:38.386556+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

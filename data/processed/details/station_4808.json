@@ -1,0 +1,210 @@
+{
+  "station_id": 4808,
+  "station_detail": {
+    "station_id": 4808,
+    "station_name": "33/11 KV Maredpally Sub-station EV Charging Statio",
+    "latitude": 17.453955,
+    "longitude": 78.511993,
+    "address": " E Maredpally Road, Mahatma Gandhi Nagar, West Maredpally, Hyderabad , Hyderabad, Telangana, 500026, India",
+    "area": " E Maredpally Road, Mahatma Gandhi Nagar, West Maredpally, Hyderabad ",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.453955,78.511993",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8799 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 3.9,
+    "no_of_reviews": 21,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 11494,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 51402,
+        "price_with_currency": "₹ 13.0",
+        "price": 13.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 8961,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 8962,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "33/11 KV Maredpally Sub-station EV Charging Station",
+        "last_used_on": "04/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 10,
+        "2": 5,
+        "3": 14,
+        "4": 29,
+        "5": 43
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Hyderabad",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 4808,
+      "station_name": "33/11 KV Maredpally Sub-station EV Charging Statio",
+      "latitude": 17.453955,
+      "longitude": 78.511993,
+      "address": " E Maredpally Road, Mahatma Gandhi Nagar, West Maredpally, Hyderabad , Hyderabad, Telangana, 500026, India",
+      "area": " E Maredpally Road, Mahatma Gandhi Nagar, West Maredpally, Hyderabad ",
+      "avg_review_rating": 3.9,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.453955,78.511993",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 4801,
+      "station_name": "REIL SRI BS NARAYAN SERVICE STATION",
+      "latitude": 17.446007,
+      "longitude": 78.51403,
+      "address": "Tukaram Gate Main, East Marredpally, Secunderabad, Telangana, 500026, India",
+      "area": "Tukaram Gate Main, East Marredpally",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.446007,78.51403",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 12449,
+      "station_name": "Trinity Maredpally - Adya Energy",
+      "latitude": 17.443604,
+      "longitude": 78.50646,
+      "address": "East Maredpally, Hyderabad, Telangana, 500026, India",
+      "area": "East Maredpally",
+      "avg_review_rating": 3.56,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.443604,78.50646",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 13748,
+      "station_name": "ETO DC",
+      "latitude": 17.44198,
+      "longitude": 78.50434,
+      "address": "HYDERABAD, Secunderabad, Telangana, 500003, India",
+      "area": "HYDERABAD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.44198,78.50434",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    },
+    {
+      "id": 15056,
+      "station_name": "Trinity 7.4kw",
+      "latitude": 17.441827,
+      "longitude": 78.504356,
+      "address": "Amarchand sharma complex, Secunderabad, Telangana, 500003, India",
+      "area": "Amarchand sharma complex",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.441827,78.504356",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    13.0
+  ],
+  "scraped_at": "2026-05-21T07:59:54.081109+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

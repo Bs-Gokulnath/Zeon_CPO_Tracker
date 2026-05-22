@@ -1,0 +1,198 @@
+{
+  "station_id": 15715,
+  "station_detail": {
+    "station_id": 15715,
+    "station_name": "chargeMOD | Gnana Power Solutions EVCS",
+    "latitude": 17.38709,
+    "longitude": 78.34629,
+    "address": "Gandipet Main Road, Hyderabad, Telangana, 500075, India",
+    "area": "Gandipet Main Road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.38709,78.34629",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8781 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Chargemod+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 69336,
+        "price_with_currency": "₹ 20.88",
+        "price": 20.88,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34964,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 34965,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "CMD chargeMOD | Gnana Power Solutions EVCS 1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Hyderabad",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15715,
+      "station_name": "chargeMOD | Gnana Power Solutions EVCS",
+      "latitude": 17.38709,
+      "longitude": 78.34629,
+      "address": "Gandipet Main Road, Hyderabad, Telangana, 500075, India",
+      "area": "Gandipet Main Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.38709,78.34629",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(3).png"
+    },
+    {
+      "id": 8182,
+      "station_name": "Rajapushpa Regalia e-Mobility",
+      "latitude": 17.388262,
+      "longitude": 78.340751,
+      "address": "kokapet, Hyderabad, Telangana, 500075, India",
+      "area": "kokapet",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.388262,78.340751",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mercedes_Branding_Logo.png"
+    },
+    {
+      "id": 14061,
+      "station_name": "United Avenues-Car1",
+      "latitude": 17.381561,
+      "longitude": 78.346457,
+      "address": "98JW+JMC Hyderabad, Hyderabad, Telangana, 500075, India",
+      "area": "98JW+JMC Hyderabad",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.381561,78.346457",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    },
+    {
+      "id": 10812,
+      "station_name": "Fortune Sonthalia by SSI - Adya Energy",
+      "latitude": 17.385654,
+      "longitude": 78.33212,
+      "address": "Kokapet Rd, Narsingi, Hyderabad, Telangana 500075, Hyderabad, Telangana, 500075, India",
+      "area": "Kokapet Rd, Narsingi, Hyderabad, Telangana 500075",
+      "avg_review_rating": 4.48,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.385654,78.33212",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 10553,
+      "station_name": "chargeMOD | Lansum Etania EV boost",
+      "latitude": 17.402004,
+      "longitude": 78.351471,
+      "address": "Puppalaguda, Hyderabad, Telangana, 500089, India",
+      "area": "Puppalaguda",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.402004,78.351471",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    20.88
+  ],
+  "scraped_at": "2026-05-21T08:16:33.023957+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

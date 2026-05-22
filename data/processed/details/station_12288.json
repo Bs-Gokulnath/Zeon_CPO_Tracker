@@ -1,0 +1,204 @@
+{
+  "station_id": 12288,
+  "station_detail": {
+    "station_id": 12288,
+    "station_name": "2005446-LATHIWALA FILLING STATION",
+    "latitude": 21.007728,
+    "longitude": 78.226371,
+    "address": "RO AT ARVI -WARDHA ROAD WARDHA ARVI, Wardha, Maharashtra, 442201, India",
+    "area": "RO AT ARVI -WARDHA ROAD WARDHA ARVI",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.007728,78.226371",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8796 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.71,
+    "no_of_reviews": 14,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 63765,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26817,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 26818,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "2005446-LATHIWALA FILLING STATION",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 29,
+        "5": 71
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Wardha",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12288,
+      "station_name": "2005446-LATHIWALA FILLING STATION",
+      "latitude": 21.007728,
+      "longitude": 78.226371,
+      "address": "RO AT ARVI -WARDHA ROAD WARDHA ARVI, Wardha, Maharashtra, 442201, India",
+      "area": "RO AT ARVI -WARDHA ROAD WARDHA ARVI",
+      "avg_review_rating": 4.71,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.007728,78.226371",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 15184,
+      "station_name": "B.N. LATHIWALA & SONS",
+      "latitude": 21.109152,
+      "longitude": 78.206041,
+      "address": "\"RO AT NH 6 TALEGAON,WARDHA ARVI\", Wardha, Maharashtra, 444701, India",
+      "area": "\"RO AT NH 6 TALEGAON,WARDHA ARVI\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.109152,78.206041",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13283,
+      "station_name": "ID(56tqjk)Agrawal petrol agency",
+      "latitude": 21.109884,
+      "longitude": 78.205602,
+      "address": "National Highway 6, Talegaon, Maharashtra, 442201, India",
+      "area": "National Highway 6",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.109884,78.205602",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 13158,
+      "station_name": "ID(87dpz9) Vanita Petroleum",
+      "latitude": 21.152469,
+      "longitude": 78.335453,
+      "address": "Sawali Bk., Sawali Bk., Maharashtra, 442203, India",
+      "area": "Sawali Bk.",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.152469,78.335453",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 15457,
+      "station_name": "SANKATMOCHAN PETROLEUM",
+      "latitude": 20.734011,
+      "longitude": 78.31951,
+      "address": "RO AT MOUZA- GUNJAKHEDA, Wardha, Maharashtra, 442302, India",
+      "area": "RO AT MOUZA- GUNJAKHEDA",
+      "avg_review_rating": 4.95,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.734011,78.31951",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:11:40.140212+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

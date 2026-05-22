@@ -1,0 +1,210 @@
+{
+  "station_id": 4777,
+  "station_detail": {
+    "station_id": 4777,
+    "station_name": "GHMC Serilingampally Zonal Office EV Charging Stat",
+    "latitude": 17.469204,
+    "longitude": 78.329559,
+    "address": "HCU Bus Depot, Serilingampally, Ranga Reddy district, Telangana, 500046, India",
+    "area": "HCU Bus Depot, Serilingampally",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.469204,78.329559",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8780 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 3.73,
+    "no_of_reviews": 30,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 11485,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 51359,
+        "price_with_currency": "₹ 13.0",
+        "price": 13.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 8909,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 8910,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "GHMC Serilingampally Zonal Office EV Charger",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 13,
+        "2": 3,
+        "3": 27,
+        "4": 10,
+        "5": 47
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ranga Reddy district",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 4777,
+      "station_name": "GHMC Serilingampally Zonal Office EV Charging Stat",
+      "latitude": 17.469204,
+      "longitude": 78.329559,
+      "address": "HCU Bus Depot, Serilingampally, Ranga Reddy district, Telangana, 500046, India",
+      "area": "HCU Bus Depot, Serilingampally",
+      "avg_review_rating": 3.73,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.469204,78.329559",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 14119,
+      "station_name": "Sumadhura Car4",
+      "latitude": 17.465301,
+      "longitude": 78.336917,
+      "address": "Block I, Hyderabad, Telangana, 500084, India",
+      "area": "Block I",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.465301,78.336917",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    },
+    {
+      "id": 13998,
+      "station_name": "Sumadhura Car3",
+      "latitude": 17.465935,
+      "longitude": 78.337386,
+      "address": "NCB Enclave, Hyderabad, Telangana, 500084, India",
+      "area": "NCB Enclave",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.465935,78.337386",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    },
+    {
+      "id": 13870,
+      "station_name": "Sumadhura Car2",
+      "latitude": 17.465924,
+      "longitude": 78.337442,
+      "address": "Block I, Hyderabad, Telangana, 500084, India",
+      "area": "Block I",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.465924,78.337442",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+default+(8).png"
+    },
+    {
+      "id": 13750,
+      "station_name": "Sumadhura Car1",
+      "latitude": 17.465917,
+      "longitude": 78.33751,
+      "address": "Block I, Hyderabad, Telangana, 500084, India",
+      "area": "Block I",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.465917,78.33751",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    13.0
+  ],
+  "scraped_at": "2026-05-21T07:59:51.237229+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

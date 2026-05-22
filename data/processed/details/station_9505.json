@@ -1,0 +1,197 @@
+{
+  "station_id": 9505,
+  "station_detail": {
+    "station_id": 9505,
+    "station_name": "2006951-SHEELA SONS",
+    "latitude": 26.26568,
+    "longitude": 78.21692,
+    "address": "AIRPORT ROAD , Gwalior, Madhya Pradesh, 474020, India",
+    "area": "AIRPORT ROAD ",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.26568,78.21692",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8844 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": "AIRPORT ROAD DINDAYAL NAGAR",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 58435,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 18456,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 18457,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "2006951-SHEELA SONS",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Gwalior",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9505,
+      "station_name": "2006951-SHEELA SONS",
+      "latitude": 26.26568,
+      "longitude": 78.21692,
+      "address": "AIRPORT ROAD , Gwalior, Madhya Pradesh, 474020, India",
+      "area": "AIRPORT ROAD ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.26568,78.21692",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9507,
+      "station_name": "2006835-KARGIL FILLING STATION",
+      "latitude": 26.28969,
+      "longitude": 78.24461,
+      "address": "MAHARAJPURA, Gwalior, Madhya Pradesh, 474020, India",
+      "area": "MAHARAJPURA",
+      "avg_review_rating": 4.53,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.28969,78.24461",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7313,
+      "station_name": "2016779-UTTAM FUELS",
+      "latitude": 26.317931,
+      "longitude": 78.212993,
+      "address": "VILLAGE KARGAWAN, Badi, Madhya Pradesh, 476444, India",
+      "area": "VILLAGE KARGAWAN",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.317931,78.212993",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15665,
+      "station_name": "LAXMI NARAYAN PETROLEUM",
+      "latitude": 26.318277,
+      "longitude": 78.215317,
+      "address": "Karagaon nh 44 riara, Gwalior, Madhya Pradesh, 476444, India",
+      "area": "Karagaon nh 44 riara",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.318277,78.215317",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 1935,
+      "station_name": "Sunfuel - Radisson Gwalior",
+      "latitude": 26.20603,
+      "longitude": 78.191849,
+      "address": "Plot No. 13-14, behind Sada Office, City Center, Gwalior, Madhya Pradesh, 474011, India",
+      "area": "Plot No. 13-14, behind Sada Office, City Center",
+      "avg_review_rating": 4.04,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.20603,78.191849",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:06:13.960938+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

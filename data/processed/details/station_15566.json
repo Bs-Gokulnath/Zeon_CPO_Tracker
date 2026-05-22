@@ -1,0 +1,198 @@
+{
+  "station_id": 15566,
+  "station_detail": {
+    "station_id": 15566,
+    "station_name": "RALHI FUELS SERVICES",
+    "latitude": 25.261245,
+    "longitude": 82.58321,
+    "address": "\"RALHI FUELS SERVICES ARAZI - 362  755 AND 760 ON LHS NH19 WHILE GOING TOWARDS PRAYGR FROM VNS  KOTHARA  AURAI, BHADOHI  BHADOHI  221301\", Bhadohi, Uttar Pradesh, 221301, India",
+    "area": "\"RALHI FUELS SERVICES ARAZI - 362  755 AND 760 ON LHS NH19 WHILE GOING TOWARDS PRAYGR FROM VNS  KOTHARA  AURAI, BHADOHI  BHADOHI  221301\"",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.261245,82.58321",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9272 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68998,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34430,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 34431,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "RALHI FUELS SERVICES",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bhadohi",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15566,
+      "station_name": "RALHI FUELS SERVICES",
+      "latitude": 25.261245,
+      "longitude": 82.58321,
+      "address": "\"RALHI FUELS SERVICES ARAZI - 362  755 AND 760 ON LHS NH19 WHILE GOING TOWARDS PRAYGR FROM VNS  KOTHARA  AURAI, BHADOHI  BHADOHI  221301\", Bhadohi, Uttar Pradesh, 221301, India",
+      "area": "\"RALHI FUELS SERVICES ARAZI - 362  755 AND 760 ON LHS NH19 WHILE GOING TOWARDS PRAYGR FROM VNS  KOTHARA  AURAI, BHADOHI  BHADOHI  221301\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.261245,82.58321",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15565,
+      "station_name": "SHIRAZ PETROLEUM",
+      "latitude": 25.396705,
+      "longitude": 82.557315,
+      "address": "\"SHIRAZ PETROLEUM 265  BHADOHI CITY  VILL JALALPUR  BHADOHI  BHADOHI  221401\", Bhadohi, Uttar Pradesh, 221401, India",
+      "area": "\"SHIRAZ PETROLEUM 265  BHADOHI CITY  VILL JALALPUR  BHADOHI  BHADOHI  221401\"",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.396705,82.557315",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 10510,
+      "station_name": "2001619-GHANSHYAM FILLING STATION",
+      "latitude": 25.351579,
+      "longitude": 82.228643,
+      "address": "SAI DHAM UPARDAHA, Handia, Uttar Pradesh, 221503, India",
+      "area": "SAI DHAM UPARDAHA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.351579,82.228643",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15889,
+      "station_name": "ARAV HIGHWAY ENERGY",
+      "latitude": 25.23675,
+      "longitude": 83.036086,
+      "address": "ARAV HIGHWAY ENERGY 211  VILL MIRZAPUR KHURD  MIRZAPUR KHURD  MIRZAPUR KHURD, BHUILI CHUNAR  MIRZAPUR KHURD , Mirzapur, Uttar Pradesh, 231001, India",
+      "area": "ARAV HIGHWAY ENERGY 211  VILL MIRZAPUR KHURD  MIRZAPUR KHURD  MIRZAPUR KHURD, BHUILI CHUNAR  MIRZAPUR KHURD ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.23675,83.036086",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15888,
+      "station_name": "AMIT FILLING STATTION",
+      "latitude": 25.189533,
+      "longitude": 83.030601,
+      "address": "347MI  BETWEEN KM STONE 0 TO 5 ON SH-5A (NARAYANPUR TO AHRAURA )  VILLAGE SIKIA  CHUNAR  CHUNAR  231305, Chunar, Uttar Pradesh, 231305, India",
+      "area": "347MI  BETWEEN KM STONE 0 TO 5 ON SH-5A (NARAYANPUR TO AHRAURA )  VILLAGE SIKIA  CHUNAR  CHUNAR  231305",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.189533,83.030601",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:16:15.681498+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

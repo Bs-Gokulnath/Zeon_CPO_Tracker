@@ -1,0 +1,204 @@
+{
+  "station_id": 15248,
+  "station_detail": {
+    "station_id": 15248,
+    "station_name": "NEETIKA FUELS",
+    "latitude": 24.780898,
+    "longitude": 79.821056,
+    "address": "BAMHITA NH-75,CHHATARPUR PANNA ROAD, Chhatarpur, Madhya Pradesh, 471105, India",
+    "area": "BAMHITA NH-75,CHHATARPUR PANNA ROAD",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.780898,79.821056",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8990 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.69,
+    "no_of_reviews": 35,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68409,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33519,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 33520,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "NEETIKA FUELS",
+        "last_used_on": "19/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 6,
+        "5": 86
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Chhatarpur",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15248,
+      "station_name": "NEETIKA FUELS",
+      "latitude": 24.780898,
+      "longitude": 79.821056,
+      "address": "BAMHITA NH-75,CHHATARPUR PANNA ROAD, Chhatarpur, Madhya Pradesh, 471105, India",
+      "area": "BAMHITA NH-75,CHHATARPUR PANNA ROAD",
+      "avg_review_rating": 4.69,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.780898,79.821056",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 13298,
+      "station_name": "ID(m6ahjp) Shri Maharaj Ataiya Baba SS",
+      "latitude": 24.785721,
+      "longitude": 79.464757,
+      "address": "Kheron, Kheron, Madhya Pradesh, India",
+      "area": "Kheron",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.785721,79.464757",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 7370,
+      "station_name": "2009711-PRATAP TRAVELS",
+      "latitude": 24.711497,
+      "longitude": 80.174042,
+      "address": "PANNA, Panna, Madhya Pradesh, 488001, India",
+      "area": "PANNA",
+      "avg_review_rating": 4.75,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.711497,80.174042",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 13082,
+      "station_name": "ID(mkagqh)Jai Maa Annapurna filling station",
+      "latitude": 24.762982,
+      "longitude": 79.445025,
+      "address": "Kanpur - Sagar Highway, Angor, Madhya Pradesh, 471301, India",
+      "area": "Kanpur - Sagar Highway",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.762982,79.445025",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 15256,
+      "station_name": "SHREE NARMADA FUELS",
+      "latitude": 24.400335,
+      "longitude": 80.043253,
+      "address": "KATNI PANNA ROAD,AMANGANJ, Amanganj, Madhya Pradesh, 488441, India",
+      "area": "KATNI PANNA ROAD,AMANGANJ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.400335,80.043253",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:15:28.560633+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

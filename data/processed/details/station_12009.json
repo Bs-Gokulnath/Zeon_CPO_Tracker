@@ -1,0 +1,204 @@
+{
+  "station_id": 12009,
+  "station_detail": {
+    "station_id": 12009,
+    "station_name": "2013790-KKS SERVICE STATION",
+    "latitude": 20.777217,
+    "longitude": 81.25168,
+    "address": "SH-7, VILLAGE LATABOD, TEKAPUR, Balod, Chhattisgarh, 491226, India",
+    "area": "SH-7, VILLAGE LATABOD, TEKAPUR",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.777217,81.25168",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9108 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.82,
+    "no_of_reviews": 45,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 63374,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26156,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 26157,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "2013790-KKS SERVICE STATION",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 18,
+        "5": 82
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Balod",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12009,
+      "station_name": "2013790-KKS SERVICE STATION",
+      "latitude": 20.777217,
+      "longitude": 81.25168,
+      "address": "SH-7, VILLAGE LATABOD, TEKAPUR, Balod, Chhattisgarh, 491226, India",
+      "area": "SH-7, VILLAGE LATABOD, TEKAPUR",
+      "avg_review_rating": 4.82,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.777217,81.25168",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 11972,
+      "station_name": "2007537-ARJUN FLLING POINT",
+      "latitude": 20.688234,
+      "longitude": 81.395639,
+      "address": "GURUR, GULMOHAR COLONY, Balod, Chhattisgarh, 491227, India",
+      "area": "GURUR, GULMOHAR COLONY",
+      "avg_review_rating": 4.75,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.688234,81.395639",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 12357,
+      "station_name": "2022964-THAKUR FUELS",
+      "latitude": 20.651542,
+      "longitude": 81.081892,
+      "address": "Dhuruwatola, Dalli Rajhara, Dhurwatola,, Balod, Chhattisgarh, 491228, India",
+      "area": "Dhuruwatola, Dalli Rajhara, Dhurwatola,",
+      "avg_review_rating": 4.22,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.651542,81.081892",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 13012,
+      "station_name": "ID(4g68t6)Shri balaji fuels",
+      "latitude": 20.736131,
+      "longitude": 81.568489,
+      "address": "Raipur - Jagdalpur - Vishakhapatnam Road, Arjuni, Chhattisgarh, 493773, India",
+      "area": "Raipur - Jagdalpur - Vishakhapatnam Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.736131,81.568489",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 15231,
+      "station_name": "SHINGOLA FUELS",
+      "latitude": 21.036055,
+      "longitude": 81.043308,
+      "address": "RO AT SHINGOLA, DALLIRAJHARA ROAD, Rajnandgaon, Chhattisgarh, 491441, India",
+      "area": "RO AT SHINGOLA, DALLIRAJHARA ROAD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.036055,81.043308",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:11:09.012240+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

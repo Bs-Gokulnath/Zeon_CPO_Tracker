@@ -1,0 +1,209 @@
+{
+  "station_id": 8512,
+  "station_detail": {
+    "station_id": 8512,
+    "station_name": "MH | Shirdi | Hotel Sai Mahal",
+    "latitude": 19.771761,
+    "longitude": 74.473234,
+    "address": "Opposite Police Guest house, Shirdi, Maharashtra, 423109, India",
+    "area": "Opposite Police Guest house",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.771761,74.473234",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8394 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.0,
+    "no_of_reviews": 12,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 56993,
+        "price_with_currency": "₹ 21.5",
+        "price": 21.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16084,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 16085,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 240.0,
+        "charger_name": "TCZ MH | Shirdi | Hotel Sai Mahal 1",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 17,
+        "2": 0,
+        "3": 8,
+        "4": 17,
+        "5": 58
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Shirdi",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 240.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7737,
+      "station_name": "GLIDA Hotel Season Choice",
+      "latitude": 19.77151,
+      "longitude": 74.473271,
+      "address": "Opposite Police Station, Ahmednagar, Maharashtra, 423109, India",
+      "area": "Opposite Police Station",
+      "avg_review_rating": 4.45,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.77151,74.473271",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    },
+    {
+      "id": 8512,
+      "station_name": "MH | Shirdi | Hotel Sai Mahal",
+      "latitude": 19.771761,
+      "longitude": 74.473234,
+      "address": "Opposite Police Guest house, Shirdi, Maharashtra, 423109, India",
+      "area": "Opposite Police Guest house",
+      "avg_review_rating": 4.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.771761,74.473234",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 6710,
+      "station_name": "Sp Ahmednagar Shirdi",
+      "latitude": 19.771503,
+      "longitude": 74.472682,
+      "address": "NAGAR-MANMAD ROAD NEAR SHIRDI POLICE STATION, DISTRICT - AHMEDNAGAR, Ahmednagar, Maharashtra, 423109, India",
+      "area": "NAGAR-MANMAD ROAD NEAR SHIRDI POLICE STATION, DISTRICT - AHMEDNAGAR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.771503,74.472682",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 1576,
+      "station_name": "Statiq Hotel The Executive Inn Station",
+      "latitude": 19.7591,
+      "longitude": 74.476402,
+      "address": "Hotel The Executive Inn, Near Ratnakar Bank, Nagar, Manmad Rd, opp. Indian Oil Petrol Pump, Shirdi, Maharashtra 423109, Shirdi, Maharashtra, 423109, India",
+      "area": "Hotel The Executive Inn, Near Ratnakar Bank, Nagar, Manmad Rd, opp. Indian Oil Petrol Pump, Shirdi, Maharashtra 423109",
+      "avg_review_rating": 4.63,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.7591,74.476402",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 14107,
+      "station_name": "PUSHPAK RESTAURANT",
+      "latitude": 19.75319,
+      "longitude": 74.47714,
+      "address": "PUSHPAK RESORT , Shirdi, Maharashtra, 423109, India",
+      "area": "PUSHPAK RESORT ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.75319,74.47714",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.5
+  ],
+  "scraped_at": "2026-05-21T08:04:43.444082+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

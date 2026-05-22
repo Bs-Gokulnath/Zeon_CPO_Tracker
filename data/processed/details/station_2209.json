@@ -1,0 +1,194 @@
+{
+  "station_id": 2209,
+  "station_detail": {
+    "station_id": 2209,
+    "station_name": "RAJESH 8787 ",
+    "latitude": 16.630419,
+    "longitude": 74.398124,
+    "address": "Hupari, Hupari, Maharashtra, 416203, India",
+    "area": "Hupari",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.630419,74.398124",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8356 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 6,
+        "connector_name": "GBT",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 3,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/eFill+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 2646,
+        "price_with_currency": "₹ 25.0",
+        "price": 25.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 3787,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 6,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "EFI RAJESH 8787  1",
+        "last_used_on": "05/03/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Hupari",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 2209,
+      "station_name": "RAJESH 8787 ",
+      "latitude": 16.630419,
+      "longitude": 74.398124,
+      "address": "Hupari, Hupari, Maharashtra, 416203, India",
+      "area": "Hupari",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.630419,74.398124",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15927,
+      "station_name": "KIRLOSKAR OIL ENGINES LTD-4W-002",
+      "latitude": 16.612981,
+      "longitude": 74.368977,
+      "address": "Tal-Hatkanangale, Kolhapur, Maharashtra, 416236, India",
+      "area": "Tal-Hatkanangale",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.612981,74.368977",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    },
+    {
+      "id": 8338,
+      "station_name": "KHUD-KARAM PETROLEUM Ichalkaranji",
+      "latitude": 16.63191,
+      "longitude": 74.43572,
+      "address": "RENDAL ROAD, RENDAL CITY REDAL KOLHAPUR, Ichalkaranji, Maharashtra, 416143, India",
+      "area": "RENDAL ROAD, RENDAL CITY REDAL KOLHAPUR",
+      "avg_review_rating": 4.81,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.63191,74.43572",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 15106,
+      "station_name": "MALI PETROLEUM",
+      "latitude": 16.660052,
+      "longitude": 74.36195,
+      "address": "Bharat Petroleum Dealer Gat.No1, Kolhapur Road Village -Pattan-Kodoli City Pattankodoli Distt. Kolhapur, Kolhapur, Maharashtra, 416110, India",
+      "area": "Bharat Petroleum Dealer Gat.No1, Kolhapur Road Village -Pattan-Kodoli City Pattankodoli Distt. Kolhapur",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.660052,74.36195",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12320,
+      "station_name": "KAGAL PETROL STORES",
+      "latitude": 16.584137,
+      "longitude": 74.310188,
+      "address": "Bharat Petroleum Dealer Mumbai Banglore Nh-4 Kagal City Kagal Distt. Kolhapur Maharashtra, Kolhapur, Maharashtra, 416216, India",
+      "area": "Bharat Petroleum Dealer Mumbai Banglore Nh-4 Kagal City Kagal Distt. Kolhapur Maharashtra",
+      "avg_review_rating": 4.86,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.584137,74.310188",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    25.0
+  ],
+  "scraped_at": "2026-05-21T07:59:35.061248+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

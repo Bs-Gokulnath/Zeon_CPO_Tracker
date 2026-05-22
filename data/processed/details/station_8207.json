@@ -1,0 +1,204 @@
+{
+  "station_id": 8207,
+  "station_detail": {
+    "station_id": 8207,
+    "station_name": "CHANDARAKANT PETROLEUM",
+    "latitude": 19.516786,
+    "longitude": 73.877473,
+    "address": "akole sangamner, Akola, Maharashtra, 422604, India",
+    "area": "akole sangamner",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.516786,73.877473",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8329 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 15,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 56574,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 15393,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 15394,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "422604 - CHANDARAKANT PETROLEUM",
+        "last_used_on": "25/01/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Akola",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8207,
+      "station_name": "CHANDARAKANT PETROLEUM",
+      "latitude": 19.516786,
+      "longitude": 73.877473,
+      "address": "akole sangamner, Akola, Maharashtra, 422604, India",
+      "area": "akole sangamner",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.516786,73.877473",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8334,
+      "station_name": "SR NAVALE PATIL PETROLEUM",
+      "latitude": 19.54795,
+      "longitude": 74.13061,
+      "address": "Village – Dhandarphal Bk, Taluka – Sangamner, Akole-Sangamner Rd., Sangamner, Maharashtra, 422603, India",
+      "area": "Village – Dhandarphal Bk, Taluka – Sangamner, Akole-Sangamner Rd.",
+      "avg_review_rating": 4.77,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.54795,74.13061",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 13457,
+      "station_name": "ID(5jxt8u)Shivneri Petroleum HP",
+      "latitude": 19.257913,
+      "longitude": 73.988677,
+      "address": "Otur, Otur, Maharashtra, 412409, India",
+      "area": "Otur",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.257913,73.988677",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 12929,
+      "station_name": "ID(vl1obm) Joshi petroleum , velhale Sangamner",
+      "latitude": 19.647034,
+      "longitude": 74.162015,
+      "address": "Vellhale, Vellhale, Maharashtra, 422605, India",
+      "area": "Vellhale",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.647034,74.162015",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 7537,
+      "station_name": "2014904-CHAITANYA PETROLEUM",
+      "latitude": 19.600823,
+      "longitude": 74.183782,
+      "address": "SANGAMNER, Sangamner, Maharashtra, 422608, India",
+      "area": "SANGAMNER",
+      "avg_review_rating": 4.8,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.600823,74.183782",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:04:06.633659+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

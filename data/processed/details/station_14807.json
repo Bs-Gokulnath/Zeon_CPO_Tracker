@@ -1,0 +1,204 @@
+{
+  "station_id": 14807,
+  "station_detail": {
+    "station_id": 14807,
+    "station_name": "ANAND FUELS",
+    "latitude": 21.6558,
+    "longitude": 80.0105,
+    "address": "RO AT SONJHARA, RAMPAYALI-KHAIRLANJHI ROAD, WARASEONI, BALAGHAT, Balaghat, Madhya Pradesh, 481335, India",
+    "area": "RO AT SONJHARA, RAMPAYALI-KHAIRLANJHI ROAD, WARASEONI, BALAGHAT",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.6558,80.0105",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8985 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 1,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 67743,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 32385,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 32386,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "ANAND FUELS",
+        "last_used_on": "14/04/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Balaghat",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14807,
+      "station_name": "ANAND FUELS",
+      "latitude": 21.6558,
+      "longitude": 80.0105,
+      "address": "RO AT SONJHARA, RAMPAYALI-KHAIRLANJHI ROAD, WARASEONI, BALAGHAT, Balaghat, Madhya Pradesh, 481335, India",
+      "area": "RO AT SONJHARA, RAMPAYALI-KHAIRLANJHI ROAD, WARASEONI, BALAGHAT",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.6558,80.0105",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14381,
+      "station_name": "Jai Bamleswari 60kW Charging Station",
+      "latitude": 21.454528,
+      "longitude": 80.198964,
+      "address": "Manohar Chwook, Gondia, Maharashtra, 441601, India",
+      "area": "Manohar Chwook",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.454528,80.198964",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Tecell.png"
+    },
+    {
+      "id": 12179,
+      "station_name": "Sai Sanskruti",
+      "latitude": 21.35922,
+      "longitude": 79.8381,
+      "address": "MUNDIKOTATUMSAR, Gondia, Maharashtra, 441605, India",
+      "area": "MUNDIKOTATUMSAR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.35922,79.8381",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15153,
+      "station_name": "SHRIRAM FUELS",
+      "latitude": 21.447666,
+      "longitude": 80.364972,
+      "address": "\"RO AT NANGPURA AMGAON TO DEORI, NH543 Road\", Gondia, Maharashtra, 441902, India",
+      "area": "\"RO AT NANGPURA AMGAON TO DEORI, NH543 Road\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.447666,80.364972",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12181,
+      "station_name": "RAZVI AUTOMOBILES",
+      "latitude": 21.3595,
+      "longitude": 79.716,
+      "address": "RO AT KHAPA, BHANDARA ROAD, Bhandara, Maharashtra, 441912, India",
+      "area": "RO AT KHAPA, BHANDARA ROAD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.3595,79.716",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:14:25.600699+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

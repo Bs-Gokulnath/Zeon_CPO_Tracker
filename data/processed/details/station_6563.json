@@ -1,0 +1,217 @@
+{
+  "station_id": 6563,
+  "station_detail": {
+    "station_id": 6563,
+    "station_name": "REIL TAJ MIDWAY FUELS",
+    "latitude": 27.56797,
+    "longitude": 77.619537,
+    "address": "Chhatikara, Mathura, Uttar Pradesh, 281003, India",
+    "area": "Chhatikara",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.56797,77.619537",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8799 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 2,
+        "connector_name": "CHAdeMO",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/chademo.png"
+      },
+      {
+        "id": 6,
+        "connector_name": "GBT",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/REIL/REIL_Banner.png",
+    "landmark": "NH19 CHHATIKARA",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54076,
+        "price_with_currency": "₹ 18.0",
+        "price": 18.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 12088,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 12089,
+            "connector_type": "CHAdeMO",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/chademo.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 2,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 3,
+            "connector_id": 12090,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 6,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 122.0,
+        "charger_name": "EV Charger CCS2-122 KW",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Mathura",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 122.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 6563,
+      "station_name": "REIL TAJ MIDWAY FUELS",
+      "latitude": 27.56797,
+      "longitude": 77.619537,
+      "address": "Chhatikara, Mathura, Uttar Pradesh, 281003, India",
+      "area": "Chhatikara",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.56797,77.619537",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 13392,
+      "station_name": "ID(kqsiex)Maa Gayatri Devi Fuel Centre ⛽️",
+      "latitude": 27.590927,
+      "longitude": 77.600433,
+      "address": "Bharthia, Bharthia, Uttar Pradesh, 281406, India",
+      "area": "Bharthia",
+      "avg_review_rating": 4.43,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.590927,77.600433",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 7320,
+      "station_name": "2008248-AUTO AID",
+      "latitude": 27.53164,
+      "longitude": 77.657847,
+      "address": "MATHURA, Mathura, Uttar Pradesh, 281001, India",
+      "area": "MATHURA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.53164,77.657847",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 6574,
+      "station_name": "REIL Jagdish Service Station IOCL Petrol",
+      "latitude": 27.49844,
+      "longitude": 77.652939,
+      "address": "Goverdhan Chauraha, Krishna Nagar, Mathura, Uttar Pradesh, 281004, India",
+      "area": "Goverdhan Chauraha, Krishna Nagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.49844,77.652939",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 9894,
+      "station_name": "Hotel Radhika Silver GM48+2R4, Shankar Rd, Gobind Nagar Sec B, Janam Bhumi,",
+      "latitude": 27.505005,
+      "longitude": 77.667041,
+      "address": "GM48+2R4, Mathura, Uttar Pradesh, 281003, India",
+      "area": "GM48+2R4",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.505005,77.667041",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    18.0
+  ],
+  "scraped_at": "2026-05-21T08:01:28.440823+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

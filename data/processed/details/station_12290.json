@@ -1,0 +1,208 @@
+{
+  "station_id": 12290,
+  "station_detail": {
+    "station_id": 12290,
+    "station_name": "KS FUELS",
+    "latitude": 8.678479,
+    "longitude": 76.825208,
+    "address": "NH 66, MAMOM PO, ATTINGAL, TRIVANDRUM, KERALA, Thiruvananthapuram, Kerala, 695101, India",
+    "area": "NH 66, MAMOM PO, ATTINGAL, TRIVANDRUM, KERALA",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.678479,76.825208",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8569 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 63767,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26821,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 26822,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "KS FUELS",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Thiruvananthapuram",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12290,
+      "station_name": "KS FUELS",
+      "latitude": 8.678479,
+      "longitude": 76.825208,
+      "address": "NH 66, MAMOM PO, ATTINGAL, TRIVANDRUM, KERALA, Thiruvananthapuram, Kerala, 695101, India",
+      "area": "NH 66, MAMOM PO, ATTINGAL, TRIVANDRUM, KERALA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.678479,76.825208",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 5622,
+      "station_name": "chargeMOD | Edackodu Bank EVCS",
+      "latitude": 8.671912,
+      "longitude": 76.834833,
+      "address": "Edackodu Service Co-operative Bank, Thiruvananthapuram, Kerala, 676506, India",
+      "area": "Edackodu Service Co-operative Bank",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.671912,76.834833",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 7267,
+      "station_name": "2002376-BP THONNAKKAL",
+      "latitude": 8.641259,
+      "longitude": 76.843518,
+      "address": "THONNAKKAL, Alangad, Kerala, 695317, India",
+      "area": "THONNAKKAL",
+      "avg_review_rating": 4.59,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.641259,76.843518",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+charging.png"
+    },
+    {
+      "id": 7264,
+      "station_name": "2002297-SR FUELS",
+      "latitude": 8.629989,
+      "longitude": 76.847605,
+      "address": "TRIVANDRUM, Alangad, Kerala, 695317, India",
+      "area": "TRIVANDRUM",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.629989,76.847605",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14278,
+      "station_name": "chargeMOD | AR SQUARE EVCS | Kavalayoor",
+      "latitude": 8.71407,
+      "longitude": 76.77974,
+      "address": "Kavalayoor, Attingal, Kerala, 695144, India",
+      "area": "Kavalayoor",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.71407,76.77974",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:11:40.196220+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

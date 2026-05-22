@@ -1,0 +1,198 @@
+{
+  "station_id": 10160,
+  "station_detail": {
+    "station_id": 10160,
+    "station_name": "2014444-AJIT PETROLEUM",
+    "latitude": 20.008944,
+    "longitude": 74.788677,
+    "address": "GUT NO.-252(P), VAIJAPUR TO SHIUR BANGLOW ROAD, , Aurangabad, Maharashtra, 431116, India",
+    "area": "GUT NO.-252(P), VAIJAPUR TO SHIUR BANGLOW ROAD, ",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.008944,74.788677",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8429 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 59391,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 20028,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 20029,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "2014444-AJIT PETROLEUM",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Aurangabad",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10160,
+      "station_name": "2014444-AJIT PETROLEUM",
+      "latitude": 20.008944,
+      "longitude": 74.788677,
+      "address": "GUT NO.-252(P), VAIJAPUR TO SHIUR BANGLOW ROAD, , Aurangabad, Maharashtra, 431116, India",
+      "area": "GUT NO.-252(P), VAIJAPUR TO SHIUR BANGLOW ROAD, ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.008944,74.788677",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 6907,
+      "station_name": "2000980-ARUJIT PETROLEUM",
+      "latitude": 19.91992,
+      "longitude": 74.75964,
+      "address": "BHARAT PETROLEUM DEALERS,  GUT NO 143 , MUMBAI NAGPUR ROAD, Jalgaon, Maharashtra, 423701, India",
+      "area": "BHARAT PETROLEUM DEALERS,  GUT NO 143 , MUMBAI NAGPUR ROAD",
+      "avg_review_rating": 4.16,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.91992,74.75964",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10149,
+      "station_name": "2024200-BHATIA PETROLEUM",
+      "latitude": 19.93751,
+      "longitude": 74.70397,
+      "address": "GUT NO 383, NH52H, Aurangabad, Maharashtra, 423701, India",
+      "area": "GUT NO 383, NH52H",
+      "avg_review_rating": 4.66,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.93751,74.70397",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15283,
+      "station_name": "PARAM PETROLEUMS",
+      "latitude": 19.913025,
+      "longitude": 74.73194,
+      "address": "AURANGABAD, Aurangabad, Maharashtra, 423701, India",
+      "area": "AURANGABAD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.913025,74.73194",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13327,
+      "station_name": "ID(r7zyfa) ADOC  Ravindra petroleum , Dawala",
+      "latitude": 19.884592,
+      "longitude": 74.68934,
+      "address": "Dawala, Dawala, Maharashtra, 423701, India",
+      "area": "Dawala",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.884592,74.68934",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:08:04.012574+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

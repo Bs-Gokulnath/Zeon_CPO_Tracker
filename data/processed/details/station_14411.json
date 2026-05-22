@@ -1,0 +1,188 @@
+{
+  "station_id": 14411,
+  "station_detail": {
+    "station_id": 14411,
+    "station_name": "Divyasree L2 - EV Charger 2",
+    "latitude": 12.948184,
+    "longitude": 77.693932,
+    "address": "Kadubeesanahalli, Bengaluru, Karnataka, 560037, India",
+    "area": "Kadubeesanahalli",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.948184,77.693932",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8684 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Gentari+(5).png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 66755,
+        "price_with_currency": "₹ 10.17",
+        "price": 10.17,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 31067,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "BLT Divyasree L2 - EV Charger 2 1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bengaluru",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 7.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14411,
+      "station_name": "Divyasree L2 - EV Charger 2",
+      "latitude": 12.948184,
+      "longitude": 77.693932,
+      "address": "Kadubeesanahalli, Bengaluru, Karnataka, 560037, India",
+      "area": "Kadubeesanahalli",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.948184,77.693932",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    },
+    {
+      "id": 14423,
+      "station_name": "Divyasree L2 - EV Charger 3",
+      "latitude": 12.948263,
+      "longitude": 77.693975,
+      "address": "Kadubeesanahalli, Bengaluru, Karnataka, 560037, India",
+      "area": "Kadubeesanahalli",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.948263,77.693975",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    },
+    {
+      "id": 13728,
+      "station_name": "Divyasree EV Charger ONE ",
+      "latitude": 12.948344,
+      "longitude": 77.69415,
+      "address": "Kadubeesanahalli, Bengaluru, Karnataka, 560037, India",
+      "area": "Kadubeesanahalli",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.948344,77.69415",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    },
+    {
+      "id": 14421,
+      "station_name": "Divyasree L2 - EV Charger 5",
+      "latitude": 12.948489,
+      "longitude": 77.693985,
+      "address": "Kadubeesanahalli, Bengaluru, Karnataka, 560037, India",
+      "area": "Kadubeesanahalli",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.948489,77.693985",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    },
+    {
+      "id": 14161,
+      "station_name": "Divyasree EV Charger FOUR",
+      "latitude": 12.948141,
+      "longitude": 77.693586,
+      "address": "Kadubeesanahalli, Bengaluru, Karnataka, 560037, India",
+      "area": "Kadubeesanahalli",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.948141,77.693586",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    10.17
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:13:38.051014+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,197 @@
+{
+  "station_id": 12181,
+  "station_detail": {
+    "station_id": 12181,
+    "station_name": "RAZVI AUTOMOBILES",
+    "latitude": 21.3595,
+    "longitude": 79.716,
+    "address": "RO AT KHAPA, BHANDARA ROAD, Bhandara, Maharashtra, 441912, India",
+    "area": "RO AT KHAPA, BHANDARA ROAD",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.3595,79.716",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8953 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": ", TALTUMSAR, BHANDARA",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 63598,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26549,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 26550,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "RAZVI AUTOMOBILES",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bhandara",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12181,
+      "station_name": "RAZVI AUTOMOBILES",
+      "latitude": 21.3595,
+      "longitude": 79.716,
+      "address": "RO AT KHAPA, BHANDARA ROAD, Bhandara, Maharashtra, 441912, India",
+      "area": "RO AT KHAPA, BHANDARA ROAD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.3595,79.716",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12179,
+      "station_name": "Sai Sanskruti",
+      "latitude": 21.35922,
+      "longitude": 79.8381,
+      "address": "MUNDIKOTATUMSAR, Gondia, Maharashtra, 441605, India",
+      "area": "MUNDIKOTATUMSAR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.35922,79.8381",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12933,
+      "station_name": "ID(xzsioe) A R PETROLEUM",
+      "latitude": 21.133499,
+      "longitude": 79.694123,
+      "address": "Mumbai - Kolkata Highway, Bhilewada, Maharashtra, 441924, India",
+      "area": "Mumbai - Kolkata Highway",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.133499,79.694123",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 12310,
+      "station_name": "Ordnance Factory",
+      "latitude": 21.151629,
+      "longitude": 79.542385,
+      "address": "JAWAHARNAGAR,MAIN RD,BHAND, Bhandara, Maharashtra, 441906, India",
+      "area": "JAWAHARNAGAR,MAIN RD,BHAND",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.151629,79.542385",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13157,
+      "station_name": "ID(rgc2vz) AR PLAZA",
+      "latitude": 21.09501,
+      "longitude": 79.753916,
+      "address": "Kanhadmoh, Kanhadmoh, Maharashtra, 441804, India",
+      "area": "Kanhadmoh",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.09501,79.753916",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:11:27.354132+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

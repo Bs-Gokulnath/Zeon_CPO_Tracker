@@ -1,0 +1,320 @@
+{
+  "station_id": 15685,
+  "station_detail": {
+    "station_id": 15685,
+    "station_name": "EESL Nagpur Ujjawal Nagar Metro Station",
+    "latitude": 21.096466,
+    "longitude": 79.064208,
+    "address": "Nagpur Metro Station, Ujjawal Nagar Metro Station, Nagpur, Maharashtra, Nagpur, Maharashtra, 440015, India",
+    "area": "Nagpur Metro Station, Ujjawal Nagar Metro Station, Nagpur, Maharashtra",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.096466,79.064208",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8883 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 2,
+        "connector_name": "CHAdeMO",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/chademo.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      },
+      {
+        "id": 6,
+        "connector_name": "GBT",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 69259,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34848,
+            "connector_type": "CHAdeMO",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/chademo.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 2,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 34849,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 3,
+            "connector_id": 34850,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 142.0,
+        "charger_name": "EESL Nagpur Ujjawal Nagar Metro Station 142kW CCS/CHAdeMO/T2",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 69537,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35231,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 6,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 15.0,
+        "charger_name": "EESL Nagpur Ujjawal Nagar Metro Station 15kW GBT-2",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 69538,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35232,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 6,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 15.0,
+        "charger_name": "EESL Nagpur Ujjawal Nagar Metro Station 15kW GBT-3",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 69731,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35503,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 6,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 15.0,
+        "charger_name": "EESL Nagpur Ujjawal Nagar Metro Station 15kW GBT-1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Nagpur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 142.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15685,
+      "station_name": "EESL Nagpur Ujjawal Nagar Metro Station",
+      "latitude": 21.096466,
+      "longitude": 79.064208,
+      "address": "Nagpur Metro Station, Ujjawal Nagar Metro Station, Nagpur, Maharashtra, Nagpur, Maharashtra, 440015, India",
+      "area": "Nagpur Metro Station, Ujjawal Nagar Metro Station, Nagpur, Maharashtra",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.096466,79.064208",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15682,
+      "station_name": "EESL Nagpur Jaiprakash Nagar Metro Station",
+      "latitude": 21.103701,
+      "longitude": 79.066243,
+      "address": "Nagpur Metro Station, Jaiprakash Nagar Metro Station, Nagpur, Maharashtra, Nagpur, Maharashtra, 440015, India",
+      "area": "Nagpur Metro Station, Jaiprakash Nagar Metro Station, Nagpur, Maharashtra",
+      "avg_review_rating": 4.63,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.103701,79.066243",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15580,
+      "station_name": "EESL Nagpur Airport Metro Station",
+      "latitude": 21.086309,
+      "longitude": 79.06393,
+      "address": "Metro Station, NH 44, Sonegaon, Nagpur, Maharashtra, Nagpur, Maharashtra, 440005, India",
+      "area": "Metro Station, NH 44, Sonegaon, Nagpur, Maharashtra",
+      "avg_review_rating": 4.54,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.086309,79.06393",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/default.png"
+    },
+    {
+      "id": 15599,
+      "station_name": "EESL Nagpur Chattarpati Square Metro Station",
+      "latitude": 21.109565,
+      "longitude": 79.067585,
+      "address": "4, Chandrapur - Nagpur Rd, Vivekanand Nagar, Nagpur, Maharashtra, Nagpur, Maharashtra, 440015, India",
+      "area": "4, Chandrapur - Nagpur Rd, Vivekanand Nagar, Nagpur, Maharashtra",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.109565,79.067585",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/default.png"
+    },
+    {
+      "id": 15684,
+      "station_name": "EESL Nagpur South Airport Metro Station",
+      "latitude": 21.078895,
+      "longitude": 79.058236,
+      "address": "Nagpur Metro Station, South Airport Metro Station, Nagpur, Maharashtra, Nagpur, Maharashtra, 440015, India",
+      "area": "Nagpur Metro Station, South Airport Metro Station, Nagpur, Maharashtra",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.078895,79.058236",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 4,
+  "ac_prices": [],
+  "dc_prices": [
+    20.0,
+    20.0,
+    20.0,
+    20.0
+  ],
+  "scraped_at": "2026-05-21T08:16:32.813985+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

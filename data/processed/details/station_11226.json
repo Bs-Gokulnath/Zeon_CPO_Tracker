@@ -1,0 +1,415 @@
+{
+  "station_id": 11226,
+  "station_detail": {
+    "station_id": 11226,
+    "station_name": "Shell Recharge SBO Bagmane - Captive",
+    "latitude": 12.971631,
+    "longitude": 77.708151,
+    "address": "Bagmane Solarium City Neon, Bengaluru, Karnataka, 560037, India",
+    "area": "Bagmane Solarium City Neon",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.971631,77.708151",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8685 kms",
+    "operational_time": "00:00 To 23:59",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 4.75,
+    "no_of_reviews": 16,
+    "station_image_url": null,
+    "is_connected": true,
+    "station_banner": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/banners/updatedbannerimage.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 13162,
+        "id": 1
+      },
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 13163,
+        "id": 2
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 61573,
+        "price_with_currency": "₹ 0",
+        "price": 0.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23349,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "SR-BAE-Charger 4",
+        "last_used_on": "06/05/2025"
+      },
+      {
+        "charger_id": 61574,
+        "price_with_currency": "₹ 0",
+        "price": 0.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23350,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "SR-BAE-Charger 5",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 61575,
+        "price_with_currency": "₹ 0",
+        "price": 0.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23351,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "SR-BAE-Charger 6",
+        "last_used_on": "26/02/2024"
+      },
+      {
+        "charger_id": 61576,
+        "price_with_currency": "₹ 0",
+        "price": 0.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23352,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "SR-BAE-Charger 7",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61577,
+        "price_with_currency": "₹ 0",
+        "price": 0.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23353,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "SR-BAE-Charger 8",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 61587,
+        "price_with_currency": "₹ 0",
+        "price": 0.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23366,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 3,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 23367,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 3,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 44.0,
+        "charger_name": "SR-BAE-Charger 1",
+        "last_used_on": "20/05/2026"
+      },
+      {
+        "charger_id": 61588,
+        "price_with_currency": "₹ 0",
+        "price": 0.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23368,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 23369,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "suspendedev"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 44.0,
+        "charger_name": "SR - BAE - Charger 2",
+        "last_used_on": "20/05/2026"
+      },
+      {
+        "charger_id": 61589,
+        "price_with_currency": "₹ 0",
+        "price": 0.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23370,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Finished",
+            "connector_type_id": 3,
+            "connector_status": "finishing"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 23371,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "suspendedev"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 44.0,
+        "charger_name": "SR - BAE - Charger 3",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 6,
+        "4": 12,
+        "5": 81
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bengaluru",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 44.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11226,
+      "station_name": "Shell Recharge SBO Bagmane - Captive",
+      "latitude": 12.971631,
+      "longitude": 77.708151,
+      "address": "Bagmane Solarium City Neon, Bengaluru, Karnataka, 560037, India",
+      "area": "Bagmane Solarium City Neon",
+      "avg_review_rating": 4.75,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.971631,77.708151",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
+    },
+    {
+      "id": 11221,
+      "station_name": "Shell Recharge Bagmane Solarium",
+      "latitude": 12.971705,
+      "longitude": 77.70779,
+      "address": "Kundalahalli Colony, Bengaluru, Karnataka, 560037, India",
+      "area": "Kundalahalli Colony",
+      "avg_review_rating": 4.11,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.971705,77.70779",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
+    },
+    {
+      "id": 15674,
+      "station_name": "Statiq Prestige Technostar Station",
+      "latitude": 12.972736,
+      "longitude": 77.710498,
+      "address": "50m Inside from Entrance 1, Prestige Technostar, Doddanakundi Industrial Area 2, Phase 1, Brookefield, Bengaluru, Karnataka, 560048, India",
+      "area": "50m Inside from Entrance 1, Prestige Technostar, Doddanakundi Industrial Area 2, Phase 1, Brookefield",
+      "avg_review_rating": 4.5,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.972736,77.710498",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 1731,
+      "station_name": "Sunfuel - Home Awaits 357 Bengaluru",
+      "latitude": 12.9669,
+      "longitude": 77.716003,
+      "address": "5th Main, Bengaluru, Karnataka, 560037, India",
+      "area": "5th Main",
+      "avg_review_rating": 4.38,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.9669,77.716003",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8645,
+      "station_name": "KA | Bengaluru |  Fairfield by Marriott Bengaluru Whitefield",
+      "latitude": 12.981946,
+      "longitude": 77.708939,
+      "address": "3-A1 Kundanahalli Main Road Mahadevpura, Bengaluru, Karnataka, 560048, India",
+      "area": "3-A1 Kundanahalli Main Road Mahadevpura",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.981946,77.708939",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    }
+  ],
+  "ac_count": 8,
+  "dc_count": 0,
+  "ac_prices": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:10:08.243965+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "station_image_url",
+    "landmark"
+  ],
+  "coverage_pct": 90.9
+}

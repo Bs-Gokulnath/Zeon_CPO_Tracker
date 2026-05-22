@@ -1,0 +1,238 @@
+{
+  "station_id": 8333,
+  "station_detail": {
+    "station_id": 8333,
+    "station_name": "Hyundai Brookefields Mall Charging Station",
+    "latitude": 11.009476,
+    "longitude": 76.958991,
+    "address": "B3 Parking Brookefields, 67-71, Dr Krishnasamy Mudaliyar Rd, Brookefields, Sukrawar Pettai, Ram Nagar,, Coimbatore, Tamil Nadu, 641001, India",
+    "area": "B3 Parking Brookefields, 67-71, Dr Krishnasamy Mudaliyar Rd, Brookefields, Sukrawar Pettai, Ram Nagar,",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.009476,76.958991",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8594 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.46,
+    "no_of_reviews": 338,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-banner-2.png",
+    "landmark": "Basement 3",
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 12127,
+        "id": 1
+      },
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 12128,
+        "id": 2
+      },
+      {
+        "type": "Store",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/store.png",
+        "map_id": 12129,
+        "id": 3
+      },
+      {
+        "type": "Car Care",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/car+care+(1).png",
+        "map_id": 12130,
+        "id": 4
+      },
+      {
+        "type": "Lodging",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/lodging.png",
+        "map_id": 12131,
+        "id": 5
+      },
+      {
+        "type": "Wifi",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/wifi+.png",
+        "map_id": 12132,
+        "id": 6
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 56770,
+        "price_with_currency": "₹ 21.0",
+        "price": 21.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 15695,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 15696,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Hyundai Brookefields Mall DC Charger",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 9,
+        "2": 1,
+        "3": 3,
+        "4": 11,
+        "5": 77
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Coimbatore",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8333,
+      "station_name": "Hyundai Brookefields Mall Charging Station",
+      "latitude": 11.009476,
+      "longitude": 76.958991,
+      "address": "B3 Parking Brookefields, 67-71, Dr Krishnasamy Mudaliyar Rd, Brookefields, Sukrawar Pettai, Ram Nagar,, Coimbatore, Tamil Nadu, 641001, India",
+      "area": "B3 Parking Brookefields, 67-71, Dr Krishnasamy Mudaliyar Rd, Brookefields, Sukrawar Pettai, Ram Nagar,",
+      "avg_review_rating": 4.46,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.009476,76.958991",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-online-not-selected.png"
+    },
+    {
+      "id": 1513,
+      "station_name": "VEEV Brookfields",
+      "latitude": 11.00791,
+      "longitude": 76.96017,
+      "address": "Level B2, Bay C71-73, Opp. Lift Entrance, , Coimbatore, Tamil Nadu, 641001, India",
+      "area": "Level B2, Bay C71-73, Opp. Lift Entrance, ",
+      "avg_review_rating": 4.42,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.00791,76.96017",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/Vaari+Energy/vaari+energy+pin.png"
+    },
+    {
+      "id": 9972,
+      "station_name": "123456789",
+      "latitude": 11.010641,
+      "longitude": 76.960639,
+      "address": "74, Coimbatore, Tamil Nadu, 641009, India",
+      "area": "74",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.010641,76.960639",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 6517,
+      "station_name": "VEEV KDM Hall",
+      "latitude": 11.014477,
+      "longitude": 76.965675,
+      "address": "Sathyamurthy Road, Ramnagar, Coimbatore, Tamil Nadu, 641009, India",
+      "area": "Sathyamurthy Road, Ramnagar",
+      "avg_review_rating": 4.92,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.014477,76.965675",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 13992,
+      "station_name": "PSR SILK EV POINT",
+      "latitude": 11.019195,
+      "longitude": 76.960786,
+      "address": "Tatabad, Coimbatore, Tamil Nadu, 641012, India",
+      "area": "Tatabad",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.019195,76.960786",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.0
+  ],
+  "scraped_at": "2026-05-21T08:04:18.925073+00:00",
+  "parse_success": true,
+  "missing_fields": [],
+  "coverage_pct": 100.0
+}

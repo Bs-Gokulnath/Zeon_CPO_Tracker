@@ -1,0 +1,246 @@
+{
+  "station_id": 10334,
+  "station_detail": {
+    "station_id": 10334,
+    "station_name": "Service Force Om Auto",
+    "latitude": 22.33768,
+    "longitude": 73.154811,
+    "address": "D-25/26, Vadodara, Gujarat, 390003, India",
+    "area": "D-25/26",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.33768,73.154811",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8287 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      },
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/network-branding/verde/banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 59892,
+        "price_with_currency": "₹ 16.95",
+        "price": 16.95,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 20789,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "VER Service Force Om Auto 1",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 59894,
+        "price_with_currency": "₹ 16.95",
+        "price": 16.95,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 20791,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "VER Service Force Om Auto 2",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 59896,
+        "price_with_currency": "₹ 16.95",
+        "price": 16.95,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 20793,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "VER Service Force Om Auto 3",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Vadodara",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 7.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10334,
+      "station_name": "Service Force Om Auto",
+      "latitude": 22.33768,
+      "longitude": 73.154811,
+      "address": "D-25/26, Vadodara, Gujarat, 390003, India",
+      "area": "D-25/26",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.33768,73.154811",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 11281,
+      "station_name": "Aura Square",
+      "latitude": 22.340403,
+      "longitude": 73.14752,
+      "address": "Panchvati-Undera Road, Vadodara, Gujarat, 390016, India",
+      "area": "Panchvati-Undera Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.340403,73.14752",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 10356,
+      "station_name": "Service Force Riders Autotech",
+      "latitude": 22.345242,
+      "longitude": 73.169347,
+      "address": "Ding Dong Chokdi, Vadodara, Gujarat, 391740, India",
+      "area": "Ding Dong Chokdi",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.345242,73.169347",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8644,
+      "station_name": "GJ | Vadodara | Alembic City",
+      "latitude": 22.324769,
+      "longitude": 73.170551,
+      "address": "Alembic City, Vadodara, Gujarat, 390003, India",
+      "area": "Alembic City",
+      "avg_review_rating": 4.25,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.324769,73.170551",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 6506,
+      "station_name": "Statiq Welcomhotel Vadodara Station",
+      "latitude": 22.310287,
+      "longitude": 73.167412,
+      "address": "RIght Side form Main Entry, New Porch, Welcomhotel Vadodara, RC Dutt Rd, Alkapuri, Vadodara, Gujarat, 390007, India",
+      "area": "RIght Side form Main Entry, New Porch, Welcomhotel Vadodara, RC Dutt Rd, Alkapuri",
+      "avg_review_rating": 4.58,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.310287,73.167412",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    }
+  ],
+  "ac_count": 3,
+  "dc_count": 0,
+  "ac_prices": [
+    16.95,
+    16.95,
+    16.95
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:08:11.220593+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

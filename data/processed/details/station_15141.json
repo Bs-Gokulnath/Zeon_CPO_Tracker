@@ -1,0 +1,82 @@
+{
+  "station_id": 15141,
+  "station_detail": {
+    "station_id": 15141,
+    "station_name": "Abhivruddhi Farms Car charger-2",
+    "latitude": 17.419,
+    "longitude": 78.4521,
+    "address": "Balapur Basthi, Hyderabad, Telangana, 500082, India",
+    "area": "Balapur Basthi",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.419,78.4521",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8792 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Gentari+(5).png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68227,
+        "price_with_currency": "₹ 0",
+        "price": 0.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33224,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "BLT Abhivruddhi Farms Car charger-2 1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Hyderabad",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 7.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    0.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:15:09.485150+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

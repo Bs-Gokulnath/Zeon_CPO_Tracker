@@ -1,0 +1,601 @@
+{
+  "station_id": 13553,
+  "station_detail": {
+    "station_id": 13553,
+    "station_name": "Kalkaji EV Charging Station",
+    "latitude": 28.550955,
+    "longitude": 77.257324,
+    "address": "Kalkaji Metro Station Parking, New Delhi, Delhi, 110019, India",
+    "area": "Kalkaji Metro Station Parking",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.550955,77.257324",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8775 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/1c+Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 65372,
+        "price_with_currency": "₹ 13.21",
+        "price": 13.21,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 29510,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Kalkaji EV Charging Station 1",
+        "last_used_on": "13/02/2026"
+      },
+      {
+        "charger_id": 65373,
+        "price_with_currency": "₹ 13.21",
+        "price": 13.21,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 29511,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Kalkaji EV Charging Station 2",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 65374,
+        "price_with_currency": "₹ 13.21",
+        "price": 13.21,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 29512,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Kalkaji EV Charging Station 3",
+        "last_used_on": "08/04/2026"
+      },
+      {
+        "charger_id": 65375,
+        "price_with_currency": "₹ 13.21",
+        "price": 13.21,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 29513,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Kalkaji EV Charging Station 4",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 65376,
+        "price_with_currency": "₹ 13.21",
+        "price": 13.21,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 29514,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Kalkaji EV Charging Station 5",
+        "last_used_on": "07/03/2026"
+      },
+      {
+        "charger_id": 65377,
+        "price_with_currency": "₹ 13.21",
+        "price": 13.21,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 29515,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Kalkaji EV Charging Station 6",
+        "last_used_on": "03/01/2026"
+      },
+      {
+        "charger_id": 65378,
+        "price_with_currency": "₹ 13.21",
+        "price": 13.21,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 29516,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Kalkaji EV Charging Station 7",
+        "last_used_on": "12/03/2026"
+      },
+      {
+        "charger_id": 65379,
+        "price_with_currency": "₹ 13.21",
+        "price": 13.21,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 29517,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Kalkaji EV Charging Station 8",
+        "last_used_on": "18/03/2026"
+      },
+      {
+        "charger_id": 65380,
+        "price_with_currency": "₹ 13.21",
+        "price": 13.21,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 29518,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Kalkaji EV Charging Station 9",
+        "last_used_on": "07/03/2026"
+      },
+      {
+        "charger_id": 65381,
+        "price_with_currency": "₹ 13.21",
+        "price": 13.21,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 29519,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Kalkaji EV Charging Station 10",
+        "last_used_on": "07/03/2026"
+      },
+      {
+        "charger_id": 65382,
+        "price_with_currency": "₹ 13.21",
+        "price": 13.21,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 29520,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Kalkaji EV Charging Station 11",
+        "last_used_on": "03/02/2026"
+      },
+      {
+        "charger_id": 65383,
+        "price_with_currency": "₹ 13.21",
+        "price": 13.21,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 29521,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Kalkaji EV Charging Station 12",
+        "last_used_on": "14/02/2026"
+      },
+      {
+        "charger_id": 65384,
+        "price_with_currency": "₹ 13.21",
+        "price": 13.21,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 29522,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Kalkaji EV Charging Station 13",
+        "last_used_on": "06/03/2026"
+      },
+      {
+        "charger_id": 65385,
+        "price_with_currency": "₹ 13.21",
+        "price": 13.21,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 29523,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Kalkaji EV Charging Station 14",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 65386,
+        "price_with_currency": "₹ 13.21",
+        "price": 13.21,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 29524,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Kalkaji EV Charging Station 15",
+        "last_used_on": "28/12/2025"
+      },
+      {
+        "charger_id": 65387,
+        "price_with_currency": "₹ 13.21",
+        "price": 13.21,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 29525,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Kalkaji EV Charging Station 16",
+        "last_used_on": "09/03/2026"
+      },
+      {
+        "charger_id": 65388,
+        "price_with_currency": "₹ 13.21",
+        "price": 13.21,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 29526,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Kalkaji EV Charging Station 17",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 65389,
+        "price_with_currency": "₹ 13.21",
+        "price": 13.21,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 29527,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Kalkaji EV Charging Station 18",
+        "last_used_on": "09/03/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "New Delhi",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 3.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 13553,
+      "station_name": "Kalkaji EV Charging Station",
+      "latitude": 28.550955,
+      "longitude": 77.257324,
+      "address": "Kalkaji Metro Station Parking, New Delhi, Delhi, 110019, India",
+      "area": "Kalkaji Metro Station Parking",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.550955,77.257324",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15992,
+      "station_name": "Kalkaji DC Charging Station ",
+      "latitude": 28.550955,
+      "longitude": 77.257324,
+      "address": "Kalkaji Metro Station Parking, New Delhi, Delhi, 110019, India",
+      "area": "Kalkaji Metro Station Parking",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.550955,77.257324",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 1891,
+      "station_name": "EESL Statiq DTC Nehru Place Charging Station",
+      "latitude": 28.548472,
+      "longitude": 77.255861,
+      "address": "Nehru Place, New Delhi, Delhi, 110019, India",
+      "area": "Nehru Place",
+      "avg_review_rating": 4.78,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.548472,77.255861",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 14383,
+      "station_name": "Statiq BSES Nehru Place",
+      "latitude": 28.549221,
+      "longitude": 77.254493,
+      "address": "BSES Bhawan, Near Kalkaji Mandir Metro Station, Nehru Place, Delhi, Delhi, 110019, India",
+      "area": "BSES Bhawan, Near Kalkaji Mandir Metro Station, Nehru Place",
+      "avg_review_rating": 4.76,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.549221,77.254493",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 11739,
+      "station_name": "Kalkaji Mandir",
+      "latitude": 28.5506,
+      "longitude": 77.2637,
+      "address": "46 Okhla Phase III Okhla Industrial Estate, New Delhi, Delhi, 110020, India",
+      "area": "46 Okhla Phase III Okhla Industrial Estate",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.5506,77.2637",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargerKarodefault.png"
+    }
+  ],
+  "ac_count": 18,
+  "dc_count": 0,
+  "ac_prices": [
+    13.21,
+    13.21,
+    13.21,
+    13.21,
+    13.21,
+    13.21,
+    13.21,
+    13.21,
+    13.21,
+    13.21,
+    13.21,
+    13.21,
+    13.21,
+    13.21,
+    13.21,
+    13.21,
+    13.21,
+    13.21
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:13:22.941907+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

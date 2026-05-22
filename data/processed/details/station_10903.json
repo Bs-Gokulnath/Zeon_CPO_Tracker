@@ -1,0 +1,1260 @@
+{
+  "station_id": 10903,
+  "station_detail": {
+    "station_id": 10903,
+    "station_name": "Statiq Mahipalpur Hub Station",
+    "latitude": 28.539578,
+    "longitude": 77.130509,
+    "address": "Khasra no -834, K-II Block , Mahipalpur Extension , South West Delhi, Delhi, Delhi, 110037, India",
+    "area": "Khasra no -834, K-II Block , Mahipalpur Extension , South West Delhi",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.539578,77.130509",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8762 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 6,
+        "connector_name": "GBT",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png"
+      },
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 4.83,
+    "no_of_reviews": 9799,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": "Near Mata Chowk, Mahipalpur",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 60931,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22345,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "Mahipalpur Hub DC Charger 1",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 60932,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22347,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 22348,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Mahipalpur Hub DC Charger 2",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 60940,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22363,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "Mahipalpur Hub DC Charger 13",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 60941,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22365,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 22366,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Mahipalpur Hub DC Charger 14",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 60942,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22367,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Finished",
+            "connector_type_id": 1,
+            "connector_status": "finishing"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 22368,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Mahipalpur Hub DC Charger 15",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 60943,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22369,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 22370,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Mahipalpur Hub DC Charger 16",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 60944,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22371,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 22372,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Mahipalpur Hub DC Charger 17",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 60945,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22373,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Finished",
+            "connector_type_id": 1,
+            "connector_status": "finishing"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "Mahipalpur Hub DC Charger 23",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 60946,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22375,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Finished",
+            "connector_type_id": 1,
+            "connector_status": "finishing"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "Mahipalpur Hub DC Charger 25",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 60947,
+        "price_with_currency": "₹ 23.01",
+        "price": 23.01,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22377,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 6,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 22378,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 6,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "Mahipalpur Hub GBT Charger 26",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 60948,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22379,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 6,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 22380,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 6,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "Mahipalpur Hub GBT Charger 27",
+        "last_used_on": "18/01/2026"
+      },
+      {
+        "charger_id": 60949,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22381,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 6,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 22382,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 6,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "Mahipalpur Hub GBT Charger 28",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61173,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22730,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 25.0,
+        "charger_name": "Mahipalpur Hub DC Charger 30 A",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61174,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22731,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 25.0,
+        "charger_name": "Mahipalpur Hub DC Charger 30 B",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61175,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22732,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 25.0,
+        "charger_name": "Mahipalpur Hub DC Charger 31 A",
+        "last_used_on": "20/05/2026"
+      },
+      {
+        "charger_id": 61176,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22733,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 25.0,
+        "charger_name": "Mahipalpur Hub DC Charger 31 B",
+        "last_used_on": "20/05/2026"
+      },
+      {
+        "charger_id": 61177,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22734,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 25.0,
+        "charger_name": "Mahipalpur Hub DC Charger 5 A",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61178,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22735,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 25.0,
+        "charger_name": "Mahipalpur Hub DC Charger 5 B",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61179,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22736,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 25.0,
+        "charger_name": "Mahipalpur Hub DC Charger 9 A",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61180,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22737,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 25.0,
+        "charger_name": "Mahipalpur Hub DC Charger 9 B",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61181,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22738,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Finished",
+            "connector_type_id": 1,
+            "connector_status": "finishing"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 25.0,
+        "charger_name": "Mahipalpur Hub DC Charger 10 A",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61182,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22739,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 25.0,
+        "charger_name": "Mahipalpur Hub DC Charger 10 B",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61183,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22740,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 25.0,
+        "charger_name": "Mahipalpur Hub DC Charger 18 A",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61184,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22741,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 25.0,
+        "charger_name": "Mahipalpur Hub DC Charger 18 B",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61185,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22742,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 25.0,
+        "charger_name": "Mahipalpur Hub DC Charger  20 A",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61186,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22743,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 25.0,
+        "charger_name": "Mahipalpur Hub DC Charger 20 B",
+        "last_used_on": "20/05/2026"
+      },
+      {
+        "charger_id": 61187,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22744,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 25.0,
+        "charger_name": "Mahipalpur Hub DC Charger 21 A",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61188,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22745,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 25.0,
+        "charger_name": "Mahipalpur Hub DC Charger 21 B",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61189,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22746,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "preparing"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 25.0,
+        "charger_name": "Mahipalpur Hub DC Charger  22 A",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61190,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22747,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 25.0,
+        "charger_name": "Mahipalpur Hub DC Charger 22 B",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61254,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22860,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 25.0,
+        "charger_name": "Mahipalpur Hub DC Charger 11 A",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61255,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22861,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Finished",
+            "connector_type_id": 1,
+            "connector_status": "finishing"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 25.0,
+        "charger_name": "Mahipalpur Hub DC Charger 11 B",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61662,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23480,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 23481,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Mahipalpur Hub DC Charger 8 A",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 63752,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26792,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 26793,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Mahipalpur Hub DC Charger 6",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 68062,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 32952,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 32953,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 240.0,
+        "charger_name": "Mahipalpur Hub DC Charger 12",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61191,
+        "price_with_currency": "₹ 14.49",
+        "price": 14.49,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22748,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "Mahipalpur AC Charger Bay 3a",
+        "last_used_on": "20/05/2026"
+      },
+      {
+        "charger_id": 61193,
+        "price_with_currency": "₹ 14.49",
+        "price": 14.49,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22751,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "Mahipalpur AC Charger Bay 3b",
+        "last_used_on": "20/05/2026"
+      },
+      {
+        "charger_id": 61194,
+        "price_with_currency": "₹ 15.95",
+        "price": 15.95,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22752,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "Mahipalpur AC Charger Bay 3c",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 67403,
+        "price_with_currency": "₹ 14.99",
+        "price": 14.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 31859,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 3,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 11.0,
+        "charger_name": "Mahipalpur Hub AC Charger 2",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 68012,
+        "price_with_currency": "₹ 14.99",
+        "price": 14.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 32868,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 11.0,
+        "charger_name": "Mahipalpur Hub AC Charger 1",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 2,
+        "2": 0,
+        "3": 1,
+        "4": 7,
+        "5": 90
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Delhi",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 240.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10903,
+      "station_name": "Statiq Mahipalpur Hub Station",
+      "latitude": 28.539578,
+      "longitude": 77.130509,
+      "address": "Khasra no -834, K-II Block , Mahipalpur Extension , South West Delhi, Delhi, Delhi, 110037, India",
+      "area": "Khasra no -834, K-II Block , Mahipalpur Extension , South West Delhi",
+      "avg_review_rating": 4.83,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.539578,77.130509",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 12538,
+      "station_name": "ID(ebtr37) Anand SS",
+      "latitude": 28.544596,
+      "longitude": 77.121471,
+      "address": "Mahipalpur - Rangpuri Road, New Delhi, Delhi, 110037, India",
+      "area": "Mahipalpur - Rangpuri Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.544596,77.121471",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 1618,
+      "station_name": "Sunfuel - Radisson Blu Plaza Delhi Airport",
+      "latitude": 28.5438,
+      "longitude": 77.120201,
+      "address": "Nh 8, Near Mahipalpur Extension,, New Delhi, Delhi, 110037, India",
+      "area": "Nh 8, Near Mahipalpur Extension,",
+      "avg_review_rating": 4.1,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.5438,77.120201",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 1821,
+      "station_name": "GMR Green CCS Charging Station",
+      "latitude": 28.548837,
+      "longitude": 77.121803,
+      "address": "Charger 6-GMR Aerocity Parking area, New Delhi, Delhi, 110037, India",
+      "area": "Charger 6-GMR Aerocity Parking area",
+      "avg_review_rating": 4.78,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.548837,77.121803",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+default.png"
+    },
+    {
+      "id": 1856,
+      "station_name": "GMR Green Worldmark 2 Charging Station",
+      "latitude": 28.551001,
+      "longitude": 77.122002,
+      "address": "GMR Aerocity Parking area, near Junction 07, New Delhi, Delhi, 110037, India",
+      "area": "GMR Aerocity Parking area, near Junction 07",
+      "avg_review_rating": 4.77,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.551001,77.122002",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+default.png"
+    }
+  ],
+  "ac_count": 5,
+  "dc_count": 35,
+  "ac_prices": [
+    14.49,
+    14.49,
+    15.95,
+    14.99,
+    14.99
+  ],
+  "dc_prices": [
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    23.01,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99,
+    21.99
+  ],
+  "scraped_at": "2026-05-21T08:09:25.481650+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

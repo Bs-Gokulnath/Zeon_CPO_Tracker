@@ -1,0 +1,204 @@
+{
+  "station_id": 9253,
+  "station_detail": {
+    "station_id": 9253,
+    "station_name": "M/s. A.A.PETROLEUM",
+    "latitude": 23.597979,
+    "longitude": 72.409106,
+    "address": "MEHSANA, Mehsana, Gujarat, 384001, India",
+    "area": "MEHSANA",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.597979,72.409106",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8228 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 30,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 58093,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 17874,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 17875,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "M/s. A.A.PETROLEUM",
+        "last_used_on": "10/04/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Mehsana",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9253,
+      "station_name": "M/s. A.A.PETROLEUM",
+      "latitude": 23.597979,
+      "longitude": 72.409106,
+      "address": "MEHSANA, Mehsana, Gujarat, 384001, India",
+      "area": "MEHSANA",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.597979,72.409106",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 8931,
+      "station_name": "M/s. JAI MADI PETROLEUM",
+      "latitude": 23.580421,
+      "longitude": 72.369557,
+      "address": "MEHSANA, Mehsana, Gujarat, 384002, India",
+      "area": "MEHSANA",
+      "avg_review_rating": 4.63,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.580421,72.369557",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 4729,
+      "station_name": "Statiq Shrijee Motors Mahindra Showroom Station",
+      "latitude": 23.571699,
+      "longitude": 72.369797,
+      "address": "R S NO 170, Plot No 320, Nr Janpath Hotel Village Heduva, Hanumat State Highway, Mahesana,, Mahemdavad, Gujarat, 384002, India",
+      "area": "R S NO 170, Plot No 320, Nr Janpath Hotel Village Heduva, Hanumat State Highway, Mahesana,",
+      "avg_review_rating": 4.41,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.571699,72.369797",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 12640,
+      "station_name": "ID(rww2tm)-Sun Petroleum Service",
+      "latitude": 23.568109,
+      "longitude": 72.371882,
+      "address": "Palavasna, Mehsana, Gujarat, 384003, India",
+      "area": "Palavasna",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.568109,72.371882",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 12718,
+      "station_name": "ID(3p3syn) Vande petroleum",
+      "latitude": 23.619557,
+      "longitude": 72.347114,
+      "address": "Radhanpur Road, Mehsana, Gujarat, 384005, India",
+      "area": "Radhanpur Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.619557,72.347114",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:05:55.693508+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,204 @@
+{
+  "station_id": 10823,
+  "station_detail": {
+    "station_id": 10823,
+    "station_name": "RAKESH FILLING STATION",
+    "latitude": 30.432975,
+    "longitude": 77.756036,
+    "address": "DEHRADUN, Dehradun, Uttarakhand, 248142, India",
+    "area": "DEHRADUN",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.432975,77.756036",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8845 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.56,
+    "no_of_reviews": 39,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 60751,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22085,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 22086,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "RAKESH FILLING STATION",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 3,
+        "2": 3,
+        "3": 5,
+        "4": 15,
+        "5": 74
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Dehradun",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10823,
+      "station_name": "RAKESH FILLING STATION",
+      "latitude": 30.432975,
+      "longitude": 77.756036,
+      "address": "DEHRADUN, Dehradun, Uttarakhand, 248142, India",
+      "area": "DEHRADUN",
+      "avg_review_rating": 4.56,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.432975,77.756036",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 12098,
+      "station_name": "HP | Pataliyon | Hotel Grand Riviera",
+      "latitude": 30.43729,
+      "longitude": 77.577653,
+      "address": "CHPH+W38, Pataliyon, Himachal Pradesh, 173021, India",
+      "area": "CHPH+W38",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.43729,77.577653",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 9326,
+      "station_name": "UK | Dehradun | LP Vilas",
+      "latitude": 30.344876,
+      "longitude": 77.946807,
+      "address": "Chakrata Rd, Dehradun, Uttarakhand, 248007, India",
+      "area": "Chakrata Rd",
+      "avg_review_rating": 4.96,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.344876,77.946807",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8320,
+      "station_name": "M/s. SHREE KRISHNA FILLING STATION",
+      "latitude": 30.339312,
+      "longitude": 77.956293,
+      "address": "Dehradun, Dehradun, Uttarakhand, 248198, India",
+      "area": "Dehradun",
+      "avg_review_rating": 4.83,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.339312,77.956293",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+charging.png"
+    },
+    {
+      "id": 13286,
+      "station_name": "id(4xdb71)Jai mata filling station",
+      "latitude": 30.304666,
+      "longitude": 77.552176,
+      "address": "Raiyanwala, Raiyanwala, Haryana, 135106, India",
+      "area": "Raiyanwala",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.304666,77.552176",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:09:17.448554+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

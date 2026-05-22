@@ -1,0 +1,229 @@
+{
+  "station_id": 11244,
+  "station_detail": {
+    "station_id": 11244,
+    "station_name": "Shell Recharge Kholke Panvel",
+    "latitude": 18.96471,
+    "longitude": 73.14118,
+    "address": "NH 4, Kholke Panvel Road, Navi Mumbai, Maharashtra, 410221, India",
+    "area": "NH 4, Kholke Panvel Road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.96471,73.14118",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8246 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.72,
+    "no_of_reviews": 152,
+    "station_image_url": null,
+    "is_connected": true,
+    "station_banner": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/banners/updatedbannerimage.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 13214,
+        "id": 1
+      },
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 13215,
+        "id": 2
+      },
+      {
+        "type": "Store",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/store.png",
+        "map_id": 13216,
+        "id": 3
+      },
+      {
+        "type": "Car Care",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/car+care+(1).png",
+        "map_id": 13217,
+        "id": 4
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 61633,
+        "price_with_currency": "₹ 24.0",
+        "price": 24.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23427,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 23428,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "SR-KOL-Charger 1",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 3,
+        "2": 0,
+        "3": 1,
+        "4": 14,
+        "5": 82
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Navi Mumbai",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11244,
+      "station_name": "Shell Recharge Kholke Panvel",
+      "latitude": 18.96471,
+      "longitude": 73.14118,
+      "address": "NH 4, Kholke Panvel Road, Navi Mumbai, Maharashtra, 410221, India",
+      "area": "NH 4, Kholke Panvel Road",
+      "avg_review_rating": 4.72,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.96471,73.14118",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
+    },
+    {
+      "id": 14516,
+      "station_name": "2000105 - VAIBAHV AUTO",
+      "latitude": 18.966234,
+      "longitude": 73.138884,
+      "address": "RO AT KHOLKHE, PNAVEL (NH 4) SHEDUNG, PANVEL,, Panvel, Maharashtra, 410221, India",
+      "area": "RO AT KHOLKHE, PNAVEL (NH 4) SHEDUNG, PANVEL,",
+      "avg_review_rating": 4.59,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.966234,73.138884",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 2855,
+      "station_name": "Statiq AdWall Indiabulls Greens Daffodil Station",
+      "latitude": 18.953056,
+      "longitude": 73.149445,
+      "address": "Flat No 106, Building No 21, Navi Mumbai, Maharashtra, 410206, India",
+      "area": "Flat No 106, Building No 21",
+      "avg_review_rating": 4.32,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.953056,73.149445",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 7335,
+      "station_name": "2000122-CENTURY FUEL STATION",
+      "latitude": 18.949593,
+      "longitude": 73.131044,
+      "address": "SHIRDHONE, PANVEL, Achalpur, Maharashtra, 410206, India",
+      "area": "SHIRDHONE, PANVEL",
+      "avg_review_rating": 4.55,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.949593,73.131044",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 14439,
+      "station_name": "KR 4A Level-2",
+      "latitude": 18.977638,
+      "longitude": 73.11394,
+      "address": "Konkan Division, Navi Mumbai, Maharashtra, 410206, India",
+      "area": "Konkan Division",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.977638,73.11394",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    24.0
+  ],
+  "scraped_at": "2026-05-21T08:10:08.489657+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "station_image_url",
+    "landmark"
+  ],
+  "coverage_pct": 90.9
+}

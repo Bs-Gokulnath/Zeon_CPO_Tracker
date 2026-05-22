@@ -1,0 +1,559 @@
+{
+  "station_id": 7736,
+  "station_detail": {
+    "station_id": 7736,
+    "station_name": "Pallikaranai Hub - 1 - Chennai",
+    "latitude": 12.950667,
+    "longitude": 80.20828,
+    "address": "27A, Chennai, Tamil Nadu, 600100, India",
+    "area": "27A",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.950667,80.20828",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8956 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 4.58,
+    "no_of_reviews": 1876,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Glida+Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 55679,
+        "price_with_currency": "₹ 18.99",
+        "price": 18.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 14113,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 14114,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "MAS0006",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 55684,
+        "price_with_currency": "₹ 18.99",
+        "price": 18.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 14119,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 14120,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "MAS0005",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 55685,
+        "price_with_currency": "₹ 18.99",
+        "price": 18.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 14121,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 14122,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "MAS0007",
+        "last_used_on": "02/09/2025"
+      },
+      {
+        "charger_id": 55686,
+        "price_with_currency": "₹ 18.99",
+        "price": 18.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 14123,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 14124,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "MAS0008",
+        "last_used_on": "02/09/2025"
+      },
+      {
+        "charger_id": 55687,
+        "price_with_currency": "₹ 18.99",
+        "price": 18.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 14125,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 14126,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "MAS0009",
+        "last_used_on": "01/09/2025"
+      },
+      {
+        "charger_id": 61690,
+        "price_with_currency": "₹ 18.99",
+        "price": 18.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23536,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 23537,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "FCD Pallikaranai Hub - 1 - Chennai 10",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61691,
+        "price_with_currency": "₹ 18.99",
+        "price": 18.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23538,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 23539,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "FCD Pallikaranai Hub - 1 - Chennai 11",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61692,
+        "price_with_currency": "₹ 18.99",
+        "price": 18.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23540,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 23541,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "FCD Pallikaranai Hub - 1 - Chennai 12",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 55680,
+        "price_with_currency": "₹ 18.99",
+        "price": 18.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 14115,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 3,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "MAS0010",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 55681,
+        "price_with_currency": "₹ 18.99",
+        "price": 18.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 14116,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "preparing"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "MAS0011",
+        "last_used_on": "20/05/2026"
+      },
+      {
+        "charger_id": 55682,
+        "price_with_currency": "₹ 18.99",
+        "price": 18.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 14117,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "MAS0012",
+        "last_used_on": "20/05/2026"
+      },
+      {
+        "charger_id": 55683,
+        "price_with_currency": "₹ 18.99",
+        "price": 18.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 14118,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "preparing"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "MAS0013",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 4,
+        "2": 1,
+        "3": 1,
+        "4": 23,
+        "5": 72
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Chennai",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7736,
+      "station_name": "Pallikaranai Hub - 1 - Chennai",
+      "latitude": 12.950667,
+      "longitude": 80.20828,
+      "address": "27A, Chennai, Tamil Nadu, 600100, India",
+      "area": "27A",
+      "avg_review_rating": 4.58,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.950667,80.20828",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    },
+    {
+      "id": 8203,
+      "station_name": "Pallikaranai Hub - 2 - Chennai",
+      "latitude": 12.95042,
+      "longitude": 80.208232,
+      "address": "52A & 52B, Chennai, Tamil Nadu, 601302, India",
+      "area": "52A & 52B",
+      "avg_review_rating": 4.54,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.95042,80.208232",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    },
+    {
+      "id": 11223,
+      "station_name": "Shell Recharge SCC ( Shell Employees Only)",
+      "latitude": 12.948205,
+      "longitude": 80.20772,
+      "address": "200 Feet Radial Road, Chennai, Tamil Nadu, 600100, India",
+      "area": "200 Feet Radial Road",
+      "avg_review_rating": 2.88,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.948205,80.20772",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
+    },
+    {
+      "id": 13843,
+      "station_name": "Ramaniyam Ocean Dew Car EV Charging Station-1 ",
+      "latitude": 12.94814,
+      "longitude": 80.205054,
+      "address": "Rose Avenue, Chennai, Tamil Nadu, 600100, India",
+      "area": "Rose Avenue",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.94814,80.205054",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    },
+    {
+      "id": 2026,
+      "station_name": "Statiq Jubilant  Motors Station",
+      "latitude": 12.970239,
+      "longitude": 80.218391,
+      "address": "No. 398 & 398A, Tambaram Main Road, Chennai, Tamil Nadu, 600042, India",
+      "area": "No. 398 & 398A, Tambaram Main Road",
+      "avg_review_rating": 4.77,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.970239,80.218391",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    }
+  ],
+  "ac_count": 4,
+  "dc_count": 8,
+  "ac_prices": [
+    18.99,
+    18.99,
+    18.99,
+    18.99
+  ],
+  "dc_prices": [
+    18.99,
+    18.99,
+    18.99,
+    18.99,
+    18.99,
+    18.99,
+    18.99,
+    18.99
+  ],
+  "scraped_at": "2026-05-21T08:03:34.449832+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

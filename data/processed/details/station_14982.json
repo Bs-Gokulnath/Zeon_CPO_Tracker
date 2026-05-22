@@ -1,0 +1,203 @@
+{
+  "station_id": 14982,
+  "station_detail": {
+    "station_id": 14982,
+    "station_name": "TAJ  MAHAL METRO GATE PURANI MANDI",
+    "latitude": 27.1668,
+    "longitude": 78.0357,
+    "address": "Khairati Tola Masjid, Agra, Uttar Pradesh, 282001, India",
+    "area": "Khairati Tola Masjid",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.1668,78.0357",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8835 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      },
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargerKaroSBBanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 67979,
+        "price_with_currency": "₹ 14.5",
+        "price": 14.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 32818,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "CJK TAJ  MAHAL METRO GATE PURANI MANDI 2",
+        "last_used_on": "18/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Agra",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14982,
+      "station_name": "TAJ  MAHAL METRO GATE PURANI MANDI",
+      "latitude": 27.1668,
+      "longitude": 78.0357,
+      "address": "Khairati Tola Masjid, Agra, Uttar Pradesh, 282001, India",
+      "area": "Khairati Tola Masjid",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.1668,78.0357",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargerKarodefault.png"
+    },
+    {
+      "id": 14983,
+      "station_name": "TAJ MAHAL GATE PURANI MANDI",
+      "latitude": 27.1677,
+      "longitude": 78.0362,
+      "address": "Purani Mandi Chauraha, Agra, Uttar Pradesh, 282001, India",
+      "area": "Purani Mandi Chauraha",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.1677,78.0362",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargerKarodefault.png"
+    },
+    {
+      "id": 6577,
+      "station_name": "Statiq ITC Mughal Station",
+      "latitude": 27.16143,
+      "longitude": 78.04541,
+      "address": "ITC Mughal, Tajganj Ground Floor Fatehabad Road 4 kms and 15 minutes drive from Taj Mahal, , Agra, Uttar Pradesh, 282001, India",
+      "area": "ITC Mughal, Tajganj Ground Floor Fatehabad Road 4 kms and 15 minutes drive from Taj Mahal, ",
+      "avg_review_rating": 4.6,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.16143,78.04541",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 8539,
+      "station_name": "UP | Agra | Courtyard By Marriott",
+      "latitude": 27.156567,
+      "longitude": 78.058931,
+      "address": "Courtyard by Marriott Agra, Agra, Uttar Pradesh, 282001, India",
+      "area": "Courtyard by Marriott Agra",
+      "avg_review_rating": 4.81,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.156567,78.058931",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 2083,
+      "station_name": "Statiq Padam High Street Station",
+      "latitude": 27.148661,
+      "longitude": 78.053047,
+      "address": "Hamsabad, Agra, Uttar Pradesh, 282001, India",
+      "area": "Hamsabad",
+      "avg_review_rating": 4.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.148661,78.053047",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.5
+  ],
+  "scraped_at": "2026-05-21T08:14:54.335430+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

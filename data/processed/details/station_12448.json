@@ -1,0 +1,209 @@
+{
+  "station_id": 12448,
+  "station_detail": {
+    "station_id": 12448,
+    "station_name": "2020491-GANESH FUEL POINT",
+    "latitude": 29.834183,
+    "longitude": 76.939647,
+    "address": "Grand Trunk Road, Power house Colony, Nilokheri, Karnal, Haryana, 132117, India",
+    "area": "Grand Trunk Road, Power house Colony, Nilokheri",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.834183,76.939647",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8760 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.54,
+    "no_of_reviews": 103,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 64076,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 27291,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 27292,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "2020491-GANESH FUEL POINT",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 6,
+        "2": 2,
+        "3": 4,
+        "4": 9,
+        "5": 80
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Karnal",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12448,
+      "station_name": "2020491-GANESH FUEL POINT",
+      "latitude": 29.834183,
+      "longitude": 76.939647,
+      "address": "Grand Trunk Road, Power house Colony, Nilokheri, Karnal, Haryana, 132117, India",
+      "area": "Grand Trunk Road, Power house Colony, Nilokheri",
+      "avg_review_rating": 4.54,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.834183,76.939647",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 15914,
+      "station_name": "Ecoplug Amrit Dhaba",
+      "latitude": 29.85447,
+      "longitude": 76.93087,
+      "address": "NH - 44, Karnal, Haryana, 132117, India",
+      "area": "NH - 44",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.85447,76.93087",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 13123,
+      "station_name": "ID(77c33m) Cheema Filling station",
+      "latitude": 29.896877,
+      "longitude": 76.916301,
+      "address": "Samana Bahu, Samana Bahu, Haryana, 132117, India",
+      "area": "Samana Bahu",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.896877,76.916301",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 11974,
+      "station_name": "KALA AUTO",
+      "latitude": 29.762039,
+      "longitude": 76.962233,
+      "address": "Karnal, Karnal, Haryana, 132001, India",
+      "area": "Karnal",
+      "avg_review_rating": 4.2,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.762039,76.962233",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 14792,
+      "station_name": "Mannat Sitara (Charge_iN_by Mahindra)",
+      "latitude": 29.91352,
+      "longitude": 76.910636,
+      "address": "151th Mile Stone N.H 1, Karnal, Haryana, 132117, India",
+      "area": "151th Mile Stone N.H 1",
+      "avg_review_rating": 4.76,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.91352,76.910636",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mahindra_Branding_logo.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:12:02.800874+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

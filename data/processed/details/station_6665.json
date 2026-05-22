@@ -1,0 +1,198 @@
+{
+  "station_id": 6665,
+  "station_detail": {
+    "station_id": 6665,
+    "station_name": "2013590-MAHAKALI PETROLEUM ",
+    "latitude": 23.150749,
+    "longitude": 72.605789,
+    "address": "\"Bharat Petroleum Dealer,  PETROL PUMP  Koba Road At & Posr - Ambapur, Taluka Gandhinagar Dist Gandhinagar Pincode 382 421\", Gandhinagar, Gujarat, 382421, India",
+    "area": "\"Bharat Petroleum Dealer,  PETROL PUMP  Koba Road At & Posr - Ambapur, Taluka Gandhinagar Dist Gandhinagar Pincode 382 421\"",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.150749,72.605789",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8242 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54186,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 12292,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 12293,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "2013590-MAHAKALI PETROLEUM",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Gandhinagar",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 6665,
+      "station_name": "2013590-MAHAKALI PETROLEUM ",
+      "latitude": 23.150749,
+      "longitude": 72.605789,
+      "address": "\"Bharat Petroleum Dealer,  PETROL PUMP  Koba Road At & Posr - Ambapur, Taluka Gandhinagar Dist Gandhinagar Pincode 382 421\", Gandhinagar, Gujarat, 382421, India",
+      "area": "\"Bharat Petroleum Dealer,  PETROL PUMP  Koba Road At & Posr - Ambapur, Taluka Gandhinagar Dist Gandhinagar Pincode 382 421\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.150749,72.605789",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8948,
+      "station_name": "GJ | Ahemdabad | VTex Hyundai",
+      "latitude": 23.120453,
+      "longitude": 72.612679,
+      "address": "FP-87/2, Ahmedabad, Gujarat, 382424, India",
+      "area": "FP-87/2",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.120453,72.612679",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 11227,
+      "station_name": "Shell Recharge Chandkheda",
+      "latitude": 23.125496,
+      "longitude": 72.582982,
+      "address": " Ahmedabad - Patan Highway Rd, Ahmedabad, Gujarat, 382424, India",
+      "area": " Ahmedabad - Patan Highway Rd",
+      "avg_review_rating": 4.96,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.125496,72.582982",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
+    },
+    {
+      "id": 12396,
+      "station_name": "GJ | Gandhinagar | Punjab Hyundai (W3272)",
+      "latitude": 23.184866,
+      "longitude": 72.622352,
+      "address": "Plot No. 30 & 31, Gandhinagar, Gujarat, 382421, India",
+      "area": "Plot No. 30 & 31",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.184866,72.622352",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15220,
+      "station_name": "Aristo Anandam 2-4W-1",
+      "latitude": 23.121582,
+      "longitude": 72.556745,
+      "address": "Godrej Garden City, Ahmedabad, Gujarat, 382470, India",
+      "area": "Godrej Garden City",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.121582,72.556745",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:01:34.953101+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

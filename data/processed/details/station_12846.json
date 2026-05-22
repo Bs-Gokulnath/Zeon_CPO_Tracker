@@ -1,0 +1,209 @@
+{
+  "station_id": 12846,
+  "station_detail": {
+    "station_id": 12846,
+    "station_name": "ID(8s3owf) Chhagan Mitha",
+    "latitude": 18.971983,
+    "longitude": 72.822453,
+    "address": "Meghraj Sethi Marg, Mumbai, Maharashtra, 400008, India",
+    "area": "Meghraj Sethi Marg",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.971983,72.822453",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8213 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.0,
+    "no_of_reviews": 1,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/networks-logo/HP+E+charge-Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 64491,
+        "price_with_currency": "₹ 15.05",
+        "price": 15.05,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 28008,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 28012,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "HPL ID(8s3owf) Chhagan Mitha 1",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 100,
+        "5": 0
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Mumbai",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12846,
+      "station_name": "ID(8s3owf) Chhagan Mitha",
+      "latitude": 18.971983,
+      "longitude": 72.822453,
+      "address": "Meghraj Sethi Marg, Mumbai, Maharashtra, 400008, India",
+      "area": "Meghraj Sethi Marg",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.971983,72.822453",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 15902,
+      "station_name": "GLIDA Mumbai Central, Mumbai",
+      "latitude": 18.971044,
+      "longitude": 72.820026,
+      "address": "Mumbai Central Railway Station. Mumbai Central, Mumbai, Maharashtra, 400008, India",
+      "area": "Mumbai Central Railway Station. Mumbai Central",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.971044,72.820026",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    },
+    {
+      "id": 4854,
+      "station_name": "GLIDA Audi Mumbai",
+      "latitude": 18.968687,
+      "longitude": 72.837384,
+      "address": "Das Compound 34, Mumbai, Maharashtra, 400010, India",
+      "area": "Das Compound 34",
+      "avg_review_rating": 4.87,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.968687,72.837384",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/unavailable+select.png"
+    },
+    {
+      "id": 10182,
+      "station_name": "MH | Mumbai | NSCI - Worli",
+      "latitude": 18.986431,
+      "longitude": 72.814853,
+      "address": "NSCI, Mumbai, Maharashtra, 400018, India",
+      "area": "NSCI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.986431,72.814853",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 12775,
+      "station_name": "ID(gnvpfe) BMC APPLO MILL COMPOUND",
+      "latitude": 18.987457,
+      "longitude": 72.829569,
+      "address": "Shastri Nagar, Mumbai, Maharashtra, 400013, India",
+      "area": "Shastri Nagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.987457,72.829569",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    15.05
+  ],
+  "scraped_at": "2026-05-21T08:13:03.053565+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

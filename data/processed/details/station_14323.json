@@ -1,0 +1,204 @@
+{
+  "station_id": 14323,
+  "station_detail": {
+    "station_id": 14323,
+    "station_name": "2007313-MASTAN SERVICE STATION",
+    "latitude": 29.072243,
+    "longitude": 79.516221,
+    "address": "BHARAT PETROLEUM DEALERS,NAINITAL BAREILLY ROAD,LALKUAN, Nainital, Uttarakhand, 262402, India",
+    "area": "BHARAT PETROLEUM DEALERS,NAINITAL BAREILLY ROAD,LALKUAN",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.072243,79.516221",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9000 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 4,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 66215,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 30451,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 30452,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "2007313-MASTAN SERVICE STATION",
+        "last_used_on": "03/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Nainital",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14323,
+      "station_name": "2007313-MASTAN SERVICE STATION",
+      "latitude": 29.072243,
+      "longitude": 79.516221,
+      "address": "BHARAT PETROLEUM DEALERS,NAINITAL BAREILLY ROAD,LALKUAN, Nainital, Uttarakhand, 262402, India",
+      "area": "BHARAT PETROLEUM DEALERS,NAINITAL BAREILLY ROAD,LALKUAN",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.072243,79.516221",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10811,
+      "station_name": "SHAHID FILLING STATION",
+      "latitude": 29.160741,
+      "longitude": 79.522616,
+      "address": "NAINITAL, Nainital, Uttarakhand, 263139, India",
+      "area": "NAINITAL",
+      "avg_review_rating": 4.63,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.160741,79.522616",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7274,
+      "station_name": "2007405-SHREE BIHARIJI FILLING STATION",
+      "latitude": 29.176358,
+      "longitude": 79.496374,
+      "address": "HALDWANI, Haldwani, Uttarakhand, 263139, India",
+      "area": "HALDWANI",
+      "avg_review_rating": 4.79,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.176358,79.496374",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 7269,
+      "station_name": "2007307-JANTA SERVICE STATION",
+      "latitude": 29.185207,
+      "longitude": 79.520727,
+      "address": "HALDWANI, Haldwani, Uttarakhand, 263139, India",
+      "area": "HALDWANI",
+      "avg_review_rating": 4.69,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.185207,79.520727",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 10798,
+      "station_name": "BP-RUDRAPUR",
+      "latitude": 28.994697,
+      "longitude": 79.400755,
+      "address": "UDHAM SINGH NAGAR, Udham Singh Nagar, Uttarakhand, 263153, India",
+      "area": "UDHAM SINGH NAGAR",
+      "avg_review_rating": 4.61,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.994697,79.400755",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:13:29.352829+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

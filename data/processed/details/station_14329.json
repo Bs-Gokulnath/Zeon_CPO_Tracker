@@ -1,0 +1,198 @@
+{
+  "station_id": 14329,
+  "station_detail": {
+    "station_id": 14329,
+    "station_name": "60kW CCS2 - SK VOLT HUB",
+    "latitude": 11.268425,
+    "longitude": 75.831012,
+    "address": "88/3, Kozhikode, Kerala, 673017, India",
+    "area": "88/3",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.268425,75.831012",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8472 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Gentari+(5).png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 66221,
+        "price_with_currency": "₹ 20.04",
+        "price": 20.04,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 30459,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 30460,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "BLT 60kW CCS2 - SK VOLT HUB 1",
+        "last_used_on": "03/01/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Kozhikode",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14329,
+      "station_name": "60kW CCS2 - SK VOLT HUB",
+      "latitude": 11.268425,
+      "longitude": 75.831012,
+      "address": "88/3, Kozhikode, Kerala, 673017, India",
+      "area": "88/3",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.268425,75.831012",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    },
+    {
+      "id": 10563,
+      "station_name": "chargeMOD | Kuttoth Enterprises EVCS | Kozhikode",
+      "latitude": 11.2807,
+      "longitude": 75.8247,
+      "address": " Iringadanpalli junction, Kozhikode, Kerala, 673017, India",
+      "area": " Iringadanpalli junction",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.2807,75.8247",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 6369,
+      "station_name": "chargeMOD | RG NALLANNA WAYANAD BYPASS EVOK EVCS",
+      "latitude": 11.280922,
+      "longitude": 75.82424,
+      "address": "Iringadampalli Rd, Calicut, Kerala, 673017, India",
+      "area": "Iringadampalli Rd",
+      "avg_review_rating": 4.93,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.280922,75.82424",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 15764,
+      "station_name": "Kuttoth Enterprises | Prabha EV | 30 kW",
+      "latitude": 11.256515,
+      "longitude": 75.811502,
+      "address": "7R46+HJ8, Kozhikode, Kerala, 673016, India",
+      "area": "7R46+HJ8",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.256515,75.811502",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Prabha_Charging_Pin.png"
+    },
+    {
+      "id": 15110,
+      "station_name": "NISI FUELS",
+      "latitude": 11.29694,
+      "longitude": 75.8455,
+      "address": "M/s. NISSI FUELS, BHARAT PETROLEUM RETAIL OUTLET AT CHELAVOOR, CALICUT, Chelora, Kerala, 673009, India",
+      "area": "M/s. NISSI FUELS, BHARAT PETROLEUM RETAIL OUTLET AT CHELAVOOR, CALICUT",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.29694,75.8455",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    20.04
+  ],
+  "scraped_at": "2026-05-21T08:13:29.320047+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,194 @@
+{
+  "station_id": 7186,
+  "station_detail": {
+    "station_id": 7186,
+    "station_name": "2006019-V.R.CHIDRI",
+    "latitude": 17.76797,
+    "longitude": 77.1045,
+    "address": "HUMNABAD, Bilgi, Karnataka, 585330, India",
+    "area": "HUMNABAD",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.76797,77.1045",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8652 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.67,
+    "no_of_reviews": 3,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 55025,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13371,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "2006019-V.R.CHIDRI",
+        "last_used_on": "14/02/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 33,
+        "5": 67
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bilgi",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7186,
+      "station_name": "2006019-V.R.CHIDRI",
+      "latitude": 17.76797,
+      "longitude": 77.1045,
+      "address": "HUMNABAD, Bilgi, Karnataka, 585330, India",
+      "area": "HUMNABAD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.76797,77.1045",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 2179,
+      "station_name": "Statiq Hotel BHP6 Station",
+      "latitude": 17.771616,
+      "longitude": 77.114227,
+      "address": ":left side of the main entrance gate, NH-65Hotel BHP6 Boarding & Lodging, Bidar, Karnataka, 585330, India",
+      "area": ":left side of the main entrance gate, NH-65Hotel BHP6 Boarding & Lodging",
+      "avg_review_rating": 4.73,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.771616,77.114227",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 7220,
+      "station_name": "2017855-BP-BASAVAKALYAN",
+      "latitude": 17.796113,
+      "longitude": 77.038543,
+      "address": "RAJESHWAR, Bilgi, Karnataka, 585331, India",
+      "area": "RAJESHWAR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.796113,77.038543",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9316,
+      "station_name": "KA | Basavakalyan | Punjabi Dhami Hotel Lodging & Boarding",
+      "latitude": 17.828504,
+      "longitude": 76.900344,
+      "address": "Nh65, Basavakalyan, Karnataka, 585327, India",
+      "area": "Nh65",
+      "avg_review_rating": 3.86,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.828504,76.900344",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/gentari-default.png"
+    },
+    {
+      "id": 11949,
+      "station_name": "KA | Mannaekhelli | Hotel 24",
+      "latitude": 17.738073,
+      "longitude": 77.335175,
+      "address": "Near Mangalgi tollgate, Mannaekhelli, Karnataka, 585227, India",
+      "area": "Near Mangalgi tollgate",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.738073,77.335175",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:02:23.878529+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

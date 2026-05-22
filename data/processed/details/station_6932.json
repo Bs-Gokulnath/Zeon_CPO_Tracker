@@ -1,0 +1,199 @@
+{
+  "station_id": 6932,
+  "station_detail": {
+    "station_id": 6932,
+    "station_name": "2015508-R. K. PETRO POINT",
+    "latitude": 29.98579,
+    "longitude": 76.58653,
+    "address": "PEHOWA, Pehowa, Haryana, 136030, India",
+    "area": "PEHOWA",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.98579,76.58653",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8728 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 3.79,
+    "no_of_reviews": 19,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54670,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 12992,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "2015508-R. K. PETRO POINT",
+        "last_used_on": "08/04/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 21,
+        "2": 5,
+        "3": 0,
+        "4": 21,
+        "5": 53
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Pehowa",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 6932,
+      "station_name": "2015508-R. K. PETRO POINT",
+      "latitude": 29.98579,
+      "longitude": 76.58653,
+      "address": "PEHOWA, Pehowa, Haryana, 136030, India",
+      "area": "PEHOWA",
+      "avg_review_rating": 3.79,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.98579,76.58653",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15281,
+      "station_name": "Ecoplug R K Family Restaurant",
+      "latitude": 30.02824,
+      "longitude": 76.61821,
+      "address": "NH 152, Kurukshetra, Haryana, 136128, India",
+      "area": "NH 152",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.02824,76.61821",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 9086,
+      "station_name": "GURU RAMDAS PETROLEUM",
+      "latitude": 30.06171,
+      "longitude": 76.65555,
+      "address": "KURUKSHETRA, Kurukshetra, Haryana, 136129, India",
+      "area": "KURUKSHETRA",
+      "avg_review_rating": 4.69,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.06171,76.65555",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15923,
+      "station_name": "Hind Automobiles",
+      "latitude": 29.819836,
+      "longitude": 76.419164,
+      "address": "NO 4, Noida, Uttar Pradesh, 203207, India",
+      "area": "NO 4",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.819836,76.419164",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Tecell+default-1.png"
+    },
+    {
+      "id": 9082,
+      "station_name": "Bhagwati Filling Station",
+      "latitude": 30.014144,
+      "longitude": 76.886264,
+      "address": "Kurukshetra, Kurukshetra, Haryana, 136118, India",
+      "area": "Kurukshetra",
+      "avg_review_rating": 4.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.014144,76.886264",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:02:02.801469+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,203 @@
+{
+  "station_id": 14631,
+  "station_detail": {
+    "station_id": 14631,
+    "station_name": "HARIPRIYA FS",
+    "latitude": 24.620635,
+    "longitude": 73.849631,
+    "address": "VILLAGE DABOK,TEHSIL GIRWA ON UDAIPUR AIRPORT ROAD, Udaipur, Rajasthan, 313022, India",
+    "area": "VILLAGE DABOK,TEHSIL GIRWA ON UDAIPUR AIRPORT ROAD",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.620635,73.849631",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8388 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.17,
+    "no_of_reviews": 29,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": "Geetanjali Institute",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 67419,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 31884,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 31885,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "HARIPRIYA FS",
+        "last_used_on": "28/02/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 21,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 79
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Udaipur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14631,
+      "station_name": "HARIPRIYA FS",
+      "latitude": 24.620635,
+      "longitude": 73.849631,
+      "address": "VILLAGE DABOK,TEHSIL GIRWA ON UDAIPUR AIRPORT ROAD, Udaipur, Rajasthan, 313022, India",
+      "area": "VILLAGE DABOK,TEHSIL GIRWA ON UDAIPUR AIRPORT ROAD",
+      "avg_review_rating": 4.17,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.620635,73.849631",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13473,
+      "station_name": "ID(5uz3h1)Tulsi hp filling station",
+      "latitude": 24.625558,
+      "longitude": 73.885182,
+      "address": "Moti Khera, Moti Khera, Rajasthan, 313022, India",
+      "area": "Moti Khera",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.625558,73.885182",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 14748,
+      "station_name": "Statiq Taj Lalit Bagh Station",
+      "latitude": 24.677011,
+      "longitude": 73.873832,
+      "address": "Mavli Road, Dabok, Naharmagra, Udaipur, Rajasthan, 313201, India",
+      "area": "Mavli Road, Dabok, Naharmagra",
+      "avg_review_rating": 4.45,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.677011,73.873832",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 1859,
+      "station_name": "Statiq Valley View Udaipur Station",
+      "latitude": 24.594,
+      "longitude": 73.769508,
+      "address": "Plot no. 10, Udaipur, Rajasthan, 313003, India",
+      "area": "Plot no. 10",
+      "avg_review_rating": 4.35,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.594,73.769508",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
+    },
+    {
+      "id": 7574,
+      "station_name": "2015880-DEBARIGATE FILLING STATION",
+      "latitude": 24.632665,
+      "longitude": 73.754619,
+      "address": "UDAIPUR, Udaipur, Rajasthan, 313011, India",
+      "area": "UDAIPUR",
+      "avg_review_rating": 4.73,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.632665,73.754619",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:14:05.285082+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

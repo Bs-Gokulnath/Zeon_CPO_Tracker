@@ -1,0 +1,209 @@
+{
+  "station_id": 15360,
+  "station_detail": {
+    "station_id": 15360,
+    "station_name": "Radhey Filling Centre",
+    "latitude": 26.705347,
+    "longitude": 81.232845,
+    "address": "RO at Makanpur,Barabanki, Barabanki, Uttar Pradesh, 226501, India",
+    "area": "RO at Makanpur,Barabanki",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.705347,81.232845",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9147 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.58,
+    "no_of_reviews": 24,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68594,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33828,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 33829,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Radhey Filling Centre",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 8,
+        "2": 0,
+        "3": 0,
+        "4": 8,
+        "5": 83
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Barabanki",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15360,
+      "station_name": "Radhey Filling Centre",
+      "latitude": 26.705347,
+      "longitude": 81.232845,
+      "address": "RO at Makanpur,Barabanki, Barabanki, Uttar Pradesh, 226501, India",
+      "area": "RO at Makanpur,Barabanki",
+      "avg_review_rating": 4.58,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.705347,81.232845",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15357,
+      "station_name": "2023505 Balaji Filling Station",
+      "latitude": 26.681525,
+      "longitude": 81.267165,
+      "address": "Village Jagat Khera Hussainabad , Lucknow- Sultanpur Road District- Barabanki, Barabanki, Uttar Pradesh, 225124, India",
+      "area": "Village Jagat Khera Hussainabad , Lucknow- Sultanpur Road District- Barabanki",
+      "avg_review_rating": 4.68,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.681525,81.267165",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 15954,
+      "station_name": "Ecoplug Sainik Dhaba",
+      "latitude": 26.73423,
+      "longitude": 81.17934,
+      "address": "NH-56, Lucknow, Uttar Pradesh, 226501, India",
+      "area": "NH-56",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.73423,81.17934",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 12958,
+      "station_name": "ID(6b75uc) MAA PITAMBARA H.P.",
+      "latitude": 26.655105,
+      "longitude": 81.292086,
+      "address": "Kakri, Kakri, Uttar Pradesh, 225126, India",
+      "area": "Kakri",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.655105,81.292086",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 6747,
+      "station_name": "2007888-Sankalp filling station",
+      "latitude": 26.764437,
+      "longitude": 81.123924,
+      "address": "KHASARA NO. 475 & 476, VILLAGE SADAR PUR KARORA, GOSAIGANJ, Lucknow, Uttar Pradesh, 226501, India",
+      "area": "KHASARA NO. 475 & 476, VILLAGE SADAR PUR KARORA, GOSAIGANJ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.764437,81.123924",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:15:43.279190+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

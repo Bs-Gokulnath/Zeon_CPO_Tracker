@@ -1,0 +1,264 @@
+{
+  "station_id": 6528,
+  "station_detail": {
+    "station_id": 6528,
+    "station_name": "GMVN TRH Barkot Charging Station",
+    "latitude": 30.808346,
+    "longitude": 78.210152,
+    "address": "Barkot, Barkot, Uttarakhand, 249141, India",
+    "area": "Barkot",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.808346,78.210152",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8893 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 4.72,
+    "no_of_reviews": 68,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": "GMVN Guest House",
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 11789,
+        "id": 1
+      },
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 11790,
+        "id": 2
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 54010,
+        "price_with_currency": "₹ 12.99",
+        "price": 12.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 11982,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 11983,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "GMVN TRH Barkot DC Charger",
+        "last_used_on": "19/05/2026"
+      },
+      {
+        "charger_id": 54039,
+        "price_with_currency": "₹ 11.99",
+        "price": 11.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 12031,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.5,
+        "charger_name": "GMVN TRH Barkot AC Charger",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 4,
+        "2": 0,
+        "3": 1,
+        "4": 7,
+        "5": 87
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Barkot",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 6528,
+      "station_name": "GMVN TRH Barkot Charging Station",
+      "latitude": 30.808346,
+      "longitude": 78.210152,
+      "address": "Barkot, Barkot, Uttarakhand, 249141, India",
+      "area": "Barkot",
+      "avg_review_rating": 4.72,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.808346,78.210152",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 6529,
+      "station_name": "GMVN TRH Sayanchatti Charging Station",
+      "latitude": 30.905041,
+      "longitude": 78.360291,
+      "address": "Sayanchatti, Uttarkashi, Uttarakhand, 249141, India",
+      "area": "Sayanchatti",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.905041,78.360291",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 6531,
+      "station_name": "GMVN TRH Uttarkashi Charging Station",
+      "latitude": 30.730263,
+      "longitude": 78.445663,
+      "address": "Uttarkashi, Uttarkashi, Uttarakhand, 249193, India",
+      "area": "Uttarkashi",
+      "avg_review_rating": 4.79,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.730263,78.445663",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 6530,
+      "station_name": "GMVN TRH Phoolchatti Charging Station",
+      "latitude": 30.960169,
+      "longitude": 78.427673,
+      "address": "Phoolchatti, Uttarkashi, Uttarakhand, 249141, India",
+      "area": "Phoolchatti",
+      "avg_review_rating": 4.88,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.960169,78.427673",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 2201,
+      "station_name": "Hotel SN Residency",
+      "latitude": 30.463237,
+      "longitude": 78.061663,
+      "address": "Hotel S N Residency, Mussoorie, Uttarakhand, 248179, India",
+      "area": "Hotel S N Residency",
+      "avg_review_rating": 4.65,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.463237,78.061663",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eFill+-+default.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 1,
+  "ac_prices": [
+    11.99
+  ],
+  "dc_prices": [
+    12.99
+  ],
+  "scraped_at": "2026-05-21T08:01:17.475259+00:00",
+  "parse_success": true,
+  "missing_fields": [],
+  "coverage_pct": 100.0
+}

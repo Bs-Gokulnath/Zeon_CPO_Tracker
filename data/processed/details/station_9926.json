@@ -1,0 +1,375 @@
+{
+  "station_id": 9926,
+  "station_detail": {
+    "station_id": 9926,
+    "station_name": "Sector 26  SCO 31 62  back side",
+    "latitude": 30.7241,
+    "longitude": 76.8075,
+    "address": "Sector 26 Chandigarh SCO 31 62  back side , Chandigarh, Chandigarh, 160019, India",
+    "area": "Sector 26 Chandigarh SCO 31 62  back side ",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.7241,76.8075",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8759 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      },
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargerKaroSBBanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 64458,
+        "price_with_currency": "₹ 8.7",
+        "price": 8.7,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 27955,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 27956,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 132.0,
+        "charger_name": "CJK Sector 26  SCO 31 62  back side 6",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 59051,
+        "price_with_currency": "₹ 8.7",
+        "price": 8.7,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 19541,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 19542,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 3,
+            "connector_id": 19543,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 9.0,
+        "charger_name": "CJK Sector 26  SCO 31 62  back side 2",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 62702,
+        "price_with_currency": "₹ 8.7",
+        "price": 8.7,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 25222,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 25223,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 3,
+            "connector_id": 25224,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 9.0,
+        "charger_name": "CJK Sector 26  SCO 31 62  back side 3",
+        "last_used_on": "30/04/2026"
+      },
+      {
+        "charger_id": 62704,
+        "price_with_currency": "₹ 8.7",
+        "price": 8.7,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 25226,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 25228,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 3,
+            "connector_id": 25229,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 9.0,
+        "charger_name": "CJK Sector 26  SCO 31 62  back side 4",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 69161,
+        "price_with_currency": "₹ 8.7",
+        "price": 8.7,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34674,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "CJK Sector 26  SCO 31 62  back side 7",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Chandigarh",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 132.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9926,
+      "station_name": "Sector 26  SCO 31 62  back side",
+      "latitude": 30.7241,
+      "longitude": 76.8075,
+      "address": "Sector 26 Chandigarh SCO 31 62  back side , Chandigarh, Chandigarh, 160019, India",
+      "area": "Sector 26 Chandigarh SCO 31 62  back side ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.7241,76.8075",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargerKarodefault.png"
+    },
+    {
+      "id": 10513,
+      "station_name": "Sector 26 SCO 1to31",
+      "latitude": 30.7286,
+      "longitude": 76.802,
+      "address": "5, Chandigarh, Chandigarh, 160026, India",
+      "area": "5",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.7286,76.802",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargerKarodefault.png"
+    },
+    {
+      "id": 10401,
+      "station_name": "Sector 26 SCO 1 31",
+      "latitude": 30.7288,
+      "longitude": 76.8022,
+      "address": "5, Chandigarh, Chandigarh, 160019, India",
+      "area": "5",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.7288,76.8022",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargerKarodefault.png"
+    },
+    {
+      "id": 9387,
+      "station_name": "CH | Chandigarh | Charisma Hyundai",
+      "latitude": 30.713349,
+      "longitude": 76.808798,
+      "address": "Plot 7, Chandigarh, Chandigarh, 160002, India",
+      "area": "Plot 7",
+      "avg_review_rating": 4.4,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.713349,76.808798",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonecharging.png"
+    },
+    {
+      "id": 6672,
+      "station_name": "Krishna Volvo Workshop",
+      "latitude": 30.707218,
+      "longitude": 76.80864,
+      "address": "Plot No. 72, Ind. Area, Phase-1, , Chandigarh, Chandigarh, 160002, India",
+      "area": "Plot No. 72, Ind. Area, Phase-1, ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.707218,76.80864",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    }
+  ],
+  "ac_count": 4,
+  "dc_count": 1,
+  "ac_prices": [
+    8.7,
+    8.7,
+    8.7,
+    8.7
+  ],
+  "dc_prices": [
+    8.7
+  ],
+  "scraped_at": "2026-05-21T08:07:38.461974+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,204 @@
+{
+  "station_id": 15100,
+  "station_detail": {
+    "station_id": 15100,
+    "station_name": "2000404-BP OTHAKKADAI",
+    "latitude": 9.9731,
+    "longitude": 78.2155,
+    "address": "\"KODIKULAM VILLAGE  MADURAI TO MELUR ROAD NH45H, MADURAI., Madurai, Tamil Nadu, 625107, India",
+    "area": "\"KODIKULAM VILLAGE  MADURAI TO MELUR ROAD NH45H, MADURAI.",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.9731,78.2155",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8727 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.67,
+    "no_of_reviews": 42,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68167,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33116,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 33117,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "BP OTHAKKADAI EVDC",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 2,
+        "2": 2,
+        "3": 5,
+        "4": 7,
+        "5": 83
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Madurai",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14408,
+      "station_name": "BP-OTHAKKADAI",
+      "latitude": 9.973308,
+      "longitude": 78.216003,
+      "address": "Thiruchi-Madurai road, Madurai, Tamil Nadu, 625104, India",
+      "area": "Thiruchi-Madurai road",
+      "avg_review_rating": 4.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.973308,78.216003",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+charging.png"
+    },
+    {
+      "id": 15100,
+      "station_name": "2000404-BP OTHAKKADAI",
+      "latitude": 9.9731,
+      "longitude": 78.2155,
+      "address": "\"KODIKULAM VILLAGE  MADURAI TO MELUR ROAD NH45H, MADURAI., Madurai, Tamil Nadu, 625107, India",
+      "area": "\"KODIKULAM VILLAGE  MADURAI TO MELUR ROAD NH45H, MADURAI.",
+      "avg_review_rating": 4.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.9731,78.2155",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8648,
+      "station_name": "TN | Madurai | Courtyard by Marriott Madurai",
+      "latitude": 9.940594,
+      "longitude": 78.139099,
+      "address": "168, Madurai, Tamil Nadu, 625002, India",
+      "area": "168",
+      "avg_review_rating": 4.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.940594,78.139099",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 11882,
+      "station_name": "LE KONN ENERGY STATIONS",
+      "latitude": 9.96368,
+      "longitude": 78.09722,
+      "address": "MADURAI, Madurai, Tamil Nadu, 625018, India",
+      "area": "MADURAI",
+      "avg_review_rating": 4.46,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.96368,78.09722",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 7583,
+      "station_name": "2016155-BP-TIRUPPUVANAM",
+      "latitude": 9.81312,
+      "longitude": 78.26291,
+      "address": "TIRUPPUVANAM, Tiruppuvanam, Tamil Nadu, 630611, India",
+      "area": "TIRUPPUVANAM",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.81312,78.26291",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:15:08.710045+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

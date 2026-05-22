@@ -1,0 +1,204 @@
+{
+  "station_id": 8502,
+  "station_detail": {
+    "station_id": 8502,
+    "station_name": "MH | Navi Mumbai | Marriott Executive Apartments - Rupa Renaissance",
+    "latitude": 19.06349,
+    "longitude": 73.027686,
+    "address": "D-33, Navi Mumbai, Maharashtra, 400705, India",
+    "area": "D-33",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.06349,73.027686",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8235 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.36,
+    "no_of_reviews": 11,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 56982,
+        "price_with_currency": "₹ 24.0",
+        "price": 24.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16067,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 16068,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "TCZ MH | Navi Mumbai | Marriott Executive Apartments - Rupa Renaissance 1",
+        "last_used_on": "06/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 9,
+        "2": 0,
+        "3": 9,
+        "4": 9,
+        "5": 73
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Navi Mumbai",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8502,
+      "station_name": "MH | Navi Mumbai | Marriott Executive Apartments - Rupa Renaissance",
+      "latitude": 19.06349,
+      "longitude": 73.027686,
+      "address": "D-33, Navi Mumbai, Maharashtra, 400705, India",
+      "area": "D-33",
+      "avg_review_rating": 4.36,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.06349,73.027686",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 7829,
+      "station_name": "MH | Mumbai | MB#Land Mark Cars Turbhe",
+      "latitude": 19.062744,
+      "longitude": 73.026537,
+      "address": "Land Mark Cars PLOT NO D 36/2, Mumbai, Maharashtra, 400701, India",
+      "area": "Land Mark Cars PLOT NO D 36/2",
+      "avg_review_rating": 4.53,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.062744,73.026537",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mercedes_Branding_Logo.png"
+    },
+    {
+      "id": 8528,
+      "station_name": "MH | Mumbai | ibis Navi Mumbai",
+      "latitude": 19.06786,
+      "longitude": 73.019685,
+      "address": "D 266, Navi Mumbai, Maharashtra, 400705, India",
+      "area": "D 266",
+      "avg_review_rating": 4.71,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.06786,73.019685",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 8715,
+      "station_name": "MH | Mumbai | Navi Mumbai Marriott Hotel",
+      "latitude": 19.068881,
+      "longitude": 73.019692,
+      "address": "D, Navi Mumbai, Maharashtra, 400703, India",
+      "area": "D",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.068881,73.019692",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 8592,
+      "station_name": "TURBHE SERVICE CENTRE",
+      "latitude": 19.06783,
+      "longitude": 73.01433,
+      "address": "RO AT TURBHE, Thane, Maharashtra, 400705, India",
+      "area": "RO AT TURBHE",
+      "avg_review_rating": 4.38,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.06783,73.01433",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    24.0
+  ],
+  "scraped_at": "2026-05-21T08:04:43.419831+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

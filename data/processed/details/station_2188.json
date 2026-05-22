@@ -1,0 +1,188 @@
+{
+  "station_id": 2188,
+  "station_detail": {
+    "station_id": 2188,
+    "station_name": "Sri Ram Garden by Jains Apartment",
+    "latitude": 17.501372,
+    "longitude": 78.476594,
+    "address": "Sri ram garden, Hyderabad, Telangana, 500067, India",
+    "area": "Sri ram garden",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.501372,78.476594",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8796 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/eFill+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 2622,
+        "price_with_currency": "₹ 25.0",
+        "price": 25.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 3760,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "EFI Sri Ram Garden by Jains Apartment 1",
+        "last_used_on": "13/01/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Hyderabad",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 7.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 2188,
+      "station_name": "Sri Ram Garden by Jains Apartment",
+      "latitude": 17.501372,
+      "longitude": 78.476594,
+      "address": "Sri ram garden, Hyderabad, Telangana, 500067, India",
+      "area": "Sri ram garden",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.501372,78.476594",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eFill+-+default.png"
+    },
+    {
+      "id": 14935,
+      "station_name": "chargeMOD | Sri Ram Gardens",
+      "latitude": 17.500846,
+      "longitude": 78.476623,
+      "address": "Medchal Rd, Hyderabad, Telangana, 500067, India",
+      "area": "Medchal Rd",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.500846,78.476623",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 6553,
+      "station_name": "REIL Jantha Fuels/ JAYABHERI FILLING STATION ",
+      "latitude": 17.50787,
+      "longitude": 78.478889,
+      "address": "PETBASHEERBAD, Ranga Reddy district, Telangana, 500855, India",
+      "area": "PETBASHEERBAD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.50787,78.478889",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 12704,
+      "station_name": "ID(4e8a75) LAXMI PETRO STATION",
+      "latitude": 17.511346,
+      "longitude": 78.480011,
+      "address": "Medchal Road, Hyderabad, Telangana, 500010, India",
+      "area": "Medchal Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.511346,78.480011",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 3727,
+      "station_name": "33/11 KV HMT Sub-station EV Charging Station",
+      "latitude": 17.500334,
+      "longitude": 78.451431,
+      "address": "HMT Substation, TSSPDCL, HMT Colony, Medchal, Telangana, 500054, India",
+      "area": "HMT Substation, TSSPDCL, HMT Colony",
+      "avg_review_rating": 4.21,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.500334,78.451431",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    25.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T07:59:25.516714+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

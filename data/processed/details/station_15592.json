@@ -1,0 +1,203 @@
+{
+  "station_id": 15592,
+  "station_detail": {
+    "station_id": 15592,
+    "station_name": "HIGHWAY FILLING POINT",
+    "latitude": 26.87726,
+    "longitude": 82.133504,
+    "address": "RO AT SHOBHAPUR,GONDA, Gonda, Uttar Pradesh, 271303, India",
+    "area": "RO AT SHOBHAPUR,GONDA",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.87726,82.133504",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9238 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 69090,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34554,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 34555,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "HIGHWAY FILLING POINT",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Gonda",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15592,
+      "station_name": "HIGHWAY FILLING POINT",
+      "latitude": 26.87726,
+      "longitude": 82.133504,
+      "address": "RO AT SHOBHAPUR,GONDA, Gonda, Uttar Pradesh, 271303, India",
+      "area": "RO AT SHOBHAPUR,GONDA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.87726,82.133504",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 4728,
+      "station_name": "Statiq Lakshman Kunj Ayodhya Station",
+      "latitude": 26.771999,
+      "longitude": 82.124199,
+      "address": "Civil Line, Basement Parking, Faizabad, Uttar Pradesh, 224001, India",
+      "area": "Civil Line, Basement Parking",
+      "avg_review_rating": 4.56,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.771999,82.124199",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 12897,
+      "station_name": "Ecoplug BHARAT MOTOR WORKSHOP",
+      "latitude": 26.7677,
+      "longitude": 82.17503,
+      "address": "DEVKALI BYPASS CHAURAHA FAIZABAD, Ayodhya, Uttar Pradesh, 224001, India",
+      "area": "DEVKALI BYPASS CHAURAHA FAIZABAD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.7677,82.17503",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 9336,
+      "station_name": "UP | Ayodhya | RBS Hotel and Lawn",
+      "latitude": 26.760887,
+      "longitude": 82.159144,
+      "address": "Q565+7F, Ayodhya, Uttar Pradesh, 224001, India",
+      "area": "Q565+7F",
+      "avg_review_rating": 4.43,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.760887,82.159144",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/gentari-default.png"
+    },
+    {
+      "id": 7430,
+      "station_name": "2011922-DR. S.D YADAV FILLING STATION",
+      "latitude": 26.758286,
+      "longitude": 82.126835,
+      "address": "FAIZABAD, Faizabad, Uttar Pradesh, 224001, India",
+      "area": "FAIZABAD",
+      "avg_review_rating": 4.53,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.758286,82.126835",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:16:15.816991+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

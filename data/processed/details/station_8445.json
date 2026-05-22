@@ -1,0 +1,208 @@
+{
+  "station_id": 8445,
+  "station_detail": {
+    "station_id": 8445,
+    "station_name": "BPCL PPS ENTERPRISES,VILLAGE PETH",
+    "latitude": 18.926385,
+    "longitude": 73.924761,
+    "address": "NH50 Peth , Shrirampur, Maharashtra, 410512, India",
+    "area": "NH50 Peth ",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.926385,73.924761",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8328 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.79,
+    "no_of_reviews": 504,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": "PETH ",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 56925,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 15957,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 15958,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "BPCL PPS ENTERPRISES,VILLAGE PETH",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 1,
+        "2": 0,
+        "3": 2,
+        "4": 13,
+        "5": 84
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Shrirampur",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8445,
+      "station_name": "BPCL PPS ENTERPRISES,VILLAGE PETH",
+      "latitude": 18.926385,
+      "longitude": 73.924761,
+      "address": "NH50 Peth , Shrirampur, Maharashtra, 410512, India",
+      "area": "NH50 Peth ",
+      "avg_review_rating": 4.79,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.926385,73.924761",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 13121,
+      "station_name": "ID(9rgg4t) Anand petroleum",
+      "latitude": 18.934458,
+      "longitude": 73.933683,
+      "address": "Pune - Nashik Highway, Peth, Maharashtra, 410512, India",
+      "area": "Pune - Nashik Highway",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.934458,73.933683",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 8626,
+      "station_name": "MH | Rajgurunagar | Akash Misal House",
+      "latitude": 18.901665,
+      "longitude": 73.91332,
+      "address": "Near Khed Ghat, Rajgurunagar, Maharashtra, 410505, India",
+      "area": "Near Khed Ghat",
+      "avg_review_rating": 4.71,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.901665,73.91332",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 13320,
+      "station_name": "ID(hjc6ww) BV Mande Energy Service",
+      "latitude": 18.875018,
+      "longitude": 73.898125,
+      "address": "Pacharnewadi, Pacharnewadi, Maharashtra, 410505, India",
+      "area": "Pacharnewadi",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.875018,73.898125",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 8396,
+      "station_name": "SITAIKRUPA",
+      "latitude": 18.863323,
+      "longitude": 73.876808,
+      "address": "GAT NO 145/1, Satkarstal, Wada Road, Near Uma Dharshan Residency, Rajgurunagar Khed, Pune, Maharashtra,, Pune, Maharashtra, 410505, India",
+      "area": "GAT NO 145/1, Satkarstal, Wada Road, Near Uma Dharshan Residency, Rajgurunagar Khed, Pune, Maharashtra,",
+      "avg_review_rating": 4.68,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.863323,73.876808",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:04:35.679669+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

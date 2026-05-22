@@ -1,0 +1,204 @@
+{
+  "station_id": 8873,
+  "station_detail": {
+    "station_id": 8873,
+    "station_name": "M SRINIVASA MUDALIAR",
+    "latitude": 13.476794,
+    "longitude": 79.538656,
+    "address": "TIRUPATI, Tirupati, Andhra Pradesh, 517583, India",
+    "area": "TIRUPATI",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.476794,79.538656",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8886 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.52,
+    "no_of_reviews": 25,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 57615,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 17060,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 17061,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "M SRINIVASA MUDALIAR",
+        "last_used_on": "06/01/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 16,
+        "4": 16,
+        "5": 68
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Tirupati",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8865,
+      "station_name": "SSUNITA FILLING STATION",
+      "latitude": 13.47679,
+      "longitude": 79.53866,
+      "address": "TIRUPATI, Tirupati, Andhra Pradesh, 517551, India",
+      "area": "TIRUPATI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.47679,79.53866",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8873,
+      "station_name": "M SRINIVASA MUDALIAR",
+      "latitude": 13.476794,
+      "longitude": 79.538656,
+      "address": "TIRUPATI, Tirupati, Andhra Pradesh, 517583, India",
+      "area": "TIRUPATI",
+      "avg_review_rating": 4.52,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.476794,79.538656",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9299,
+      "station_name": "AP | Puttur | Café Coffee Day",
+      "latitude": 13.456172,
+      "longitude": 79.550364,
+      "address": "11-2, Puttur, Andhra Pradesh, 517583, India",
+      "area": "11-2",
+      "avg_review_rating": 4.6,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.456172,79.550364",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/gentari-default.png"
+    },
+    {
+      "id": 8872,
+      "station_name": "A P F S FILLING STATION PUTTUR",
+      "latitude": 13.437173,
+      "longitude": 79.539258,
+      "address": "TIRUPATI, Tirupati, Andhra Pradesh, 517583, India",
+      "area": "TIRUPATI",
+      "avg_review_rating": 4.53,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.437173,79.539258",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 13089,
+      "station_name": "ID(gqojo5)Durga Filling Station",
+      "latitude": 13.562993,
+      "longitude": 79.516475,
+      "address": "Ammavaripatteda, Ammavaripatteda, Andhra Pradesh, 517551, India",
+      "area": "Ammavaripatteda",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.562993,79.516475",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:05:30.937270+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

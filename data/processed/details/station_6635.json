@@ -1,0 +1,199 @@
+{
+  "station_id": 6635,
+  "station_detail": {
+    "station_id": 6635,
+    "station_name": "Manglam filling station RJ",
+    "latitude": 25.078979,
+    "longitude": 73.938087,
+    "address": "On NH-758, Bhawa, village, Bhilwara Rd, Rajsamand, Rajasthan 313327, Rajsamand, Rajasthan, 313327, India",
+    "area": "On NH-758, Bhawa, village, Bhilwara Rd, Rajsamand, Rajasthan 313327",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.078979,73.938087",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8403 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.41,
+    "no_of_reviews": 68,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54150,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 12233,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "Manglam filling station - EV DC Charger 30Kw",
+        "last_used_on": "15/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 7,
+        "2": 0,
+        "3": 7,
+        "4": 15,
+        "5": 71
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Rajsamand",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 6635,
+      "station_name": "Manglam filling station RJ",
+      "latitude": 25.078979,
+      "longitude": 73.938087,
+      "address": "On NH-758, Bhawa, village, Bhilwara Rd, Rajsamand, Rajasthan 313327, Rajsamand, Rajasthan, 313327, India",
+      "area": "On NH-758, Bhawa, village, Bhilwara Rd, Rajsamand, Rajasthan 313327",
+      "avg_review_rating": 4.41,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.078979,73.938087",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14625,
+      "station_name": "KELWA HIGHWAY",
+      "latitude": 25.13218,
+      "longitude": 73.851228,
+      "address": "VILLAGE MOKHAMPURA ,KELWA,TEHSIL RAJSAMAND, Rajsamand, Rajasthan, 313334, India",
+      "area": "VILLAGE MOKHAMPURA ,KELWA,TEHSIL RAJSAMAND",
+      "avg_review_rating": 4.36,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.13218,73.851228",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 7506,
+      "station_name": "2001945-BP - PIPARDA",
+      "latitude": 25.001866,
+      "longitude": 73.846472,
+      "address": "PIPARDA, Dholpur, Rajasthan, 313324, India",
+      "area": "PIPARDA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.001866,73.846472",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 1939,
+      "station_name": "Sunfuel - Radisson Hotel Nathdwara",
+      "latitude": 24.917299,
+      "longitude": 73.824577,
+      "address": "Meridian Complex, NH-8, near Oden Circle, Nathdwara, Rajasthan, 313301, India",
+      "area": "Meridian Complex, NH-8, near Oden Circle",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.917299,73.824577",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 5020,
+      "station_name": "GLIDA Sky Imperial Hotel Gopal Darshan",
+      "latitude": 24.92042,
+      "longitude": 73.813066,
+      "address": "Blue Diamond Hotel & Restaurant, Nathdwara, Rajasthan, 313301, India",
+      "area": "Blue Diamond Hotel & Restaurant",
+      "avg_review_rating": 4.47,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.92042,73.813066",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:01:34.791504+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

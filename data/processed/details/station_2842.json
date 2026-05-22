@@ -1,0 +1,315 @@
+{
+  "station_id": 2842,
+  "station_detail": {
+    "station_id": 2842,
+    "station_name": "REIL House Charging Station",
+    "latitude": 26.869108,
+    "longitude": 75.7621,
+    "address": "Shipra Path, Jaipur, Rajasthan, 302020, India",
+    "area": "Shipra Path",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.869108,75.7621",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8607 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 2,
+        "connector_name": "CHAdeMO",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/chademo.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      },
+      {
+        "id": 6,
+        "connector_name": "GBT",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 2,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/REIL/REIL_Banner.png",
+    "landmark": "Near Umang School",
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 729,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 3579,
+        "price_with_currency": "₹ 10.0",
+        "price": 10.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 5025,
+            "connector_type": "CHAdeMO",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/chademo.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 2,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 5026,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 3,
+            "connector_id": 5027,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 122.0,
+        "charger_name": "REIL House 1",
+        "last_used_on": "18/03/2026"
+      },
+      {
+        "charger_id": 3580,
+        "price_with_currency": "₹ 10.0",
+        "price": 10.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 5028,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 6,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 15.0,
+        "charger_name": "REIL House 2",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 3581,
+        "price_with_currency": "₹ 10.0",
+        "price": 10.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 5029,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 6,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 15.0,
+        "charger_name": "REIL House 3",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 3582,
+        "price_with_currency": "₹ 10.0",
+        "price": 10.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 5030,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 6,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 15.0,
+        "charger_name": "REIL House 4",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Jaipur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 122.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 2842,
+      "station_name": "REIL House Charging Station",
+      "latitude": 26.869108,
+      "longitude": 75.7621,
+      "address": "Shipra Path, Jaipur, Rajasthan, 302020, India",
+      "area": "Shipra Path",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.869108,75.7621",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 1572,
+      "station_name": "Statiq JEM Mall Station",
+      "latitude": 26.871798,
+      "longitude": 75.775429,
+      "address": "Mansarovar Link Road, Jaipur, Rajasthan, 302018, India",
+      "area": "Mansarovar Link Road",
+      "avg_review_rating": 4.71,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.871798,75.775429",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 15006,
+      "station_name": "Mahima Trinity Mall My E PLUG OFFICE",
+      "latitude": 26.890682,
+      "longitude": 75.771844,
+      "address": "Mahima trinity mall, Jaipur, Rajasthan, 302019, India",
+      "area": "Mahima trinity mall",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.890682,75.771844",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 15752,
+      "station_name": "EZEKEB HUB",
+      "latitude": 26.861146,
+      "longitude": 75.728888,
+      "address": "BHARAT MATA CIRCLE, Jaipur, Rajasthan, 302020, India",
+      "area": "BHARAT MATA CIRCLE",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.861146,75.728888",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Ezecon_offline_pin.png"
+    },
+    {
+      "id": 15780,
+      "station_name": "Ezekeb Hub 30 KW",
+      "latitude": 26.86119,
+      "longitude": 75.728777,
+      "address": "I 19 Kriti sagar, Jaipur, Rajasthan, 302020, India",
+      "area": "I 19 Kriti sagar",
+      "avg_review_rating": 4.95,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.86119,75.728777",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Ezecon_Charging_Pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 4,
+  "ac_prices": [],
+  "dc_prices": [
+    10.0,
+    10.0,
+    10.0,
+    10.0
+  ],
+  "scraped_at": "2026-05-21T07:59:38.505970+00:00",
+  "parse_success": true,
+  "missing_fields": [],
+  "coverage_pct": 100.0
+}

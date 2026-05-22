@@ -1,0 +1,204 @@
+{
+  "station_id": 8496,
+  "station_detail": {
+    "station_id": 8496,
+    "station_name": "MH | Mumbai | Ro Ro Service Jetty - Mumbai",
+    "latitude": 18.805482,
+    "longitude": 72.882559,
+    "address": "Ro-Ro Service Jetty & Breakwater, Mumbai, Maharashtra, 402201, India",
+    "area": "Ro-Ro Service Jetty & Breakwater",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.805482,72.882559",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8217 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.67,
+    "no_of_reviews": 6,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 56976,
+        "price_with_currency": "₹ 22.0",
+        "price": 22.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16056,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 16057,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "TCZ MH | Mumbai | Ro Ro Service Jetty - Mumbai 1",
+        "last_used_on": "10/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 17,
+        "4": 0,
+        "5": 83
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Mumbai",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8496,
+      "station_name": "MH | Mumbai | Ro Ro Service Jetty - Mumbai",
+      "latitude": 18.805482,
+      "longitude": 72.882559,
+      "address": "Ro-Ro Service Jetty & Breakwater, Mumbai, Maharashtra, 402201, India",
+      "area": "Ro-Ro Service Jetty & Breakwater",
+      "avg_review_rating": 4.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.805482,72.882559",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 2218,
+      "station_name": "Sunfuel - Club Mahindra Tropicana Alibaug",
+      "latitude": 18.7234,
+      "longitude": 72.891876,
+      "address": "Chondi Naka, Alibag, Maharashtra, 402201, India",
+      "area": "Chondi Naka",
+      "avg_review_rating": 4.89,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.7234,72.891876",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 14318,
+      "station_name": "OMKAR PETROLEUM",
+      "latitude": 18.874387,
+      "longitude": 72.976998,
+      "address": "NEAR LPG BOTTLING PLANT , Uran, Maharashtra, 400702, India",
+      "area": "NEAR LPG BOTTLING PLANT ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.874387,72.976998",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 10035,
+      "station_name": "Express Tower Charging Station",
+      "latitude": 18.92836,
+      "longitude": 72.82222,
+      "address": "Ramnath Goenka Marg, Nariman Point, Mumbai, Maharashtra 400021, Mumbai, Maharashtra, 400021, India",
+      "area": "Ramnath Goenka Marg, Nariman Point, Mumbai, Maharashtra 400021",
+      "avg_review_rating": 4.77,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.92836,72.82222",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 6578,
+      "station_name": "BD Dhalla charging station",
+      "latitude": 18.932779,
+      "longitude": 72.833061,
+      "address": "Mumbai, Mumbai, Maharashtra, 400001, India",
+      "area": "Mumbai",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.932779,72.833061",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    22.0
+  ],
+  "scraped_at": "2026-05-21T08:04:43.263594+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,210 @@
+{
+  "station_id": 1978,
+  "station_detail": {
+    "station_id": 1978,
+    "station_name": "Manish Yadav Petro Point AC Charging Station",
+    "latitude": 28.226183,
+    "longitude": 76.136208,
+    "address": "Manish Yadav Petro Point, Mahendragarh, Haryana, 123029, India",
+    "area": "Manish Yadav Petro Point",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.226183,76.136208",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8661 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 4.88,
+    "no_of_reviews": 8,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 394,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 1209,
+        "price_with_currency": "₹ 13.0",
+        "price": 13.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 1586,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "SmartPlug 325 Manish Petro Point",
+        "last_used_on": "05/12/2024"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 12,
+        "5": 88
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Mahendragarh",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 3.3,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 1978,
+      "station_name": "Manish Yadav Petro Point AC Charging Station",
+      "latitude": 28.226183,
+      "longitude": 76.136208,
+      "address": "Manish Yadav Petro Point, Mahendragarh, Haryana, 123029, India",
+      "area": "Manish Yadav Petro Point",
+      "avg_review_rating": 4.88,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.226183,76.136208",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 10925,
+      "station_name": "Ecoplug STAREX Hotel & Restaurant,",
+      "latitude": 28.245898,
+      "longitude": 76.141029,
+      "address": "Narnaul - Mahendragarh Road, Mahendragarh, Haryana, 123029, India",
+      "area": "Narnaul - Mahendragarh Road",
+      "avg_review_rating": 2.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.245898,76.141029",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 15945,
+      "station_name": "Ecoplug Hotel Nayan Palace ,",
+      "latitude": 28.082442,
+      "longitude": 76.180374,
+      "address": "NH-11, Mahendragarh, Haryana, 123021, India",
+      "area": "NH-11",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.082442,76.180374",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 7698,
+      "station_name": "Ecoplug Hotel Appar",
+      "latitude": 28.057226,
+      "longitude": 76.122687,
+      "address": "rewari - narnaul - singhana rd, Narnaul, Haryana, 123001, India",
+      "area": "rewari - narnaul - singhana rd",
+      "avg_review_rating": 4.66,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.057226,76.122687",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 15012,
+      "station_name": "M/s BHAWANI FILLING STATION",
+      "latitude": 27.996534,
+      "longitude": 76.123993,
+      "address": "Rewari , Rewari, Haryana, 124507, India",
+      "area": "Rewari ",
+      "avg_review_rating": 4.96,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.996534,76.123993",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    13.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T07:59:19.331287+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

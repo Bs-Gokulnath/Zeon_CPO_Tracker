@@ -1,0 +1,276 @@
+{
+  "station_id": 11726,
+  "station_detail": {
+    "station_id": 11726,
+    "station_name": "Okhla",
+    "latitude": 28.5532,
+    "longitude": 77.2646,
+    "address": "Okhla Phase III Okhla Industrial Estate, New Delhi, Delhi, 110020, India",
+    "area": "Okhla Phase III Okhla Industrial Estate",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.5532,77.2646",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8775 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargerKaroSBBanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 62603,
+        "price_with_currency": "₹ 15.0",
+        "price": 15.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 24953,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 24962,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 3,
+            "connector_id": 24968,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 9.0,
+        "charger_name": "CJK Okhla 1",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 62612,
+        "price_with_currency": "₹ 15.0",
+        "price": 15.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 24974,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 24977,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 3,
+            "connector_id": 24981,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 9.0,
+        "charger_name": "CJK Okhla 2",
+        "last_used_on": "28/04/2026"
+      },
+      {
+        "charger_id": 68370,
+        "price_with_currency": "₹ 15.0",
+        "price": 15.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33453,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "CJK Okhla 3",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "New Delhi",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 9.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11726,
+      "station_name": "Okhla",
+      "latitude": 28.5532,
+      "longitude": 77.2646,
+      "address": "Okhla Phase III Okhla Industrial Estate, New Delhi, Delhi, 110020, India",
+      "area": "Okhla Phase III Okhla Industrial Estate",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.5532,77.2646",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargerKarodefault.png"
+    },
+    {
+      "id": 11704,
+      "station_name": "OKHLA NSIC METRO",
+      "latitude": 28.5542,
+      "longitude": 77.2654,
+      "address": "N.S.I.C, New Delhi, Delhi, 110065, India",
+      "area": "N.S.I.C",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.5542,77.2654",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargerKarodefault.png"
+    },
+    {
+      "id": 11739,
+      "station_name": "Kalkaji Mandir",
+      "latitude": 28.5506,
+      "longitude": 77.2637,
+      "address": "46 Okhla Phase III Okhla Industrial Estate, New Delhi, Delhi, 110020, India",
+      "area": "46 Okhla Phase III Okhla Industrial Estate",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.5506,77.2637",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargerKarodefault.png"
+    },
+    {
+      "id": 13553,
+      "station_name": "Kalkaji EV Charging Station",
+      "latitude": 28.550955,
+      "longitude": 77.257324,
+      "address": "Kalkaji Metro Station Parking, New Delhi, Delhi, 110019, India",
+      "area": "Kalkaji Metro Station Parking",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.550955,77.257324",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15992,
+      "station_name": "Kalkaji DC Charging Station ",
+      "latitude": 28.550955,
+      "longitude": 77.257324,
+      "address": "Kalkaji Metro Station Parking, New Delhi, Delhi, 110019, India",
+      "area": "Kalkaji Metro Station Parking",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.550955,77.257324",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 3,
+  "dc_count": 0,
+  "ac_prices": [
+    15.0,
+    15.0,
+    15.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:10:22.540067+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

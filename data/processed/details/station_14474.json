@@ -1,0 +1,188 @@
+{
+  "station_id": 14474,
+  "station_detail": {
+    "station_id": 14474,
+    "station_name": "GK MIRAI PHASE 1 4W EV02",
+    "latitude": 18.634054,
+    "longitude": 73.743928,
+    "address": "Plot No. 3, Pimpri-Chinchwad, Maharashtra, 411033, India",
+    "area": "Plot No. 3",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.634054,73.743928",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8306 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Gentari+(5).png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 67146,
+        "price_with_currency": "₹ 10.17",
+        "price": 10.17,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 31477,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "BLT GK MIRAI PHASE 1 4W EV02 1",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Pimpri-Chinchwad",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 7.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14478,
+      "station_name": "GK MIRAI PHASE 1 4W EV",
+      "latitude": 18.634023,
+      "longitude": 73.743857,
+      "address": "Plot No. 3, Pimpri-Chinchwad, Maharashtra, 411033, India",
+      "area": "Plot No. 3",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.634023,73.743857",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    },
+    {
+      "id": 14474,
+      "station_name": "GK MIRAI PHASE 1 4W EV02",
+      "latitude": 18.634054,
+      "longitude": 73.743928,
+      "address": "Plot No. 3, Pimpri-Chinchwad, Maharashtra, 411033, India",
+      "area": "Plot No. 3",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.634054,73.743928",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    },
+    {
+      "id": 6551,
+      "station_name": "REIL IOCL Retail outlet, Tathawade",
+      "latitude": 18.63014,
+      "longitude": 73.742851,
+      "address": "Mulshi, Pune, Maharashtra, 411033, India",
+      "area": "Mulshi",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.63014,73.742851",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 13139,
+      "station_name": "ID(foovqm) Sai Expressway Service",
+      "latitude": 18.628379,
+      "longitude": 73.742139,
+      "address": "Jeevan Nagar, Dattwadi, Maharashtra, 411033, India",
+      "area": "Jeevan Nagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.628379,73.742139",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 11233,
+      "station_name": "Shell Recharge Tathwade",
+      "latitude": 18.614056,
+      "longitude": 73.74886,
+      "address": "Bengaluru Mumbai Hwy, Pune, Maharashtra, 411033, India",
+      "area": "Bengaluru Mumbai Hwy",
+      "avg_review_rating": 4.25,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.614056,73.74886",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    10.17
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:13:46.601260+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

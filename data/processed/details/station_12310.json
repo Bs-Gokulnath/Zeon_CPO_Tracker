@@ -1,0 +1,197 @@
+{
+  "station_id": 12310,
+  "station_detail": {
+    "station_id": 12310,
+    "station_name": "Ordnance Factory",
+    "latitude": 21.151629,
+    "longitude": 79.542385,
+    "address": "JAWAHARNAGAR,MAIN RD,BHAND, Bhandara, Maharashtra, 441906, India",
+    "area": "JAWAHARNAGAR,MAIN RD,BHAND",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.151629,79.542385",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8933 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": "Bhandara, Maharashtra",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 63806,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26903,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 26904,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Ordnance Factory",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bhandara",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12310,
+      "station_name": "Ordnance Factory",
+      "latitude": 21.151629,
+      "longitude": 79.542385,
+      "address": "JAWAHARNAGAR,MAIN RD,BHAND, Bhandara, Maharashtra, 441906, India",
+      "area": "JAWAHARNAGAR,MAIN RD,BHAND",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.151629,79.542385",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7673,
+      "station_name": "2022020-UNITED PETROLEUM",
+      "latitude": 21.154528,
+      "longitude": 79.506428,
+      "address": "BHANDARA, Bhandara, Maharashtra, 441906, India",
+      "area": "BHANDARA",
+      "avg_review_rating": 4.72,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.154528,79.506428",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13245,
+      "station_name": "ID(ku7p3u)Madni Petroleum",
+      "latitude": 21.156132,
+      "longitude": 79.499343,
+      "address": "Kharbi, Kharbi, Maharashtra, India",
+      "area": "Kharbi",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.156132,79.499343",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 10437,
+      "station_name": "PETROFILL PARADISE",
+      "latitude": 21.157534,
+      "longitude": 79.476046,
+      "address": "AT MOUDA ON NH6(NEW NH53, Nagpur, Maharashtra, 441104, India",
+      "area": "AT MOUDA ON NH6(NEW NH53",
+      "avg_review_rating": 4.6,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.157534,79.476046",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9702,
+      "station_name": "DEVANSHI PETROLEUM",
+      "latitude": 21.14696,
+      "longitude": 79.41923,
+      "address": "RO AT LAPKA NH 6, NAGPUR TO BHANDARA NH6 RHS, Nagpur, Maharashtra, 441001, India",
+      "area": "RO AT LAPKA NH 6, NAGPUR TO BHANDARA NH6 RHS",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.14696,79.41923",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:11:43.416501+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

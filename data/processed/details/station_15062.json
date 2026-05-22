@@ -1,0 +1,193 @@
+{
+  "station_id": 15062,
+  "station_detail": {
+    "station_id": 15062,
+    "station_name": "L100041338",
+    "latitude": 13.011307,
+    "longitude": 77.573939,
+    "address": "Bangalore, Bengaluru, Karnataka, 560080, India",
+    "area": "Bangalore",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.011307,77.573939",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8671 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Gentari+(5).png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68088,
+        "price_with_currency": "₹ 13.56",
+        "price": 13.56,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 32987,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "BLT L100041338 1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bengaluru",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 7.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15062,
+      "station_name": "L100041338",
+      "latitude": 13.011307,
+      "longitude": 77.573939,
+      "address": "Bangalore, Bengaluru, Karnataka, 560080, India",
+      "area": "Bangalore",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.011307,77.573939",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    },
+    {
+      "id": 12283,
+      "station_name": "Embassy One ",
+      "latitude": 13.0194,
+      "longitude": 77.5844,
+      "address": "Embassy One , Mumbai, Maharashtra, 400021, India",
+      "area": "Embassy One ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.0194,77.5844",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 15851,
+      "station_name": "Purva Atria Car EV Point",
+      "latitude": 13.024635,
+      "longitude": 77.577621,
+      "address": "R.M.V. 2nd Stage, Bengaluru, Karnataka, 560094, India",
+      "area": "R.M.V. 2nd Stage",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.024635,77.577621",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    },
+    {
+      "id": 15654,
+      "station_name": "Statiq Mantri Square Station",
+      "latitude": 12.991901,
+      "longitude": 77.571223,
+      "address": "1, Sampige Rd, near Central bus stop, Malleshwaram, Bengaluru, Karnataka, 560003, India",
+      "area": "1, Sampige Rd, near Central bus stop, Malleshwaram",
+      "avg_review_rating": 4.59,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.991901,77.571223",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 5176,
+      "station_name": "Statiq ITC Windsor Station",
+      "latitude": 12.994491,
+      "longitude": 77.585481,
+      "address": "Main Entrance of ITC Windsor, ITC WINDSOR, Windsor Square, 25, Golf Course Road, Bengaluru, Karnataka, 560052, India",
+      "area": "Main Entrance of ITC Windsor, ITC WINDSOR, Windsor Square, 25, Golf Course Road",
+      "avg_review_rating": 4.53,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.994491,77.585481",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    13.56
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:15:05.557590+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

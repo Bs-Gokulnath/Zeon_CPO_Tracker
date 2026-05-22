@@ -1,0 +1,198 @@
+{
+  "station_id": 10607,
+  "station_detail": {
+    "station_id": 10607,
+    "station_name": "HR | Hisar | Hisar Hyundai  ",
+    "latitude": 29.133843,
+    "longitude": 75.797388,
+    "address": "Hisar Hyundai, Hisar, Haryana, 125044, India",
+    "area": "Hisar Hyundai",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.133843,75.797388",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8641 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 61037,
+        "price_with_currency": "₹ 21.0",
+        "price": 21.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22521,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 22522,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "TCZ HR | Hisar | Hisar Hyundai   2",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Hisar",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10607,
+      "station_name": "HR | Hisar | Hisar Hyundai  ",
+      "latitude": 29.133843,
+      "longitude": 75.797388,
+      "address": "Hisar Hyundai, Hisar, Haryana, 125044, India",
+      "area": "Hisar Hyundai",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.133843,75.797388",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8893,
+      "station_name": "HR | Hisar | Chand Sitara hotel and restaurant",
+      "latitude": 29.121948,
+      "longitude": 75.805945,
+      "address": "Industrial Area, Hisar, Haryana, 125006, India",
+      "area": "Industrial Area",
+      "avg_review_rating": 4.42,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.121948,75.805945",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 10755,
+      "station_name": "240 kw MUKUR Hotel. EcoCharge Oasis ",
+      "latitude": 29.1508,
+      "longitude": 75.785928,
+      "address": "Hisar By Pas, Delhi Sirsa Road, Hisar, Haryana, 125001, India",
+      "area": "Hisar By Pas, Delhi Sirsa Road",
+      "avg_review_rating": 4.53,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.1508,75.785928",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 12879,
+      "station_name": "ID(o195mu)Paramveer service station",
+      "latitude": 29.168918,
+      "longitude": 75.771171,
+      "address": "NH 10, Hisar, Haryana, 125001, India",
+      "area": "NH 10",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.168918,75.771171",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 10825,
+      "station_name": "THE TAJ PALACE. EcoCharge Oasis",
+      "latitude": 29.108311,
+      "longitude": 75.750683,
+      "address": "The Taj Palace, A Luxury Hotel, Banquet & Restaurant, Tosham Road, Hisar, Hisar, Haryana, 125005, India",
+      "area": "The Taj Palace, A Luxury Hotel, Banquet & Restaurant, Tosham Road, Hisar",
+      "avg_review_rating": 4.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.108311,75.750683",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.0
+  ],
+  "scraped_at": "2026-05-21T08:08:54.031751+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

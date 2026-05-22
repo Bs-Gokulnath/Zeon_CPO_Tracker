@@ -1,0 +1,204 @@
+{
+  "station_id": 15216,
+  "station_detail": {
+    "station_id": 15216,
+    "station_name": "MOTILAL HARIBALLABH MISHRA",
+    "latitude": 24.756176,
+    "longitude": 79.075415,
+    "address": "BALDEVGARH, TIKAMGARH-CHHATARPUR ROAD, Tikamgarh, Madhya Pradesh, 472001, India",
+    "area": "BALDEVGARH, TIKAMGARH-CHHATARPUR ROAD",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.756176,79.075415",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8915 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.0,
+    "no_of_reviews": 5,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68363,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33441,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 33442,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "MOTILAL HARIBALLABH MISHRA",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 20,
+        "4": 60,
+        "5": 20
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Tikamgarh",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15216,
+      "station_name": "MOTILAL HARIBALLABH MISHRA",
+      "latitude": 24.756176,
+      "longitude": 79.075415,
+      "address": "BALDEVGARH, TIKAMGARH-CHHATARPUR ROAD, Tikamgarh, Madhya Pradesh, 472001, India",
+      "area": "BALDEVGARH, TIKAMGARH-CHHATARPUR ROAD",
+      "avg_review_rating": 4.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.756176,79.075415",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 15215,
+      "station_name": "SUSHMA PETROLEUM",
+      "latitude": 24.756752,
+      "longitude": 78.865399,
+      "address": "MAMON, TIKAMGARH- BALDEVGARH ROAD, Tikamgarh, Madhya Pradesh, 472010, India",
+      "area": "MAMON, TIKAMGARH- BALDEVGARH ROAD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.756752,78.865399",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15214,
+      "station_name": "SRI KRISHNA AUTOMOBILIES",
+      "latitude": 24.783069,
+      "longitude": 78.832954,
+      "address": "JHANSI ROAD,JHANSI ROAD, Tikamgarh, Madhya Pradesh, 472001, India",
+      "area": "JHANSI ROAD,JHANSI ROAD",
+      "avg_review_rating": 4.9,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.783069,78.832954",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15247,
+      "station_name": "ANAND FILLING SERVICES",
+      "latitude": 24.582227,
+      "longitude": 79.306366,
+      "address": "NH-86, VILLAGE BADA MALHARA,, Chhatarpur, Madhya Pradesh, 471311, India",
+      "area": "NH-86, VILLAGE BADA MALHARA,",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.582227,79.306366",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13082,
+      "station_name": "ID(mkagqh)Jai Maa Annapurna filling station",
+      "latitude": 24.762982,
+      "longitude": 79.445025,
+      "address": "Kanpur - Sagar Highway, Angor, Madhya Pradesh, 471301, India",
+      "area": "Kanpur - Sagar Highway",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.762982,79.445025",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:15:28.521605+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

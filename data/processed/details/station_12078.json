@@ -1,0 +1,204 @@
+{
+  "station_id": 12078,
+  "station_detail": {
+    "station_id": 12078,
+    "station_name": "MP | Dattigaon | Midway Treat Hotel Restaurant & Resort",
+    "latitude": 22.724291,
+    "longitude": 74.860622,
+    "address": "Midway Treat Hotel Restaurant &, Dattigaon, Madhya Pradesh, 454116, India",
+    "area": "Midway Treat Hotel Restaurant &",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.724291,74.860622",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8467 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.0,
+    "no_of_reviews": 4,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 63458,
+        "price_with_currency": "₹ 22.0",
+        "price": 22.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26311,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 26318,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "TCZ MP | Dattigaon | Midway Treat Hotel Restaurant & Resort 1",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 25,
+        "3": 0,
+        "4": 25,
+        "5": 50
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Dattigaon",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12078,
+      "station_name": "MP | Dattigaon | Midway Treat Hotel Restaurant & Resort",
+      "latitude": 22.724291,
+      "longitude": 74.860622,
+      "address": "Midway Treat Hotel Restaurant &, Dattigaon, Madhya Pradesh, 454116, India",
+      "area": "Midway Treat Hotel Restaurant &",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.724291,74.860622",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 14957,
+      "station_name": "SHRI KRISHNA FILLING STATION",
+      "latitude": 22.6789,
+      "longitude": 74.9826,
+      "address": "Sardarpur Badnawar road Badbeli dhar 451111, Dhar, Madhya Pradesh, 451111, India",
+      "area": "Sardarpur Badnawar road Badbeli dhar 451111",
+      "avg_review_rating": 4.82,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.6789,74.9826",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 13049,
+      "station_name": "ID(bf24tw)Bhandari petroleum",
+      "latitude": 22.756092,
+      "longitude": 74.592682,
+      "address": "Amba Khodra, Amba Khodra, Madhya Pradesh, 457661, India",
+      "area": "Amba Khodra",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.756092,74.592682",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 14950,
+      "station_name": "SHREE JI PETROLEUM",
+      "latitude": 22.6547,
+      "longitude": 74.5227,
+      "address": "SURVEY NO. 238, RANAPUR, DISTRICT-JHABUA, 457993, Ranapur, Madhya Pradesh, 457993, India",
+      "area": "SURVEY NO. 238, RANAPUR, DISTRICT-JHABUA, 457993",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.6547,74.5227",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 12562,
+      "station_name": "ID(c5r235) Bhandari highway petroleum",
+      "latitude": 22.793832,
+      "longitude": 74.47525,
+      "address": "National Highway 47, Jhabua, Madhya Pradesh, 457661, India",
+      "area": "National Highway 47",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.793832,74.47525",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    22.0
+  ],
+  "scraped_at": "2026-05-21T08:11:21.711612+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

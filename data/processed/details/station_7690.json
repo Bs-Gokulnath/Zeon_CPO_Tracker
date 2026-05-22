@@ -1,0 +1,228 @@
+{
+  "station_id": 7690,
+  "station_detail": {
+    "station_id": 7690,
+    "station_name": "2023021-SHRI DADAJI FUEL STATION",
+    "latitude": 22.20768,
+    "longitude": 79.534331,
+    "address": "SEONI, Seoni, Madhya Pradesh, 480661, India",
+    "area": "SEONI",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.20768,79.534331",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8941 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.61,
+    "no_of_reviews": 59,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 55529,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13875,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "2023021-SHRI DADAJI FUEL STATION",
+        "last_used_on": "06/05/2026"
+      },
+      {
+        "charger_id": 69663,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35399,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 35400,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "SHRI DADAJI FUEL STATION",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 5,
+        "2": 0,
+        "3": 2,
+        "4": 15,
+        "5": 78
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Seoni",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7690,
+      "station_name": "2023021-SHRI DADAJI FUEL STATION",
+      "latitude": 22.20768,
+      "longitude": 79.534331,
+      "address": "SEONI, Seoni, Madhya Pradesh, 480661, India",
+      "area": "SEONI",
+      "avg_review_rating": 4.61,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.20768,79.534331",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 13211,
+      "station_name": "ID(mhbzmu)Patel petroleum",
+      "latitude": 22.050353,
+      "longitude": 79.40763,
+      "address": "Fulara, Fulara, Madhya Pradesh, 480115, India",
+      "area": "Fulara",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.050353,79.40763",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 13532,
+      "station_name": "2014620 - DHAN LAXMI PETROLEUM",
+      "latitude": 22.049704,
+      "longitude": 79.299316,
+      "address": "Besides Narmada Dhaba, Dungaria, Chhindwara, Madhya Pradesh, 480001, India",
+      "area": "Besides Narmada Dhaba, Dungaria",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.049704,79.299316",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 6971,
+      "station_name": "Statiq Cubestop Mohgaon Station",
+      "latitude": 21.914614,
+      "longitude": 79.52321,
+      "address": "Near to entrance front parking of Cube stop, NH44, Nagpur Jabalpur Highway, Sadak,, Mohgaon, Madhya Pradesh, 480661, India",
+      "area": "Near to entrance front parking of Cube stop, NH44, Nagpur Jabalpur Highway, Sadak,",
+      "avg_review_rating": 4.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.914614,79.52321",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8229,
+      "station_name": "UMASHANKAR USARETE",
+      "latitude": 21.913615,
+      "longitude": 79.52383,
+      "address": "VILL. MOHGAON NH7 PO Box 32 481663 SEONI, Seoni, Madhya Pradesh, 481663, India",
+      "area": "VILL. MOHGAON NH7 PO Box 32 481663 SEONI",
+      "avg_review_rating": 4.48,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.913615,79.52383",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 2,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0,
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:03:32.015662+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

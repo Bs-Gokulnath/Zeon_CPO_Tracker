@@ -1,0 +1,222 @@
+{
+  "station_id": 15769,
+  "station_detail": {
+    "station_id": 15769,
+    "station_name": "Becup | Prabha EV | 3.3 kW",
+    "latitude": 10.695136,
+    "longitude": 76.729967,
+    "address": "MPWJ+432, Palakkad, Kerala, 678104, India",
+    "area": "MPWJ+432",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.695136,76.729967",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8567 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Prabha_Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 69473,
+        "price_with_currency": "₹ 16.0",
+        "price": 16.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35156,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "AMK Becup | Prabha EV | 3.3 kW 1",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 69645,
+        "price_with_currency": "₹ 16.0",
+        "price": 16.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35370,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "AMK Becup | Prabha EV | 3.3 kW 2",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Palakkad",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 3.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15769,
+      "station_name": "Becup | Prabha EV | 3.3 kW",
+      "latitude": 10.695136,
+      "longitude": 76.729967,
+      "address": "MPWJ+432, Palakkad, Kerala, 678104, India",
+      "area": "MPWJ+432",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.695136,76.729967",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Prabha_map_pin.png"
+    },
+    {
+      "id": 12252,
+      "station_name": "chargeMOD | EVee Buddy | Town Plug EVCS | Palakkad",
+      "latitude": 10.764919,
+      "longitude": 76.65204,
+      "address": "Opp Town Square Club, Palakkad, Kerala, 678012, India",
+      "area": "Opp Town Square Club",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.764919,76.65204",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 7251,
+      "station_name": "2001256-V.K.PETRO PARK",
+      "latitude": 10.73823,
+      "longitude": 76.6333,
+      "address": "KANNADI, Alangad, Kerala, 678701, India",
+      "area": "KANNADI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.73823,76.6333",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10581,
+      "station_name": "chargeMOD | FLASH CHARGE | EVCS CHULLIMADA",
+      "latitude": 10.80224,
+      "longitude": 76.78498,
+      "address": "Chullimada Kanjikode Near , Palakkad, Kerala, 678621, India",
+      "area": "Chullimada Kanjikode Near ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.80224,76.78498",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 15485,
+      "station_name": "PEEVEEAR FUEL SERVICE",
+      "latitude": 10.770782,
+      "longitude": 76.632514,
+      "address": "PALAKKAD, Palakkad, Kerala, 678006, India",
+      "area": "PALAKKAD",
+      "avg_review_rating": 4.78,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.770782,76.632514",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 2,
+  "dc_count": 0,
+  "ac_prices": [
+    16.0,
+    16.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:16:40.743654+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

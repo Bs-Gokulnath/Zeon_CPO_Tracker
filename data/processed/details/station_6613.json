@@ -1,0 +1,212 @@
+{
+  "station_id": 6613,
+  "station_detail": {
+    "station_id": 6613,
+    "station_name": "REIL MANJUNATHA SERVICE STATION",
+    "latitude": 13.01404,
+    "longitude": 77.485428,
+    "address": "ANTHRAHALLI , Bengaluru, Karnataka, 560091, India",
+    "area": "ANTHRAHALLI ",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.01404,77.485428",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8661 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/REIL/REIL_Banner.png",
+    "landmark": "ANTHRAHALLI MAIN ROAD",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54123,
+        "price_with_currency": "₹ 18.0",
+        "price": 18.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 12171,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 12172,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 3,
+            "connector_id": 12173,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 9.9,
+        "charger_name": "EV Charger AC001-10KW",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bengaluru",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 9.9,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 6613,
+      "station_name": "REIL MANJUNATHA SERVICE STATION",
+      "latitude": 13.01404,
+      "longitude": 77.485428,
+      "address": "ANTHRAHALLI , Bengaluru, Karnataka, 560091, India",
+      "area": "ANTHRAHALLI ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.01404,77.485428",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 6593,
+      "station_name": "REIL MANJUNATHA FUEL STATION",
+      "latitude": 13.01839,
+      "longitude": 77.482681,
+      "address": "Kadathanamale, Bengaluru, Karnataka, 560064, India",
+      "area": "Kadathanamale",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.01839,77.482681",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 6607,
+      "station_name": "REIL Adithya Service Station",
+      "latitude": 12.98607,
+      "longitude": 77.47921,
+      "address": "RAMAMURTHY NAGAR, Bengaluru, Karnataka, 560016, India",
+      "area": "RAMAMURTHY NAGAR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.98607,77.47921",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 11197,
+      "station_name": "Shell Recharge Tumkur road",
+      "latitude": 13.046599,
+      "longitude": 77.502285,
+      "address": "Tumkur road, Bengaluru, Karnataka, 560073, India",
+      "area": "Tumkur road",
+      "avg_review_rating": 4.54,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.046599,77.502285",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
+    },
+    {
+      "id": 6586,
+      "station_name": "REIL LIBRA PETRO SERVICES PVT. LTD",
+      "latitude": 13.02573,
+      "longitude": 77.520912,
+      "address": " Peenya, Bengaluru, Karnataka, 560058, India",
+      "area": " Peenya",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.02573,77.520912",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    18.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:01:34.599163+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

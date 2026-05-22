@@ -1,0 +1,204 @@
+{
+  "station_id": 12094,
+  "station_detail": {
+    "station_id": 12094,
+    "station_name": "RJ | Nabri | Mewar Resort",
+    "latitude": 25.599493,
+    "longitude": 73.938419,
+    "address": "Mewar Resort, Nabri, Rajasthan, 313331, India",
+    "area": "Mewar Resort",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.599493,73.938419",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8410 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 2.0,
+    "no_of_reviews": 4,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 63477,
+        "price_with_currency": "₹ 21.5",
+        "price": 21.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26347,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 26350,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "TCZ RJ | Nabri | Mewar Resort 1",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 75,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 25
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Nabri",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12094,
+      "station_name": "RJ | Nabri | Mewar Resort",
+      "latitude": 25.599493,
+      "longitude": 73.938419,
+      "address": "Mewar Resort, Nabri, Rajasthan, 313331, India",
+      "area": "Mewar Resort",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.599493,73.938419",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 5025,
+      "station_name": "GLIDA HPCL Rameshwari",
+      "latitude": 25.70627,
+      "longitude": 74.063,
+      "address": "Kukarkhera Sadharan Bhim, Udaipur, Rajasthan, 305921, India",
+      "area": "Kukarkhera Sadharan Bhim",
+      "avg_review_rating": 4.35,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.70627,74.063",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    },
+    {
+      "id": 7524,
+      "station_name": "2011691-RATAN TRADING COMPAY",
+      "latitude": 25.721652,
+      "longitude": 74.072961,
+      "address": "BHIM, Dholpur, Rajasthan, 305921, India",
+      "area": "BHIM",
+      "avg_review_rating": 4.78,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.721652,74.072961",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13323,
+      "station_name": "ID(t1qsxy) Jai dhanop fuel station",
+      "latitude": 25.513515,
+      "longitude": 74.112893,
+      "address": "Udairamji Ka Gurha, Udairamji Ka Gurha, Rajasthan, 311804, India",
+      "area": "Udairamji Ka Gurha",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.513515,74.112893",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 6767,
+      "station_name": "AUWA AUTOMOBILES",
+      "latitude": 25.605941,
+      "longitude": 73.625591,
+      "address": "\"VIA : MARWAR JUNCTION,  AUWA,   DIST. PALI-306021\", Pali, Rajasthan, 306021, India",
+      "area": "\"VIA : MARWAR JUNCTION,  AUWA,   DIST. PALI-306021\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.605941,73.625591",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.5
+  ],
+  "scraped_at": "2026-05-21T08:11:21.697093+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,222 @@
+{
+  "station_id": 1842,
+  "station_detail": {
+    "station_id": 1842,
+    "station_name": "Statiq x TATA.ev Nexus Udaipur Celebration Mall Station",
+    "latitude": 24.61257,
+    "longitude": 73.702522,
+    "address": "Nexus Celebration Mall, NH-8, Udaipur, Rajasthan, 313004, India",
+    "area": "Nexus Celebration Mall, NH-8",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.61257,73.702522",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8373 kms",
+    "operational_time": "10:00 To 22:00",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.46,
+    "no_of_reviews": 2601,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/DC.png",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": "Celebration Mall",
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 210,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 1554,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 2129,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "Nexus Udaipur DC Charger 1",
+        "last_used_on": "20/05/2026"
+      },
+      {
+        "charger_id": 1555,
+        "price_with_currency": "₹ 24.99",
+        "price": 24.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 2130,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "Nexus Udaipur DC Charger 2",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 7,
+        "2": 1,
+        "3": 4,
+        "4": 16,
+        "5": 73
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Udaipur",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 1842,
+      "station_name": "Statiq x TATA.ev Nexus Udaipur Celebration Mall Station",
+      "latitude": 24.61257,
+      "longitude": 73.702522,
+      "address": "Nexus Celebration Mall, NH-8, Udaipur, Rajasthan, 313004, India",
+      "area": "Nexus Celebration Mall, NH-8",
+      "avg_review_rating": 4.46,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.61257,73.702522",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 6683,
+      "station_name": "DIGGAJ FUELS",
+      "latitude": 24.607376,
+      "longitude": 73.698959,
+      "address": "PLOT NO 2 , NEAR PARMANAND CIRCLE, BHUWANA, UDAIPUR, Udaipur, Rajasthan, 313001, India",
+      "area": "PLOT NO 2 , NEAR PARMANAND CIRCLE, BHUWANA, UDAIPUR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.607376,73.698959",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 6697,
+      "station_name": "CLASSIC FILLING STATION",
+      "latitude": 24.607376,
+      "longitude": 73.698959,
+      "address": "DELHI GATE HOUSE NO 3, BEHIND BHATI TRANSPORT, CHHITTORGARH, Chittaurgarh, Rajasthan, 312001, India",
+      "area": "DELHI GATE HOUSE NO 3, BEHIND BHATI TRANSPORT, CHHITTORGARH",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.607376,73.698959",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9947,
+      "station_name": "Hotel Vesta Grand Central Udaipur",
+      "latitude": 24.601541,
+      "longitude": 73.689633,
+      "address": "8-A, Udaipur, Rajasthan, 313001, India",
+      "area": "8-A",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.601541,73.689633",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 11757,
+      "station_name": "Hotel Vesta Udaipur",
+      "latitude": 24.601541,
+      "longitude": 73.689632,
+      "address": "8-A, Udaipur, Rajasthan, 313001, India",
+      "area": "8-A",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.601541,73.689632",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 2,
+  "ac_prices": [],
+  "dc_prices": [
+    21.99,
+    24.99
+  ],
+  "scraped_at": "2026-05-21T07:59:13.187210+00:00",
+  "parse_success": true,
+  "missing_fields": [],
+  "coverage_pct": 100.0
+}

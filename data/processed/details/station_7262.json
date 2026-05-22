@@ -1,0 +1,188 @@
+{
+  "station_id": 7262,
+  "station_detail": {
+    "station_id": 7262,
+    "station_name": "2006982-SHRI BALAJI FUEL STATION",
+    "latitude": 23.635787,
+    "longitude": 76.580435,
+    "address": "MAU, Mau, Madhya Pradesh, 465697, India",
+    "area": "MAU",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.635787,76.580435",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8652 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 55101,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13447,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "2006982-SHRI BALAJI FUEL STATION",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Mau",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7262,
+      "station_name": "2006982-SHRI BALAJI FUEL STATION",
+      "latitude": 23.635787,
+      "longitude": 76.580435,
+      "address": "MAU, Mau, Madhya Pradesh, 465697, India",
+      "area": "MAU",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.635787,76.580435",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10792,
+      "station_name": "Shri Mothilal KSK",
+      "latitude": 23.63768,
+      "longitude": 76.67039,
+      "address": "padiya dhakad, Pachore, Madhya Pradesh, 465683, India",
+      "area": "padiya dhakad",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.63768,76.67039",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 10771,
+      "station_name": "2011937-JAGDISH FILLING CENTER",
+      "latitude": 23.719334,
+      "longitude": 76.736635,
+      "address": "BHOJPURIA AB ROAD NH3 PACHORE, BHOJPURIA,, Pachore, Madhya Pradesh, 465683, India",
+      "area": "BHOJPURIA AB ROAD NH3 PACHORE, BHOJPURIA,",
+      "avg_review_rating": 4.88,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.719334,76.736635",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 9503,
+      "station_name": "2003110-NATIONAL HIGHWAY FILLING STATION",
+      "latitude": 23.512683,
+      "longitude": 76.410264,
+      "address": "RO AT  PANWADI, Shajapur, Madhya Pradesh, 465001, India",
+      "area": "RO AT  PANWADI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.512683,76.410264",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 11859,
+      "station_name": "2016899-MAA ANNAPURNA PETROL PUMP",
+      "latitude": 23.394766,
+      "longitude": 76.598429,
+      "address": "Sarangpur Rd, Akodia, Shajapur, Madhya Pradesh, 465225, India",
+      "area": "Sarangpur Rd, Akodia",
+      "avg_review_rating": 4.36,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.394766,76.598429",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:02:42.666373+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

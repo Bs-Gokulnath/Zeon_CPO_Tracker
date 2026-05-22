@@ -1,0 +1,188 @@
+{
+  "station_id": 14568,
+  "station_detail": {
+    "station_id": 14568,
+    "station_name": "Sis Meridian Car ev charging station",
+    "latitude": 12.982418,
+    "longitude": 80.217599,
+    "address": "Lakshmi Nagar, Chennai, Tamil Nadu, 600042, India",
+    "area": "Lakshmi Nagar",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.982418,80.217599",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8957 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Gentari+(5).png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 67338,
+        "price_with_currency": "₹ 13.56",
+        "price": 13.56,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 31747,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "BLT Sis Meridian Car ev charging station 1",
+        "last_used_on": "18/02/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Chennai",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 7.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14568,
+      "station_name": "Sis Meridian Car ev charging station",
+      "latitude": 12.982418,
+      "longitude": 80.217599,
+      "address": "Lakshmi Nagar, Chennai, Tamil Nadu, 600042, India",
+      "area": "Lakshmi Nagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.982418,80.217599",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    },
+    {
+      "id": 8651,
+      "station_name": "TN | Chennai | The Westin - Velachery",
+      "latitude": 12.989492,
+      "longitude": 80.22057,
+      "address": "154, Chennai, Tamil Nadu, 600042, India",
+      "area": "154",
+      "avg_review_rating": 4.85,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.989492,80.22057",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 8537,
+      "station_name": "TN | Chennai | Four Points By Sheraton",
+      "latitude": 12.970559,
+      "longitude": 80.219048,
+      "address": "No 333, Chennai, Tamil Nadu, 600042, India",
+      "area": "No 333",
+      "avg_review_rating": 4.36,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.970559,80.219048",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonecharging.png"
+    },
+    {
+      "id": 2026,
+      "station_name": "Statiq Jubilant  Motors Station",
+      "latitude": 12.970239,
+      "longitude": 80.218391,
+      "address": "No. 398 & 398A, Tambaram Main Road, Chennai, Tamil Nadu, 600042, India",
+      "area": "No. 398 & 398A, Tambaram Main Road",
+      "avg_review_rating": 4.77,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.970239,80.218391",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 14699,
+      "station_name": "SDC Ramaniyam magnum car ev charging station -1",
+      "latitude": 12.977597,
+      "longitude": 80.243199,
+      "address": "Ambedkar Nagar, Chennai, Tamil Nadu, 600096, India",
+      "area": "Ambedkar Nagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.977597,80.243199",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    13.56
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:14:03.088173+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

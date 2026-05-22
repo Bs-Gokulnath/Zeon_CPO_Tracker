@@ -1,0 +1,238 @@
+{
+  "station_id": 14561,
+  "station_detail": {
+    "station_id": 14561,
+    "station_name": "Greenland Saravana Bhavan (Charge_iN by Mahindra)",
+    "latitude": 12.534716,
+    "longitude": 78.261654,
+    "address": "Sarvana Bhavan, Krishnagiri, Tamil Nadu, 635001, India",
+    "area": "Sarvana Bhavan",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.534716,78.261654",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8743 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.5,
+    "no_of_reviews": 10,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/MnM_Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 67326,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 31731,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 31732,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 360.0,
+        "charger_name": "MPC Greenland Saravana Bhavan (Charge_iN by Mahindra) 1",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 67327,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 31733,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 31734,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "preparing"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 360.0,
+        "charger_name": "MPC Greenland Saravana Bhavan (Charge_iN by Mahindra) 2",
+        "last_used_on": "14/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 10,
+        "3": 0,
+        "4": 20,
+        "5": 70
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Krishnagiri",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 360.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14561,
+      "station_name": "Greenland Saravana Bhavan (Charge_iN by Mahindra)",
+      "latitude": 12.534716,
+      "longitude": 78.261654,
+      "address": "Sarvana Bhavan, Krishnagiri, Tamil Nadu, 635001, India",
+      "area": "Sarvana Bhavan",
+      "avg_review_rating": 4.5,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.534716,78.261654",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mahindra_Branding_logo.png"
+    },
+    {
+      "id": 10408,
+      "station_name": "K T L & M A OWNERS ASSOCIATION",
+      "latitude": 12.535587,
+      "longitude": 78.261506,
+      "address": "KRISHNAGIRI, Krishnagiri, Tamil Nadu, 635108, India",
+      "area": "KRISHNAGIRI",
+      "avg_review_rating": 4.73,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.535587,78.261506",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12367,
+      "station_name": "BP KRISHNAGIRI",
+      "latitude": 12.494385,
+      "longitude": 78.22073,
+      "address": "KRISHNAGIRI, Krishnagiri, Tamil Nadu, 635001, India",
+      "area": "KRISHNAGIRI",
+      "avg_review_rating": 4.58,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.494385,78.22073",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 7576,
+      "station_name": "2015961-BP KRISHNAGIRI",
+      "latitude": 12.494385,
+      "longitude": 78.22073,
+      "address": "KRISHNAGIRI, Krishnagiri, Tamil Nadu, 635001, India",
+      "area": "KRISHNAGIRI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.494385,78.22073",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 2857,
+      "station_name": "Statiq Saravana Bhavan Classic New Station",
+      "latitude": 12.55368,
+      "longitude": 78.18824,
+      "address": "2/77, Krishnagiri, Tamil Nadu, 635115, India",
+      "area": "2/77",
+      "avg_review_rating": 4.71,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.55368,78.18824",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 2,
+  "ac_prices": [],
+  "dc_prices": [
+    20.0,
+    20.0
+  ],
+  "scraped_at": "2026-05-21T08:13:54.908286+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

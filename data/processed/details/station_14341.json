@@ -1,0 +1,198 @@
+{
+  "station_id": 14341,
+  "station_detail": {
+    "station_id": 14341,
+    "station_name": "227868-SHRI VAISHNO FULES",
+    "latitude": 24.377811,
+    "longitude": 81.052478,
+    "address": "SARBAKA, Satna, Madhya Pradesh, 485775, India",
+    "area": "SARBAKA",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.377811,81.052478",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9112 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 66303,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 30559,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 30560,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "SHRI VAISHNO FULES",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Satna",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14341,
+      "station_name": "227868-SHRI VAISHNO FULES",
+      "latitude": 24.377811,
+      "longitude": 81.052478,
+      "address": "SARBAKA, Satna, Madhya Pradesh, 485775, India",
+      "area": "SARBAKA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.377811,81.052478",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14338,
+      "station_name": "2023149-STAR FILLING STATION",
+      "latitude": 24.366161,
+      "longitude": 80.979303,
+      "address": "RAMPUR-AMARPATAN, Amarpatan, Madhya Pradesh, 485775, India",
+      "area": "RAMPUR-AMARPATAN",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.366161,80.979303",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9630,
+      "station_name": "MAA MAHAMAYA PETROLEUM",
+      "latitude": 24.500269,
+      "longitude": 81.111912,
+      "address": "SATNA, Satna, Madhya Pradesh, 485115, India",
+      "area": "SATNA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.500269,81.111912",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12199,
+      "station_name": "2009689-MOHAN TRANSPORT AGENCY",
+      "latitude": 24.49147,
+      "longitude": 81.15902,
+      "address": "RO AT BELA,, Satna, Madhya Pradesh, 485115, India",
+      "area": "RO AT BELA,",
+      "avg_review_rating": 4.1,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.49147,81.15902",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14348,
+      "station_name": "2013601 - AZAD FILLING STATION",
+      "latitude": 24.279139,
+      "longitude": 80.904545,
+      "address": "ON NH7, MAIHER ROAD,, Satna, Madhya Pradesh, 485774, India",
+      "area": "ON NH7, MAIHER ROAD,",
+      "avg_review_rating": 4.32,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.279139,80.904545",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:13:29.571358+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

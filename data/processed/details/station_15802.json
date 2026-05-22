@@ -1,0 +1,277 @@
+{
+  "station_id": 15802,
+  "station_detail": {
+    "station_id": 15802,
+    "station_name": "EESL Chennai Little Mount Metro Station",
+    "latitude": 13.014967,
+    "longitude": 80.221594,
+    "address": "Little Mount Metro Station, Chennai, Tamil Nadu, Chennai, Tamil Nadu, 600015, India",
+    "area": "Little Mount Metro Station, Chennai, Tamil Nadu",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.014967,80.221594",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8958 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 2,
+        "connector_name": "CHAdeMO",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/chademo.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 69746,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35536,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 35537,
+            "connector_type": "CHAdeMO",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/chademo.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 2,
+            "connector_status": "unavailable"
+          },
+          {
+            "display_id": 3,
+            "connector_id": 35538,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 142.0,
+        "charger_name": "EESL Chennai Little Mount Metro Station 142kW CCS2/ChadeMO/Type2-1",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 69758,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35555,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 35556,
+            "connector_type": "CHAdeMO",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/chademo.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 2,
+            "connector_status": "unavailable"
+          },
+          {
+            "display_id": 3,
+            "connector_id": 35557,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 142.0,
+        "charger_name": "EESL Chennai Little Mount Metro Station 142kW CCS2/ChadeMO/Type2-2",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Chennai",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 142.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15802,
+      "station_name": "EESL Chennai Little Mount Metro Station",
+      "latitude": 13.014967,
+      "longitude": 80.221594,
+      "address": "Little Mount Metro Station, Chennai, Tamil Nadu, Chennai, Tamil Nadu, 600015, India",
+      "area": "Little Mount Metro Station, Chennai, Tamil Nadu",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.014967,80.221594",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 7813,
+      "station_name": "Statiq Bloom Hub Station",
+      "latitude": 13.014483,
+      "longitude": 80.222488,
+      "address": "100 m inside from the Main Entrance, 30, Anna Salai, Little Mount, Guindy, Saidapet,, Chennai, Tamil Nadu, 600015, India",
+      "area": "100 m inside from the Main Entrance, 30, Anna Salai, Little Mount, Guindy, Saidapet,",
+      "avg_review_rating": 4.7,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.014483,80.222488",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 5183,
+      "station_name": "Statiq ITC Grand Chola Station",
+      "latitude": 13.0106,
+      "longitude": 80.220749,
+      "address": "ITC Grand Chola, Icon awesome-map-marker-alt.png No. 63, Mount Road, Guindy, Chennai- , Tamil Nadu, India, Chennai, Tamil Nadu, 600032, India",
+      "area": "ITC Grand Chola, Icon awesome-map-marker-alt.png No. 63, Mount Road, Guindy, Chennai- , Tamil Nadu, India",
+      "avg_review_rating": 4.8,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.0106,80.220749",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 15816,
+      "station_name": "EESL Chennai Nandanam Metro Station",
+      "latitude": 13.01866,
+      "longitude": 80.212673,
+      "address": "Nandanam Metro Station, Chennai, Tamil Nadu, Chennai, Tamil Nadu, 600035, India",
+      "area": "Nandanam Metro Station, Chennai, Tamil Nadu",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.01866,80.212673",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15803,
+      "station_name": "EESL Chennai Guindy Metro Station",
+      "latitude": 13.009058,
+      "longitude": 80.212143,
+      "address": "Guindy Metro Station, Chennai, Tamil Nadu, Chennai, Tamil Nadu, 600032, India",
+      "area": "Guindy Metro Station, Chennai, Tamil Nadu",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.009058,80.212143",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 2,
+  "ac_prices": [],
+  "dc_prices": [
+    20.0,
+    20.0
+  ],
+  "scraped_at": "2026-05-21T08:16:53.201138+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

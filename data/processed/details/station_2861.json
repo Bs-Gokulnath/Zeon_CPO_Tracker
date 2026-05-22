@@ -1,0 +1,210 @@
+{
+  "station_id": 2861,
+  "station_detail": {
+    "station_id": 2861,
+    "station_name": "Statiq Hotel Rajdhani Palace Station",
+    "latitude": 18.719545,
+    "longitude": 74.187195,
+    "address": "Street No. 327/2, Pune, Maharashtra, 412208, India",
+    "area": "Street No. 327/2",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.719545,74.187195",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8353 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.18,
+    "no_of_reviews": 158,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 748,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 3620,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 5088,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "Hotel Rajdhani Palace DC Charger",
+        "last_used_on": "29/04/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 12,
+        "2": 2,
+        "3": 5,
+        "4": 18,
+        "5": 63
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Pune",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": [
+      {
+        "id": 141,
+        "station_image_url": "$21"
+      }
+    ]
+  },
+  "nearby_stations": [
+    {
+      "id": 2861,
+      "station_name": "Statiq Hotel Rajdhani Palace Station",
+      "latitude": 18.719545,
+      "longitude": 74.187195,
+      "address": "Street No. 327/2, Pune, Maharashtra, 412208, India",
+      "area": "Street No. 327/2",
+      "avg_review_rating": 4.18,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.719545,74.187195",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 12086,
+      "station_name": "MH | Kondhapuri | Good Luck Lunch Home",
+      "latitude": 18.719803,
+      "longitude": 74.186758,
+      "address": "Pune Nagar Highway, Kondhapuri, Maharashtra, 412209, India",
+      "area": "Pune Nagar Highway",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.719803,74.186758",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 7646,
+      "station_name": "2019950-GAIKWAD PETROLEUM",
+      "latitude": 18.724196,
+      "longitude": 74.194869,
+      "address": "PUNE, Pune, Maharashtra, 412209, India",
+      "area": "PUNE",
+      "avg_review_rating": 3.77,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.724196,74.194869",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13381,
+      "station_name": "ID(cfk1xy) SHIVSHANTI PETROLEUM SHIKRAPUR MALTHAN PHATTA",
+      "latitude": 18.700012,
+      "longitude": 74.14654,
+      "address": "Shikrapur, Shikrapur, Maharashtra, 412208, India",
+      "area": "Shikrapur",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.700012,74.14654",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 14263,
+      "station_name": "U.P. GUJAR",
+      "latitude": 18.6921,
+      "longitude": 74.1315,
+      "address": "Pune, Pune, Maharashtra, 412208, India",
+      "area": "Pune",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.6921,74.1315",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.99
+  ],
+  "scraped_at": "2026-05-21T07:59:35.216141+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

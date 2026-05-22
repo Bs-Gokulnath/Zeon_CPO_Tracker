@@ -1,0 +1,210 @@
+{
+  "station_id": 8134,
+  "station_detail": {
+    "station_id": 8134,
+    "station_name": "33/11 KV Ibrahimbagh Sub-station EV Charging Stati",
+    "latitude": 17.374687,
+    "longitude": 78.395522,
+    "address": "Osman Sagar Rd, Ramdev Guda, Ibrahim Bagh,, Ranga Reddy district, Telangana, 500031, India",
+    "area": "Osman Sagar Rd, Ramdev Guda, Ibrahim Bagh,",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.374687,78.395522",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8786 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 2.67,
+    "no_of_reviews": 12,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 12045,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 56449,
+        "price_with_currency": "₹ 13.0",
+        "price": 13.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 15210,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 15211,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "33/11 KV Ibrahimbagh Sub-station EV Charging Station",
+        "last_used_on": "19/01/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 42,
+        "2": 17,
+        "3": 8,
+        "4": 0,
+        "5": 33
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ranga Reddy district",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8134,
+      "station_name": "33/11 KV Ibrahimbagh Sub-station EV Charging Stati",
+      "latitude": 17.374687,
+      "longitude": 78.395522,
+      "address": "Osman Sagar Rd, Ramdev Guda, Ibrahim Bagh,, Ranga Reddy district, Telangana, 500031, India",
+      "area": "Osman Sagar Rd, Ramdev Guda, Ibrahim Bagh,",
+      "avg_review_rating": 2.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.374687,78.395522",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 11265,
+      "station_name": "VAMSHI FUEL POINT",
+      "latitude": 17.37335,
+      "longitude": 78.4111,
+      "address": "HYDERABAD, Hyderabad, Telangana, 500008, India",
+      "area": "HYDERABAD",
+      "avg_review_rating": 4.78,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.37335,78.4111",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 4821,
+      "station_name": "REIL Char minar filling stn / BUNG FILLING STATION",
+      "latitude": 17.366825,
+      "longitude": 78.379669,
+      "address": "GULAB SINGH STREET, PETLABURJ , Hyderabad, Telangana, 500064, India",
+      "area": "GULAB SINGH STREET, PETLABURJ ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.366825,78.379669",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 2091,
+      "station_name": "7 Tombs EV Charging Station",
+      "latitude": 17.393564,
+      "longitude": 78.400154,
+      "address": "Fort Road Qutubshahi Tombs near Tolichowki Circle, Hyderabad, Telangana, 500008, India",
+      "area": "Fort Road Qutubshahi Tombs near Tolichowki Circle",
+      "avg_review_rating": 3.02,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.393564,78.400154",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8969,
+      "station_name": "M/s. VISHAL FUELS",
+      "latitude": 17.378815,
+      "longitude": 78.370809,
+      "address": "HYDERABAD, Hyderabad, Telangana, 500075, India",
+      "area": "HYDERABAD",
+      "avg_review_rating": 4.76,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.378815,78.370809",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    13.0
+  ],
+  "scraped_at": "2026-05-21T08:04:00.268901+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

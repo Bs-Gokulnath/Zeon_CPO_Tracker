@@ -1,0 +1,188 @@
+{
+  "station_id": 7061,
+  "station_detail": {
+    "station_id": 7061,
+    "station_name": "2000927-HARSHVARDHAN FILLING STATION",
+    "latitude": 19.260264,
+    "longitude": 76.419662,
+    "address": "PATHRI, Pathri, Maharashtra, 431506, India",
+    "area": "PATHRI",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.260264,76.419662",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8593 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54900,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13246,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "2000927-HARSHVARDHAN FILLING STATION",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Pathri",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7061,
+      "station_name": "2000927-HARSHVARDHAN FILLING STATION",
+      "latitude": 19.260264,
+      "longitude": 76.419662,
+      "address": "PATHRI, Pathri, Maharashtra, 431506, India",
+      "area": "PATHRI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.260264,76.419662",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12623,
+      "station_name": "ID(h2fvyo) ANVAYRAJE PETROLIUM",
+      "latitude": 19.15081,
+      "longitude": 76.233089,
+      "address": "Majalgaon, Majalgaon, Maharashtra, India",
+      "area": "Majalgaon",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.15081,76.233089",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 6864,
+      "station_name": "2013494-LB DAK PETROLEUM",
+      "latitude": 19.176178,
+      "longitude": 76.17778,
+      "address": "BEED, Beed, Maharashtra, 431131, India",
+      "area": "BEED",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.176178,76.17778",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 1536,
+      "station_name": "ShriSamarth Beed Charging Station",
+      "latitude": 19.1779,
+      "longitude": 76.167999,
+      "address": "EV Charging Station, NH 61, Phule Pimpalgaon, Beed, Maharashtra, 431142, India",
+      "area": "EV Charging Station, NH 61, Phule Pimpalgaon",
+      "avg_review_rating": 4.5,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.1779,76.167999",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/charging+pin+all.png"
+    },
+    {
+      "id": 6769,
+      "station_name": "Anand Petroleum",
+      "latitude": 19.296532,
+      "longitude": 76.708053,
+      "address": "VILL.- PARVA, PARBHANI MANWAT ROAD, DISTRICT - PARBHANI, Jalna, Maharashtra, 431530, India",
+      "area": "VILL.- PARVA, PARBHANI MANWAT ROAD, DISTRICT - PARBHANI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.296532,76.708053",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:02:10.014551+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

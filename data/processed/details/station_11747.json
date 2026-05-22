@@ -1,0 +1,208 @@
+{
+  "station_id": 11747,
+  "station_detail": {
+    "station_id": 11747,
+    "station_name": "NH8 7 Panchsheel Park Metro Station Gate No1",
+    "latitude": 28.5424,
+    "longitude": 77.222,
+    "address": "Gamal Abdel Nasser Marg, New Delhi, Delhi, 110017, India",
+    "area": "Gamal Abdel Nasser Marg",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.5424,77.222",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8771 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargerKaroSBBanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 62649,
+        "price_with_currency": "₹ 15.0",
+        "price": 15.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 25087,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 25088,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 3,
+            "connector_id": 25089,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 9.0,
+        "charger_name": "CJK NH8 7 Panchsheel Park Metro Station Gate No1 1",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "New Delhi",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 9.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11747,
+      "station_name": "NH8 7 Panchsheel Park Metro Station Gate No1",
+      "latitude": 28.5424,
+      "longitude": 77.222,
+      "address": "Gamal Abdel Nasser Marg, New Delhi, Delhi, 110017, India",
+      "area": "Gamal Abdel Nasser Marg",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.5424,77.222",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargerKarodefault.png"
+    },
+    {
+      "id": 13566,
+      "station_name": "Blaze Ac Demo",
+      "latitude": 28.539223,
+      "longitude": 77.216789,
+      "address": "T1/220 Savitri Nagar Malviya Nagar, New Delhi, Delhi, 110017, India",
+      "area": "T1/220 Savitri Nagar Malviya Nagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.539223,77.216789",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    },
+    {
+      "id": 9714,
+      "station_name": "Chirag Delhi Main Road",
+      "latitude": 28.540122,
+      "longitude": 77.231951,
+      "address": "Chirag Delhi Main Road, New Delhi, Delhi, 110048, India",
+      "area": "Chirag Delhi Main Road",
+      "avg_review_rating": 3.17,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.540122,77.231951",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15518,
+      "station_name": "Chirag Delhi by Reliable Charge Lal Bahadur Shastri Marg, Chirag Delhi Main Road, near Chirag Delhi, Masjid Moth, Flyover, New Delhi, Delhi 110017",
+      "latitude": 28.539954,
+      "longitude": 77.232003,
+      "address": "Lal Bahadur Shastri Marg, New Delhi, Delhi, 110017, India",
+      "area": "Lal Bahadur Shastri Marg",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.539954,77.232003",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 11735,
+      "station_name": "Masjid moth",
+      "latitude": 28.541,
+      "longitude": 77.2347,
+      "address": "Masjid Moth Phase 2, New Delhi, Delhi, 110048, India",
+      "area": "Masjid Moth Phase 2",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.541,77.2347",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargerKarodefault.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    15.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:10:32.724934+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

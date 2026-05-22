@@ -1,0 +1,208 @@
+{
+  "station_id": 10633,
+  "station_detail": {
+    "station_id": 10633,
+    "station_name": "NRL ENERGY STATION FS",
+    "latitude": 25.795034,
+    "longitude": 87.55807,
+    "address": "NRL ENERGY STATION CHAMKA CHOWK , GULAB BAG PURNIA , Purnia, Bihar, 854326, India",
+    "area": "NRL ENERGY STATION CHAMKA CHOWK , GULAB BAG PURNIA ",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.795034,87.55807",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9774 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 2,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": "Punia Zero mile ",
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 12857,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 60400,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 21523,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 21524,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "NRL ENERGY STATION FS",
+        "last_used_on": "12/07/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Purnia",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10633,
+      "station_name": "NRL ENERGY STATION FS",
+      "latitude": 25.795034,
+      "longitude": 87.55807,
+      "address": "NRL ENERGY STATION CHAMKA CHOWK , GULAB BAG PURNIA , Purnia, Bihar, 854326, India",
+      "area": "NRL ENERGY STATION CHAMKA CHOWK , GULAB BAG PURNIA ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.795034,87.55807",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8194,
+      "station_name": "MAA AMBEY FUEL AGENCY",
+      "latitude": 25.81593,
+      "longitude": 87.54652,
+      "address": "BHARAT PETROLEUM CORPORATION LIMITED M/S MAA AMBEY FUEL AGENCY ZERO MILE , GULABBAGH PURNIA DIST., Purnia, Bihar, 854330, India",
+      "area": "BHARAT PETROLEUM CORPORATION LIMITED M/S MAA AMBEY FUEL AGENCY ZERO MILE , GULABBAGH PURNIA DIST.",
+      "avg_review_rating": 4.71,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.81593,87.54652",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 6880,
+      "station_name": "2004864-BP-PURNEA",
+      "latitude": 25.730506,
+      "longitude": 87.458358,
+      "address": "PURNEA, Purnia, Bihar, 854301, India",
+      "area": "PURNEA",
+      "avg_review_rating": 4.49,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.730506,87.458358",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 15403,
+      "station_name": "JANTA SEVA FUEL CENTRE",
+      "latitude": 25.99808,
+      "longitude": 87.516,
+      "address": "ARARIA, Araria, Bihar, 854325, India",
+      "area": "ARARIA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.99808,87.516",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14810,
+      "station_name": "GANPATI FUEL CENTRE",
+      "latitude": 25.53998,
+      "longitude": 87.57893,
+      "address": "KATIHAR, Katihar, Bihar, 854105, India",
+      "area": "KATIHAR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.53998,87.57893",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:08:59.461956+00:00",
+  "parse_success": true,
+  "missing_fields": [],
+  "coverage_pct": 100.0
+}

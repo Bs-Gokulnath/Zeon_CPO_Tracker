@@ -1,0 +1,204 @@
+{
+  "station_id": 9396,
+  "station_detail": {
+    "station_id": 9396,
+    "station_name": "HR | Panipat | Sawan Hyundai",
+    "latitude": 29.432392,
+    "longitude": 76.971081,
+    "address": "Grand Trunk Rd, Panipat, Haryana, 132103, India",
+    "area": "Grand Trunk Rd",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.432392,76.971081",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8758 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 7,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 58314,
+        "price_with_currency": "₹ 21.5",
+        "price": 21.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 18244,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 18245,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "TCZ HR | Panipat | Sawan Hyundai 1",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Panipat",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9396,
+      "station_name": "HR | Panipat | Sawan Hyundai",
+      "latitude": 29.432392,
+      "longitude": 76.971081,
+      "address": "Grand Trunk Rd, Panipat, Haryana, 132103, India",
+      "area": "Grand Trunk Rd",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.432392,76.971081",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 12690,
+      "station_name": "ID(5mblge)SITA RAM KHUSHAL CHAND",
+      "latitude": 29.438283,
+      "longitude": 76.969777,
+      "address": "Parsvnath Paliwal City, Panipat, Haryana, 132103, India",
+      "area": "Parsvnath Paliwal City",
+      "avg_review_rating": 4.89,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.438283,76.969777",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 11910,
+      "station_name": "2007662-Panipat Filling Station",
+      "latitude": 29.415279,
+      "longitude": 76.969585,
+      "address": " PANIPAT, NH-1, AMBALA DELHI ROAD, Panipat, Haryana, 132104, India",
+      "area": " PANIPAT, NH-1, AMBALA DELHI ROAD",
+      "avg_review_rating": 4.47,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.415279,76.969585",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 12260,
+      "station_name": "2007813-KARAM CHAND & SONS",
+      "latitude": 29.386685,
+      "longitude": 76.999977,
+      "address": "UGRAKHEI, Panipat, Haryana, 132103, India",
+      "area": "UGRAKHEI",
+      "avg_review_rating": 4.34,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.386685,76.999977",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 4939,
+      "station_name": "GLIDA The Urban village",
+      "latitude": 29.487735,
+      "longitude": 76.972162,
+      "address": "The Urban Village VPO Kohand, Karnal, Haryana, 132114, India",
+      "area": "The Urban Village VPO Kohand",
+      "avg_review_rating": 4.47,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.487735,76.972162",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.5
+  ],
+  "scraped_at": "2026-05-21T08:06:07.273386+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

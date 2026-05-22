@@ -1,0 +1,253 @@
+{
+  "station_id": 4842,
+  "station_detail": {
+    "station_id": 4842,
+    "station_name": "Statiq DLF World Tech Park Station",
+    "latitude": 28.462255,
+    "longitude": 77.054619,
+    "address": "Near to T point tower c, World Tech Park Block-B, Delhi - Jaipur Expy, Block A, Sector 30, Gurugram, Haryana, 122022, India",
+    "area": "Near to T point tower c, World Tech Park Block-B, Delhi - Jaipur Expy, Block A, Sector 30",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.462255,77.054619",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8754 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.77,
+    "no_of_reviews": 7027,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 51466,
+        "price_with_currency": "₹ 24.99",
+        "price": 24.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 9065,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 9066,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "DLF World Tech Park DC Charger 1",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 51467,
+        "price_with_currency": "₹ 24.89",
+        "price": 24.89,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 9067,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 9068,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "DLF World Tech Park DC Charger 2",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 19,
+        "5": 80
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": true,
+    "station_city_name": "Gurugram",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": [
+      {
+        "id": 211,
+        "station_image_url": "$21"
+      }
+    ]
+  },
+  "nearby_stations": [
+    {
+      "id": 4842,
+      "station_name": "Statiq DLF World Tech Park Station",
+      "latitude": 28.462255,
+      "longitude": 77.054619,
+      "address": "Near to T point tower c, World Tech Park Block-B, Delhi - Jaipur Expy, Block A, Sector 30, Gurugram, Haryana, 122022, India",
+      "area": "Near to T point tower c, World Tech Park Block-B, Delhi - Jaipur Expy, Block A, Sector 30",
+      "avg_review_rating": 4.77,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.462255,77.054619",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 4971,
+      "station_name": "GLIDA MG Gurgaon Sector 15",
+      "latitude": 28.46147,
+      "longitude": 77.050334,
+      "address": "32 Milestone, Gurugram, Haryana, 122001, India",
+      "area": "32 Milestone",
+      "avg_review_rating": 4.76,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.46147,77.050334",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/unavailable+select.png"
+    },
+    {
+      "id": 1991,
+      "station_name": "Statiq Uniworld City Station",
+      "latitude": 28.457914,
+      "longitude": 77.055672,
+      "address": "Uniworld City, Gurugram, Haryana, 122001, India",
+      "area": "Uniworld City",
+      "avg_review_rating": 4.49,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.457914,77.055672",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 1728,
+      "station_name": "Statiq JMD Pacific Square Station",
+      "latitude": 28.463993,
+      "longitude": 77.048721,
+      "address": "95A PartII, Gurugram, Haryana, 122022, India",
+      "area": "95A PartII",
+      "avg_review_rating": 4.76,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.463993,77.048721",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 1480,
+      "station_name": "Sunfuel - Crowne Plaza Gurgaon",
+      "latitude": 28.4683,
+      "longitude": 77.059898,
+      "address": "Site No 2, Sector 29, Gurugram, Haryana, 122007, India",
+      "area": "Site No 2, Sector 29",
+      "avg_review_rating": 4.92,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.4683,77.059898",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 2,
+  "ac_prices": [],
+  "dc_prices": [
+    24.99,
+    24.89
+  ],
+  "scraped_at": "2026-05-21T08:00:01.058200+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

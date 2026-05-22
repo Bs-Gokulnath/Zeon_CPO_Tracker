@@ -1,0 +1,213 @@
+{
+  "station_id": 14404,
+  "station_detail": {
+    "station_id": 14404,
+    "station_name": "GJ | Ahmedabad |  BMW - Gallops Autohaus",
+    "latitude": 22.991146,
+    "longitude": 72.496764,
+    "address": "Survey No. 220, Ahmedabad, Gujarat, 382210, India",
+    "area": "Survey No. 220",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.991146,72.496764",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8229 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 66375,
+        "price_with_currency": "₹ 21.0",
+        "price": 21.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 30681,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 30682,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 72.0,
+        "charger_name": "TCZ GJ | Ahmedabad |  BMW - Gallops Autohaus 1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ahmedabad",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 72.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14404,
+      "station_name": "GJ | Ahmedabad |  BMW - Gallops Autohaus",
+      "latitude": 22.991146,
+      "longitude": 72.496764,
+      "address": "Survey No. 220, Ahmedabad, Gujarat, 382210, India",
+      "area": "Survey No. 220",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.991146,72.496764",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 14602,
+      "station_name": "GJ |  Ahmedabad | BMW - Gallops Autohaus ",
+      "latitude": 22.991146,
+      "longitude": 72.496764,
+      "address": "Survey No. 220, Ahmedabad, Gujarat, 382210, India",
+      "area": "Survey No. 220",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.991146,72.496764",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 4977,
+      "station_name": "GLIDA MG Ahmedabad",
+      "latitude": 22.996682,
+      "longitude": 72.498227,
+      "address": "MG Ahmedabad Makarba MG Ahmedabad Plot no 2, Ahmedabad, Gujarat, 380051, India",
+      "area": "MG Ahmedabad Makarba MG Ahmedabad Plot no 2",
+      "avg_review_rating": 4.31,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.996682,72.498227",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    },
+    {
+      "id": 6670,
+      "station_name": "Autobots Volvo Showroom",
+      "latitude": 23.000463,
+      "longitude": 72.499908,
+      "address": "G2 & G3, Bhaskar House, Near Y.M.C.A. Club, S.G. Highway,, Ahmedabad, Gujarat, 380055, India",
+      "area": "G2 & G3, Bhaskar House, Near Y.M.C.A. Club, S.G. Highway,",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.000463,72.499908",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 14147,
+      "station_name": "Royal Orchid 4W",
+      "latitude": 23.006748,
+      "longitude": 72.506188,
+      "address": "Prahlad Nagar, Ahmedabad, Gujarat, 380015, India",
+      "area": "Prahlad Nagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.006748,72.506188",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.0
+  ],
+  "scraped_at": "2026-05-21T08:13:37.883311+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,204 @@
+{
+  "station_id": 15257,
+  "station_detail": {
+    "station_id": 15257,
+    "station_name": "2017415 BALAJI FUELS",
+    "latitude": 23.903356,
+    "longitude": 79.95551,
+    "address": "01, DAMOH ROAD ,RAIPURA, Panna, Madhya Pradesh, 488443, India",
+    "area": "01, DAMOH ROAD ,RAIPURA",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.903356,79.95551",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8997 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.0,
+    "no_of_reviews": 3,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68420,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33541,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 33542,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "2017415 BALAJI FUELS",
+        "last_used_on": "21/04/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 33,
+        "3": 0,
+        "4": 0,
+        "5": 67
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Panna",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15257,
+      "station_name": "2017415 BALAJI FUELS",
+      "latitude": 23.903356,
+      "longitude": 79.95551,
+      "address": "01, DAMOH ROAD ,RAIPURA, Panna, Madhya Pradesh, 488443, India",
+      "area": "01, DAMOH ROAD ,RAIPURA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.903356,79.95551",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7454,
+      "station_name": "2012634-JAI BADE BABA FUELS",
+      "latitude": 23.850669,
+      "longitude": 79.567944,
+      "address": "DAMOH, Damoh, Madhya Pradesh, 470664, India",
+      "area": "DAMOH",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.850669,79.567944",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14461,
+      "station_name": "2015514 - SHREE HANUMAN PETROLEUM ",
+      "latitude": 23.62071,
+      "longitude": 80.24082,
+      "address": "J6CR+78P PADWAR , Katni, Madhya Pradesh, 483440, India",
+      "area": "J6CR+78P PADWAR ",
+      "avg_review_rating": 4.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.62071,80.24082",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7299,
+      "station_name": "2009738-BP- SEHORA",
+      "latitude": 23.463222,
+      "longitude": 80.095128,
+      "address": "SEHORA, Badi, Madhya Pradesh, 483225, India",
+      "area": "SEHORA",
+      "avg_review_rating": 4.52,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.463222,80.095128",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15256,
+      "station_name": "SHREE NARMADA FUELS",
+      "latitude": 24.400335,
+      "longitude": 80.043253,
+      "address": "KATNI PANNA ROAD,AMANGANJ, Amanganj, Madhya Pradesh, 488441, India",
+      "area": "KATNI PANNA ROAD,AMANGANJ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.400335,80.043253",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:15:28.400133+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

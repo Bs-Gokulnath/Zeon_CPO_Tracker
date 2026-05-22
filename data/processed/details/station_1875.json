@@ -1,0 +1,208 @@
+{
+  "station_id": 1875,
+  "station_detail": {
+    "station_id": 1875,
+    "station_name": "Sunfuel - Park Inn Amritsar",
+    "latitude": 31.7075,
+    "longitude": 74.819099,
+    "address": " Ajnala Rd, Bal Schander, Amritsar, Punjab, 143001, India",
+    "area": " Ajnala Rd, Bal Schander",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.7075,74.819099",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8585 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Sunfuel+Banner.png",
+    "landmark": "Opposite International Airport",
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 256,
+        "id": 1
+      },
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 257,
+        "id": 2
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 1830,
+        "price_with_currency": "₹ 15.0",
+        "price": 15.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 2572,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.7,
+        "charger_name": "Sunfuel - Park Inn Amritsar 1",
+        "last_used_on": "14/02/2024"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Amritsar",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 7.7,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 1596,
+      "station_name": "Sunfuel - Radisson Blu Hotel Amritsar",
+      "latitude": 31.707069,
+      "longitude": 74.819283,
+      "address": "Ajnala Road (Airport Road), Amritsar, Punjab, 143001, India",
+      "area": "Ajnala Road (Airport Road)",
+      "avg_review_rating": 4.4,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.707069,74.819283",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 1875,
+      "station_name": "Sunfuel - Park Inn Amritsar",
+      "latitude": 31.7075,
+      "longitude": 74.819099,
+      "address": " Ajnala Rd, Bal Schander, Amritsar, Punjab, 143001, India",
+      "area": " Ajnala Rd, Bal Schander",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.7075,74.819099",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 10861,
+      "station_name": "Statiq Amritsar Airport Station",
+      "latitude": 31.708801,
+      "longitude": 74.809424,
+      "address": "Opposite Hotel Blue Radison, Ajnala Rd, Raja Sansi, Amritsar, Punjab, 143101, India",
+      "area": "Opposite Hotel Blue Radison, Ajnala Rd, Raja Sansi",
+      "avg_review_rating": 4.59,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.708801,74.809424",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 12895,
+      "station_name": "Ecoplug Akam Dhaba",
+      "latitude": 31.692276,
+      "longitude": 74.82714,
+      "address": "Colony Nanakpura, Amritsar, Punjab, 143101, India",
+      "area": "Colony Nanakpura",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.692276,74.82714",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 5172,
+      "station_name": "Statiq Welcomhotel Amritsar Station",
+      "latitude": 31.720217,
+      "longitude": 74.803833,
+      "address": "First left from main entry then right after 100 Mtr.,Welcomhotel Amritsar, Raja Sansi, Ajnala Rd,, Amritsar, Punjab, 143101, India",
+      "area": "First left from main entry then right after 100 Mtr.,Welcomhotel Amritsar, Raja Sansi, Ajnala Rd,",
+      "avg_review_rating": 4.64,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.720217,74.803833",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    15.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T07:59:13.302612+00:00",
+  "parse_success": true,
+  "missing_fields": [],
+  "coverage_pct": 100.0
+}

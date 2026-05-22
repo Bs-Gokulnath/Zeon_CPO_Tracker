@@ -1,0 +1,198 @@
+{
+  "station_id": 15403,
+  "station_detail": {
+    "station_id": 15403,
+    "station_name": "JANTA SEVA FUEL CENTRE",
+    "latitude": 25.99808,
+    "longitude": 87.516,
+    "address": "ARARIA, Araria, Bihar, 854325, India",
+    "area": "ARARIA",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.99808,87.516",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9770 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68650,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33934,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 33935,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "JANTA SEVA FUEL CENTRE",
+        "last_used_on": "24/04/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Araria",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15403,
+      "station_name": "JANTA SEVA FUEL CENTRE",
+      "latitude": 25.99808,
+      "longitude": 87.516,
+      "address": "ARARIA, Araria, Bihar, 854325, India",
+      "area": "ARARIA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.99808,87.516",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8194,
+      "station_name": "MAA AMBEY FUEL AGENCY",
+      "latitude": 25.81593,
+      "longitude": 87.54652,
+      "address": "BHARAT PETROLEUM CORPORATION LIMITED M/S MAA AMBEY FUEL AGENCY ZERO MILE , GULABBAGH PURNIA DIST., Purnia, Bihar, 854330, India",
+      "area": "BHARAT PETROLEUM CORPORATION LIMITED M/S MAA AMBEY FUEL AGENCY ZERO MILE , GULABBAGH PURNIA DIST.",
+      "avg_review_rating": 4.71,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.81593,87.54652",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10633,
+      "station_name": "NRL ENERGY STATION FS",
+      "latitude": 25.795034,
+      "longitude": 87.55807,
+      "address": "NRL ENERGY STATION CHAMKA CHOWK , GULAB BAG PURNIA , Purnia, Bihar, 854326, India",
+      "area": "NRL ENERGY STATION CHAMKA CHOWK , GULAB BAG PURNIA ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.795034,87.55807",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 6880,
+      "station_name": "2004864-BP-PURNEA",
+      "latitude": 25.730506,
+      "longitude": 87.458358,
+      "address": "PURNEA, Purnia, Bihar, 854301, India",
+      "area": "PURNEA",
+      "avg_review_rating": 4.49,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.730506,87.458358",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+charging.png"
+    },
+    {
+      "id": 6861,
+      "station_name": "2001103-BP-DALKHOLA",
+      "latitude": 25.970602,
+      "longitude": 87.848753,
+      "address": "Kanki, Dalkola, West Bengal, 733209, India",
+      "area": "Kanki",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.970602,87.848753",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:15:49.148691+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

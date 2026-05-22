@@ -1,0 +1,113 @@
+{
+  "station_id": 8045,
+  "station_detail": {
+    "station_id": 8045,
+    "station_name": "Earthtron Okaya center sector 62",
+    "latitude": 28.622893,
+    "longitude": 77.361336,
+    "address": "Okaya center UKG Tower Block B sector 62, New Delhi, Delhi, 201301, India",
+    "area": "Okaya center UKG Tower Block B sector 62",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.622893,77.361336",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8786 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.39,
+    "no_of_reviews": 428,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/earthtronev_Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 56229,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 14936,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "ELC Earthtron Okaya center sector 62 1",
+        "last_used_on": "17/04/2026"
+      },
+      {
+        "charger_id": 56230,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 14937,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "ELC Earthtron Okaya center sector 62 2",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 9,
+        "2": 2,
+        "3": 3,
+        "4": 13,
+        "5": 73
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "New Delhi",
+    "station_access_type": "public",
+    "availability": "Available in",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": [],
+    "waiting_time": "2026-05-21 14:15:50"
+  },
+  "nearby_stations": [],
+  "ac_count": 0,
+  "dc_count": 2,
+  "ac_prices": [],
+  "dc_prices": [
+    20.0,
+    20.0
+  ],
+  "scraped_at": "2026-05-21T08:03:50.490453+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

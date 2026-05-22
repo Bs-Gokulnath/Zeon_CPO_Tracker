@@ -1,0 +1,439 @@
+{
+  "station_id": 10967,
+  "station_detail": {
+    "station_id": 10967,
+    "station_name": "HR | Gurugram | Sarhol Charging Hub",
+    "latitude": 28.487051,
+    "longitude": 77.073002,
+    "address": "K 39, Gurugram, Haryana, 122001, India",
+    "area": "K 39",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.487051,77.073002",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8756 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 6,
+        "connector_name": "GBT",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png"
+      },
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      },
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 61105,
+        "price_with_currency": "₹ 16.0",
+        "price": 16.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22629,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "TCZ HR | Gurugram | Sarhol Charging Hub 27",
+        "last_used_on": "24/08/2025"
+      },
+      {
+        "charger_id": 61106,
+        "price_with_currency": "₹ 16.0",
+        "price": 16.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22630,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "TCZ HR | Gurugram | Sarhol Charging Hub 28",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 61107,
+        "price_with_currency": "₹ 16.0",
+        "price": 16.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22631,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "TCZ HR | Gurugram | Sarhol Charging Hub 29",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 61108,
+        "price_with_currency": "₹ 16.0",
+        "price": 16.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22632,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "TCZ HR | Gurugram | Sarhol Charging Hub 30",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 61109,
+        "price_with_currency": "₹ 16.0",
+        "price": 16.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22633,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "TCZ HR | Gurugram | Sarhol Charging Hub 31",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 61110,
+        "price_with_currency": "₹ 16.0",
+        "price": 16.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22634,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "TCZ HR | Gurugram | Sarhol Charging Hub 32",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 61111,
+        "price_with_currency": "₹ 16.0",
+        "price": 16.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22635,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "TCZ HR | Gurugram | Sarhol Charging Hub 33",
+        "last_used_on": "08/09/2025"
+      },
+      {
+        "charger_id": 61112,
+        "price_with_currency": "₹ 16.0",
+        "price": 16.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22636,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "TCZ HR | Gurugram | Sarhol Charging Hub 34",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 61113,
+        "price_with_currency": "₹ 16.0",
+        "price": 16.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22637,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "TCZ HR | Gurugram | Sarhol Charging Hub 35",
+        "last_used_on": "05/05/2026"
+      },
+      {
+        "charger_id": 61122,
+        "price_with_currency": "₹ 16.0",
+        "price": 16.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22646,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "TCZ HR | Gurugram | Sarhol Charging Hub 44",
+        "last_used_on": "16/08/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Gurugram",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 240.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9317,
+      "station_name": "HR | Gurugram | Sarhol Charging Hub",
+      "latitude": 28.487051,
+      "longitude": 77.073002,
+      "address": "K 39, Gurugram, Haryana, 122001, India",
+      "area": "K 39",
+      "avg_review_rating": 4.75,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.487051,77.073002",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/gentari-default.png"
+    },
+    {
+      "id": 10967,
+      "station_name": "HR | Gurugram | Sarhol Charging Hub",
+      "latitude": 28.487051,
+      "longitude": 77.073002,
+      "address": "K 39, Gurugram, Haryana, 122001, India",
+      "area": "K 39",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.487051,77.073002",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 14303,
+      "station_name": "HR | Gurugram | One Qube ",
+      "latitude": 28.485309,
+      "longitude": 77.075304,
+      "address": "Plot No 422-B, Gurugram, Haryana, 122016, India",
+      "area": "Plot No 422-B",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.485309,77.075304",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 1233,
+      "station_name": "Heritage City AC Charging Station",
+      "latitude": 28.4823,
+      "longitude": 77.076599,
+      "address": "Heritage City 581-600 Flats, Gurugram, Haryana, 122022, India",
+      "area": "Heritage City 581-600 Flats",
+      "avg_review_rating": 4.36,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.4823,77.076599",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/EV+greens+default.png"
+    },
+    {
+      "id": 3726,
+      "station_name": "Statiq RMZ Infinity Station",
+      "latitude": 28.490259,
+      "longitude": 77.078423,
+      "address": "Behind Office Premises, Shahpur, Gurugram, Haryana, 122008, India",
+      "area": "Behind Office Premises, Shahpur",
+      "avg_review_rating": 4.8,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.490259,77.078423",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    }
+  ],
+  "ac_count": 10,
+  "dc_count": 0,
+  "ac_prices": [
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:09:33.330598+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

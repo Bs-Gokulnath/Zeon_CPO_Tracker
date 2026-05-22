@@ -1,0 +1,204 @@
+{
+  "station_id": 14960,
+  "station_detail": {
+    "station_id": 14960,
+    "station_name": "HARICHANDAN FILLING STATION",
+    "latitude": 20.21658,
+    "longitude": 85.5358,
+    "address": "PLOT NO-1038/2321,KHATIAN NO- 501/131,VILLAGE/MOUZA-SARUA,DIST-KHURDA,ODISHA, Khurda, Odisha, 752055, India",
+    "area": "PLOT NO-1038/2321,KHATIAN NO- 501/131,VILLAGE/MOUZA-SARUA,DIST-KHURDA,ODISHA",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.21658,85.5358",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9552 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.69,
+    "no_of_reviews": 49,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 67953,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 32768,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 32769,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "HARICHANDAN FILLING STATION EVDC",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 2,
+        "3": 2,
+        "4": 20,
+        "5": 76
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Khurda",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14960,
+      "station_name": "HARICHANDAN FILLING STATION",
+      "latitude": 20.21658,
+      "longitude": 85.5358,
+      "address": "PLOT NO-1038/2321,KHATIAN NO- 501/131,VILLAGE/MOUZA-SARUA,DIST-KHURDA,ODISHA, Khurda, Odisha, 752055, India",
+      "area": "PLOT NO-1038/2321,KHATIAN NO- 501/131,VILLAGE/MOUZA-SARUA,DIST-KHURDA,ODISHA",
+      "avg_review_rating": 4.69,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.21658,85.5358",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 14962,
+      "station_name": "HIGHWAY FILLING STATION Odisha",
+      "latitude": 20.1516,
+      "longitude": 85.6028,
+      "address": "AT-DALAIPUT,KHORDHA,ODISHA 752055, Khurda, Odisha, 752055, India",
+      "area": "AT-DALAIPUT,KHORDHA,ODISHA 752055",
+      "avg_review_rating": 4.42,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.1516,85.6028",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9420,
+      "station_name": "Statiq Wonderla Bhubaneswar Station",
+      "latitude": 20.205643,
+      "longitude": 85.644066,
+      "address": "Parking Bay 4 after entry from Main Gate, Kumbharbasta Rd, Kumbharbasta, Bhubaneswar, Odisha, 752057, India",
+      "area": "Parking Bay 4 after entry from Main Gate, Kumbharbasta Rd, Kumbharbasta",
+      "avg_review_rating": 4.79,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.205643,85.644066",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 14956,
+      "station_name": "ANNAPURNA FILLING STATION",
+      "latitude": 20.047727,
+      "longitude": 85.532615,
+      "address": "PLOT NO-806/880/971,KHATA NO-268/88,VILLAGE-JANKIA,MOUZA-KALIBATI,DIST-KHURDA,ODISHA, Khurda, Odisha, 752020, India",
+      "area": "PLOT NO-806/880/971,KHATA NO-268/88,VILLAGE-JANKIA,MOUZA-KALIBATI,DIST-KHURDA,ODISHA",
+      "avg_review_rating": 4.61,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.047727,85.532615",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 7126,
+      "station_name": "2002422-BHAGABATI HIGHWAY SERVICE STATION",
+      "latitude": 20.223621,
+      "longitude": 85.726762,
+      "address": "KHURDA, Khurda, Odisha, 752055, India",
+      "area": "KHURDA",
+      "avg_review_rating": 4.69,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.223621,85.726762",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:14:53.954213+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

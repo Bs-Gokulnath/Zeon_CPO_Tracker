@@ -1,0 +1,323 @@
+{
+  "station_id": 11173,
+  "station_detail": {
+    "station_id": 11173,
+    "station_name": "Shell Recharge Avalahalli",
+    "latitude": 13.039976,
+    "longitude": 77.741273,
+    "address": "OMR Avalahalli, Bengaluru, Karnataka, 560049, India",
+    "area": "OMR Avalahalli",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.039976,77.741273",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8689 kms",
+    "operational_time": "00:00 To 23:59",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 4.63,
+    "no_of_reviews": 128,
+    "station_image_url": null,
+    "is_connected": true,
+    "station_banner": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/banners/updatedbannerimage.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 12965,
+        "id": 1
+      },
+      {
+        "type": "Store",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/store.png",
+        "map_id": 12966,
+        "id": 3
+      },
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 12967,
+        "id": 2
+      },
+      {
+        "type": "Car Care",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/car+care+(1).png",
+        "map_id": 12968,
+        "id": 4
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 61443,
+        "price_with_currency": "₹ 23.0",
+        "price": 23.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23182,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 23183,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 240.0,
+        "charger_name": "SR- AVA Charger 1",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61444,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23184,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "SR- AVA Charger 4",
+        "last_used_on": "16/06/2024"
+      },
+      {
+        "charger_id": 61445,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23185,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "SR- AVA Charger 2",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 61446,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23186,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "SR- AVA Charger 3",
+        "last_used_on": "25/01/2024"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 4,
+        "2": 2,
+        "3": 3,
+        "4": 10,
+        "5": 81
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bengaluru",
+    "station_access_type": "public",
+    "availability": "Available in",
+    "highest_power_rating": 240.0,
+    "charger_type_of_station": "DC",
+    "station_images": [
+      {
+        "id": 725,
+        "station_image_url": "$21"
+      }
+    ],
+    "waiting_time": "2026-05-21 14:38:14"
+  },
+  "nearby_stations": [
+    {
+      "id": 11173,
+      "station_name": "Shell Recharge Avalahalli",
+      "latitude": 13.039976,
+      "longitude": 77.741273,
+      "address": "OMR Avalahalli, Bengaluru, Karnataka, 560049, India",
+      "area": "OMR Avalahalli",
+      "avg_review_rating": 4.63,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.039976,77.741273",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
+    },
+    {
+      "id": 10014,
+      "station_name": "Statiq Brigade Exotica Tower B Station",
+      "latitude": 13.043799,
+      "longitude": 77.744865,
+      "address": "Brigade Exotica Apartment Owners Association, No 35 & 36/1 P, Before Budigere Cross, Old Madras Rd, Virgonagar, Aavalahalli, Bengaluru, Karnataka, 560049, India",
+      "area": "Brigade Exotica Apartment Owners Association, No 35 & 36/1 P, Before Budigere Cross, Old Madras Rd, Virgonagar, Aavalahalli",
+      "avg_review_rating": 4.46,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.043799,77.744865",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 9985,
+      "station_name": "Statiq Brigade Exotica Tower A Station",
+      "latitude": 13.043526,
+      "longitude": 77.745268,
+      "address": "Before Budigere Cross, Old Madras Rd  No 35 & 36/1 P, Before Budigere Cross, Old Madras Rd, Virgonagar, Bengaluru, Karnataka, 560049, India",
+      "area": "Before Budigere Cross, Old Madras Rd  No 35 & 36/1 P, Before Budigere Cross, Old Madras Rd, Virgonagar",
+      "avg_review_rating": 4.08,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.043526,77.745268",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 11174,
+      "station_name": "Shell Recharge Budigere",
+      "latitude": 13.060278,
+      "longitude": 77.742639,
+      "address": "Budigere Cross, Bengaluru, Karnataka, 560049, India",
+      "area": "Budigere Cross",
+      "avg_review_rating": 4.48,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.060278,77.742639",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
+    },
+    {
+      "id": 1813,
+      "station_name": "Statiq AdWall Mantri Global Height Station",
+      "latitude": 13.029347,
+      "longitude": 77.76339,
+      "address": "Mantri Global Hights, Bengaluru, Karnataka, 560115, India",
+      "area": "Mantri Global Hights",
+      "avg_review_rating": 4.26,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.029347,77.76339",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    }
+  ],
+  "ac_count": 3,
+  "dc_count": 1,
+  "ac_prices": [
+    20.0,
+    20.0,
+    20.0
+  ],
+  "dc_prices": [
+    23.0
+  ],
+  "scraped_at": "2026-05-21T08:09:58.500642+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "station_image_url",
+    "landmark"
+  ],
+  "coverage_pct": 90.9
+}

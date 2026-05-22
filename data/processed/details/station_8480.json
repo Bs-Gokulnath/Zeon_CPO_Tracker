@@ -1,0 +1,204 @@
+{
+  "station_id": 8480,
+  "station_detail": {
+    "station_id": 8480,
+    "station_name": "GJ | Vadodara | Taksh Galaxy Mall",
+    "latitude": 22.301462,
+    "longitude": 73.254416,
+    "address": "Next to L & T Knowledge City, Vadodara, Gujarat, 390019, India",
+    "area": "Next to L & T Knowledge City",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.301462,73.254416",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8297 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.69,
+    "no_of_reviews": 48,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 56959,
+        "price_with_currency": "₹ 21.5",
+        "price": 21.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16022,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 16023,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 240.0,
+        "charger_name": "TCZ GJ | Vadodara | Taksh Galaxy Mall 1",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 2,
+        "2": 0,
+        "3": 4,
+        "4": 15,
+        "5": 79
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Vadodara",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 240.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8480,
+      "station_name": "GJ | Vadodara | Taksh Galaxy Mall",
+      "latitude": 22.301462,
+      "longitude": 73.254416,
+      "address": "Next to L & T Knowledge City, Vadodara, Gujarat, 390019, India",
+      "area": "Next to L & T Knowledge City",
+      "avg_review_rating": 4.69,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.301462,73.254416",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 10325,
+      "station_name": "JK Eco Force (Joy E-Bike)",
+      "latitude": 22.318965,
+      "longitude": 73.217231,
+      "address": "Sangam House, Vadodara, Gujarat, 390006, India",
+      "area": "Sangam House",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.318965,73.217231",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 10223,
+      "station_name": "GJ | Vadodara | Vadodara Airport",
+      "latitude": 22.332767,
+      "longitude": 73.216379,
+      "address": "Civil Aerodrome, Vadodara, Gujarat, 390022, India",
+      "area": "Civil Aerodrome",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.332767,73.216379",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 11262,
+      "station_name": "M/s. ASHOK TRAVELS",
+      "latitude": 22.350694,
+      "longitude": 73.228491,
+      "address": "VADODARA, Vadodara, Gujarat, 390022, India",
+      "area": "VADODARA",
+      "avg_review_rating": 4.18,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.350694,73.228491",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 12858,
+      "station_name": "ID(n245rv)G.A Patel Petroleum",
+      "latitude": 22.351762,
+      "longitude": 73.217105,
+      "address": "Harni, Vadodara, Gujarat, 390022, India",
+      "area": "Harni",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.351762,73.217105",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.5
+  ],
+  "scraped_at": "2026-05-21T08:04:36.016284+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

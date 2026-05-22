@@ -1,0 +1,204 @@
+{
+  "station_id": 10900,
+  "station_detail": {
+    "station_id": 10900,
+    "station_name": "BALASUNDARAM AGENCIES",
+    "latitude": 12.89731,
+    "longitude": 79.505668,
+    "address": "RANIPET, Ranipet, Tamil Nadu, 632531, India",
+    "area": "RANIPET",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.89731,79.505668",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8880 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 11,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 60918,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22326,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 22327,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "BALASUNDARAM AGENCIES",
+        "last_used_on": "27/04/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ranipet",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10900,
+      "station_name": "BALASUNDARAM AGENCIES",
+      "latitude": 12.89731,
+      "longitude": 79.505668,
+      "address": "RANIPET, Ranipet, Tamil Nadu, 632531, India",
+      "area": "RANIPET",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.89731,79.505668",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9485,
+      "station_name": "SRI KRISHNASAMY FUELS",
+      "latitude": 12.898123,
+      "longitude": 79.492012,
+      "address": "NO. 253, MBT ROAD (NH4), OCHERI POST, SIRUKARUMBUR, Ranipet, Tamil Nadu, 632531, India",
+      "area": "NO. 253, MBT ROAD (NH4), OCHERI POST, SIRUKARUMBUR",
+      "avg_review_rating": 3.94,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.898123,79.492012",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 2866,
+      "station_name": "Hyundai Arabian Garden Seafood Station",
+      "latitude": 12.8978,
+      "longitude": 79.519699,
+      "address": "Cafe Udupi Ruchi, Uthiramerur, Tamil Nadu, 632531, India",
+      "area": "Cafe Udupi Ruchi",
+      "avg_review_rating": 4.68,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.8978,79.519699",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-online-not-selected.png"
+    },
+    {
+      "id": 9477,
+      "station_name": "KRISHNA FUELS",
+      "latitude": 12.898957,
+      "longitude": 79.528358,
+      "address": "36/2A1A, KARIVEDU VILLAGE, Ranipet, Tamil Nadu, 632531, India",
+      "area": "36/2A1A, KARIVEDU VILLAGE",
+      "avg_review_rating": 4.79,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.898957,79.528358",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+charging.png"
+    },
+    {
+      "id": 12386,
+      "station_name": "CAR CARE CENTRE",
+      "latitude": 12.896564,
+      "longitude": 79.571922,
+      "address": "CHENNAI, Chennai, Tamil Nadu, 600002, India",
+      "area": "CHENNAI",
+      "avg_review_rating": 4.14,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.896564,79.571922",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:09:25.372946+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

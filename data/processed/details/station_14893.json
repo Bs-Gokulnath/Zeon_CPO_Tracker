@@ -1,0 +1,204 @@
+{
+  "station_id": 14893,
+  "station_detail": {
+    "station_id": 14893,
+    "station_name": "OM JAI BAJARANG PETROLEUM",
+    "latitude": 22.903476,
+    "longitude": 79.19565,
+    "address": "RO AT SINGHPUR,SINGHPUR TO CHHINDWADA ROAD, NARSINGHPUR, Narsinghpur, Madhya Pradesh, 487110, India",
+    "area": "RO AT SINGHPUR,SINGHPUR TO CHHINDWADA ROAD, NARSINGHPUR",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.903476,79.19565",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8911 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.33,
+    "no_of_reviews": 6,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 67856,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 32580,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 32581,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "OM JAI BAJARANG PETROLEUM",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 17,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 83
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Narsinghpur",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14893,
+      "station_name": "OM JAI BAJARANG PETROLEUM",
+      "latitude": 22.903476,
+      "longitude": 79.19565,
+      "address": "RO AT SINGHPUR,SINGHPUR TO CHHINDWADA ROAD, NARSINGHPUR, Narsinghpur, Madhya Pradesh, 487110, India",
+      "area": "RO AT SINGHPUR,SINGHPUR TO CHHINDWADA ROAD, NARSINGHPUR",
+      "avg_review_rating": 4.33,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.903476,79.19565",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 14384,
+      "station_name": "Ev smart Charging Station",
+      "latitude": 22.93,
+      "longitude": 79.1957,
+      "address": "Mahakushal Nagar Chhindwara Road  Narsinghpur (MP), Narsinghpur, Madhya Pradesh, 487001, India",
+      "area": "Mahakushal Nagar Chhindwara Road  Narsinghpur (MP)",
+      "avg_review_rating": 4.81,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.93,79.1957",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 14862,
+      "station_name": "2016200 SHIV SHAKTI PETROLEUM",
+      "latitude": 22.913148,
+      "longitude": 79.065909,
+      "address": "RO AT KARELI CITY, SH22, KARELI CITY, NARSINGHAPUR, Narsinghpur, Madhya Pradesh, 487221, India",
+      "area": "RO AT KARELI CITY, SH22, KARELI CITY, NARSINGHAPUR",
+      "avg_review_rating": 4.77,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.913148,79.065909",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 13197,
+      "station_name": "ID(kdffgz)Shree lalji petroleum",
+      "latitude": 22.938014,
+      "longitude": 79.03986,
+      "address": "Imaliya, Imaliya, Madhya Pradesh, 487221, India",
+      "area": "Imaliya",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.938014,79.03986",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 13185,
+      "station_name": "ID(k2ukcw)Shri maa narmada petroleum",
+      "latitude": 23.029144,
+      "longitude": 79.034569,
+      "address": "Barman Kalan, Barman Kalan, Madhya Pradesh, 487330, India",
+      "area": "Barman Kalan",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.029144,79.034569",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:14:34.825380+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

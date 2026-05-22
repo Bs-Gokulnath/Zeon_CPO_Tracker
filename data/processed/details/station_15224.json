@@ -1,0 +1,198 @@
+{
+  "station_id": 15224,
+  "station_detail": {
+    "station_id": 15224,
+    "station_name": "EESl Sec 15 Alka Cinema Noida Charging Station Dc Charger 1",
+    "latitude": 28.5826,
+    "longitude": 77.31284,
+    "address": "Noida Authority Parking at Plot Near Alka Cinema, Sector - 15, Noida - 201301, Noida, Uttar Pradesh, 201301, India",
+    "area": "Noida Authority Parking at Plot Near Alka Cinema, Sector - 15, Noida - 201301",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.5826,77.31284",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8780 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 6,
+        "connector_name": "GBT",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68384,
+        "price_with_currency": "₹ 10.0",
+        "price": 10.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33472,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 6,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 15.0,
+        "charger_name": "EESl Sec 15 Alka Cinema Noida Charging Station Dc Charger 1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Noida",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 15.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9572,
+      "station_name": "EESL Statiq Alka Cinema Sector 15 Charging Station",
+      "latitude": 28.582698,
+      "longitude": 77.312872,
+      "address": "Sector 15 Parking, Noida, Uttar Pradesh, 201301, India",
+      "area": "Sector 15 Parking",
+      "avg_review_rating": 4.47,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.582698,77.312872",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15224,
+      "station_name": "EESl Sec 15 Alka Cinema Noida Charging Station Dc Charger 1",
+      "latitude": 28.5826,
+      "longitude": 77.31284,
+      "address": "Noida Authority Parking at Plot Near Alka Cinema, Sector - 15, Noida - 201301, Noida, Uttar Pradesh, 201301, India",
+      "area": "Noida Authority Parking at Plot Near Alka Cinema, Sector - 15, Noida - 201301",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.5826,77.31284",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 10941,
+      "station_name": "Reliable Charge Head Office",
+      "latitude": 28.585719,
+      "longitude": 77.313712,
+      "address": "B-13, Noida, Uttar Pradesh, 201301, India",
+      "area": "B-13",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.585719,77.313712",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 1600,
+      "station_name": "Statiq Savoy Suites Noida Station",
+      "latitude": 28.580385,
+      "longitude": 77.3153,
+      "address": "Entrance Gate, Near Parking Area, A-79A, Metro Station Road, Noida, Uttar Pradesh, 201301, India",
+      "area": "Entrance Gate, Near Parking Area, A-79A, Metro Station Road",
+      "avg_review_rating": 4.68,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.580385,77.3153",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 7717,
+      "station_name": "BPCL NOIDA REGIONAL OFFICE",
+      "latitude": 28.588261,
+      "longitude": 77.309976,
+      "address": "New Ashok Nagar Rd Block A Sector 1 Noida Uttar Pradesh 201301, Noida, Uttar Pradesh, 201301, India",
+      "area": "New Ashok Nagar Rd Block A Sector 1 Noida Uttar Pradesh 201301",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.588261,77.309976",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    10.0
+  ],
+  "scraped_at": "2026-05-21T08:15:28.432267+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

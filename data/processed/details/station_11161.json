@@ -1,0 +1,312 @@
+{
+  "station_id": 11161,
+  "station_detail": {
+    "station_id": 11161,
+    "station_name": "Shell Recharge Old Madras Road",
+    "latitude": 12.991871,
+    "longitude": 77.65959,
+    "address": "Old Madras Road, Bengaluru, Karnataka, 560093, India",
+    "area": "Old Madras Road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.991871,77.65959",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8680 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 4.29,
+    "no_of_reviews": 250,
+    "station_image_url": null,
+    "is_connected": true,
+    "station_banner": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/banners/updatedbannerimage.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 12921,
+        "id": 1
+      },
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 12922,
+        "id": 2
+      },
+      {
+        "type": "Car Care",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/car+care+(1).png",
+        "map_id": 12923,
+        "id": 4
+      },
+      {
+        "type": "Store",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/store.png",
+        "map_id": 12924,
+        "id": 3
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 61403,
+        "price_with_currency": "₹ 23.0",
+        "price": 23.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23134,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 23135,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "SR- OMR Charger 1",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61410,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23145,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 5,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "SR- OMR Charger 2",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61411,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23146,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "SR- OMR Charger 3",
+        "last_used_on": "30/07/2025"
+      },
+      {
+        "charger_id": 61412,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23147,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "SR- OMR Charger 4",
+        "last_used_on": "07/10/2024"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 12,
+        "2": 3,
+        "3": 2,
+        "4": 9,
+        "5": 74
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bengaluru",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11161,
+      "station_name": "Shell Recharge Old Madras Road",
+      "latitude": 12.991871,
+      "longitude": 77.65959,
+      "address": "Old Madras Road, Bengaluru, Karnataka, 560093, India",
+      "area": "Old Madras Road",
+      "avg_review_rating": 4.29,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.991871,77.65959",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
+    },
+    {
+      "id": 6620,
+      "station_name": "REIL RTO, East Kasturi nagar",
+      "latitude": 13.00443,
+      "longitude": 77.664513,
+      "address": "East Kasturi Nagar, Bengaluru, Karnataka, 560016, India",
+      "area": "East Kasturi Nagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.00443,77.664513",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 6617,
+      "station_name": "REIL Shankar And Sons",
+      "latitude": 12.96805,
+      "longitude": 77.655991,
+      "address": "YESHWANTHPUR HOBLI, Bengaluru, Karnataka, 560090, India",
+      "area": "YESHWANTHPUR HOBLI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.96805,77.655991",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 3582,
+      "station_name": "Statiq AdWall NCC Urban Ivor Station",
+      "latitude": 12.99413,
+      "longitude": 77.68441,
+      "address": "K R Puram - Marathahalli Outer Ring Road, Bengaluru, Karnataka, 560016, India",
+      "area": "K R Puram - Marathahalli Outer Ring Road",
+      "avg_review_rating": 4.56,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.99413,77.68441",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 4947,
+      "station_name": "GLIDA MG Bengaluru Narayanapura ORR",
+      "latitude": 12.995418,
+      "longitude": 77.68454,
+      "address": "Shree Bhuvaneswari Vokkaligara Sangha, Bengaluru, Karnataka, 560016, India",
+      "area": "Shree Bhuvaneswari Vokkaligara Sangha",
+      "avg_review_rating": 4.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.995418,77.68454",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/unavailable+select.png"
+    }
+  ],
+  "ac_count": 3,
+  "dc_count": 1,
+  "ac_prices": [
+    20.0,
+    20.0,
+    20.0
+  ],
+  "dc_prices": [
+    23.0
+  ],
+  "scraped_at": "2026-05-21T08:09:58.411160+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "station_image_url",
+    "landmark"
+  ],
+  "coverage_pct": 90.9
+}

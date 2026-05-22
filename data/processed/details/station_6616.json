@@ -1,0 +1,217 @@
+{
+  "station_id": 6616,
+  "station_detail": {
+    "station_id": 6616,
+    "station_name": "REIL PATEL SERVICE STATION",
+    "latitude": 13.05955,
+    "longitude": 77.648819,
+    "address": " Kothanur, Bengaluru, Karnataka, 560077, India",
+    "area": " Kothanur",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.05955,77.648819",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8679 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/REIL/REIL_Banner.png",
+    "landmark": "Hennur Bagalur Main Rd",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54126,
+        "price_with_currency": "₹ 18.0",
+        "price": 18.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 12180,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 12181,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 3,
+            "connector_id": 12182,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 9.9,
+        "charger_name": "EV Charger AC001-10KW",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bengaluru",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 9.9,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 6616,
+      "station_name": "REIL PATEL SERVICE STATION",
+      "latitude": 13.05955,
+      "longitude": 77.648819,
+      "address": " Kothanur, Bengaluru, Karnataka, 560077, India",
+      "area": " Kothanur",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.05955,77.648819",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 11956,
+      "station_name": "Statiq Purva Promenade Station",
+      "latitude": 13.062354,
+      "longitude": 77.663171,
+      "address": "Purva Promenade, Hennur Road, Essel gardens, Bengaluru, Karnataka, 560077, India",
+      "area": "Purva Promenade, Hennur Road, Essel gardens",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.062354,77.663171",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 11199,
+      "station_name": "Shell Recharge Hennur Road",
+      "latitude": 13.07382,
+      "longitude": 77.65166,
+      "address": "Hennur Main Road, Bengaluru, Karnataka, 560077, India",
+      "area": "Hennur Main Road",
+      "avg_review_rating": 4.33,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.07382,77.65166",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
+    },
+    {
+      "id": 11170,
+      "station_name": "Shell Recharge Thanisandra ",
+      "latitude": 13.051611,
+      "longitude": 77.630767,
+      "address": "Thanisandra Main Road, Bengaluru, Karnataka, 560077, India",
+      "area": "Thanisandra Main Road",
+      "avg_review_rating": 4.56,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.051611,77.630767",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
+    },
+    {
+      "id": 8250,
+      "station_name": "Hyundai Elements Mall Charging Station",
+      "latitude": 13.045442,
+      "longitude": 77.626924,
+      "address": "MS Ramaiah North City Road Entrance, Survey No. 132(P), 133(P), & 134(P) of Nagavara Village 100 wide Thanisandra Main Rd,, Bengaluru, Karnataka, 560077, India",
+      "area": "MS Ramaiah North City Road Entrance, Survey No. 132(P), 133(P), & 134(P) of Nagavara Village 100 wide Thanisandra Main Rd,",
+      "avg_review_rating": 4.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.045442,77.626924",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-online-not-selected.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    18.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:01:34.662836+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

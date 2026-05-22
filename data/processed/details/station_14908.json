@@ -1,0 +1,264 @@
+{
+  "station_id": 14908,
+  "station_detail": {
+    "station_id": 14908,
+    "station_name": "Ecoplug City Hotal And Lodge",
+    "latitude": 28.11312,
+    "longitude": 76.9991,
+    "address": "Near Bharat Petrol Pump, Nuh, Haryana, 122107, India",
+    "area": "Near Bharat Petrol Pump",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.11312,76.9991",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8744 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      },
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 1,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Eplug.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 67881,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 32639,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 32640,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 118.0,
+        "charger_name": "EPL Ecoplug City Hotal And Lodge 1",
+        "last_used_on": "19/05/2026"
+      },
+      {
+        "charger_id": 67882,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 32641,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 32642,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 3,
+            "connector_id": 32643,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 26.0,
+        "charger_name": "EPL Ecoplug City Hotal And Lodge 2",
+        "last_used_on": "24/04/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Nuh",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 118.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14908,
+      "station_name": "Ecoplug City Hotal And Lodge",
+      "latitude": 28.11312,
+      "longitude": 76.9991,
+      "address": "Near Bharat Petrol Pump, Nuh, Haryana, 122107, India",
+      "area": "Near Bharat Petrol Pump",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.11312,76.9991",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 15423,
+      "station_name": "M/s CAPITAL FILLING STATION",
+      "latitude": 28.161,
+      "longitude": 76.9589,
+      "address": "\"VILLAGE SILKHOH,  ON TAWRU SILKHOH ROAD,  DISTRICT - MEWAT,\", Nuh, Haryana, 122105, India",
+      "area": "\"VILLAGE SILKHOH,  ON TAWRU SILKHOH ROAD,  DISTRICT - MEWAT,\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.161,76.9589",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15416,
+      "station_name": "M/s SHRI RAM FILLING STATION",
+      "latitude": 28.1605,
+      "longitude": 77.070428,
+      "address": "\"VILLAGE HIRMATHLA, ON GURGAON-ALWAR ROAD (LHS), MEWAT,\", Rewari, Haryana, 122102, India",
+      "area": "\"VILLAGE HIRMATHLA, ON GURGAON-ALWAR ROAD (LHS), MEWAT,\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.1605,77.070428",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10411,
+      "station_name": "SHRI CHAND & SONS",
+      "latitude": 28.242058,
+      "longitude": 77.072165,
+      "address": "BPCL, SOHNA PALWAL ROAD, SOHNA GURGAON., Sohna, Haryana, 122103, India",
+      "area": "BPCL, SOHNA PALWAL ROAD, SOHNA GURGAON.",
+      "avg_review_rating": 4.57,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.242058,77.072165",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7145,
+      "station_name": "2003308-SIRICHAND & SONS",
+      "latitude": 28.242133,
+      "longitude": 77.072181,
+      "address": "SOHNA, Sohna, Haryana, 122103, India",
+      "area": "SOHNA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.242133,77.072181",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 1,
+  "ac_prices": [
+    20.0
+  ],
+  "dc_prices": [
+    20.0
+  ],
+  "scraped_at": "2026-05-21T08:14:44.878757+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

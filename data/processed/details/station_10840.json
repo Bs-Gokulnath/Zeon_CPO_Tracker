@@ -1,0 +1,204 @@
+{
+  "station_id": 10840,
+  "station_detail": {
+    "station_id": 10840,
+    "station_name": "2013975-TANKY FULL",
+    "latitude": 30.9795,
+    "longitude": 75.7917,
+    "address": "LHS ON LUDHIANA JALLANDHAR ROAD ,NH-1, Ludhiana, Punjab, 141008, India",
+    "area": "LHS ON LUDHIANA JALLANDHAR ROAD ,NH-1",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.9795,75.7917",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8666 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.65,
+    "no_of_reviews": 252,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 60841,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22188,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 22189,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "TANKY FULL",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 4,
+        "2": 0,
+        "3": 3,
+        "4": 12,
+        "5": 81
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ludhiana",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10840,
+      "station_name": "2013975-TANKY FULL",
+      "latitude": 30.9795,
+      "longitude": 75.7917,
+      "address": "LHS ON LUDHIANA JALLANDHAR ROAD ,NH-1, Ludhiana, Punjab, 141008, India",
+      "area": "LHS ON LUDHIANA JALLANDHAR ROAD ,NH-1",
+      "avg_review_rating": 4.65,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.9795,75.7917",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+charging.png"
+    },
+    {
+      "id": 12885,
+      "station_name": "id(g46c6y) -BAWA PETRO",
+      "latitude": 31.014594,
+      "longitude": 75.782569,
+      "address": "Phillaur, Phillaur, Punjab, 144410, India",
+      "area": "Phillaur",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.014594,75.782569",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 12481,
+      "station_name": "ID(4bby9y) HP Asia Highway services",
+      "latitude": 30.94138,
+      "longitude": 75.83464,
+      "address": "Jalandhar Bypass Chownk, Ludhiana, Punjab, 141008, India",
+      "area": "Jalandhar Bypass Chownk",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.94138,75.83464",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 7504,
+      "station_name": "2013665-RAMA FUELS AND SERVICES",
+      "latitude": 31.040489,
+      "longitude": 75.783659,
+      "address": "PHILLAUR, Phillaur, Punjab, 144410, India",
+      "area": "PHILLAUR",
+      "avg_review_rating": 4.73,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.040489,75.783659",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 9648,
+      "station_name": "2003057-RISHI SERVICE STATION",
+      "latitude": 30.91758,
+      "longitude": 75.80124,
+      "address": "OPP .PINK FLATS, Ludhiana, Punjab, 141001, India",
+      "area": "OPP .PINK FLATS",
+      "avg_review_rating": 4.51,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.91758,75.80124",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:09:17.633324+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

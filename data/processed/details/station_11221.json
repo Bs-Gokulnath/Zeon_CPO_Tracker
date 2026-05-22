@@ -1,0 +1,278 @@
+{
+  "station_id": 11221,
+  "station_detail": {
+    "station_id": 11221,
+    "station_name": "Shell Recharge Bagmane Solarium",
+    "latitude": 12.971705,
+    "longitude": 77.70779,
+    "address": "Kundalahalli Colony, Bengaluru, Karnataka, 560037, India",
+    "area": "Kundalahalli Colony",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.971705,77.70779",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8685 kms",
+    "operational_time": "06:00 To 23:00",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.11,
+    "no_of_reviews": 65,
+    "station_image_url": null,
+    "is_connected": true,
+    "station_banner": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/banners/updatedbannerimage.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 13151,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 61569,
+        "price_with_currency": "₹ 23.0",
+        "price": 23.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23345,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "SR-BAS-Charger 1",
+        "last_used_on": "23/02/2026"
+      },
+      {
+        "charger_id": 61570,
+        "price_with_currency": "₹ 23.0",
+        "price": 23.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23346,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "SR-BAS-Charger 2",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61571,
+        "price_with_currency": "₹ 23.0",
+        "price": 23.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23347,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "SR-BAS-Charger 3",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61572,
+        "price_with_currency": "₹ 23.0",
+        "price": 23.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23348,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "SR-BAS-Charger 4",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 18,
+        "2": 0,
+        "3": 2,
+        "4": 12,
+        "5": 68
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bengaluru",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11226,
+      "station_name": "Shell Recharge SBO Bagmane - Captive",
+      "latitude": 12.971631,
+      "longitude": 77.708151,
+      "address": "Bagmane Solarium City Neon, Bengaluru, Karnataka, 560037, India",
+      "area": "Bagmane Solarium City Neon",
+      "avg_review_rating": 4.75,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.971631,77.708151",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
+    },
+    {
+      "id": 11221,
+      "station_name": "Shell Recharge Bagmane Solarium",
+      "latitude": 12.971705,
+      "longitude": 77.70779,
+      "address": "Kundalahalli Colony, Bengaluru, Karnataka, 560037, India",
+      "area": "Kundalahalli Colony",
+      "avg_review_rating": 4.11,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.971705,77.70779",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
+    },
+    {
+      "id": 15674,
+      "station_name": "Statiq Prestige Technostar Station",
+      "latitude": 12.972736,
+      "longitude": 77.710498,
+      "address": "50m Inside from Entrance 1, Prestige Technostar, Doddanakundi Industrial Area 2, Phase 1, Brookefield, Bengaluru, Karnataka, 560048, India",
+      "area": "50m Inside from Entrance 1, Prestige Technostar, Doddanakundi Industrial Area 2, Phase 1, Brookefield",
+      "avg_review_rating": 4.5,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.972736,77.710498",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 1731,
+      "station_name": "Sunfuel - Home Awaits 357 Bengaluru",
+      "latitude": 12.9669,
+      "longitude": 77.716003,
+      "address": "5th Main, Bengaluru, Karnataka, 560037, India",
+      "area": "5th Main",
+      "avg_review_rating": 4.38,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.9669,77.716003",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8645,
+      "station_name": "KA | Bengaluru |  Fairfield by Marriott Bengaluru Whitefield",
+      "latitude": 12.981946,
+      "longitude": 77.708939,
+      "address": "3-A1 Kundanahalli Main Road Mahadevpura, Bengaluru, Karnataka, 560048, India",
+      "area": "3-A1 Kundanahalli Main Road Mahadevpura",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.981946,77.708939",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 4,
+  "ac_prices": [],
+  "dc_prices": [
+    23.0,
+    23.0,
+    23.0,
+    23.0
+  ],
+  "scraped_at": "2026-05-21T08:10:08.066911+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "station_image_url",
+    "landmark"
+  ],
+  "coverage_pct": 90.9
+}

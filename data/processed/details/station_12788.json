@@ -1,0 +1,198 @@
+{
+  "station_id": 12788,
+  "station_detail": {
+    "station_id": 12788,
+    "station_name": "ID-(fxc6zz) OM Traders",
+    "latitude": 19.9984,
+    "longitude": 79.250091,
+    "address": "Maharashtra State Highway 264, Chandrapur, Maharashtra, 442406, India",
+    "area": "Maharashtra State Highway 264",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.9984,79.250091",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8895 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/networks-logo/HP+E+charge-Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 64419,
+        "price_with_currency": "₹ 15.05",
+        "price": 15.05,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 27879,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 27885,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "HPL ID-(fxc6zz) OM Traders 1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Chandrapur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12788,
+      "station_name": "ID-(fxc6zz) OM Traders",
+      "latitude": 19.9984,
+      "longitude": 79.250091,
+      "address": "Maharashtra State Highway 264, Chandrapur, Maharashtra, 442406, India",
+      "area": "Maharashtra State Highway 264",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.9984,79.250091",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 11976,
+      "station_name": "GAURAV PETROLEUM",
+      "latitude": 20.0328,
+      "longitude": 79.184,
+      "address": " AT VILLAGE- UMRI RITH, TADALI, Chandrapur, Maharashtra, 442406, India",
+      "area": " AT VILLAGE- UMRI RITH, TADALI",
+      "avg_review_rating": 4.74,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.0328,79.184",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14463,
+      "station_name": "2012608-SANA PETROLEUM",
+      "latitude": 19.736557,
+      "longitude": 79.187469,
+      "address": "P5PP+JXH , CHANDUR , Chandur, Maharashtra, 442908, India",
+      "area": "P5PP+JXH , CHANDUR ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.736557,79.187469",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15740,
+      "station_name": "Waghoba Eco Lodge by Reliable Charge Talu Bhadrawati, Village – Wadala Tukum, Post Office –  Astha, Tadoba, Maharashtra 442906",
+      "latitude": 20.294086,
+      "longitude": 79.257086,
+      "address": "Talu Bhadrawati, Chandrapur, Maharashtra, 442906, India",
+      "area": "Talu Bhadrawati",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.294086,79.257086",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 14745,
+      "station_name": "OM Petroleum",
+      "latitude": 19.710491,
+      "longitude": 79.346809,
+      "address": "Survey No. 41, At Warur Road, Rajura Asifabad Highway, Rajura Chandrapur, Maharasthra, 442905, Chandrapur, Maharashtra, 442905, India",
+      "area": "Survey No. 41, At Warur Road, Rajura Asifabad Highway, Rajura Chandrapur, Maharasthra, 442905",
+      "avg_review_rating": 4.57,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.710491,79.346809",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    15.05
+  ],
+  "scraped_at": "2026-05-21T08:12:52.179520+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

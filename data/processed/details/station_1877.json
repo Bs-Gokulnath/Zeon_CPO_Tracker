@@ -1,0 +1,234 @@
+{
+  "station_id": 1877,
+  "station_detail": {
+    "station_id": 1877,
+    "station_name": "Statiq Ramada Bareilly Station",
+    "latitude": 28.347281,
+    "longitude": 79.428596,
+    "address": "Ramada Encore By Wyndham, Bareilly, Uttar Pradesh, 243001, India",
+    "area": "Ramada Encore By Wyndham",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.347281,79.428596",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8984 kms",
+    "operational_time": "08:00 To 18:00",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 4.35,
+    "no_of_reviews": 3333,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 259,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 1833,
+        "price_with_currency": "₹ 24.99",
+        "price": 24.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 2575,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "preparing"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "Ramada Bareilly DC Charger 2",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 1834,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 2576,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "Ramada Bareilly DC Charger 1",
+        "last_used_on": "05/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 8,
+        "2": 3,
+        "3": 5,
+        "4": 15,
+        "5": 70
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bareilly",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 1877,
+      "station_name": "Statiq Ramada Bareilly Station",
+      "latitude": 28.347281,
+      "longitude": 79.428596,
+      "address": "Ramada Encore By Wyndham, Bareilly, Uttar Pradesh, 243001, India",
+      "area": "Ramada Encore By Wyndham",
+      "avg_review_rating": 4.35,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.347281,79.428596",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 14640,
+      "station_name": "UP | Bareilly | Girija Janak Enterprises",
+      "latitude": 28.364767,
+      "longitude": 79.454094,
+      "address": "GIRIJA JANAK ENTERPRISES, Bareilly, Uttar Pradesh, 243006, India",
+      "area": "GIRIJA JANAK ENTERPRISES",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.364767,79.454094",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 13083,
+      "station_name": "ID(g8fmxd) Khandelwal  Fuel Station",
+      "latitude": 28.321047,
+      "longitude": 79.467704,
+      "address": "Nariyawal, Nariyawal, Uttar Pradesh, 243123, India",
+      "area": "Nariyawal",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.321047,79.467704",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 15405,
+      "station_name": "A. J. SONS",
+      "latitude": 28.405206,
+      "longitude": 79.42481,
+      "address": "OPP. RAILWAY WORKSHOP,, Bareilly, Uttar Pradesh, 243122, India",
+      "area": "OPP. RAILWAY WORKSHOP,",
+      "avg_review_rating": 4.68,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.405206,79.42481",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 14761,
+      "station_name": "Megha Heights - FW-2",
+      "latitude": 28.401413,
+      "longitude": 79.457501,
+      "address": "Colony Rd, Bareilly, Uttar Pradesh, 243122, India",
+      "area": "Colony Rd",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.401413,79.457501",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 2,
+  "ac_prices": [],
+  "dc_prices": [
+    24.99,
+    21.99
+  ],
+  "scraped_at": "2026-05-21T07:59:13.346699+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

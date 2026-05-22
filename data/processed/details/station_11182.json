@@ -1,0 +1,332 @@
+{
+  "station_id": 11182,
+  "station_detail": {
+    "station_id": 11182,
+    "station_name": "Shell Recharge Wagholi",
+    "latitude": 18.599081,
+    "longitude": 74.00532,
+    "address": "Highway , Pune, Maharashtra, 412207, India",
+    "area": "Highway ",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.599081,74.00532",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8333 kms",
+    "operational_time": "00:00 To 23:52",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 4.0,
+    "no_of_reviews": 121,
+    "station_image_url": null,
+    "is_connected": true,
+    "station_banner": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/banners/updatedbannerimage.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Car Care",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/car+care+(1).png",
+        "map_id": 13001,
+        "id": 4
+      },
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 13002,
+        "id": 2
+      },
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 13003,
+        "id": 1
+      },
+      {
+        "type": "Store",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/store.png",
+        "map_id": 13004,
+        "id": 3
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 61474,
+        "price_with_currency": "₹ 24.0",
+        "price": 24.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23222,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 23223,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "SR- WAG Charger 1",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61475,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23224,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "SR- WAG Charger 2",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 61476,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23225,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 5,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "SR- WAG Charger 3",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 61477,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23226,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 23227,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.3,
+        "charger_name": "SR- WAG Charger 4",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 17,
+        "2": 3,
+        "3": 6,
+        "4": 9,
+        "5": 64
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Pune",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": [
+      {
+        "id": 729,
+        "station_image_url": "$21"
+      }
+    ]
+  },
+  "nearby_stations": [
+    {
+      "id": 11182,
+      "station_name": "Shell Recharge Wagholi",
+      "latitude": 18.599081,
+      "longitude": 74.00532,
+      "address": "Highway , Pune, Maharashtra, 412207, India",
+      "area": "Highway ",
+      "avg_review_rating": 4.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.599081,74.00532",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
+    },
+    {
+      "id": 7387,
+      "station_name": "2005883-BAANDAL PETROLEUM",
+      "latitude": 18.612224,
+      "longitude": 74.017912,
+      "address": "LONIKAND, Achalpur, Maharashtra, 412207, India",
+      "area": "LONIKAND",
+      "avg_review_rating": 4.71,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.612224,74.017912",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13087,
+      "station_name": "ID(fz2puj) SHREE GANESH AUTO CENTRE KESNAND",
+      "latitude": 18.573243,
+      "longitude": 74.034702,
+      "address": "Kesnand, Kesnand, Maharashtra, 412207, India",
+      "area": "Kesnand",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.573243,74.034702",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 8188,
+      "station_name": "MH | Pune | Arya EV PCS",
+      "latitude": 18.56399,
+      "longitude": 73.954374,
+      "address": "1344/3, Pune, Maharashtra, 411014, India",
+      "area": "1344/3",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.56399,73.954374",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mercedes_Branding_Logo.png"
+    },
+    {
+      "id": 2227,
+      "station_name": "Statiq Blueberry Cooperative Hsg Society Station",
+      "latitude": 18.56406,
+      "longitude": 73.949539,
+      "address": "Blue Berry Road, Aple Ghar Society, Pune, Maharashtra, 411014, India",
+      "area": "Blue Berry Road, Aple Ghar Society",
+      "avg_review_rating": 3.38,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.56406,73.949539",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    }
+  ],
+  "ac_count": 3,
+  "dc_count": 1,
+  "ac_prices": [
+    20.0,
+    20.0,
+    20.0
+  ],
+  "dc_prices": [
+    24.0
+  ],
+  "scraped_at": "2026-05-21T08:09:58.536384+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "station_image_url",
+    "landmark"
+  ],
+  "coverage_pct": 90.9
+}

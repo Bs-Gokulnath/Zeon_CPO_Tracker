@@ -1,0 +1,247 @@
+{
+  "station_id": 10331,
+  "station_detail": {
+    "station_id": 10331,
+    "station_name": "Rama Market Munirka",
+    "latitude": 28.558642,
+    "longitude": 77.171667,
+    "address": "F-248, New Delhi, Delhi, 110067, India",
+    "area": "F-248",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.558642,77.171667",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8766 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 6,
+        "connector_name": "GBT",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/network-branding/verde/banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 59885,
+        "price_with_currency": "₹ 16.95",
+        "price": 16.95,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 20782,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 6,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 3.0,
+        "charger_name": "VER Rama Market Munirka 1",
+        "last_used_on": "13/07/2025"
+      },
+      {
+        "charger_id": 59888,
+        "price_with_currency": "₹ 16.95",
+        "price": 16.95,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 20785,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 6,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 3.0,
+        "charger_name": "VER Rama Market Munirka 3",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 59886,
+        "price_with_currency": "₹ 16.95",
+        "price": 16.95,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 20783,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "VER Rama Market Munirka 2",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "New Delhi",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 7.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10331,
+      "station_name": "Rama Market Munirka",
+      "latitude": 28.558642,
+      "longitude": 77.171667,
+      "address": "F-248, New Delhi, Delhi, 110067, India",
+      "area": "F-248",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.558642,77.171667",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15530,
+      "station_name": "Munirka by Reliable Charge",
+      "latitude": 28.558413,
+      "longitude": 77.171972,
+      "address": "NH 148AE, New Delhi, Delhi, 110067, India",
+      "area": "NH 148AE",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.558413,77.171972",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 7014,
+      "station_name": "BP - VASANT VIHAR",
+      "latitude": 28.55936,
+      "longitude": 77.17101,
+      "address": "Palam Marg, Vasant Vihar, New Delhi - 110057, Delhi, Delhi, 110057, India",
+      "area": "Palam Marg, Vasant Vihar, New Delhi - 110057",
+      "avg_review_rating": 4.76,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.55936,77.17101",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 11736,
+      "station_name": "Rk Puram",
+      "latitude": 28.5604,
+      "longitude": 77.1704,
+      "address": "Sector 5 RK Puram, New Delhi, Delhi, 110066, India",
+      "area": "Sector 5 RK Puram",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.5604,77.1704",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargerKarodefault.png"
+    },
+    {
+      "id": 11697,
+      "station_name": "Malyalee",
+      "latitude": 28.5556,
+      "longitude": 77.1765,
+      "address": "Olof Palme Marg, New Delhi, Delhi, 110067, India",
+      "area": "Olof Palme Marg",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.5556,77.1765",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargerKarodefault.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 2,
+  "ac_prices": [
+    16.95
+  ],
+  "dc_prices": [
+    16.95,
+    16.95
+  ],
+  "scraped_at": "2026-05-21T08:08:11.257902+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,194 @@
+{
+  "station_id": 7613,
+  "station_detail": {
+    "station_id": 7613,
+    "station_name": "2018215-KAUSHLAM AND SONS",
+    "latitude": 25.168739,
+    "longitude": 76.037718,
+    "address": "KOTA, Kota, Rajasthan, 325203, India",
+    "area": "KOTA",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.168739,76.037718",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8614 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.49,
+    "no_of_reviews": 39,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 55452,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13798,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "2018215-KAUSHLAM AND SONS",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 8,
+        "2": 0,
+        "3": 8,
+        "4": 5,
+        "5": 79
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Kota",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7613,
+      "station_name": "2018215-KAUSHLAM AND SONS",
+      "latitude": 25.168739,
+      "longitude": 76.037718,
+      "address": "KOTA, Kota, Rajasthan, 325203, India",
+      "area": "KOTA",
+      "avg_review_rating": 4.49,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.168739,76.037718",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 7513,
+      "station_name": "2002146-SHREE JEE ENTERPRISES",
+      "latitude": 25.170131,
+      "longitude": 76.0397,
+      "address": "POLAIKALAN, Dholpur, Rajasthan, 325203, India",
+      "area": "POLAIKALAN",
+      "avg_review_rating": 4.2,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.170131,76.0397",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 13246,
+      "station_name": "ID(013565)Shree Ramdoot Filling station",
+      "latitude": 25.16923,
+      "longitude": 76.098253,
+      "address": "Seemalya, Seemalya, Rajasthan, 325203, India",
+      "area": "Seemalya",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.16923,76.098253",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 8916,
+      "station_name": "2015216-VAKRANGEE PETROLEUM",
+      "latitude": 25.18937,
+      "longitude": 75.96788,
+      "address": "KOTA BARAN ROAD , Kota, Rajasthan, 325201, India",
+      "area": "KOTA BARAN ROAD ",
+      "avg_review_rating": 4.58,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.18937,75.96788",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10410,
+      "station_name": "USHARA FS",
+      "latitude": 25.1598,
+      "longitude": 75.92745,
+      "address": "kota, Kota, Rajasthan, 324001, India",
+      "area": "kota",
+      "avg_review_rating": 4.58,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.1598,75.92745",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:03:21.683410+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

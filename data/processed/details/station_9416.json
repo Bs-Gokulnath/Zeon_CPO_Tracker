@@ -1,0 +1,198 @@
+{
+  "station_id": 9416,
+  "station_detail": {
+    "station_id": 9416,
+    "station_name": "Vadamadurai Automobiles",
+    "latitude": 10.435777,
+    "longitude": 78.08655,
+    "address": "NO 6531, DINDIGUL-TRICHY RD, Vadamadurai, Dindigul, Tamil Nadu, 624802, India",
+    "area": "NO 6531, DINDIGUL-TRICHY RD, Vadamadurai",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.435777,78.08655",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8714 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 58339,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 18278,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 18279,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Vadamadurai Automobiles",
+        "last_used_on": "20/03/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Dindigul",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9416,
+      "station_name": "Vadamadurai Automobiles",
+      "latitude": 10.435777,
+      "longitude": 78.08655,
+      "address": "NO 6531, DINDIGUL-TRICHY RD, Vadamadurai, Dindigul, Tamil Nadu, 624802, India",
+      "area": "NO 6531, DINDIGUL-TRICHY RD, Vadamadurai",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.435777,78.08655",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 11876,
+      "station_name": "IRS FILLING STATION",
+      "latitude": 10.363671,
+      "longitude": 77.988237,
+      "address": "DINDIGUL, Dindigul, Tamil Nadu, 624005, India",
+      "area": "DINDIGUL",
+      "avg_review_rating": 4.79,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.363671,77.988237",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8038,
+      "station_name": "BPCL-AR fuel",
+      "latitude": 10.427418,
+      "longitude": 77.954339,
+      "address": "Thadikombu, Dindigul, Tamil Nadu, 624709, India",
+      "area": "Thadikombu",
+      "avg_review_rating": 4.23,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.427418,77.954339",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8096,
+      "station_name": "POOCHENDU FILLING STATION",
+      "latitude": 10.367463,
+      "longitude": 77.959743,
+      "address": "NO 71/1, PALANI ROAD, OPP WAREHOUSE, DINDIGUL, Dindigul, Tamil Nadu, 624003, India",
+      "area": "NO 71/1, PALANI ROAD, OPP WAREHOUSE, DINDIGUL",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.367463,77.959743",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 11985,
+      "station_name": "AJ FUELS",
+      "latitude": 10.515045,
+      "longitude": 78.213375,
+      "address": "95/5A4B1A, VILLAGE-NADUPATTY, THALUK-MANAPPARAI, DISTRICT-TRICHIRAPALLI, Tiruchirappalli, Tamil Nadu, 621315, India",
+      "area": "95/5A4B1A, VILLAGE-NADUPATTY, THALUK-MANAPPARAI, DISTRICT-TRICHIRAPALLI",
+      "avg_review_rating": 4.22,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.515045,78.213375",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:06:07.436747+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

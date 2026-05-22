@@ -1,0 +1,236 @@
+{
+  "station_id": 9967,
+  "station_detail": {
+    "station_id": 9967,
+    "station_name": "kashi kamal",
+    "latitude": 17.310682,
+    "longitude": 76.790222,
+    "address": "Kashi kamal, Kalaburagi, Karnataka, 585103, India",
+    "area": "Kashi kamal",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.310682,76.790222",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8615 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/yocharge_Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 60815,
+        "price_with_currency": "₹ 18.0",
+        "price": 18.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22152,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "YHB kashi kamal 7",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 60816,
+        "price_with_currency": "₹ 18.0",
+        "price": 18.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22153,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "YHB kashi kamal 8",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 60817,
+        "price_with_currency": "₹ 18.0",
+        "price": 18.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22154,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "YHB kashi kamal 9",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Kalaburagi",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 3.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9967,
+      "station_name": "kashi kamal",
+      "latitude": 17.310682,
+      "longitude": 76.790222,
+      "address": "Kashi kamal, Kalaburagi, Karnataka, 585103, India",
+      "area": "Kashi kamal",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.310682,76.790222",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 2112,
+      "station_name": "Ashirwad Mangal Kalyan Charging Station",
+      "latitude": 17.327285,
+      "longitude": 76.867849,
+      "address": "15, Kalaburagi, Karnataka, 585105, India",
+      "area": "15",
+      "avg_review_rating": 4.58,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.327285,76.867849",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eFill+-+default.png"
+    },
+    {
+      "id": 7220,
+      "station_name": "2017855-BP-BASAVAKALYAN",
+      "latitude": 17.796113,
+      "longitude": 77.038543,
+      "address": "RAJESHWAR, Bilgi, Karnataka, 585331, India",
+      "area": "RAJESHWAR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.796113,77.038543",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7186,
+      "station_name": "2006019-V.R.CHIDRI",
+      "latitude": 17.76797,
+      "longitude": 77.1045,
+      "address": "HUMNABAD, Bilgi, Karnataka, 585330, India",
+      "area": "HUMNABAD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.76797,77.1045",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 2179,
+      "station_name": "Statiq Hotel BHP6 Station",
+      "latitude": 17.771616,
+      "longitude": 77.114227,
+      "address": ":left side of the main entrance gate, NH-65Hotel BHP6 Boarding & Lodging, Bidar, Karnataka, 585330, India",
+      "area": ":left side of the main entrance gate, NH-65Hotel BHP6 Boarding & Lodging",
+      "avg_review_rating": 4.73,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.771616,77.114227",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    }
+  ],
+  "ac_count": 3,
+  "dc_count": 0,
+  "ac_prices": [
+    18.0,
+    18.0,
+    18.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:07:45.224781+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

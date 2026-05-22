@@ -1,0 +1,320 @@
+{
+  "station_id": 15787,
+  "station_detail": {
+    "station_id": 15787,
+    "station_name": "EESL Nagpur Rahate Colony Metro Station",
+    "latitude": 21.12789,
+    "longitude": 79.073608,
+    "address": "Rahate Colony, Nagpur, Maharashtra, Nagpur, Maharashtra, 440013, India",
+    "area": "Rahate Colony, Nagpur, Maharashtra",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.12789,79.073608",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8885 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 6,
+        "connector_name": "GBT",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png"
+      },
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 2,
+        "connector_name": "CHAdeMO",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/chademo.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 69527,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35221,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 6,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 15.0,
+        "charger_name": "EESL Nagpur Rahate Colony Metro Station 15kW GBT-1",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 69528,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35222,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 6,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 15.0,
+        "charger_name": "EESL Nagpur Rahate Colony Metro Station 15kW GBT-2",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 69529,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35223,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 6,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 15.0,
+        "charger_name": "EESL Nagpur Rahate Colony Metro Station 15kW GBT-3",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 69593,
+        "price_with_currency": "₹ 22.0",
+        "price": 22.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35306,
+            "connector_type": "CHAdeMO",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/chademo.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 2,
+            "connector_status": "unavailable"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 35307,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          },
+          {
+            "display_id": 3,
+            "connector_id": 35308,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 426.0,
+        "charger_name": "Rahate Colony Metro Station 142kW CCS/CHAdeMO/T2",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Nagpur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 426.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15787,
+      "station_name": "EESL Nagpur Rahate Colony Metro Station",
+      "latitude": 21.12789,
+      "longitude": 79.073608,
+      "address": "Rahate Colony, Nagpur, Maharashtra, Nagpur, Maharashtra, 440013, India",
+      "area": "Rahate Colony, Nagpur, Maharashtra",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.12789,79.073608",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15681,
+      "station_name": "EESL Nagpur Congress Nagar Metro Station",
+      "latitude": 21.127807,
+      "longitude": 79.080203,
+      "address": "Nagpur Metro Station, Congress Nagar Metro Station, Nagpur, Maharashtra, Nagpur, Maharashtra, 440015, India",
+      "area": "Nagpur Metro Station, Congress Nagar Metro Station, Nagpur, Maharashtra",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.127807,79.080203",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15830,
+      "station_name": "EESL Nagpur METRO BHAWAN",
+      "latitude": 21.129822,
+      "longitude": 79.066353,
+      "address": "Near Deekshabhoomi, Ramdaspeth, Nagpur, Maharashtra, Nagpur, Maharashtra, 440010, India",
+      "area": "Near Deekshabhoomi, Ramdaspeth, Nagpur, Maharashtra",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.129822,79.066353",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/default.png"
+    },
+    {
+      "id": 15581,
+      "station_name": "EESL Nagpur Ajani Square Metro Station",
+      "latitude": 21.118373,
+      "longitude": 79.069956,
+      "address": "401, Chandrapur - Nagpur Rd, Ajni Chowk, Ramakrishna Nagar, Vivekanand Nagar, Nagpur, Maharashtra, Nagpur, Maharashtra, 440015, India",
+      "area": "401, Chandrapur - Nagpur Rd, Ajni Chowk, Ramakrishna Nagar, Vivekanand Nagar, Nagpur, Maharashtra",
+      "avg_review_rating": 4.64,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.118373,79.069956",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15753,
+      "station_name": "EESL Nagpur Inst. Of Engineers Metro Station",
+      "latitude": 21.138293,
+      "longitude": 79.067935,
+      "address": "Inst. Of Engineers Metro Station, Nagpur, Maharashtra, Nagpur, Maharashtra, 440010, India",
+      "area": "Inst. Of Engineers Metro Station, Nagpur, Maharashtra",
+      "avg_review_rating": 4.68,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.138293,79.067935",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 4,
+  "ac_prices": [],
+  "dc_prices": [
+    20.0,
+    20.0,
+    20.0,
+    22.0
+  ],
+  "scraped_at": "2026-05-21T08:16:53.130290+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

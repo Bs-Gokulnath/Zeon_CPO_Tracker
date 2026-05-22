@@ -1,0 +1,218 @@
+{
+  "station_id": 10333,
+  "station_detail": {
+    "station_id": 10333,
+    "station_name": "King’s Kraft Hotel Rajkot",
+    "latitude": 22.270824,
+    "longitude": 70.750633,
+    "address": "7QC2+989, Rajkot, Gujarat, 360005, India",
+    "area": "7QC2+989",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.270824,70.750633",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8041 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.88,
+    "no_of_reviews": 8,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/network-branding/verde/banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 59891,
+        "price_with_currency": "₹ 16.95",
+        "price": 16.95,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 20788,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "VER King’s Kraft Hotel Rajkot 1",
+        "last_used_on": "19/01/2026"
+      },
+      {
+        "charger_id": 59895,
+        "price_with_currency": "₹ 16.95",
+        "price": 16.95,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 20792,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "VER King’s Kraft Hotel Rajkot 2",
+        "last_used_on": "07/01/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 12,
+        "5": 88
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Rajkot",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10333,
+      "station_name": "King’s Kraft Hotel Rajkot",
+      "latitude": 22.270824,
+      "longitude": 70.750633,
+      "address": "7QC2+989, Rajkot, Gujarat, 360005, India",
+      "area": "7QC2+989",
+      "avg_review_rating": 4.88,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.270824,70.750633",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 10365,
+      "station_name": "Service Force Shreenathji Motors",
+      "latitude": 22.26645,
+      "longitude": 70.761861,
+      "address": "ShriRang Nagar-18, Rajkot, Gujarat, 360005, India",
+      "area": "ShriRang Nagar-18",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.26645,70.761861",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 10357,
+      "station_name": "Rajhansh Party Plot",
+      "latitude": 22.272018,
+      "longitude": 70.765848,
+      "address": "Rajhansh Party lawn, Rajkot, Gujarat, 360005, India",
+      "area": "Rajhansh Party lawn",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.272018,70.765848",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 10346,
+      "station_name": "Service Force Patel Auto clinic",
+      "latitude": 22.258656,
+      "longitude": 70.765892,
+      "address": "Ambika Township, Rajkot, Gujarat, 360005, India",
+      "area": "Ambika Township",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.258656,70.765892",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 9844,
+      "station_name": "Hill Top Cafe and Restaurant",
+      "latitude": 22.273431,
+      "longitude": 70.726962,
+      "address": "Decora sky hill road, Rajkot, Gujarat, 360005, India",
+      "area": "Decora sky hill road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.273431,70.726962",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 2,
+  "ac_prices": [],
+  "dc_prices": [
+    16.95,
+    16.95
+  ],
+  "scraped_at": "2026-05-21T08:08:11.167365+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

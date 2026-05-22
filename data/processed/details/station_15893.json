@@ -1,0 +1,198 @@
+{
+  "station_id": 15893,
+  "station_detail": {
+    "station_id": 15893,
+    "station_name": "chargeMOD | EasyCharge EVCS | Kurnool",
+    "latitude": 15.788748,
+    "longitude": 78.034569,
+    "address": "Pista House Kurnool, Kurnool, Andhra Pradesh, 518003, India",
+    "area": "Pista House Kurnool",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.788748,78.034569",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8737 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Chargemod+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 69814,
+        "price_with_currency": "₹ 23.0",
+        "price": 23.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35660,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 35661,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 360.0,
+        "charger_name": "CMD chargeMOD | EasyCharge EVCS | Kurnool 1",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Kurnool",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 360.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15893,
+      "station_name": "chargeMOD | EasyCharge EVCS | Kurnool",
+      "latitude": 15.788748,
+      "longitude": 78.034569,
+      "address": "Pista House Kurnool, Kurnool, Andhra Pradesh, 518003, India",
+      "area": "Pista House Kurnool",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.788748,78.034569",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 11298,
+      "station_name": "Sri Ram Chandra EV Station",
+      "latitude": 15.78681,
+      "longitude": 78.034006,
+      "address": "NH-44 Bangalore-Hyderabad HighWay, Kurnool, Andhra Pradesh, 518001, India",
+      "area": "NH-44 Bangalore-Hyderabad HighWay",
+      "avg_review_rating": 4.86,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.78681,78.034006",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/Group+1000001994.png"
+    },
+    {
+      "id": 12701,
+      "station_name": "ID(eomwqy) M/S Sri Puvvadiradhakrishna fuels",
+      "latitude": 15.797333,
+      "longitude": 78.033883,
+      "address": "Sri Venkateshwara Nagar, Kurnool, Andhra Pradesh, 518002, India",
+      "area": "Sri Venkateshwara Nagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.797333,78.033883",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 12523,
+      "station_name": "ID(1ocavy) Kvr petromart",
+      "latitude": 15.795368,
+      "longitude": 78.061865,
+      "address": "Madhavi Nagar, Kurnool, Andhra Pradesh, 518002, India",
+      "area": "Madhavi Nagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.795368,78.061865",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 9289,
+      "station_name": "AP | Kurnool | H8 Restaurant",
+      "latitude": 15.757091,
+      "longitude": 78.017641,
+      "address": "Opposite gosala, Kurnool, Andhra Pradesh, 518001, India",
+      "area": "Opposite gosala",
+      "avg_review_rating": 4.07,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.757091,78.017641",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/gentari-default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    23.0
+  ],
+  "scraped_at": "2026-05-21T08:17:01.160855+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

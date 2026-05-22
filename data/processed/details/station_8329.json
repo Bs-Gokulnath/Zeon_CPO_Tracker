@@ -1,0 +1,269 @@
+{
+  "station_id": 8329,
+  "station_detail": {
+    "station_id": 8329,
+    "station_name": "Ecoplug Hotel Mayank Palace Khatoo",
+    "latitude": 27.372305,
+    "longitude": 75.414832,
+    "address": "52 begha road , Sikar, Rajasthan, 332602, India",
+    "area": "52 begha road ",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.372305,75.414832",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8580 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      },
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 4.44,
+    "no_of_reviews": 226,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Eplug.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 56765,
+        "price_with_currency": "₹ 22.0",
+        "price": 22.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 15686,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 15687,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 238.0,
+        "charger_name": "EPL Ecoplug Hotel Mayank Palace Khatoo 1",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 69921,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35830,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 35832,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 3,
+            "connector_id": 35834,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 26.0,
+        "charger_name": "EPL Ecoplug Hotel Mayank Palace Khatoo 2",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 8,
+        "2": 0,
+        "3": 4,
+        "4": 14,
+        "5": 74
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Sikar",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 238.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8329,
+      "station_name": "Ecoplug Hotel Mayank Palace Khatoo",
+      "latitude": 27.372305,
+      "longitude": 75.414832,
+      "address": "52 begha road , Sikar, Rajasthan, 332602, India",
+      "area": "52 begha road ",
+      "avg_review_rating": 4.44,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.372305,75.414832",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 10131,
+      "station_name": "Hotel Radha Palace",
+      "latitude": 27.368142,
+      "longitude": 75.413618,
+      "address": "9C97+5CF, Sikar, Rajasthan, 332602, India",
+      "area": "9C97+5CF",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.368142,75.413618",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 9286,
+      "station_name": "chargeMOD | Ram Basant Hotel EVCS",
+      "latitude": 27.377758,
+      "longitude": 75.406214,
+      "address": "Mandha Rd, Sikar, Rajasthan, 332602, India",
+      "area": "Mandha Rd",
+      "avg_review_rating": 4.25,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.377758,75.406214",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 15776,
+      "station_name": "Hotel Surya Palace",
+      "latitude": 27.375784,
+      "longitude": 75.454286,
+      "address": "Reengus, Sikar, Rajasthan, 332404, India",
+      "area": "Reengus",
+      "avg_review_rating": 4.7,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.375784,75.454286",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ezecon_map_pin.png"
+    },
+    {
+      "id": 14899,
+      "station_name": "Old Rao Hotel - ChargeJet",
+      "latitude": 27.447301,
+      "longitude": 75.421077,
+      "address": "Khasra No. 2984/2924, Sikar, Rajasthan, 332405, India",
+      "area": "Khasra No. 2984/2924",
+      "avg_review_rating": 4.91,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.447301,75.421077",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargeJet_Branding_Logo_Pin.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 1,
+  "ac_prices": [
+    20.0
+  ],
+  "dc_prices": [
+    22.0
+  ],
+  "scraped_at": "2026-05-21T08:04:18.945488+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

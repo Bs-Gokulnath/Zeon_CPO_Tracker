@@ -1,0 +1,204 @@
+{
+  "station_id": 7703,
+  "station_detail": {
+    "station_id": 7703,
+    "station_name": "Ecoplug Ridhi Sidhi Hotel Titanwer Ridhi Sidhi Hotel Titanwer",
+    "latitude": 27.9159,
+    "longitude": 75.517421,
+    "address": "bijarniya ki dhani, Sikar, Rajasthan, 333012, India",
+    "area": "bijarniya ki dhani",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.9159,75.517421",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8597 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.57,
+    "no_of_reviews": 49,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Eplug.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 55542,
+        "price_with_currency": "₹ 17.95",
+        "price": 17.95,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13896,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 13897,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 58.0,
+        "charger_name": "EPL Ecoplug Ridhi Sidhi Hotel Titanwer Ridhi Sidhi Hotel Titanwer 1",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 8,
+        "2": 2,
+        "3": 0,
+        "4": 4,
+        "5": 86
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Sikar",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 58.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7703,
+      "station_name": "Ecoplug Ridhi Sidhi Hotel Titanwer Ridhi Sidhi Hotel Titanwer",
+      "latitude": 27.9159,
+      "longitude": 75.517421,
+      "address": "bijarniya ki dhani, Sikar, Rajasthan, 333012, India",
+      "area": "bijarniya ki dhani",
+      "avg_review_rating": 4.57,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.9159,75.517421",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 7702,
+      "station_name": "Ecoplug Hotel Namaste And Restaurant Hotel Namaste And Restaurant",
+      "latitude": 27.721016,
+      "longitude": 75.502695,
+      "address": "jaipur road bheru ghat, Sikar, Rajasthan, 333307, India",
+      "area": "jaipur road bheru ghat",
+      "avg_review_rating": 4.7,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.721016,75.502695",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 7707,
+      "station_name": "Ecoplug Shri Ridhi Sidhi Restaurant & Hotel Shri ridhi sidhi restaurant &hotel",
+      "latitude": 28.172632,
+      "longitude": 75.473213,
+      "address": "jaipur pilani sate highway, Jhunjhunu, Rajasthan, 333023, India",
+      "area": "jaipur pilani sate highway",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.172632,75.473213",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 12268,
+      "station_name": "plughere hotel ganguar",
+      "latitude": 27.67014,
+      "longitude": 75.67352,
+      "address": "Neem kathana road challaneartoll plaza challa, Neem Ka Thana, Rajasthan, 332706, India",
+      "area": "Neem kathana road challaneartoll plaza challa",
+      "avg_review_rating": 4.57,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.67014,75.67352",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 8783,
+      "station_name": "RADHEY MOHAN PETROLEUM",
+      "latitude": 27.652681,
+      "longitude": 75.650277,
+      "address": "SIKAR, Sikar, Rajasthan, 332706, India",
+      "area": "SIKAR",
+      "avg_review_rating": 4.51,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.652681,75.650277",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    17.95
+  ],
+  "scraped_at": "2026-05-21T08:03:32.623449+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,241 @@
+{
+  "station_id": 15694,
+  "station_detail": {
+    "station_id": 15694,
+    "station_name": "Spider_Punjagutta",
+    "latitude": 17.428816,
+    "longitude": 78.450339,
+    "address": "metro station SY no 1/1, Hyderabad, Telangana, 500082, India",
+    "area": "metro station SY no 1/1",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.428816,78.450339",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8792 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/yocharge_Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 69275,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34871,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 7.0,
+        "charger_name": "YHB Spider_Punjagutta 1",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 69276,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34872,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "YHB Spider_Punjagutta 2",
+        "last_used_on": "19/05/2026"
+      },
+      {
+        "charger_id": 69277,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34873,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "YHB Spider_Punjagutta 3",
+        "last_used_on": "15/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Hyderabad",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15694,
+      "station_name": "Spider_Punjagutta",
+      "latitude": 17.428816,
+      "longitude": 78.450339,
+      "address": "metro station SY no 1/1, Hyderabad, Telangana, 500082, India",
+      "area": "metro station SY no 1/1",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.428816,78.450339",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 9953,
+      "station_name": "Big Bazaar Ameerpet Parking 2 by Reliable Charge B-3-954/2, Srinagar Colony Main Rd, Pratap Nagar, Nagarjuna Nagar colony, Ameerpet,",
+      "latitude": 17.430159,
+      "longitude": 78.448416,
+      "address": "B-3-954/2, Hyderabad, Telangana, 500073, India",
+      "area": "B-3-954/2",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.430159,78.448416",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 9955,
+      "station_name": "G S Center Point Parking 2 by Reliable Charge Ground Floor, Central Mall, Circle, G.S. Centre Point, Hyderabad, Telangana",
+      "latitude": 17.426579,
+      "longitude": 78.45302,
+      "address": "Ground Floor, Hyderabad, Telangana, 500082, India",
+      "area": "Ground Floor",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.426579,78.45302",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 9959,
+      "station_name": "G S Center Point Parking 1 by Reliable Charge Ground Floor, Central Mall, Circle, G.S. Centre Point, Hyderabad, Telangana",
+      "latitude": 17.426579,
+      "longitude": 78.45302,
+      "address": "Ground Floor, Hyderabad, Telangana, 500082, India",
+      "area": "Ground Floor",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.426579,78.45302",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 8165,
+      "station_name": "Statiq ITC Kakatiya Station",
+      "latitude": 17.43275,
+      "longitude": 78.45646,
+      "address": "Opp. to exit gate and 200 mtrs away from main entrance gate, Teachers Colony, Greenlands, Begumpet,, Hyderabad, Telangana, 500016, India",
+      "area": "Opp. to exit gate and 200 mtrs away from main entrance gate, Teachers Colony, Greenlands, Begumpet,",
+      "avg_review_rating": 4.72,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.43275,78.45646",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 3,
+  "ac_prices": [],
+  "dc_prices": [
+    21.99,
+    21.99,
+    21.99
+  ],
+  "scraped_at": "2026-05-21T08:16:32.743734+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

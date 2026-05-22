@@ -1,0 +1,209 @@
+{
+  "station_id": 2086,
+  "station_detail": {
+    "station_id": 2086,
+    "station_name": "Sunfuel - Holiday Inn Lucknow Airport",
+    "latitude": 26.7775,
+    "longitude": 80.881416,
+    "address": "Near Transport Nagar Metro Station, Lucknow, Uttar Pradesh, 226008, India",
+    "area": "Near Transport Nagar Metro Station",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.7775,80.881416",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9113 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 4.47,
+    "no_of_reviews": 227,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Sunfuel+Banner.png",
+    "landmark": "Transport Nagar Metro Station",
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 534,
+        "id": 1
+      },
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 535,
+        "id": 2
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 2282,
+        "price_with_currency": "₹ 16.15",
+        "price": 16.15,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 3296,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.4,
+        "charger_name": "Sunfuel - Holiday Inn Lucknow Airport",
+        "last_used_on": "07/06/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 5,
+        "2": 2,
+        "3": 1,
+        "4": 26,
+        "5": 66
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Lucknow",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 7.4,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 2086,
+      "station_name": "Sunfuel - Holiday Inn Lucknow Airport",
+      "latitude": 26.7775,
+      "longitude": 80.881416,
+      "address": "Near Transport Nagar Metro Station, Lucknow, Uttar Pradesh, 226008, India",
+      "area": "Near Transport Nagar Metro Station",
+      "avg_review_rating": 4.47,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.7775,80.881416",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 11966,
+      "station_name": "Sky Dac",
+      "latitude": 26.78557,
+      "longitude": 80.886084,
+      "address": "Beside Eslc Hospital, Kanpur Road, Krishna Nagar, Lucknow, 226023, Lucknow, Uttar Pradesh, 226023, India",
+      "area": "Beside Eslc Hospital, Kanpur Road, Krishna Nagar, Lucknow, 226023",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.78557,80.886084",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8703,
+      "station_name": "Centurian Academy EV Charging Station",
+      "latitude": 26.791362,
+      "longitude": 80.892649,
+      "address": "Centurian Academy, Lucknow, Uttar Pradesh, 226012, India",
+      "area": "Centurian Academy",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.791362,80.892649",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/1c_normal.png"
+    },
+    {
+      "id": 8035,
+      "station_name": "GLIDA Jyotiba Phule Park",
+      "latitude": 26.786373,
+      "longitude": 80.908245,
+      "address": "Sector D1, Lucknow, Uttar Pradesh, 226012, India",
+      "area": "Sector D1",
+      "avg_review_rating": 4.51,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.786373,80.908245",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    },
+    {
+      "id": 8711,
+      "station_name": "Telibagh EV Charging Station",
+      "latitude": 26.77801,
+      "longitude": 80.943294,
+      "address": "587/53, Lucknow, Uttar Pradesh, 226002, India",
+      "area": "587/53",
+      "avg_review_rating": 4.78,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.77801,80.943294",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/1c_normal.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    16.15
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T07:59:25.053762+00:00",
+  "parse_success": true,
+  "missing_fields": [],
+  "coverage_pct": 100.0
+}

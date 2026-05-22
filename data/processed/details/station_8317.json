@@ -1,0 +1,289 @@
+{
+  "station_id": 8317,
+  "station_detail": {
+    "station_id": 8317,
+    "station_name": "Statiq The Club Mumbai Station",
+    "latitude": 19.121447,
+    "longitude": 72.831869,
+    "address": "Left Parking from the Main Entrance 197, Kashibai Mahadev Marg, Shakti Nagar, Shanti Nagar, D.N.Nagar, Andheri West,, Mumbai, Maharashtra, 400053, India",
+    "area": "Left Parking from the Main Entrance 197, Kashibai Mahadev Marg, Shakti Nagar, Shanti Nagar, D.N.Nagar, Andheri West,",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.121447,72.831869",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8216 kms",
+    "operational_time": "08:00 To 23:00",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      },
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.59,
+    "no_of_reviews": 576,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Lodging",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/lodging.png",
+        "map_id": 12122,
+        "id": 5
+      },
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 12123,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 57874,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 17525,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "The Club Mumbai DC Charger",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 56752,
+        "price_with_currency": "₹ 14.49",
+        "price": 14.49,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 15665,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "The Club BMW AC Charger 1",
+        "last_used_on": "20/05/2026"
+      },
+      {
+        "charger_id": 56753,
+        "price_with_currency": "₹ 14.49",
+        "price": 14.49,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 15666,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "The Club BMW AC Charger 2",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 56754,
+        "price_with_currency": "₹ 14.49",
+        "price": 14.49,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 15667,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "The Club BMW AC Charger 3",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 6,
+        "2": 2,
+        "3": 2,
+        "4": 9,
+        "5": 82
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Mumbai",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8317,
+      "station_name": "Statiq The Club Mumbai Station",
+      "latitude": 19.121447,
+      "longitude": 72.831869,
+      "address": "Left Parking from the Main Entrance 197, Kashibai Mahadev Marg, Shakti Nagar, Shanti Nagar, D.N.Nagar, Andheri West,, Mumbai, Maharashtra, 400053, India",
+      "area": "Left Parking from the Main Entrance 197, Kashibai Mahadev Marg, Shakti Nagar, Shanti Nagar, D.N.Nagar, Andheri West,",
+      "avg_review_rating": 4.58,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.121447,72.831869",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 12755,
+      "station_name": "ID(1qr87a) Raj Fleet Centre ID-1qr87a",
+      "latitude": 19.134609,
+      "longitude": 72.8319,
+      "address": "Volvo Showroom, Mumbai, Maharashtra, 400053, India",
+      "area": "Volvo Showroom",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.134609,72.8319",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 12692,
+      "station_name": "ID(pac3qg) Lachmandas Service Station",
+      "latitude": 19.108066,
+      "longitude": 72.84127,
+      "address": "Swami Vivekananda Road, Mumbai, Maharashtra, 400056, India",
+      "area": "Swami Vivekananda Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.108066,72.84127",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 7831,
+      "station_name": "MH | Mumbai | MB#Auto Hangar India Pvt Ltd - Vile Parley",
+      "latitude": 19.108558,
+      "longitude": 72.846414,
+      "address": "AUTO HANGAR INDIA PRIVATE LIMITED Vishnu, Mumbai, Maharashtra, 400057, India",
+      "area": "AUTO HANGAR INDIA PRIVATE LIMITED Vishnu",
+      "avg_review_rating": 4.86,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.108558,72.846414",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mercedes_Focused_Offline_Map_Pin.png"
+    },
+    {
+      "id": 8662,
+      "station_name": "MH | Mumbai | JW Marriott Mumbai Juhu",
+      "latitude": 19.101532,
+      "longitude": 72.826593,
+      "address": "Juhu Tara Rd, Mumbai, Maharashtra, 400049, India",
+      "area": "Juhu Tara Rd",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.101532,72.826593",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonecharging.png"
+    }
+  ],
+  "ac_count": 3,
+  "dc_count": 1,
+  "ac_prices": [
+    14.49,
+    14.49,
+    14.49
+  ],
+  "dc_prices": [
+    21.99
+  ],
+  "scraped_at": "2026-05-21T08:04:18.880491+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

@@ -1,0 +1,198 @@
+{
+  "station_id": 12476,
+  "station_detail": {
+    "station_id": 12476,
+    "station_name": "ID(qauspf)-MS/HSD SRI MAHESHWARI SERVICE STATION MACHENAHALLI. CHIKKABALLAPUR",
+    "latitude": 13.505956,
+    "longitude": 77.597177,
+    "address": "Chikkaballapur, Chikkaballapur, Karnataka, 561211, India",
+    "area": "Chikkaballapur",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.505956,77.597177",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8676 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/networks-logo/HP+E+charge-Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 64108,
+        "price_with_currency": "₹ 15.05",
+        "price": 15.05,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 27335,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 27340,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "HPL ID(qauspf)-MS/HSD SRI MAHESHWARI SERVICE STATION MACHENAHALLI. CHIKKABALLAPUR 1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Chikkaballapur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12476,
+      "station_name": "ID(qauspf)-MS/HSD SRI MAHESHWARI SERVICE STATION MACHENAHALLI. CHIKKABALLAPUR",
+      "latitude": 13.505956,
+      "longitude": 77.597177,
+      "address": "Chikkaballapur, Chikkaballapur, Karnataka, 561211, India",
+      "area": "Chikkaballapur",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.505956,77.597177",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 15732,
+      "station_name": "NAGAPOOJA OI",
+      "latitude": 13.492496,
+      "longitude": 77.513655,
+      "address": "\"NEAR DEVANAGONTHI RLY STN,  BANGALORE-HINDUPUR ROAD ( SH 9),\", Bengaluru, Karnataka, 562101, India",
+      "area": "\"NEAR DEVANAGONTHI RLY STN,  BANGALORE-HINDUPUR ROAD ( SH 9),\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.492496,77.513655",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15730,
+      "station_name": "BHAGYALAKSHMI PETROLEUM",
+      "latitude": 13.445455,
+      "longitude": 77.68869,
+      "address": "\"NEAR DEVANAGONTHI RLY STN, TIPPENAHALLI VILLAGE,\", Bengaluru, Karnataka, 562103, India",
+      "area": "\"NEAR DEVANAGONTHI RLY STN, TIPPENAHALLI VILLAGE,\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.445455,77.68869",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15288,
+      "station_name": "ADITHI FUEL STATION",
+      "latitude": 13.632825,
+      "longitude": 77.516792,
+      "address": "GAURIBIDNUR TOWN, Chikkaballapur, Karnataka, 561208, India",
+      "area": "GAURIBIDNUR TOWN",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.632825,77.516792",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7208,
+      "station_name": "2012552-SREE MARUTHI ENTERPRISES",
+      "latitude": 13.494152,
+      "longitude": 77.754201,
+      "address": "CHICKABALLAPUR, Bilgi, Karnataka, 562101, India",
+      "area": "CHICKABALLAPUR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.494152,77.754201",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    15.05
+  ],
+  "scraped_at": "2026-05-21T08:12:03.001013+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

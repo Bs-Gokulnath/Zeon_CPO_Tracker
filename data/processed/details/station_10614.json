@@ -1,0 +1,198 @@
+{
+  "station_id": 10614,
+  "station_detail": {
+    "station_id": 10614,
+    "station_name": "chargeMOD | FLASH CHARGE | EVCS POTTA",
+    "latitude": 10.339643,
+    "longitude": 76.321744,
+    "address": " Chennai Anandha Bhavan, Thrissur, Kerala, 680307, India",
+    "area": " Chennai Anandha Bhavan",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.339643,76.321744",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8521 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Chargemod+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 60374,
+        "price_with_currency": "₹ 20.88",
+        "price": 20.88,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 21493,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 21494,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "CMD chargeMOD | FLASH CHARGE | EVCS POTTA 1",
+        "last_used_on": "10/09/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Thrissur",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10614,
+      "station_name": "chargeMOD | FLASH CHARGE | EVCS POTTA",
+      "latitude": 10.339643,
+      "longitude": 76.321744,
+      "address": " Chennai Anandha Bhavan, Thrissur, Kerala, 680307, India",
+      "area": " Chennai Anandha Bhavan",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.339643,76.321744",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 6429,
+      "station_name": "chargeMOD | Korner EVCS Kodakara",
+      "latitude": 10.367086,
+      "longitude": 76.315328,
+      "address": "Kodakara, Thrissur, Kerala, 680684, India",
+      "area": "Kodakara",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.367086,76.315328",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 6009,
+      "station_name": "chargeMOD | Edassery Samrudhi Hypermarket | Chalakudy | EVOK",
+      "latitude": 10.30311,
+      "longitude": 76.336881,
+      "address": "South Junction, Thrissur, Kerala, 680307, India",
+      "area": "South Junction",
+      "avg_review_rating": 4.5,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.30311,76.336881",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 5882,
+      "station_name": "chargeMOD | EV POINT EVCS KODAKARA",
+      "latitude": 10.380607,
+      "longitude": 76.297689,
+      "address": "NH 47, Thrissur, Kerala, 676506, India",
+      "area": "NH 47",
+      "avg_review_rating": 4.85,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.380607,76.297689",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 10623,
+      "station_name": "chargeMOD | Indian Coffee House | Chalakudy | EVOK",
+      "latitude": 10.289364,
+      "longitude": 76.337115,
+      "address": "Muringur, Thrissur, Kerala, 680309, India",
+      "area": "Muringur",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.289364,76.337115",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    20.88
+  ],
+  "scraped_at": "2026-05-21T08:08:55.994207+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

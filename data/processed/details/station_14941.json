@@ -1,0 +1,204 @@
+{
+  "station_id": 14941,
+  "station_detail": {
+    "station_id": 14941,
+    "station_name": "PATEL ENERGY STATION",
+    "latitude": 22.26666,
+    "longitude": 75.08752,
+    "address": "\"SH38, MANAWAR TO DHAR ROAD, MANAWAR, TEHSIL-MANAWAR, DISTRICT-DHAR, 454446 JAY CHOUDHARY \", Dhar, Madhya Pradesh, 454446, India",
+    "area": "\"SH38, MANAWAR TO DHAR ROAD, MANAWAR, TEHSIL-MANAWAR, DISTRICT-DHAR, 454446 JAY CHOUDHARY \"",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.26666,75.08752",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8485 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.0,
+    "no_of_reviews": 2,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 67932,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 32728,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 32729,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "PATEL ENERGY STATION",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 50,
+        "4": 0,
+        "5": 50
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Dhar",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14941,
+      "station_name": "PATEL ENERGY STATION",
+      "latitude": 22.26666,
+      "longitude": 75.08752,
+      "address": "\"SH38, MANAWAR TO DHAR ROAD, MANAWAR, TEHSIL-MANAWAR, DISTRICT-DHAR, 454446 JAY CHOUDHARY \", Dhar, Madhya Pradesh, 454446, India",
+      "area": "\"SH38, MANAWAR TO DHAR ROAD, MANAWAR, TEHSIL-MANAWAR, DISTRICT-DHAR, 454446 JAY CHOUDHARY \"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.26666,75.08752",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 14940,
+      "station_name": "MANJUL FUELS",
+      "latitude": 22.22711,
+      "longitude": 75.07585,
+      "address": "\"MANAWAR,MANAWAR SINGHANA ROAD JAY CHOUDHARY, DISTRICT-DHAR, 454446\", Dhar, Madhya Pradesh, 454446, India",
+      "area": "\"MANAWAR,MANAWAR SINGHANA ROAD JAY CHOUDHARY, DISTRICT-DHAR, 454446\"",
+      "avg_review_rating": 4.85,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.22711,75.07585",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 13033,
+      "station_name": "ID(pgwnae) Satyam Shivam Petroleum",
+      "latitude": 22.190184,
+      "longitude": 74.982146,
+      "address": "Singhana, Singhana, Madhya Pradesh, India",
+      "area": "Singhana",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.190184,74.982146",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 14942,
+      "station_name": "CHUNPIYA FILLING STATION",
+      "latitude": 22.40398,
+      "longitude": 75.07055,
+      "address": "SURVEY NO 334/2/1/2 AND 334/1/2/1, SH-38 MANGOD, GHURSAL, JEERABAD, GANDHWANI, DISTRICT-DHAR, 454446, Dhar, Madhya Pradesh, 454446, India",
+      "area": "SURVEY NO 334/2/1/2 AND 334/1/2/1, SH-38 MANGOD, GHURSAL, JEERABAD, GANDHWANI, DISTRICT-DHAR, 454446",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.40398,75.07055",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 13040,
+      "station_name": "ID(dqqzdv)Muvel filling station",
+      "latitude": 22.240132,
+      "longitude": 75.372003,
+      "address": "Chadawad, Chadawad, Madhya Pradesh, 454552, India",
+      "area": "Chadawad",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.240132,75.372003",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:14:44.870076+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

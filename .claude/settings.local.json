@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(try { $r = Invoke-WebRequest -Uri \"http://localhost:3000/dashboard\" -UseBasicParsing -TimeoutSec 60; Write-Host \"Status: $\\($r.StatusCode\\)\"; Write-Host \"Size: $\\($r.Content.Length\\) bytes\" } catch { Write-Host \"Error: $_\" })"
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "station_id": 5967,
+  "station_detail": {
+    "station_id": 5967,
+    "station_name": "chargeMOD | EQ Vagamon EV Port",
+    "latitude": 9.684355,
+    "longitude": 76.895485,
+    "address": "SH14, Idukki, Kerala, 686512, India",
+    "area": "SH14",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.684355,76.895485",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8581 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 4.84,
+    "no_of_reviews": 25,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Chargemod+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 53281,
+        "price_with_currency": "₹ 20.88",
+        "price": 20.88,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 11230,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "preparing"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 18566,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "CMD EQ Vagamon EV Port 1",
+        "last_used_on": "19/05/2026"
+      },
+      {
+        "charger_id": 57000,
+        "price_with_currency": "₹ 13.0",
+        "price": 13.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16098,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "CMD EQ Vagamon EV Port 3",
+        "last_used_on": "11/04/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 4,
+        "4": 8,
+        "5": 88
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Idukki",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 5967,
+      "station_name": "chargeMOD | EQ Vagamon EV Port",
+      "latitude": 9.684355,
+      "longitude": 76.895485,
+      "address": "SH14, Idukki, Kerala, 686512, India",
+      "area": "SH14",
+      "avg_review_rating": 4.84,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.684355,76.895485",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 15960,
+      "station_name": "THAYIL 2,3 & 4 DC FAST CHARGING STATION",
+      "latitude": 9.699914,
+      "longitude": 76.806923,
+      "address": "3 & 4-wheeler DC Fast Charging Sation, Kottayam, Kerala, 686580, India",
+      "area": "3 & 4-wheeler DC Fast Charging Sation",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.699914,76.806923",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    },
+    {
+      "id": 10313,
+      "station_name": "NEBUS SERVICE STATION",
+      "latitude": 9.537833,
+      "longitude": 76.884456,
+      "address": "KOTTAYAM , Kottayam Malabar, Kerala, 686513, India",
+      "area": "KOTTAYAM ",
+      "avg_review_rating": 4.57,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.537833,76.884456",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 6221,
+      "station_name": "chargeMOD | Eagles Glide | Peermade | EVOK",
+      "latitude": 9.567531,
+      "longitude": 77.032357,
+      "address": "Peermade, Idukki, Kerala, 685532, India",
+      "area": "Peermade",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.567531,77.032357",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(3).png"
+    },
+    {
+      "id": 12248,
+      "station_name": "chargeMOD | evpoint EVCS | Pala",
+      "latitude": 9.719951,
+      "longitude": 76.691611,
+      "address": "Pala Thodupuzha Rd, Kottayam, Kerala, 686574, India",
+      "area": "Pala Thodupuzha Rd",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.719951,76.691611",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 1,
+  "ac_prices": [
+    13.0
+  ],
+  "dc_prices": [
+    20.88
+  ],
+  "scraped_at": "2026-05-21T08:01:10.785526+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

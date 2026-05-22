@@ -1,0 +1,194 @@
+{
+  "station_id": 4765,
+  "station_detail": {
+    "station_id": 4765,
+    "station_name": "REIL HITECH FILLING STATION",
+    "latitude": 17.486589,
+    "longitude": 78.357498,
+    "address": "OLD BOMBAY HIGHWAY, HAFEEZPET, Ranga Reddy district, Telangana, 500050, India",
+    "area": "OLD BOMBAY HIGHWAY, HAFEEZPET",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.486589,78.357498",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8783 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 6,
+        "connector_name": "GBT",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/REIL/REIL_Banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 11472,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 51346,
+        "price_with_currency": "₹ 18.0",
+        "price": 18.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 8887,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 6,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 15.0,
+        "charger_name": "EV Charger DC001-15KW",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ranga Reddy district",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 15.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 4765,
+      "station_name": "REIL HITECH FILLING STATION",
+      "latitude": 17.486589,
+      "longitude": 78.357498,
+      "address": "OLD BOMBAY HIGHWAY, HAFEEZPET, Ranga Reddy district, Telangana, 500050, India",
+      "area": "OLD BOMBAY HIGHWAY, HAFEEZPET",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.486589,78.357498",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 4774,
+      "station_name": "REIL HSD/TSRTC Filling Station",
+      "latitude": 17.48921,
+      "longitude": 78.356773,
+      "address": "SY no 159 ,Miyapur RTC Depto-1 Miyapur village ,Sri lingampally, R.R District, Telangana, Hyderabad, Telangana, 500049, India",
+      "area": "SY no 159 ,Miyapur RTC Depto-1 Miyapur village ,Sri lingampally, R.R District, Telangana",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.48921,78.356773",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 4775,
+      "station_name": "Allwyn X Road EV Charging Station",
+      "latitude": 17.494295,
+      "longitude": 78.35025,
+      "address": "Allwyn X Road, Beside Foot Over Bridge Mumbai Highway, Widia Colony, Miyapur, Ranga Reddy district, Telangana, 500049, India",
+      "area": "Allwyn X Road, Beside Foot Over Bridge Mumbai Highway, Widia Colony, Miyapur",
+      "avg_review_rating": 3.86,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.494295,78.35025",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8973,
+      "station_name": "M/s. PRADEEP AGENCIES",
+      "latitude": 17.49369,
+      "longitude": 78.349066,
+      "address": "NH 9, MIYAPUR, RANGA REDDY DISTRICT, PIN : 500 050, Ranga Reddy district, Telangana, 500050, India",
+      "area": "NH 9, MIYAPUR, RANGA REDDY DISTRICT, PIN : 500 050",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.49369,78.349066",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14089,
+      "station_name": "SMR Vinay Fountain Head Fowa-Car charger -2",
+      "latitude": 17.489942,
+      "longitude": 78.371259,
+      "address": "500049, Hyderabad, Telangana, 500049, India",
+      "area": "500049",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.489942,78.371259",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    18.0
+  ],
+  "scraped_at": "2026-05-21T07:59:48.068470+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

@@ -1,0 +1,204 @@
+{
+  "station_id": 15936,
+  "station_detail": {
+    "station_id": 15936,
+    "station_name": "JP EV  Charge",
+    "latitude": 20.9868,
+    "longitude": 85.9891,
+    "address": "Duburi, Jajpur, Odisha, 755026, India",
+    "area": "Duburi",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.9868,85.9891",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9601 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.85,
+    "no_of_reviews": 48,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 69904,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35794,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 35795,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "JPEV Charge 60kw",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 2,
+        "4": 10,
+        "5": 88
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Jajpur",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14744,
+      "station_name": "JP EV Charge",
+      "latitude": 20.9868,
+      "longitude": 85.9891,
+      "address": "Duburi, Odisha, Jajpur, Odisha, 755026, India",
+      "area": "Duburi, Odisha",
+      "avg_review_rating": 4.76,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.9868,85.9891",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15936,
+      "station_name": "JP EV  Charge",
+      "latitude": 20.9868,
+      "longitude": 85.9891,
+      "address": "Duburi, Jajpur, Odisha, 755026, India",
+      "area": "Duburi",
+      "avg_review_rating": 4.85,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.9868,85.9891",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 9728,
+      "station_name": "NANDIGHOSA FILLING STATION",
+      "latitude": 20.96893,
+      "longitude": 86.088137,
+      "address": "JAJPUR, Jajpur, Odisha, 755019, India",
+      "area": "JAJPUR",
+      "avg_review_rating": 4.87,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.96893,86.088137",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9432,
+      "station_name": "M/s. GOPABANDHU FILLING STATION",
+      "latitude": 21.003543,
+      "longitude": 86.124592,
+      "address": "\"MOUZA UPARGARH,  UPARGARH, JAJPUR\", Jajpur, Odisha, 755019, India",
+      "area": "\"MOUZA UPARGARH,  UPARGARH, JAJPUR\"",
+      "avg_review_rating": 4.69,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.003543,86.124592",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 9434,
+      "station_name": "M/s. RATH FILLING STATION",
+      "latitude": 20.85707,
+      "longitude": 86.02026,
+      "address": "MOUZA-KUSUNPUR, JAJPUR, Jajpur, Odisha, 755026, India",
+      "area": "MOUZA-KUSUNPUR, JAJPUR",
+      "avg_review_rating": 4.97,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.85707,86.02026",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.99
+  ],
+  "scraped_at": "2026-05-21T08:17:08.455227+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

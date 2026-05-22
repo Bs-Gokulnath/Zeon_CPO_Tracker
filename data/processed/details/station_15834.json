@@ -1,0 +1,241 @@
+{
+  "station_id": 15834,
+  "station_detail": {
+    "station_id": 15834,
+    "station_name": "AKAYA COMMERCIALS PRIVATE LIMITED",
+    "latitude": 28.44768,
+    "longitude": 77.040429,
+    "address": "PLOT NO. -97,, Gurugram, Haryana, 122022, India",
+    "area": "PLOT NO. -97,",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.44768,77.040429",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8752 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 69636,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35358,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "Akaya-22kw-1",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 69658,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35391,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "Akaya-22kw-2",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 69659,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35392,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "Akaya-22kw-3",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Gurugram",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 22.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15834,
+      "station_name": "AKAYA COMMERCIALS PRIVATE LIMITED",
+      "latitude": 28.44768,
+      "longitude": 77.040429,
+      "address": "PLOT NO. -97,, Gurugram, Haryana, 122022, India",
+      "area": "PLOT NO. -97,",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.44768,77.040429",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 2041,
+      "station_name": "Statiq ITC Green Centre Station",
+      "latitude": 28.444651,
+      "longitude": 77.039536,
+      "address": "ITC Green Center Building, Hotels Division Headquarters, Plot No. 10, Institutional Area, Sector 32,, Gurugram, Haryana, 122001, India",
+      "area": "ITC Green Center Building, Hotels Division Headquarters, Plot No. 10, Institutional Area, Sector 32,",
+      "avg_review_rating": 4.81,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.444651,77.039536",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 7144,
+      "station_name": "2003306-JAWALA SERVICE STATION",
+      "latitude": 28.455853,
+      "longitude": 77.046393,
+      "address": "GURGAON, Gurugram, Haryana, 122001, India",
+      "area": "GURGAON",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.455853,77.046393",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8195,
+      "station_name": "JAWALA SERVICE STATION",
+      "latitude": 28.45608,
+      "longitude": 77.04638,
+      "address": "BHARAT PETROLEUM CORPORATION LTD JAWALA SERVICE STATION, DEALER BHARAT PETROLEUM CORPORATION LTD, ON NH08, DELHI JAIPUR ROAD, GURGAON, Gurugram, Haryana, 122001, India",
+      "area": "BHARAT PETROLEUM CORPORATION LTD JAWALA SERVICE STATION, DEALER BHARAT PETROLEUM CORPORATION LTD, ON NH08, DELHI JAIPUR ROAD, GURGAON",
+      "avg_review_rating": 4.82,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.45608,77.04638",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14091,
+      "station_name": "Max Life Insurance",
+      "latitude": 28.457523,
+      "longitude": 77.026344,
+      "address": "90 C AND A, Gurugram, Haryana, 122001, India",
+      "area": "90 C AND A",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.457523,77.026344",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    }
+  ],
+  "ac_count": 3,
+  "dc_count": 0,
+  "ac_prices": [
+    20.0,
+    20.0,
+    20.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:16:53.227757+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

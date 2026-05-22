@@ -1,0 +1,264 @@
+{
+  "station_id": 14712,
+  "station_detail": {
+    "station_id": 14712,
+    "station_name": "Ecoplug Shree Nakoda Family Restaurant",
+    "latitude": 24.23672,
+    "longitude": 74.99612,
+    "address": "Mahu - Neemuch Road, Mandsaur, Madhya Pradesh, 458664, India",
+    "area": "Mahu - Neemuch Road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.23672,74.99612",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8498 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      },
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 3.0,
+    "no_of_reviews": 2,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Eplug.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 67559,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 32088,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 32089,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 118.0,
+        "charger_name": "EPL Ecoplug Shree Nakoda Family Restaurant 1",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 67560,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 32090,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 32091,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 3,
+            "connector_id": 32092,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 26.0,
+        "charger_name": "EPL Ecoplug Shree Nakoda Family Restaurant 2",
+        "last_used_on": "09/04/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 50,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 50
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Mandsaur",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 118.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14712,
+      "station_name": "Ecoplug Shree Nakoda Family Restaurant",
+      "latitude": 24.23672,
+      "longitude": 74.99612,
+      "address": "Mahu - Neemuch Road, Mandsaur, Madhya Pradesh, 458664, India",
+      "area": "Mahu - Neemuch Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.23672,74.99612",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 14958,
+      "station_name": "TIRUPATI FILLING STATION ADHOC",
+      "latitude": 24.38607,
+      "longitude": 74.92095,
+      "address": "VILLAGE-BHATKHEDA, MHOW-NEEMUCH RD, DISTRICT-NEEMUCH, 458441, Neemuch, Madhya Pradesh, 458441, India",
+      "area": "VILLAGE-BHATKHEDA, MHOW-NEEMUCH RD, DISTRICT-NEEMUCH, 458441",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.38607,74.92095",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12649,
+      "station_name": "ID(19ubcm)Utsav filling station",
+      "latitude": 24.072736,
+      "longitude": 75.063305,
+      "address": "15-16, Mandsaur, Madhya Pradesh, 458001, India",
+      "area": "15-16",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.072736,75.063305",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+charging+pin-+selected.png"
+    },
+    {
+      "id": 9397,
+      "station_name": "MP | Neemuch | Hotel Green",
+      "latitude": 24.494047,
+      "longitude": 74.89605,
+      "address": "Neemuch Bypass.SH -31 Vill-barukheda, Neemuch, Madhya Pradesh, 458441, India",
+      "area": "Neemuch Bypass.SH -31 Vill-barukheda",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.494047,74.89605",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/gentari-default.png"
+    },
+    {
+      "id": 14789,
+      "station_name": "E.E.DALAL & CO",
+      "latitude": 23.954114,
+      "longitude": 75.100805,
+      "address": "VILLAGE-DALAUDA, MHOW-NEEMUCH ROAD, DISTRICT-MANDSAUR, 458667, Mandsaur, Madhya Pradesh, 458667, India",
+      "area": "VILLAGE-DALAUDA, MHOW-NEEMUCH ROAD, DISTRICT-MANDSAUR, 458667",
+      "avg_review_rating": 4.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.954114,75.100805",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 1,
+  "ac_prices": [
+    20.0
+  ],
+  "dc_prices": [
+    20.0
+  ],
+  "scraped_at": "2026-05-21T08:14:13.015822+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

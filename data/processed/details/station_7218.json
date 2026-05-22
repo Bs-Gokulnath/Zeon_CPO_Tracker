@@ -1,0 +1,188 @@
+{
+  "station_id": 7218,
+  "station_detail": {
+    "station_id": 7218,
+    "station_name": "2016146-SWARNA GOWRI FILLING STATION",
+    "latitude": 13.753985,
+    "longitude": 77.786625,
+    "address": "CHIKBALLAPUR, Bilgi, Karnataka, 561207, India",
+    "area": "CHIKBALLAPUR",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.753985,77.786625",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8698 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 55057,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13403,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "2016146-SWARNA GOWRI FILLING STATION",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bilgi",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7218,
+      "station_name": "2016146-SWARNA GOWRI FILLING STATION",
+      "latitude": 13.753985,
+      "longitude": 77.786625,
+      "address": "CHIKBALLAPUR, Bilgi, Karnataka, 561207, India",
+      "area": "CHIKBALLAPUR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.753985,77.786625",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12629,
+      "station_name": "ID(rh9vz6)Sat fuel park",
+      "latitude": 13.757782,
+      "longitude": 77.786812,
+      "address": "State Highway 94, Bagepalli, Karnataka, 561207, India",
+      "area": "State Highway 94",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.757782,77.786812",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 2032,
+      "station_name": "Statiq x TATA.ev Hotel VV Srini Station",
+      "latitude": 13.74971,
+      "longitude": 77.788086,
+      "address": "VV Shirni Hospitality, No-1 Vadrapally Cross NH-44 , Chikkaballapur, Karnataka, 561207, India",
+      "area": "VV Shirni Hospitality, No-1 Vadrapally Cross NH-44 ",
+      "avg_review_rating": 4.63,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.74971,77.788086",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 15901,
+      "station_name": "KA| Chikkaballapura | Hotel Sri Sai Vaibhava",
+      "latitude": 13.648161,
+      "longitude": 77.78579,
+      "address": "NH44, Bengaluru, Karnataka, 562104, India",
+      "area": "NH44",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.648161,77.78579",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15734,
+      "station_name": "BP-CHIKKABALLAPUR 2",
+      "latitude": 13.608351,
+      "longitude": 77.791565,
+      "address": "\"NEAR DEVANAGONTHI RLY STN, UPPAKUNTANAHALLI,\", Chickballapur, Karnataka, 561207, India",
+      "area": "\"NEAR DEVANAGONTHI RLY STN, UPPAKUNTANAHALLI,\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.608351,77.791565",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:02:31.062099+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

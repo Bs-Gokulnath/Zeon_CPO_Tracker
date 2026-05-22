@@ -1,0 +1,204 @@
+{
+  "station_id": 9783,
+  "station_detail": {
+    "station_id": 9783,
+    "station_name": "MAA BANABASHI FUEL STATION",
+    "latitude": 25.97546,
+    "longitude": 90.80458,
+    "address": "MAA BANABASHI FUEL STATION  BHARAT PETROLEUM DEALERS  VILL CHILUK  CIRCLE DUDHNOI  DISTRICT: GOALPARA  ASSAM, Goalpara, Assam, 783124, India",
+    "area": "MAA BANABASHI FUEL STATION  BHARAT PETROLEUM DEALERS  VILL CHILUK  CIRCLE DUDHNOI  DISTRICT: GOALPARA  ASSAM",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.97546,90.80458",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "10099 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 2,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 58815,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 19212,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 19213,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "MAA BANABASHI FUEL STATION",
+        "last_used_on": "20/04/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Goalpara",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9783,
+      "station_name": "MAA BANABASHI FUEL STATION",
+      "latitude": 25.97546,
+      "longitude": 90.80458,
+      "address": "MAA BANABASHI FUEL STATION  BHARAT PETROLEUM DEALERS  VILL CHILUK  CIRCLE DUDHNOI  DISTRICT: GOALPARA  ASSAM, Goalpara, Assam, 783124, India",
+      "area": "MAA BANABASHI FUEL STATION  BHARAT PETROLEUM DEALERS  VILL CHILUK  CIRCLE DUDHNOI  DISTRICT: GOALPARA  ASSAM",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.97546,90.80458",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9797,
+      "station_name": "PARBATI OIL SERVICE",
+      "latitude": 26.050804,
+      "longitude": 90.631502,
+      "address": "PARBATI OIL SERVICE  BHARAT PETROLEUM DEALERS  TUKURA PART III NH 37  NH 37  DISTRICT: GOALPARA  ASSAM, Goalpara, Assam, 783126, India",
+      "area": "PARBATI OIL SERVICE  BHARAT PETROLEUM DEALERS  TUKURA PART III NH 37  NH 37  DISTRICT: GOALPARA  ASSAM",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.050804,90.631502",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9790,
+      "station_name": "NES GOALPARA",
+      "latitude": 26.154955,
+      "longitude": 90.616466,
+      "address": "NES GOALPARA  BHARAT PETROLEUM DEALERS  BALADMARI  GOALPARA  DIST. GOALPARA  ASSAM, Goalpara, Assam, 783121, India",
+      "area": "NES GOALPARA  BHARAT PETROLEUM DEALERS  BALADMARI  GOALPARA  DIST. GOALPARA  ASSAM",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.154955,90.616466",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9786,
+      "station_name": "JOGIGOPHA FILLING STATION",
+      "latitude": 26.25152,
+      "longitude": 90.586551,
+      "address": "JOGIGOPHA FILLING STATION  C/O TANKESWAR RABHA  P.O. JOGHIGOPHA  NHNH31B  DISTRICT: BONGAIGAON  ASSAM, Bongaigaon, Assam, 783382, India",
+      "area": "JOGIGOPHA FILLING STATION  C/O TANKESWAR RABHA  P.O. JOGHIGOPHA  NHNH31B  DISTRICT: BONGAIGAON  ASSAM",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.25152,90.586551",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9785,
+      "station_name": "BOGAI ENERGY POINT",
+      "latitude": 25.996089,
+      "longitude": 91.268907,
+      "address": "BOGAI ENERGY POINT  BHARAT PETROLEUM DEALERS  BOKO  NH 37 LHS  DISTRICT: KAMRUP  ASSAM, Kamrup, Assam, 781124, India",
+      "area": "BOGAI ENERGY POINT  BHARAT PETROLEUM DEALERS  BOKO  NH 37 LHS  DISTRICT: KAMRUP  ASSAM",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.996089,91.268907",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:07:19.407467+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

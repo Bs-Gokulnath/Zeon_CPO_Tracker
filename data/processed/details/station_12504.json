@@ -1,0 +1,203 @@
+{
+  "station_id": 12504,
+  "station_detail": {
+    "station_id": 12504,
+    "station_name": "ID(d4qy6d) KD Joshi and Sons Isanpur",
+    "latitude": 22.972902,
+    "longitude": 72.593632,
+    "address": "Narol - Naroda Road, Ahmedabad, Gujarat, 382405, India",
+    "area": "Narol - Naroda Road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.972902,72.593632",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8239 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/networks-logo/HP+E+charge-Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 64135,
+        "price_with_currency": "₹ 15.05",
+        "price": 15.05,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 27376,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 27382,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "HPL ID(d4qy6d) KD Joshi and Sons Isanpur 1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ahmedabad",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12504,
+      "station_name": "ID(d4qy6d) KD Joshi and Sons Isanpur",
+      "latitude": 22.972902,
+      "longitude": 72.593632,
+      "address": "Narol - Naroda Road, Ahmedabad, Gujarat, 382405, India",
+      "area": "Narol - Naroda Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.972902,72.593632",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 9956,
+      "station_name": "NAROL (2W/3W)",
+      "latitude": 22.956803,
+      "longitude": 72.594963,
+      "address": "XH4V+PX5, Ahmedabad, Gujarat, 382440, India",
+      "area": "XH4V+PX5",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.956803,72.594963",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 9949,
+      "station_name": "MANINAGAR (2W/3W) XJR6+MM5, Dalal Colony, Muktimedan, Daxini Society, Maninagar,",
+      "latitude": 22.991636,
+      "longitude": 72.611834,
+      "address": "XJR6+MM5, Ahmedabad, Gujarat, 380008, India",
+      "area": "XJR6+MM5",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.991636,72.611834",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15790,
+      "station_name": "EESL AMC Nr. Kids City Kankariya Lake",
+      "latitude": 23.002405,
+      "longitude": 72.60098,
+      "address": "Nr. Kids City's of Kankariya Lake, Nr. Picnic House, Ahmedabad, Gujarat, Ahmedabad, Gujarat, 380028, India",
+      "area": "Nr. Kids City's of Kankariya Lake, Nr. Picnic House, Ahmedabad, Gujarat",
+      "avg_review_rating": 3.5,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.002405,72.60098",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/default.png"
+    },
+    {
+      "id": 9393,
+      "station_name": "GJ | Ahmedabad | Planet Hyundai",
+      "latitude": 23.00379,
+      "longitude": 72.617195,
+      "address": "Planet House, Ahmedabad, Gujarat, 380008, India",
+      "area": "Planet House",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.00379,72.617195",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    15.05
+  ],
+  "scraped_at": "2026-05-21T08:12:08.690902+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

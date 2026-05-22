@@ -1,0 +1,204 @@
+{
+  "station_id": 10768,
+  "station_detail": {
+    "station_id": 10768,
+    "station_name": "2005894-TAWARE PETROLEUM AGENCY",
+    "latitude": 18.134926,
+    "longitude": 74.512344,
+    "address": "AT POST MALEGAON, PUNE BARAMATI ROAD,NIRA BARAMATI ROAD, MALEGAON, Baramati, Maharashtra, 413102, India",
+    "area": "AT POST MALEGAON, PUNE BARAMATI ROAD,NIRA BARAMATI ROAD, MALEGAON",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.134926,74.512344",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8382 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.8,
+    "no_of_reviews": 20,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 60685,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 21958,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 21959,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "TAWARE PETROLEUM AGENCY",
+        "last_used_on": "11/02/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 20,
+        "5": 80
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Baramati",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10768,
+      "station_name": "2005894-TAWARE PETROLEUM AGENCY",
+      "latitude": 18.134926,
+      "longitude": 74.512344,
+      "address": "AT POST MALEGAON, PUNE BARAMATI ROAD,NIRA BARAMATI ROAD, MALEGAON, Baramati, Maharashtra, 413102, India",
+      "area": "AT POST MALEGAON, PUNE BARAMATI ROAD,NIRA BARAMATI ROAD, MALEGAON",
+      "avg_review_rating": 4.8,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.134926,74.512344",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12425,
+      "station_name": "MH | Baramati | Somani Hyundai",
+      "latitude": 18.144018,
+      "longitude": 74.564143,
+      "address": "Sr. No 41/1/B/17, Baramati, Maharashtra, 413102, India",
+      "area": "Sr. No 41/1/B/17",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.144018,74.564143",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 9840,
+      "station_name": "DIGVIJAY PETROLEUM",
+      "latitude": 18.1387,
+      "longitude": 74.565597,
+      "address": "CTS 50/4/1, PLOT NO 2,BARAMATI PHALTAN ROAD, PUNE, Pune, Maharashtra, 413102, India",
+      "area": "CTS 50/4/1, PLOT NO 2,BARAMATI PHALTAN ROAD, PUNE",
+      "avg_review_rating": 4.93,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.1387,74.565597",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12505,
+      "station_name": "ID(32xqoo)HP Baramati TKVS",
+      "latitude": 18.184175,
+      "longitude": 74.611214,
+      "address": "Mahavir Road, Baramati, Maharashtra, 413133, India",
+      "area": "Mahavir Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.184175,74.611214",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 13221,
+      "station_name": "ID(fzx9k8)OMRAJ EV CHARGING STATION",
+      "latitude": 18.226309,
+      "longitude": 74.572962,
+      "address": "Gojubavi, Gojubavi, Maharashtra, 413133, India",
+      "area": "Gojubavi",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.226309,74.572962",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:09:08.697045+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

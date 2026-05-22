@@ -1,0 +1,198 @@
+{
+  "station_id": 12637,
+  "station_detail": {
+    "station_id": 12637,
+    "station_name": "ID(qz3d6g)Shri Radhakrishna Petroleum",
+    "latitude": 19.943283,
+    "longitude": 73.791773,
+    "address": "National Highway 160, Nashik, Maharashtra, 422010, India",
+    "area": "National Highway 160",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.943283,73.791773",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8325 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/networks-logo/HP+E+charge-Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 64268,
+        "price_with_currency": "₹ 15.05",
+        "price": 15.05,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 27616,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 27627,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "HPL ID(qz3d6g)Shri Radhakrishna Petroleum 1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Nashik",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12637,
+      "station_name": "ID(qz3d6g)Shri Radhakrishna Petroleum",
+      "latitude": 19.943283,
+      "longitude": 73.791773,
+      "address": "National Highway 160, Nashik, Maharashtra, 422010, India",
+      "area": "National Highway 160",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.943283,73.791773",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 8298,
+      "station_name": "GAIKWAD PETROLEUM    ",
+      "latitude": 19.94961,
+      "longitude": 73.825698,
+      "address": "NASHIK, Nashik, Maharashtra, 422101, India",
+      "area": "NASHIK",
+      "avg_review_rating": 4.82,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.94961,73.825698",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 11128,
+      "station_name": "Statiq Holiday Inn Express Nashik Station",
+      "latitude": 19.971725,
+      "longitude": 73.774686,
+      "address": "Right Side of Exit Gate-Survey No. 882, Near, Mumbai - Agra Rd, Lekha Nagar, Nashik, Maharashtra, 422009, India",
+      "area": "Right Side of Exit Gate-Survey No. 882, Near, Mumbai - Agra Rd, Lekha Nagar",
+      "avg_review_rating": 4.42,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.971725,73.774686",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 1732,
+      "station_name": "Sunfuel - Radisson Blu Hotel & Spa, Nashik",
+      "latitude": 19.9473,
+      "longitude": 73.755997,
+      "address": "CTS No 289, 2, Vikrikar Bhavan Rd, , Nashik, Maharashtra, 422010, India",
+      "area": "CTS No 289, 2, Vikrikar Bhavan Rd, ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.9473,73.755997",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 2706,
+      "station_name": "Statiq Jitendra Motors Nashik Station",
+      "latitude": 19.955532,
+      "longitude": 73.756073,
+      "address": "Arihant Plaza, B-88, MIDC Ambad, Nashik, Maharashtra, 422001, India",
+      "area": "Arihant Plaza, B-88, MIDC Ambad",
+      "avg_review_rating": 4.17,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.955532,73.756073",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    15.05
+  ],
+  "scraped_at": "2026-05-21T08:12:23.725065+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

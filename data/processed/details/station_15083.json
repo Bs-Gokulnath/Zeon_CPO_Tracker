@@ -1,0 +1,204 @@
+{
+  "station_id": 15083,
+  "station_detail": {
+    "station_id": 15083,
+    "station_name": "MAA SHARADA SERVICE STATION",
+    "latitude": 28.964656,
+    "longitude": 79.697054,
+    "address": "RO AT BAWANPURI,SH-41, Udham Singh Nagar, Uttarakhand, 262311, India",
+    "area": "RO AT BAWANPURI,SH-41",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.964656,79.697054",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9016 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.38,
+    "no_of_reviews": 13,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68132,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33065,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 33066,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "MAA SHARADA SERVICE STATION",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 15,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 85
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Udham Singh Nagar",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15083,
+      "station_name": "MAA SHARADA SERVICE STATION",
+      "latitude": 28.964656,
+      "longitude": 79.697054,
+      "address": "RO AT BAWANPURI,SH-41, Udham Singh Nagar, Uttarakhand, 262311, India",
+      "area": "RO AT BAWANPURI,SH-41",
+      "avg_review_rating": 4.38,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.964656,79.697054",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 7273,
+      "station_name": "2007403-AMBA FILLING STATION",
+      "latitude": 29.021027,
+      "longitude": 79.690458,
+      "address": "SITARGANJ, Sitarganj, Uttarakhand, 262405, India",
+      "area": "SITARGANJ",
+      "avg_review_rating": 4.81,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.021027,79.690458",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 10806,
+      "station_name": "GURUNANAK HIGHWAY FUELS",
+      "latitude": 28.895218,
+      "longitude": 79.54737,
+      "address": "Udham Singh Nagar, Udham Singh Nagar, Uttarakhand, 262405, India",
+      "area": "Udham Singh Nagar",
+      "avg_review_rating": 4.66,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.895218,79.54737",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10800,
+      "station_name": "SAGAR TRANSPORT COMPANY",
+      "latitude": 28.93124,
+      "longitude": 79.51712,
+      "address": "UDHAM SINGH NAGAR, Udham Singh Nagar, Uttarakhand, 263148, India",
+      "area": "UDHAM SINGH NAGAR",
+      "avg_review_rating": 4.61,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.93124,79.51712",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 7448,
+      "station_name": "2012531-PRAKASH PETROLEUM",
+      "latitude": 28.892435,
+      "longitude": 79.50968,
+      "address": "KICHHA, Kichha, Uttarakhand, 263148, India",
+      "area": "KICHHA",
+      "avg_review_rating": 4.4,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.892435,79.50968",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:15:08.687733+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

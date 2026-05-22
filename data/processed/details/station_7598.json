@@ -1,0 +1,199 @@
+{
+  "station_id": 7598,
+  "station_detail": {
+    "station_id": 7598,
+    "station_name": "2017444-GOVINDAM ENTERPRISES",
+    "latitude": 24.93903,
+    "longitude": 75.94924,
+    "address": "KOTA, Kota, Rajasthan, 325003, India",
+    "area": "KOTA",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.93903,75.94924",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8603 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.32,
+    "no_of_reviews": 34,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 55437,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13783,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "2017444-GOVINDAM ENTERPRISES",
+        "last_used_on": "05/08/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 6,
+        "2": 6,
+        "3": 6,
+        "4": 15,
+        "5": 68
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Kota",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7598,
+      "station_name": "2017444-GOVINDAM ENTERPRISES",
+      "latitude": 24.93903,
+      "longitude": 75.94924,
+      "address": "KOTA, Kota, Rajasthan, 325003, India",
+      "area": "KOTA",
+      "avg_review_rating": 4.32,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.93903,75.94924",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7564,
+      "station_name": "2015550-BP-MANDANA",
+      "latitude": 24.9372,
+      "longitude": 75.94957,
+      "address": "KOTA, Kota, Rajasthan, 325003, India",
+      "area": "KOTA",
+      "avg_review_rating": 4.38,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.9372,75.94957",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 14961,
+      "station_name": "Pushpa Vilas - ChargeJet",
+      "latitude": 24.913682,
+      "longitude": 75.955192,
+      "address": "Phata Khera Kota Division, Kota, Rajasthan, 325003, India",
+      "area": "Phata Khera Kota Division",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.913682,75.955192",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargeJet_Branding_Logo_Pin.png"
+    },
+    {
+      "id": 14902,
+      "station_name": "Ishyu Highway Rasoi - ChargeJet",
+      "latitude": 24.892182,
+      "longitude": 75.964665,
+      "address": "Bheenlot Kota Division, Kota, Rajasthan, 325003, India",
+      "area": "Bheenlot Kota Division",
+      "avg_review_rating": 4.91,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.892182,75.964665",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargeJet_Branding_Logo_Pin.png"
+    },
+    {
+      "id": 13383,
+      "station_name": "ID(eg2ikt) Ambica filling station kasar",
+      "latitude": 24.986694,
+      "longitude": 75.929039,
+      "address": "Ladpura, Ladpura, Rajasthan, 325003, India",
+      "area": "Ladpura",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.986694,75.929039",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:03:21.452652+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

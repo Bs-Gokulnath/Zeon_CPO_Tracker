@@ -1,0 +1,203 @@
+{
+  "station_id": 7707,
+  "station_detail": {
+    "station_id": 7707,
+    "station_name": "Ecoplug Shri Ridhi Sidhi Restaurant & Hotel Shri ridhi sidhi restaurant &hotel",
+    "latitude": 28.172632,
+    "longitude": 75.473213,
+    "address": "jaipur pilani sate highway, Jhunjhunu, Rajasthan, 333023, India",
+    "area": "jaipur pilani sate highway",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.172632,75.473213",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8596 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Eplug.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 55546,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13905,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 13906,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 58.0,
+        "charger_name": "EPL Ecoplug Shri Ridhi Sidhi Restaurant & Hotel Shri ridhi sidhi restaurant &hotel 1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Jhunjhunu",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 58.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7707,
+      "station_name": "Ecoplug Shri Ridhi Sidhi Restaurant & Hotel Shri ridhi sidhi restaurant &hotel",
+      "latitude": 28.172632,
+      "longitude": 75.473213,
+      "address": "jaipur pilani sate highway, Jhunjhunu, Rajasthan, 333023, India",
+      "area": "jaipur pilani sate highway",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.172632,75.473213",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 7704,
+      "station_name": "Ecoplug Hotel Ten11",
+      "latitude": 28.215471,
+      "longitude": 75.660168,
+      "address": "opposite lic office, Chirawa, Rajasthan, 333026, India",
+      "area": "opposite lic office",
+      "avg_review_rating": 4.45,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.215471,75.660168",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 14518,
+      "station_name": "R R FILLING STATION",
+      "latitude": 28.25042,
+      "longitude": 75.67899,
+      "address": "JHUNJHUNU, Jhunjhunu, Rajasthan, 333026, India",
+      "area": "JHUNJHUNU",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.25042,75.67899",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7703,
+      "station_name": "Ecoplug Ridhi Sidhi Hotel Titanwer Ridhi Sidhi Hotel Titanwer",
+      "latitude": 27.9159,
+      "longitude": 75.517421,
+      "address": "bijarniya ki dhani, Sikar, Rajasthan, 333012, India",
+      "area": "bijarniya ki dhani",
+      "avg_review_rating": 4.57,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.9159,75.517421",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 13179,
+      "station_name": "ID(kfounx)Himanshi filling station",
+      "latitude": 28.423067,
+      "longitude": 75.773972,
+      "address": "Dhani Shama, Dhani Shama, Haryana, 127201, India",
+      "area": "Dhani Shama",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.423067,75.773972",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    20.0
+  ],
+  "scraped_at": "2026-05-21T08:03:32.733446+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

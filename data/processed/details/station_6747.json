@@ -1,0 +1,208 @@
+{
+  "station_id": 6747,
+  "station_detail": {
+    "station_id": 6747,
+    "station_name": "2007888-Sankalp filling station",
+    "latitude": 26.764437,
+    "longitude": 81.123924,
+    "address": "KHASARA NO. 475 & 476, VILLAGE SADAR PUR KARORA, GOSAIGANJ, Lucknow, Uttar Pradesh, 226501, India",
+    "area": "KHASARA NO. 475 & 476, VILLAGE SADAR PUR KARORA, GOSAIGANJ",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.764437,81.123924",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9137 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 3,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": "PARGANA MOHANLALGANJ, NH-56",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54320,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 12469,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 12470,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "2007888-Sankalp filling station",
+        "last_used_on": "02/09/2024"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Lucknow",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 6747,
+      "station_name": "2007888-Sankalp filling station",
+      "latitude": 26.764437,
+      "longitude": 81.123924,
+      "address": "KHASARA NO. 475 & 476, VILLAGE SADAR PUR KARORA, GOSAIGANJ, Lucknow, Uttar Pradesh, 226501, India",
+      "area": "KHASARA NO. 475 & 476, VILLAGE SADAR PUR KARORA, GOSAIGANJ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.764437,81.123924",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15954,
+      "station_name": "Ecoplug Sainik Dhaba",
+      "latitude": 26.73423,
+      "longitude": 81.17934,
+      "address": "NH-56, Lucknow, Uttar Pradesh, 226501, India",
+      "area": "NH-56",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.73423,81.17934",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 13151,
+      "station_name": "ID(r6p7fy) Shree Sainath Filling Center",
+      "latitude": 26.78131,
+      "longitude": 81.045822,
+      "address": "National Highway 731, Marhar Mau Kala, Uttar Pradesh, 226002, India",
+      "area": "National Highway 731",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.78131,81.045822",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 11068,
+      "station_name": "Ecoplug Prithvi Resort",
+      "latitude": 26.800228,
+      "longitude": 81.008393,
+      "address": "Prithvipuram, Lucknow, Uttar Pradesh, 226002, India",
+      "area": "Prithvipuram",
+      "avg_review_rating": 3.78,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.800228,81.008393",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 12299,
+      "station_name": "Ecoplug Prithvi EV Charging Station",
+      "latitude": 26.80114,
+      "longitude": 81.00814,
+      "address": "Prithvi Puram Ahimamau Sultanpur Road, Lucknow, Uttar Pradesh, 226002, India",
+      "area": "Prithvi Puram Ahimamau Sultanpur Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.80114,81.00814",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:01:40.800807+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

@@ -1,0 +1,199 @@
+{
+  "station_id": 5737,
+  "station_detail": {
+    "station_id": 5737,
+    "station_name": "chargeMOD | Hotel Krishna Palace Gogamedi",
+    "latitude": 29.162695,
+    "longitude": 75.026989,
+    "address": "Gogamedi, Hanumangarh, Rajasthan, 335504, India",
+    "area": "Gogamedi",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.162695,75.026989",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8567 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 4.71,
+    "no_of_reviews": 38,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Chargemod+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 52971,
+        "price_with_currency": "₹ 13.0",
+        "price": 13.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 10920,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "CMD Hotel Krishna Palace Gogamedi 1",
+        "last_used_on": "24/08/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 18,
+        "5": 79
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Hanumangarh",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 7.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 5737,
+      "station_name": "chargeMOD | Hotel Krishna Palace Gogamedi",
+      "latitude": 29.162695,
+      "longitude": 75.026989,
+      "address": "Gogamedi, Hanumangarh, Rajasthan, 335504, India",
+      "area": "Gogamedi",
+      "avg_review_rating": 4.71,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.162695,75.026989",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(3).png"
+    },
+    {
+      "id": 12234,
+      "station_name": "chargeMOD | Amardeep Charger Royal Hotel | Bhadra",
+      "latitude": 29.117591,
+      "longitude": 75.157718,
+      "address": "SH 106, Bhadra, Rajasthan, 335501, India",
+      "area": "SH 106",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.117591,75.157718",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 9746,
+      "station_name": "chargeMOD | Hotel Friends | EVCS  ",
+      "latitude": 29.19215,
+      "longitude": 74.770242,
+      "address": "HOTEL FRIENDS, Hanumangarh, Rajasthan, 335523, India",
+      "area": "HOTEL FRIENDS",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.19215,74.770242",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(3).png"
+    },
+    {
+      "id": 10975,
+      "station_name": "chargeMOD | Mama Bhanja Resturant EVCS | Nohar",
+      "latitude": 29.199854,
+      "longitude": 74.75659,
+      "address": "Mama Bhanja Family Restaurant , Nohar, Rajasthan, 335523, India",
+      "area": "Mama Bhanja Family Restaurant ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.199854,74.75659",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 7888,
+      "station_name": "S.M.B. PETRO SEWA",
+      "latitude": 29.492566,
+      "longitude": 75.043273,
+      "address": "RO AT SHAHPUR BEGU,SIRSA CHOPTA RD,, Sirsa, Haryana, 125055, India",
+      "area": "RO AT SHAHPUR BEGU,SIRSA CHOPTA RD,",
+      "avg_review_rating": 4.77,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.492566,75.043273",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    13.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:01:10.501597+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

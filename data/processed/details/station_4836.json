@@ -1,0 +1,256 @@
+{
+  "station_id": 4836,
+  "station_detail": {
+    "station_id": 4836,
+    "station_name": "Statiq Lakend Hotels Station",
+    "latitude": 24.591249,
+    "longitude": 73.676788,
+    "address": "Laken hotel parking near to reception, Alkapuri. Fatehsagar Lake Shore, Ambamata,  , Udaipur, Rajasthan, 313001, India",
+    "area": "Laken hotel parking near to reception, Alkapuri. Fatehsagar Lake Shore, Ambamata,  ",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.591249,73.676788",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8370 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      },
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.74,
+    "no_of_reviews": 1429,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 11521,
+        "id": 1
+      },
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 11522,
+        "id": 2
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 51444,
+        "price_with_currency": "₹ 24.99",
+        "price": 24.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 9030,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 9031,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Lakend Hotels DC Charger",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 51443,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 9029,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "Lakend Hotels BMW AC Charger",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 3,
+        "2": 1,
+        "3": 3,
+        "4": 7,
+        "5": 86
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Udaipur",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": [
+      {
+        "id": 204,
+        "station_image_url": "$21"
+      }
+    ]
+  },
+  "nearby_stations": [
+    {
+      "id": 4836,
+      "station_name": "Statiq Lakend Hotels Station",
+      "latitude": 24.591249,
+      "longitude": 73.676788,
+      "address": "Laken hotel parking near to reception, Alkapuri. Fatehsagar Lake Shore, Ambamata,  , Udaipur, Rajasthan, 313001, India",
+      "area": "Laken hotel parking near to reception, Alkapuri. Fatehsagar Lake Shore, Ambamata,  ",
+      "avg_review_rating": 4.74,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.591249,73.676788",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 8862,
+      "station_name": "SHANKAR FILLING STATION",
+      "latitude": 24.59099,
+      "longitude": 73.69021,
+      "address": "CHAMANPURA, Udaipur, Rajasthan, 313001, India",
+      "area": "CHAMANPURA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.59099,73.69021",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 11757,
+      "station_name": "Hotel Vesta Udaipur",
+      "latitude": 24.601541,
+      "longitude": 73.689632,
+      "address": "8-A, Udaipur, Rajasthan, 313001, India",
+      "area": "8-A",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.601541,73.689632",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 9947,
+      "station_name": "Hotel Vesta Grand Central Udaipur",
+      "latitude": 24.601541,
+      "longitude": 73.689633,
+      "address": "8-A, Udaipur, Rajasthan, 313001, India",
+      "area": "8-A",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.601541,73.689633",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 9858,
+      "station_name": "Aaram Mahal by Pachar Group Udaipur",
+      "latitude": 24.574127,
+      "longitude": 73.686446,
+      "address": "279, Udaipur, Rajasthan, 313001, India",
+      "area": "279",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.574127,73.686446",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/verde/default.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 1,
+  "ac_prices": [
+    14.0
+  ],
+  "dc_prices": [
+    24.99
+  ],
+  "scraped_at": "2026-05-21T07:59:55.024892+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

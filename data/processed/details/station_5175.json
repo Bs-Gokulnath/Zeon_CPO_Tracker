@@ -1,0 +1,247 @@
+{
+  "station_id": 5175,
+  "station_detail": {
+    "station_id": 5175,
+    "station_name": "Statiq Welcomhotel Chennai Station",
+    "latitude": 13.04583,
+    "longitude": 80.2569,
+    "address": "In the Parking lot behind the hotel, Welcomhotel Chennai, Cathedral Rd, Parthasarathypuram, Teynampet., Chennai, Tamil Nadu, 600086, India",
+    "area": "In the Parking lot behind the hotel, Welcomhotel Chennai, Cathedral Rd, Parthasarathypuram, Teynampet.",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.04583,80.2569",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8962 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 4.72,
+    "no_of_reviews": 1742,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 11930,
+        "id": 1
+      },
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 11931,
+        "id": 2
+      },
+      {
+        "type": "Wifi",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/wifi+.png",
+        "map_id": 11932,
+        "id": 6
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 52232,
+        "price_with_currency": "₹ 24.39",
+        "price": 24.39,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 10153,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "Welcomhotel Chennai DC Charger",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 52285,
+        "price_with_currency": "₹ 11.99",
+        "price": 11.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 10223,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "Welcomhotel Chennai AC Charger",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 2,
+        "2": 1,
+        "3": 2,
+        "4": 12,
+        "5": 83
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Chennai",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 5175,
+      "station_name": "Statiq Welcomhotel Chennai Station",
+      "latitude": 13.04583,
+      "longitude": 80.2569,
+      "address": "In the Parking lot behind the hotel, Welcomhotel Chennai, Cathedral Rd, Parthasarathypuram, Teynampet., Chennai, Tamil Nadu, 600086, India",
+      "area": "In the Parking lot behind the hotel, Welcomhotel Chennai, Cathedral Rd, Parthasarathypuram, Teynampet.",
+      "avg_review_rating": 4.72,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.04583,80.2569",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 8622,
+      "station_name": "TN | Chennai | Courtyard by Marriott Chennai",
+      "latitude": 13.046017,
+      "longitude": 80.247815,
+      "address": "564, Chennai, Tamil Nadu, 600018, India",
+      "area": "564",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.046017,80.247815",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonecharging.png"
+    },
+    {
+      "id": 13898,
+      "station_name": "ZENNOVA CAR EV CHARGING STATION",
+      "latitude": 13.045611,
+      "longitude": 80.244989,
+      "address": "T. Nagar, Chennai, Tamil Nadu, 600017, India",
+      "area": "T. Nagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.045611,80.244989",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    },
+    {
+      "id": 14672,
+      "station_name": "Statiq Prestige Palladium Station",
+      "latitude": 13.058568,
+      "longitude": 80.253995,
+      "address": "Prestige Palladium Bayan, 129, 140, Greams Rd, Thousand Lights West, Thousand Lights, Chennai, Tamil Nadu, 600006, India",
+      "area": "Prestige Palladium Bayan, 129, 140, Greams Rd, Thousand Lights West, Thousand Lights",
+      "avg_review_rating": 4.79,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.058568,80.253995",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 6685,
+      "station_name": "Tamil Nadu Volvo",
+      "latitude": 13.035083,
+      "longitude": 80.246353,
+      "address": "459/1, Anna Salai, Teynampet, Chennai, Tamil Nadu, 600018, India",
+      "area": "459/1, Anna Salai, Teynampet",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.035083,80.246353",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 1,
+  "ac_prices": [
+    11.99
+  ],
+  "dc_prices": [
+    24.39
+  ],
+  "scraped_at": "2026-05-21T08:00:58.016984+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

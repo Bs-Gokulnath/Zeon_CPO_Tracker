@@ -1,0 +1,198 @@
+{
+  "station_id": 12606,
+  "station_detail": {
+    "station_id": 12606,
+    "station_name": "ID(7wq6uz) BALALAXMI FILLING STATION",
+    "latitude": 18.653989,
+    "longitude": 78.153156,
+    "address": "Sircilla - Nimmapalli - Sirikonda - Nizamabad Road, Nizamabad, Telangana, 503003, India",
+    "area": "Sircilla - Nimmapalli - Sirikonda - Nizamabad Road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.653989,78.153156",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8770 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/networks-logo/HP+E+charge-Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 64235,
+        "price_with_currency": "₹ 15.05",
+        "price": 15.05,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 27552,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 27561,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "HPL ID(7wq6uz) BALALAXMI FILLING STATION 1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Nizamabad",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12606,
+      "station_name": "ID(7wq6uz) BALALAXMI FILLING STATION",
+      "latitude": 18.653989,
+      "longitude": 78.153156,
+      "address": "Sircilla - Nimmapalli - Sirikonda - Nizamabad Road, Nizamabad, Telangana, 503003, India",
+      "area": "Sircilla - Nimmapalli - Sirikonda - Nizamabad Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.653989,78.153156",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 12545,
+      "station_name": "ID(jb63yq) Sri Laxmi Krishna HP fuel Station",
+      "latitude": 18.682067,
+      "longitude": 78.125576,
+      "address": "Dubbak - Kanteshwar Road, Nizamabad, Telangana, 503002, India",
+      "area": "Dubbak - Kanteshwar Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.682067,78.125576",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 12109,
+      "station_name": "TS | Amruthapur | Sri Sai Family",
+      "latitude": 18.631869,
+      "longitude": 78.207989,
+      "address": "Shop No 1, Amruthapur, Telangana, 503175, India",
+      "area": "Shop No 1",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.631869,78.207989",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 7482,
+      "station_name": "2013241-SARANG AUTOLLINES",
+      "latitude": 18.587861,
+      "longitude": 78.223686,
+      "address": "NIZAMABAD, Nizamabad, Telangana, 503003, India",
+      "area": "NIZAMABAD",
+      "avg_review_rating": 4.65,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.587861,78.223686",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 10793,
+      "station_name": "GORTHARAJANNA & SON FILLING STATION",
+      "latitude": 18.758172,
+      "longitude": 78.283618,
+      "address": "Nizamabad, Nizamabad, Telangana, 503224, India",
+      "area": "Nizamabad",
+      "avg_review_rating": 4.76,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.758172,78.283618",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    15.05
+  ],
+  "scraped_at": "2026-05-21T08:12:19.319011+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

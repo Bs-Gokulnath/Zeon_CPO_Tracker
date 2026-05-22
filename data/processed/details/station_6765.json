@@ -1,0 +1,188 @@
+{
+  "station_id": 6765,
+  "station_detail": {
+    "station_id": 6765,
+    "station_name": "SHAKTI FILLING STATION",
+    "latitude": 25.31146,
+    "longitude": 73.1113,
+    "address": "\"KOSHELAV-SANDERAO RAOD  VILLAGE KHIMADA, (M.D.R.-203)  TEHSIL SUMERPUR,  DISTRICT PALI (RAJ)-306602\", Pali, Rajasthan, 306602, India",
+    "area": "\"KOSHELAV-SANDERAO RAOD  VILLAGE KHIMADA, (M.D.R.-203)  TEHSIL SUMERPUR,  DISTRICT PALI (RAJ)-306602\"",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.31146,73.1113",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8323 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54308,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 12453,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "SHAKTI FILLING STATION  EV - AC",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Pali",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 3.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 6765,
+      "station_name": "SHAKTI FILLING STATION",
+      "latitude": 25.31146,
+      "longitude": 73.1113,
+      "address": "\"KOSHELAV-SANDERAO RAOD  VILLAGE KHIMADA, (M.D.R.-203)  TEHSIL SUMERPUR,  DISTRICT PALI (RAJ)-306602\", Pali, Rajasthan, 306602, India",
+      "area": "\"KOSHELAV-SANDERAO RAOD  VILLAGE KHIMADA, (M.D.R.-203)  TEHSIL SUMERPUR,  DISTRICT PALI (RAJ)-306602\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.31146,73.1113",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 5169,
+      "station_name": "Statiq Midway Namaste Station",
+      "latitude": 25.342194,
+      "longitude": 73.188499,
+      "address": "Midway Namaste India C/O Tollway Ltd. NH162, Akdara Sumerpur Rajasthan , Pali, Rajasthan, 306708, India",
+      "area": "Midway Namaste India C/O Tollway Ltd. NH162, Akdara Sumerpur Rajasthan ",
+      "avg_review_rating": 4.68,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.342194,73.188499",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
+    },
+    {
+      "id": 9911,
+      "station_name": "Kisan Petrol Pump",
+      "latitude": 25.37489,
+      "longitude": 73.2033,
+      "address": "Birami, Pali, Pali, Rajasthan, 306708, India",
+      "area": "Birami, Pali",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.37489,73.2033",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12743,
+      "station_name": "ID(45njdu)Shree Jagdamba M Filling Station",
+      "latitude": 25.311779,
+      "longitude": 72.98361,
+      "address": "Takhatgarh, Takhatgarh, Rajasthan, 306901, India",
+      "area": "Takhatgarh",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.311779,72.98361",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 15428,
+      "station_name": "RAJASTHAN ROADWAYS",
+      "latitude": 25.18851,
+      "longitude": 73.105487,
+      "address": "PALI, Pali, Rajasthan, 306902, India",
+      "area": "PALI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.18851,73.105487",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    14.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:01:41.087794+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

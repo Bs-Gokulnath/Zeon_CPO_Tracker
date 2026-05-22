@@ -1,0 +1,198 @@
+{
+  "station_id": 12413,
+  "station_detail": {
+    "station_id": 12413,
+    "station_name": "LOKESH QUALITY FUELS",
+    "latitude": 13.363148,
+    "longitude": 79.08611,
+    "address": "THENEPALLI VILLAGE, PUTHALAPATU MANDAL, Chittoor, Andhra Pradesh, 517124, India",
+    "area": "THENEPALLI VILLAGE, PUTHALAPATU MANDAL",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.363148,79.08611",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8837 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 64024,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 27205,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 27206,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "LOKESH QUALITY FUELS",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Chittoor",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12413,
+      "station_name": "LOKESH QUALITY FUELS",
+      "latitude": 13.363148,
+      "longitude": 79.08611,
+      "address": "THENEPALLI VILLAGE, PUTHALAPATU MANDAL, Chittoor, Andhra Pradesh, 517124, India",
+      "area": "THENEPALLI VILLAGE, PUTHALAPATU MANDAL",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.363148,79.08611",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15991,
+      "station_name": "Adyar Ananda Bhavan (A2B) (Charge IN by Mahindra)",
+      "latitude": 13.381865,
+      "longitude": 79.093173,
+      "address": "Adyar Ananda Bhavan  A2B, Chittoor, Andhra Pradesh, 517124, India",
+      "area": "Adyar Ananda Bhavan  A2B",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.381865,79.093173",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mahindra_Branding_logo.png"
+    },
+    {
+      "id": 14332,
+      "station_name": "SRI GANESH AGENCIES",
+      "latitude": 13.277591,
+      "longitude": 79.035548,
+      "address": "CHIGARAPAALI VILLAGE, CTM MANDAL, Nellore, Andhra Pradesh, 517130, India",
+      "area": "CHIGARAPAALI VILLAGE, CTM MANDAL",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.277591,79.035548",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8879,
+      "station_name": "SRI GNANA SAI FILLING STATION",
+      "latitude": 13.258597,
+      "longitude": 79.120558,
+      "address": "CHITTOOR, Chittoor, Andhra Pradesh, 517127, India",
+      "area": "CHITTOOR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.258597,79.120558",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 11992,
+      "station_name": "Chitoor Charging Hub",
+      "latitude": 13.197311,
+      "longitude": 79.065978,
+      "address": "53W8+WHJ, Chittoor, Andhra Pradesh, 517128, India",
+      "area": "53W8+WHJ",
+      "avg_review_rating": 4.94,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.197311,79.065978",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+default+(11).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:11:56.329800+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,188 @@
+{
+  "station_id": 10585,
+  "station_detail": {
+    "station_id": 10585,
+    "station_name": "chargeMOD | Evee Buddy | Mermaid EVCS | Vyttila Hub ",
+    "latitude": 9.97177,
+    "longitude": 76.3241,
+    "address": "Kaniyampuzha Rd, Ernakulam, Kerala, 682019, India",
+    "area": "Kaniyampuzha Rd",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.97177,76.3241",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8519 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Chargemod+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 60333,
+        "price_with_currency": "₹ 20.88",
+        "price": 20.88,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 21432,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "CMD chargeMOD | Evee Buddy | Mermaid EVCS | Vyttila Hub  1",
+        "last_used_on": "18/06/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ernakulam",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10585,
+      "station_name": "chargeMOD | Evee Buddy | Mermaid EVCS | Vyttila Hub ",
+      "latitude": 9.97177,
+      "longitude": 76.3241,
+      "address": "Kaniyampuzha Rd, Ernakulam, Kerala, 682019, India",
+      "area": "Kaniyampuzha Rd",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.97177,76.3241",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 10611,
+      "station_name": "chargeMOD | Broad Bean Hotel | Vytila | EVOK",
+      "latitude": 9.962683,
+      "longitude": 76.318289,
+      "address": "Vyttila , Ernakulam, Kerala, 682019, India",
+      "area": "Vyttila ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.962683,76.318289",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 6061,
+      "station_name": "chargeMOD | CHILLAX TYREX EVCS EVOK",
+      "latitude": 9.984924,
+      "longitude": 76.316104,
+      "address": "Entry restricted from 10:00 to 20:00, Ernakulam, Kerala, 682032, India",
+      "area": "Entry restricted from 10:00 to 20:00",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.984924,76.316104",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(3).png"
+    },
+    {
+      "id": 12232,
+      "station_name": "chargeMOD | BYD EVM Southcoast Service Centre Kochi",
+      "latitude": 9.948185,
+      "longitude": 76.318559,
+      "address": "Service Rd, Ernakulam, Kerala, 682304, India",
+      "area": "Service Rd",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.948185,76.318559",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 6154,
+      "station_name": "chargeMOD | LiON EVCS MARADU",
+      "latitude": 9.942311,
+      "longitude": 76.333916,
+      "address": "Near Mini Bypass Junction, Ernakulam, Kerala, 682038, India",
+      "area": "Near Mini Bypass Junction",
+      "avg_review_rating": 4.42,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.942311,76.333916",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    20.88
+  ],
+  "scraped_at": "2026-05-21T08:08:53.642749+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,208 @@
+{
+  "station_id": 10775,
+  "station_detail": {
+    "station_id": 10775,
+    "station_name": "Opp. IIIT beside TCS main Gate Gachibowli",
+    "latitude": 17.450949,
+    "longitude": 78.34648,
+    "address": "Gachibowli, Ranga Reddy district, Telangana, 500032, India",
+    "area": "Gachibowli",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.450949,78.34648",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8781 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 3.67,
+    "no_of_reviews": 3,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": " Opp. IIIT beside TCS",
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 12884,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 60694,
+        "price_with_currency": "₹ 13.0",
+        "price": 13.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 21975,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "preparing"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 21976,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Finished",
+            "connector_type_id": 1,
+            "connector_status": "finishing"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "Opp. IIIT beside TCS main Gate Gachibowli",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 33,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 67
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ranga Reddy district",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10775,
+      "station_name": "Opp. IIIT beside TCS main Gate Gachibowli",
+      "latitude": 17.450949,
+      "longitude": 78.34648,
+      "address": "Gachibowli, Ranga Reddy district, Telangana, 500032, India",
+      "area": "Gachibowli",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.450949,78.34648",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 4733,
+      "station_name": "Opposite DLF Building EV Charging Station",
+      "latitude": 17.447247,
+      "longitude": 78.35302,
+      "address": "Beside DLF Gate 1, AMPM Drive  in, DLF Cybercity, Indira Nagar, Gachibowli, Ranga Reddy district, Telangana, 500032, India",
+      "area": "Beside DLF Gate 1, AMPM Drive  in, DLF Cybercity, Indira Nagar, Gachibowli",
+      "avg_review_rating": 3.58,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.447247,78.35302",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 5203,
+      "station_name": "TS | Hyderabad | Sandhya Convention",
+      "latitude": 17.443855,
+      "longitude": 78.355476,
+      "address": "Hyundai EVCS, Hyderabad, Telangana, 500084, India",
+      "area": "Hyundai EVCS",
+      "avg_review_rating": 4.82,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.443855,78.355476",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-online-not-selected.png"
+    },
+    {
+      "id": 10837,
+      "station_name": "TS | Hyderabad | Mahavir Motors Kondapur",
+      "latitude": 17.464633,
+      "longitude": 78.344568,
+      "address": "SY No-187 Masjid Banda, Hyderabad, Telangana, 500084, India",
+      "area": "SY No-187 Masjid Banda",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.464633,78.344568",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mercedes_Focused_Offline_Map_Pin.png"
+    },
+    {
+      "id": 13865,
+      "station_name": "SMR Vinay Symphony car1",
+      "latitude": 17.438275,
+      "longitude": 78.353751,
+      "address": "smr vinay symphony, Hyderabad, Telangana, 500032, India",
+      "area": "smr vinay symphony",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.438275,78.353751",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    13.0
+  ],
+  "scraped_at": "2026-05-21T08:09:08.742545+00:00",
+  "parse_success": true,
+  "missing_fields": [],
+  "coverage_pct": 100.0
+}

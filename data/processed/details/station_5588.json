@@ -1,0 +1,217 @@
+{
+  "station_id": 5588,
+  "station_detail": {
+    "station_id": 5588,
+    "station_name": "chargeMOD | VISMAYA EVCS INFOPARK",
+    "latitude": 10.008107,
+    "longitude": 76.364741,
+    "address": "Vismaya, Ernakulam, Kerala, 682030, India",
+    "area": "Vismaya",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.008107,76.364741",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8524 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Chargemod+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 52790,
+        "price_with_currency": "₹ 11.0",
+        "price": 11.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 10739,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "removed"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "CMD VISMAYA EVCS INFOPARK 2",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 52791,
+        "price_with_currency": "₹ 11.0",
+        "price": 11.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 10740,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "removed"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "CMD VISMAYA EVCS INFOPARK 3",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ernakulam",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 9.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 5588,
+      "station_name": "chargeMOD | VISMAYA EVCS INFOPARK",
+      "latitude": 10.008107,
+      "longitude": 76.364741,
+      "address": "Vismaya, Ernakulam, Kerala, 682030, India",
+      "area": "Vismaya",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.008107,76.364741",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(3).png"
+    },
+    {
+      "id": 12193,
+      "station_name": "Statiq Prestige Cyber Greens Station",
+      "latitude": 10.011039,
+      "longitude": 76.367808,
+      "address": "Prestige Cyber Greens, Smart City Rd, Kakkanad, Kochi, Kerala, 682030, India",
+      "area": "Prestige Cyber Greens, Smart City Rd, Kakkanad",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.011039,76.367808",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 10612,
+      "station_name": "chargeMOD | WE CONNECT  EVCS | Kakkanad",
+      "latitude": 10.00172,
+      "longitude": 76.361564,
+      "address": "Sunpaul Blueberry, Ernakulam, Kerala, 682030, India",
+      "area": "Sunpaul Blueberry",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.00172,76.361564",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 9594,
+      "station_name": "Cognizant Charging Station_CNC_Kochi, Kerala",
+      "latitude": 10.004965,
+      "longitude": 76.375151,
+      "address": "Cognizant Technology Solutions India Private Limited (IN271), 5th - 8th floor, Infopark IT/ITES SEZ, Village Puthencruz and Kunnathunadu, Taluka Kunnathunadu, Ernakulam District, Kerala, City: Kochi S, Kochi, Kerala, 682303, India",
+      "area": "Cognizant Technology Solutions India Private Limited (IN271), 5th - 8th floor, Infopark IT/ITES SEZ, Village Puthencruz and Kunnathunadu, Taluka Kunnathunadu, Ernakulam District, Kerala, City: Kochi S",
+      "avg_review_rating": 4.82,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.004965,76.375151",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 10541,
+      "station_name": "chargeMOD | JetEV IDT Kakkanad",
+      "latitude": 10.012786,
+      "longitude": 76.337521,
+      "address": "Chalakkara Padam Road CSEZ , Ernakulam, Kerala, 682037, India",
+      "area": "Chalakkara Padam Road CSEZ ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.012786,76.337521",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    }
+  ],
+  "ac_count": 2,
+  "dc_count": 0,
+  "ac_prices": [
+    11.0,
+    11.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:01:04.442107+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,209 @@
+{
+  "station_id": 7702,
+  "station_detail": {
+    "station_id": 7702,
+    "station_name": "Ecoplug Hotel Namaste And Restaurant Hotel Namaste And Restaurant",
+    "latitude": 27.721016,
+    "longitude": 75.502695,
+    "address": "jaipur road bheru ghat, Sikar, Rajasthan, 333307, India",
+    "area": "jaipur road bheru ghat",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.721016,75.502695",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8593 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.7,
+    "no_of_reviews": 30,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Eplug.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 55541,
+        "price_with_currency": "₹ 17.95",
+        "price": 17.95,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13894,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 13895,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 58.0,
+        "charger_name": "EPL Ecoplug Hotel Namaste And Restaurant Hotel Namaste And Restaurant 1",
+        "last_used_on": "26/04/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 17,
+        "5": 80
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Sikar",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 58.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7702,
+      "station_name": "Ecoplug Hotel Namaste And Restaurant Hotel Namaste And Restaurant",
+      "latitude": 27.721016,
+      "longitude": 75.502695,
+      "address": "jaipur road bheru ghat, Sikar, Rajasthan, 333307, India",
+      "area": "jaipur road bheru ghat",
+      "avg_review_rating": 4.7,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.721016,75.502695",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 8783,
+      "station_name": "RADHEY MOHAN PETROLEUM",
+      "latitude": 27.652681,
+      "longitude": 75.650277,
+      "address": "SIKAR, Sikar, Rajasthan, 332706, India",
+      "area": "SIKAR",
+      "avg_review_rating": 4.51,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.652681,75.650277",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12268,
+      "station_name": "plughere hotel ganguar",
+      "latitude": 27.67014,
+      "longitude": 75.67352,
+      "address": "Neem kathana road challaneartoll plaza challa, Neem Ka Thana, Rajasthan, 332706, India",
+      "area": "Neem kathana road challaneartoll plaza challa",
+      "avg_review_rating": 4.57,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.67014,75.67352",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 7703,
+      "station_name": "Ecoplug Ridhi Sidhi Hotel Titanwer Ridhi Sidhi Hotel Titanwer",
+      "latitude": 27.9159,
+      "longitude": 75.517421,
+      "address": "bijarniya ki dhani, Sikar, Rajasthan, 333012, India",
+      "area": "bijarniya ki dhani",
+      "avg_review_rating": 4.57,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.9159,75.517421",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 9665,
+      "station_name": "Ecoplug Shri Krishnam Hotel & Restaurant",
+      "latitude": 27.725065,
+      "longitude": 75.216883,
+      "address": "Village- Dadiya, Sikar, Rajasthan, 332031, India",
+      "area": "Village- Dadiya",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.725065,75.216883",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    17.95
+  ],
+  "scraped_at": "2026-05-21T08:03:32.557433+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

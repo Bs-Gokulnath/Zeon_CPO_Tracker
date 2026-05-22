@@ -1,0 +1,204 @@
+{
+  "station_id": 5012,
+  "station_detail": {
+    "station_id": 5012,
+    "station_name": "GLIDA HR Resort ",
+    "latitude": 17.206859,
+    "longitude": 74.156718,
+    "address": "Chandoli Road, Satara, Maharashtra, 415104, India",
+    "area": "Chandoli Road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.206859,74.156718",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8335 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.37,
+    "no_of_reviews": 119,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Glida+Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 52026,
+        "price_with_currency": "₹ 18.99",
+        "price": 18.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 9854,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 9855,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "STR0001",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 9,
+        "2": 2,
+        "3": 4,
+        "4": 13,
+        "5": 72
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Satara",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 5012,
+      "station_name": "GLIDA HR Resort ",
+      "latitude": 17.206859,
+      "longitude": 74.156718,
+      "address": "Chandoli Road, Satara, Maharashtra, 415104, India",
+      "area": "Chandoli Road",
+      "avg_review_rating": 4.37,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.206859,74.156718",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    },
+    {
+      "id": 10722,
+      "station_name": "Statiq Taste Of Karad BMW HPC Station",
+      "latitude": 17.212628,
+      "longitude": 74.181224,
+      "address": "Pune - Bengaluru Highway, Karad, Narayanwadi, Karad, Maharashtra, 415110, India",
+      "area": "Pune - Bengaluru Highway, Karad, Narayanwadi",
+      "avg_review_rating": 4.68,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.212628,74.181224",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 15930,
+      "station_name": "MH | Karad | McDonald's",
+      "latitude": 17.224612,
+      "longitude": 74.180117,
+      "address": "Ground Floor, Karad, Maharashtra, 415539, India",
+      "area": "Ground Floor",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.224612,74.180117",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 7445,
+      "station_name": "2015740-SAMIKHSA PETROLEUM",
+      "latitude": 17.155676,
+      "longitude": 74.183741,
+      "address": "MALKHED, Achalpur, Maharashtra, 415110, India",
+      "area": "MALKHED",
+      "avg_review_rating": 4.41,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.155676,74.183741",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12456,
+      "station_name": "ID(w4e5du) Deshpande’s Petroleum",
+      "latitude": 17.276893,
+      "longitude": 74.182207,
+      "address": "SuperMarket, Karad, Maharashtra, 415110, India",
+      "area": "SuperMarket",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.276893,74.182207",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    18.99
+  ],
+  "scraped_at": "2026-05-21T08:00:57.697908+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

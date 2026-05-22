@@ -1,0 +1,261 @@
+{
+  "station_id": 1586,
+  "station_detail": {
+    "station_id": 1586,
+    "station_name": "Statiq Bhajan Singh Da Dhabha Station",
+    "latitude": 18.7005,
+    "longitude": 73.693298,
+    "address": "Toll Plaza, Old Mumbai - Pune Hwy, near Somatane Phata, Varsoli, Talegaon Dabhade, Talegaon Dabhade, Maharashtra, 410506, India",
+    "area": "Toll Plaza, Old Mumbai - Pune Hwy, near Somatane Phata, Varsoli, Talegaon Dabhade",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.7005,73.693298",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8301 kms",
+    "operational_time": "00:00 To 23:59",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      },
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 4.32,
+    "no_of_reviews": 1500,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/AC%2BDC.png",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 104,
+        "id": 1
+      },
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 132,
+        "id": 2
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 1159,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 1509,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 1510,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Bhajan Singh Da Dhabha DC Charger",
+        "last_used_on": "20/05/2026"
+      },
+      {
+        "charger_id": 54529,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 12816,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.4,
+        "charger_name": "Bhajan Singh Da Dhaba AC Charger",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 9,
+        "2": 2,
+        "3": 3,
+        "4": 17,
+        "5": 68
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Talegaon Dabhade",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 1586,
+      "station_name": "Statiq Bhajan Singh Da Dhabha Station",
+      "latitude": 18.7005,
+      "longitude": 73.693298,
+      "address": "Toll Plaza, Old Mumbai - Pune Hwy, near Somatane Phata, Varsoli, Talegaon Dabhade, Talegaon Dabhade, Maharashtra, 410506, India",
+      "area": "Toll Plaza, Old Mumbai - Pune Hwy, near Somatane Phata, Varsoli, Talegaon Dabhade",
+      "avg_review_rating": 4.32,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.7005,73.693298",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 11204,
+      "station_name": "Shell Recharge Talegaon",
+      "latitude": 18.697506,
+      "longitude": 73.70119,
+      "address": "Talagoan Lonavala Highway , Pune, Maharashtra, 410506, India",
+      "area": "Talagoan Lonavala Highway ",
+      "avg_review_rating": 4.51,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.697506,73.70119",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
+    },
+    {
+      "id": 12516,
+      "station_name": "ID(urgn94) MSHSD Kalokhe Petroleum",
+      "latitude": 18.706967,
+      "longitude": 73.682729,
+      "address": "Emerald Resort, Talegaon Dabhade, Maharashtra, 410506, India",
+      "area": "Emerald Resort",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.706967,73.682729",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 8251,
+      "station_name": "B P EXPRESSWAY FOOD COURT ",
+      "latitude": 18.712416,
+      "longitude": 73.653228,
+      "address": "Food Cour Talegaon, Pune Cantonment, Maharashtra, 410507, India",
+      "area": "Food Cour Talegaon",
+      "avg_review_rating": 4.4,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.712416,73.653228",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10438,
+      "station_name": "Mahalaxmi Petroleum ",
+      "latitude": 18.732894,
+      "longitude": 73.667492,
+      "address": "Mahalaskarwadi, Chakan Talegaon road, Pune Cantonment, Maharashtra, 410507, India",
+      "area": "Mahalaskarwadi, Chakan Talegaon road",
+      "avg_review_rating": 4.68,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.732894,73.667492",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 1,
+  "ac_prices": [
+    14.0
+  ],
+  "dc_prices": [
+    21.99
+  ],
+  "scraped_at": "2026-05-21T07:59:00.217628+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

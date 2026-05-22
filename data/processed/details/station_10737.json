@@ -1,0 +1,208 @@
+{
+  "station_id": 10737,
+  "station_detail": {
+    "station_id": 10737,
+    "station_name": "33/11 KV Kandiguda Sub Station",
+    "latitude": 17.497655,
+    "longitude": 78.543716,
+    "address": "Kandiguda, Medchal, Telangana, 500087, India",
+    "area": "Kandiguda",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.497655,78.543716",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8803 kms",
+    "operational_time": "07:00 To 19:00",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.77,
+    "no_of_reviews": 13,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": "33/11 KV Kandiguda SS",
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 12868,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 60647,
+        "price_with_currency": "₹ 13.0",
+        "price": 13.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 21891,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 21892,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "33/11 kv Kandiguda Sub Station",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 23,
+        "5": 77
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Medchal",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10737,
+      "station_name": "33/11 KV Kandiguda Sub Station",
+      "latitude": 17.497655,
+      "longitude": 78.543716,
+      "address": "Kandiguda, Medchal, Telangana, 500087, India",
+      "area": "Kandiguda",
+      "avg_review_rating": 4.77,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.497655,78.543716",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 10736,
+      "station_name": "33/11 KV Yapral Sub Station",
+      "latitude": 17.505132,
+      "longitude": 78.544612,
+      "address": "Yapral, Medchal, Telangana, 500087, India",
+      "area": "Yapral",
+      "avg_review_rating": 4.18,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.505132,78.544612",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 2708,
+      "station_name": "GHMC AS Rao Nagar Colony Park Station park ",
+      "latitude": 17.480146,
+      "longitude": 78.555634,
+      "address": "GHMC AS Rao Nagar Coolony Park, AS Rao Nagar , Secunderabad, Telangana, 500062, India",
+      "area": "GHMC AS Rao Nagar Coolony Park, AS Rao Nagar ",
+      "avg_review_rating": 4.32,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.480146,78.555634",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8986,
+      "station_name": "M/s. VENKAT GOUD PETRO MART",
+      "latitude": 17.487195,
+      "longitude": 78.566721,
+      "address": "MEDCHAL MALKAJGIRI, Hyderabad, Telangana, 500062, India",
+      "area": "MEDCHAL MALKAJGIRI",
+      "avg_review_rating": 4.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.487195,78.566721",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 4799,
+      "station_name": "REIL AUTO CARE CENTRE (COCO-NSIC)",
+      "latitude": 17.477085,
+      "longitude": 78.564659,
+      "address": " Kushaiguda, Main Road, Ecil, Hyderabad , Hyderabad, Telangana, 500062, India",
+      "area": " Kushaiguda, Main Road, Ecil, Hyderabad ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.477085,78.564659",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    13.0
+  ],
+  "scraped_at": "2026-05-21T08:08:59.599080+00:00",
+  "parse_success": true,
+  "missing_fields": [],
+  "coverage_pct": 100.0
+}

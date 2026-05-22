@@ -1,0 +1,203 @@
+{
+  "station_id": 8157,
+  "station_detail": {
+    "station_id": 8157,
+    "station_name": "M/s.KADAM FUELS",
+    "latitude": 17.010189,
+    "longitude": 74.610055,
+    "address": " Sangali-Tasgaon Road, Tasgaon, Sangli, Maharashtra, 416312, India",
+    "area": " Sangali-Tasgaon Road, Tasgaon",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.010189,74.610055",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8382 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.69,
+    "no_of_reviews": 39,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": "NH-160, Sangali-Tasgaon Road",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 56477,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 15264,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 15265,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "235549 M/s.KADAM FUELS",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 3,
+        "3": 8,
+        "4": 8,
+        "5": 82
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Sangli",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8157,
+      "station_name": "M/s.KADAM FUELS",
+      "latitude": 17.010189,
+      "longitude": 74.610055,
+      "address": " Sangali-Tasgaon Road, Tasgaon, Sangli, Maharashtra, 416312, India",
+      "area": " Sangali-Tasgaon Road, Tasgaon",
+      "avg_review_rating": 4.69,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.010189,74.610055",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 12981,
+      "station_name": "ID(44ww95) Shankar Petroleum",
+      "latitude": 17.025935,
+      "longitude": 74.638896,
+      "address": "Awaghade Mala, Awaghade Mala, Maharashtra, India",
+      "area": "Awaghade Mala",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.025935,74.638896",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 12435,
+      "station_name": "Yashodhan Petroleum",
+      "latitude": 17.151202,
+      "longitude": 74.564787,
+      "address": "sangli SH-60, Sangli - Vita Rd, Sangli, Maharashtra, 416312, India",
+      "area": "sangli SH-60, Sangli - Vita Rd",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.151202,74.564787",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7457,
+      "station_name": "2018413-RATNA FUELS",
+      "latitude": 16.981944,
+      "longitude": 74.763903,
+      "address": "ALKUD, Achalpur, Maharashtra, 416419, India",
+      "area": "ALKUD",
+      "avg_review_rating": 4.18,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.981944,74.763903",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 8510,
+      "station_name": "MH | Sangli | Mehta Petroleum",
+      "latitude": 16.838196,
+      "longitude": 74.622429,
+      "address": "Miraj Rd, Sangli, Maharashtra, 416410, India",
+      "area": "Miraj Rd",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.838196,74.622429",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:04:06.271246+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

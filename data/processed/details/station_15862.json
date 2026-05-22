@@ -1,0 +1,306 @@
+{
+  "station_id": 15862,
+  "station_detail": {
+    "station_id": 15862,
+    "station_name": "Green Energy | Prabha EV 8 | 160 kW / Green Energy | PRABHA EV / Green Energy | Prabha EV AC 001 | 3.3 kW / Green Energy | Prabha EV AC 02| 7.4 kW",
+    "latitude": 9.437055,
+    "longitude": 76.541127,
+    "address": "CGPR+P8H, Kottayam, Kerala, 686102, India",
+    "area": "CGPR+P8H",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.437055,76.541127",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8541 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Prabha_Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 69697,
+        "price_with_currency": "₹ 18.0",
+        "price": 18.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35441,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 35442,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 320.0,
+        "charger_name": "AMK Green Energy | Prabha EV 8 | 160 kW / Green Energy | PRABHA EV / Green Energy | Prabha EV AC 001 | 3.3 kW / Green Energy | Prabha EV AC 02| 7.4 kW 1",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 69698,
+        "price_with_currency": "₹ 18.0",
+        "price": 18.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35443,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 35444,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "AMK Green Energy | Prabha EV 8 | 160 kW / Green Energy | PRABHA EV / Green Energy | Prabha EV AC 001 | 3.3 kW / Green Energy | Prabha EV AC 02| 7.4 kW 2",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 69699,
+        "price_with_currency": "₹ 18.0",
+        "price": 18.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35445,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "AMK Green Energy | Prabha EV 8 | 160 kW / Green Energy | PRABHA EV / Green Energy | Prabha EV AC 001 | 3.3 kW / Green Energy | Prabha EV AC 02| 7.4 kW 3",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 69700,
+        "price_with_currency": "₹ 25.0",
+        "price": 25.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35446,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "AMK Green Energy | Prabha EV 8 | 160 kW / Green Energy | PRABHA EV / Green Energy | Prabha EV AC 001 | 3.3 kW / Green Energy | Prabha EV AC 02| 7.4 kW 4",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Kottayam",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 320.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15862,
+      "station_name": "Green Energy | Prabha EV 8 | 160 kW / Green Energy | PRABHA EV / Green Energy | Prabha EV AC 001 | 3.3 kW / Green Energy | Prabha EV AC 02| 7.4 kW",
+      "latitude": 9.437055,
+      "longitude": 76.541127,
+      "address": "CGPR+P8H, Kottayam, Kerala, 686102, India",
+      "area": "CGPR+P8H",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.437055,76.541127",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Prabha_map_pin.png"
+    },
+    {
+      "id": 12418,
+      "station_name": "chargeMOD | IONGRID | JJ E Fills Changanassery",
+      "latitude": 9.45225,
+      "longitude": 76.547142,
+      "address": "opposite Sb High School, Changanassery, Kerala, 686101, India",
+      "area": "opposite Sb High School",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.45225,76.547142",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 12243,
+      "station_name": "chargeMOD | Wealfro EV Hub Thiruvalla",
+      "latitude": 9.4212,
+      "longitude": 76.546,
+      "address": "Medlounges, Thiruvalla, Kerala, 689107, India",
+      "area": "Medlounges",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.4212,76.546",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 9449,
+      "station_name": "2002232-SV PAI & BROTHER",
+      "latitude": 9.453689,
+      "longitude": 76.536427,
+      "address": "STATE HIGHWAY 01, Changanacheri, Kerala, 686101, India",
+      "area": "STATE HIGHWAY 01",
+      "avg_review_rating": 4.77,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.453689,76.536427",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 14740,
+      "station_name": "chargeMOD | EQ CHARIS EVCS | Cheeranchira",
+      "latitude": 9.478417,
+      "longitude": 76.561512,
+      "address": "Church Rd , Changanacheri, Kerala, 686106, India",
+      "area": "Church Rd ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.478417,76.561512",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    }
+  ],
+  "ac_count": 2,
+  "dc_count": 2,
+  "ac_prices": [
+    18.0,
+    25.0
+  ],
+  "dc_prices": [
+    18.0,
+    18.0
+  ],
+  "scraped_at": "2026-05-21T08:17:00.951394+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

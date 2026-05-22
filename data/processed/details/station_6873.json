@@ -1,0 +1,199 @@
+{
+  "station_id": 6873,
+  "station_detail": {
+    "station_id": 6873,
+    "station_name": "2002700-BP-DOBHI",
+    "latitude": 24.525087,
+    "longitude": 84.93485,
+    "address": "GAYA, Gaya, Bihar, 824201, India",
+    "area": "GAYA",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.525087,84.93485",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9505 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.42,
+    "no_of_reviews": 163,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54539,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 12826,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "2002700-BP-DOBHI",
+        "last_used_on": "25/06/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 6,
+        "2": 1,
+        "3": 5,
+        "4": 23,
+        "5": 66
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Gaya",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 6873,
+      "station_name": "2002700-BP-DOBHI",
+      "latitude": 24.525087,
+      "longitude": 84.93485,
+      "address": "GAYA, Gaya, Bihar, 824201, India",
+      "area": "GAYA",
+      "avg_review_rating": 4.42,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.525087,84.93485",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13459,
+      "station_name": "ID(mv2djo)Prem Service Station",
+      "latitude": 24.548913,
+      "longitude": 84.861362,
+      "address": "Nehuta, Nehuta, Bihar, 824220, India",
+      "area": "Nehuta",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.548913,84.861362",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 14839,
+      "station_name": "MAA KAMLA SERVICE STATION",
+      "latitude": 24.650673,
+      "longitude": 84.949413,
+      "address": "GAYA, Gaya, Bihar, 824234, India",
+      "area": "GAYA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.650673,84.949413",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 11945,
+      "station_name": "BR | Bodh Gaya | Buddha Heritage Resort ",
+      "latitude": 24.694996,
+      "longitude": 84.9825,
+      "address": "Tourist Complex, Bodh Gaya, Bihar, 824231, India",
+      "area": "Tourist Complex",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.694996,84.9825",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 4835,
+      "station_name": "Statiq Marasa Sarovar Bodhgaya Station",
+      "latitude": 24.716545,
+      "longitude": 84.997559,
+      "address": "Left side of Main Entrance,Marasa Hospitality Pvt. Ltd.,Ward No 5, Newataur, Newtapur, Bodh Gaya, Jani Bighar, Bodh Gaya, Bihar, 824231, India",
+      "area": "Left side of Main Entrance,Marasa Hospitality Pvt. Ltd.,Ward No 5, Newataur, Newtapur, Bodh Gaya, Jani Bighar",
+      "avg_review_rating": 4.58,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.716545,84.997559",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:01:54.075290+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

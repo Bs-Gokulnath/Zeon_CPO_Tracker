@@ -1,0 +1,187 @@
+{
+  "station_id": 4816,
+  "station_detail": {
+    "station_id": 4816,
+    "station_name": " REIL SHIV FILLING STATION",
+    "latitude": 31.163568,
+    "longitude": 77.017715,
+    "address": "Galog/palania tehsil Arki , Solon, Himachal Pradesh, 173208, India",
+    "area": "Galog/palania tehsil Arki ",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.163568,77.017715",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8785 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 6,
+        "connector_name": "GBT",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/REIL/REIL_Banner.png",
+    "landmark": "Galog/palania tehsil Arki ",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 51419,
+        "price_with_currency": "₹ 18.0",
+        "price": 18.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 8993,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 6,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 15.0,
+        "charger_name": "EV CHARGER-01-DC001 15KW",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Solon",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 15.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 4816,
+      "station_name": " REIL SHIV FILLING STATION",
+      "latitude": 31.163568,
+      "longitude": 77.017715,
+      "address": "Galog/palania tehsil Arki , Solon, Himachal Pradesh, 173208, India",
+      "area": "Galog/palania tehsil Arki ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.163568,77.017715",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8275,
+      "station_name": "Statiq Snow Valley Heights Station",
+      "latitude": 31.093202,
+      "longitude": 77.13472,
+      "address": "Snow Valley Heights Upper Chakkar, Near BJP Office Shimla, Shimla, Himachal Pradesh, 171005, India",
+      "area": "Snow Valley Heights Upper Chakkar, Near BJP Office Shimla",
+      "avg_review_rating": 4.71,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.093202,77.13472",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 5030,
+      "station_name": "REIL Municipal Corporation Car Parking, Tuti Kandi",
+      "latitude": 31.099867,
+      "longitude": 77.142418,
+      "address": "Tuti Kandi, Shimla, Himachal Pradesh, 171005, India",
+      "area": "Tuti Kandi",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.099867,77.142418",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8312,
+      "station_name": "Statiq Snow Valley Resort Station",
+      "latitude": 31.093824,
+      "longitude": 77.139011,
+      "address": "Snow Valley Resort, Near Dargah Road, Kacchi Ghati, Shimla, Himachal Pradesh, 171009, India",
+      "area": "Snow Valley Resort, Near Dargah Road, Kacchi Ghati",
+      "avg_review_rating": 4.66,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.093824,77.139011",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 1744,
+      "station_name": "Sunfuel - Auramah Valley Shimla",
+      "latitude": 31.1667,
+      "longitude": 77.181702,
+      "address": "Village - Tikkar, Naldehra, Shimla, Himachal Pradesh, 171007, India",
+      "area": "Village - Tikkar, Naldehra",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.1667,77.181702",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    18.0
+  ],
+  "scraped_at": "2026-05-21T07:59:54.065523+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

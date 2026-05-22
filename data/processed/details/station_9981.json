@@ -1,0 +1,243 @@
+{
+  "station_id": 9981,
+  "station_detail": {
+    "station_id": 9981,
+    "station_name": "Statiq Novotel Chennai OMR Station",
+    "latitude": 12.905304,
+    "longitude": 80.228823,
+    "address": "IT Expressway, opp. Elcot Sez, Sholinganallur, Chennai, Tamil Nadu, 600119, India",
+    "area": "IT Expressway, opp. Elcot Sez, Sholinganallur",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.905304,80.228823",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8958 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.8,
+    "no_of_reviews": 1822,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 59152,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 19666,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 19667,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Novotel Chennai OMR DC Charger 1",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 63575,
+        "price_with_currency": "₹ 24.99",
+        "price": 24.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26523,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 26524,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Novotel Chennai OMR DC Charger 2",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 15,
+        "5": 83
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Chennai",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": [
+      {
+        "id": 709,
+        "station_image_url": "$21"
+      }
+    ]
+  },
+  "nearby_stations": [
+    {
+      "id": 9981,
+      "station_name": "Statiq Novotel Chennai OMR Station",
+      "latitude": 12.905304,
+      "longitude": 80.228823,
+      "address": "IT Expressway, opp. Elcot Sez, Sholinganallur, Chennai, Tamil Nadu, 600119, India",
+      "area": "IT Expressway, opp. Elcot Sez, Sholinganallur",
+      "avg_review_rating": 4.8,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.905304,80.228823",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 4732,
+      "station_name": "Statiq Tech Mahindra Chennai Station",
+      "latitude": 12.910031,
+      "longitude": 80.221519,
+      "address": "No 138 Old Mahabalipuram Road Sholinganallur, Near In-campus Playground, Elcot Sez, Semmancheri, Chennai, Tamil Nadu, 600119, India",
+      "area": "No 138 Old Mahabalipuram Road Sholinganallur, Near In-campus Playground, Elcot Sez, Semmancheri",
+      "avg_review_rating": 4.96,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.910031,80.221519",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 9592,
+      "station_name": "Cognizant Charging Station_CKC_Chennai, TN",
+      "latitude": 12.913371,
+      "longitude": 80.217605,
+      "address": "Cognizant Technology Solutions India Private Limited, Survey No. 602/3, Plot No. 1, ELCOT IT/ ITES-SEZ, Sholinganallur, Kanchipuram, Chennai, Tamil Nadu, 600119, India",
+      "area": "Cognizant Technology Solutions India Private Limited, Survey No. 602/3, Plot No. 1, ELCOT IT/ ITES-SEZ, Sholinganallur, Kanchipuram",
+      "avg_review_rating": 4.55,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.913371,80.217605",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 11212,
+      "station_name": "Shell Recharge Akkarai",
+      "latitude": 12.895215,
+      "longitude": 80.246529,
+      "address": "ECR, Chennai, Tamil Nadu, 600119, India",
+      "area": "ECR",
+      "avg_review_rating": 4.79,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.895215,80.246529",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
+    },
+    {
+      "id": 10717,
+      "station_name": "Statiq Holiday Inn Express Chennai OMR Station",
+      "latitude": 12.930294,
+      "longitude": 80.231256,
+      "address": "5/395, Rajiv Gandhi Salai, Nehru Nagar, Okkiyam, Thoraipakkam, Chennai, Tamil Nadu, 600097, India",
+      "area": "5/395, Rajiv Gandhi Salai, Nehru Nagar, Okkiyam, Thoraipakkam",
+      "avg_review_rating": 4.76,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.930294,80.231256",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 2,
+  "ac_prices": [],
+  "dc_prices": [
+    21.99,
+    24.99
+  ],
+  "scraped_at": "2026-05-21T08:07:45.495337+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

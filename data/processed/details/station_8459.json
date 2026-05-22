@@ -1,0 +1,204 @@
+{
+  "station_id": 8459,
+  "station_detail": {
+    "station_id": 8459,
+    "station_name": "DL | New Delhi | Pullman New Delhi Aerocity",
+    "latitude": 28.553299,
+    "longitude": 77.123641,
+    "address": "Asset No 02, New Delhi, Delhi, 110037, India",
+    "area": "Asset No 02",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.553299,77.123641",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8762 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.86,
+    "no_of_reviews": 280,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 56938,
+        "price_with_currency": "₹ 24.99",
+        "price": 24.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 15983,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 15984,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "preparing"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "TCZ DL | New Delhi | Pullman New Delhi Aerocity 1",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 11,
+        "5": 88
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "New Delhi",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8459,
+      "station_name": "DL | New Delhi | Pullman New Delhi Aerocity",
+      "latitude": 28.553299,
+      "longitude": 77.123641,
+      "address": "Asset No 02, New Delhi, Delhi, 110037, India",
+      "area": "Asset No 02",
+      "avg_review_rating": 4.86,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.553299,77.123641",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 8457,
+      "station_name": "DL | New Delhi | Aloft-Aerocity",
+      "latitude": 28.552215,
+      "longitude": 77.12368,
+      "address": "5B IGI T3 Road, New Delhi, Delhi, 110037, India",
+      "area": "5B IGI T3 Road",
+      "avg_review_rating": 4.85,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.552215,77.12368",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 8458,
+      "station_name": "DL | New Delhi | JW Marriott - Aerocity",
+      "latitude": 28.553077,
+      "longitude": 77.12159,
+      "address": "Asset Area 4 - Hospitality District, New Delhi, Delhi, 110037, India",
+      "area": "Asset Area 4 - Hospitality District",
+      "avg_review_rating": 4.57,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.553077,77.12159",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 1856,
+      "station_name": "GMR Green Worldmark 2 Charging Station",
+      "latitude": 28.551001,
+      "longitude": 77.122002,
+      "address": "GMR Aerocity Parking area, near Junction 07, New Delhi, Delhi, 110037, India",
+      "area": "GMR Aerocity Parking area, near Junction 07",
+      "avg_review_rating": 4.77,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.551001,77.122002",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+default.png"
+    },
+    {
+      "id": 1821,
+      "station_name": "GMR Green CCS Charging Station",
+      "latitude": 28.548837,
+      "longitude": 77.121803,
+      "address": "Charger 6-GMR Aerocity Parking area, New Delhi, Delhi, 110037, India",
+      "area": "Charger 6-GMR Aerocity Parking area",
+      "avg_review_rating": 4.78,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.548837,77.121803",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    24.99
+  ],
+  "scraped_at": "2026-05-21T08:04:35.793342+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

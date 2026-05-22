@@ -1,0 +1,206 @@
+{
+  "station_id": 14806,
+  "station_detail": {
+    "station_id": 14806,
+    "station_name": "Statiq Planet Hollywood Goa Station",
+    "latitude": 15.31707,
+    "longitude": 73.902265,
+    "address": "30/3, Acsona Waddo, Uttorda Beach, Utorda, Goa, Goa, 403713, India",
+    "area": "30/3, Acsona Waddo, Uttorda Beach, Utorda",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.31707,73.902265",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8292 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.24,
+    "no_of_reviews": 17,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 13378,
+        "id": 1
+      },
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 13379,
+        "id": 2
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 67742,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 32384,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "Planet Hollywood Goa DC Charger",
+        "last_used_on": "15/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 12,
+        "2": 0,
+        "3": 0,
+        "4": 29,
+        "5": 59
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Goa",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14806,
+      "station_name": "Statiq Planet Hollywood Goa Station",
+      "latitude": 15.31707,
+      "longitude": 73.902265,
+      "address": "30/3, Acsona Waddo, Uttorda Beach, Utorda, Goa, Goa, 403713, India",
+      "area": "30/3, Acsona Waddo, Uttorda Beach, Utorda",
+      "avg_review_rating": 4.24,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.31707,73.902265",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 6514,
+      "station_name": "Statiq ITC Grand Goa Station",
+      "latitude": 15.32755,
+      "longitude": 73.900272,
+      "address": "Left side parking from the Main Entrance GateArossim Beach Rd, Cansaulim, Arossim, Goa 403712, Goa, Goa, 403712, India",
+      "area": "Left side parking from the Main Entrance GateArossim Beach Rd, Cansaulim, Arossim, Goa 403712",
+      "avg_review_rating": 4.74,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.32755,73.900272",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 12566,
+      "station_name": "ID(u7wpyq)Pereira auto centre",
+      "latitude": 15.361247,
+      "longitude": 73.927731,
+      "address": "National Highway Road 17, Verna, Goa, 403722, India",
+      "area": "National Highway Road 17",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.361247,73.927731",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 14597,
+      "station_name": "GA |  Goa | BMW - Bavaria Motors Goa",
+      "latitude": 15.366596,
+      "longitude": 73.922605,
+      "address": "Plot No. 2B , Goa, Goa, 403722, India",
+      "area": "Plot No. 2B ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.366596,73.922605",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 4749,
+      "station_name": "REIL AMIT TRANSPORT Station",
+      "latitude": 15.376212,
+      "longitude": 73.904961,
+      "address": "PDurga Express Highway, Opp Meta Strips, Sancoale, Goa, 403710, India",
+      "area": "PDurga Express Highway, Opp Meta Strips",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.376212,73.904961",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.99
+  ],
+  "scraped_at": "2026-05-21T08:14:25.666498+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

@@ -1,0 +1,219 @@
+{
+  "station_id": 12263,
+  "station_detail": {
+    "station_id": 12263,
+    "station_name": "2003364-SHAHEED RAVINDER DAHIYA FILLING",
+    "latitude": 28.761005,
+    "longitude": 76.785315,
+    "address": "SAMPLA, Rohtak, Haryana, 124021, India",
+    "area": "SAMPLA",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.761005,76.785315",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8731 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.89,
+    "no_of_reviews": 9,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 63735,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26763,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 26764,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "SHAHEED RAVINDER DAHIYA FILLING",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 11,
+        "5": 89
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Rohtak",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12263,
+      "station_name": "2003364-SHAHEED RAVINDER DAHIYA FILLING",
+      "latitude": 28.761005,
+      "longitude": 76.785315,
+      "address": "SAMPLA, Rohtak, Haryana, 124021, India",
+      "area": "SAMPLA",
+      "avg_review_rating": 4.89,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.761005,76.785315",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8428,
+      "station_name": "Ecoplug Vasundhara Cafe & Dhaba",
+      "latitude": 28.76669,
+      "longitude": 76.780062,
+      "address": "Vasundhara Cafe & Dhaba, Rohtak, Haryana, 124501, India",
+      "area": "Vasundhara Cafe & Dhaba",
+      "avg_review_rating": 4.94,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.76669,76.780062",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 11855,
+      "station_name": "Ecoplug Fauji Dhaba",
+      "latitude": 28.744278,
+      "longitude": 76.813404,
+      "address": "Delhi to Hisar Road, Jhajjar, Haryana, 124501, India",
+      "area": "Delhi to Hisar Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.744278,76.813404",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 10260,
+      "station_name": "Ecoplug The Prince Highway Hotel",
+      "latitude": 28.80324,
+      "longitude": 76.736069,
+      "address": "Rohtak-Delhi Highway, Rohtak, Haryana, 124501, India",
+      "area": "Rohtak-Delhi Highway",
+      "avg_review_rating": 4.12,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.80324,76.736069",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 15287,
+      "station_name": "PHOOLWARI FILLING STATION",
+      "latitude": 28.808408,
+      "longitude": 76.726252,
+      "address": "RO AT ISMAILA,ROHTAK BAHDURGARH RD ROHTAK, 124501, Rohtak, Haryana, 124501, India",
+      "area": "RO AT ISMAILA,ROHTAK BAHDURGARH RD ROHTAK, 124501",
+      "avg_review_rating": 4.81,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.808408,76.726252",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:11:39.962631+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

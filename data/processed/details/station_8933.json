@@ -1,0 +1,204 @@
+{
+  "station_id": 8933,
+  "station_detail": {
+    "station_id": 8933,
+    "station_name": "HR | Karnal | Rahul Karnal Hyundai",
+    "latitude": 29.672691,
+    "longitude": 76.998619,
+    "address": "GT Road, Karnal, Haryana, 132001, India",
+    "area": "GT Road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.672691,76.998619",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8763 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.44,
+    "no_of_reviews": 9,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 57702,
+        "price_with_currency": "₹ 21.5",
+        "price": 21.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 17236,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 17239,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "TCZ HR | Karnal | Rahul Karnal Hyundai 1",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 56,
+        "5": 44
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Karnal",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8933,
+      "station_name": "HR | Karnal | Rahul Karnal Hyundai",
+      "latitude": 29.672691,
+      "longitude": 76.998619,
+      "address": "GT Road, Karnal, Haryana, 132001, India",
+      "area": "GT Road",
+      "avg_review_rating": 4.44,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.672691,76.998619",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8924,
+      "station_name": "2007647-MODERN SERVICE STATION",
+      "latitude": 29.66034,
+      "longitude": 76.9878,
+      "address": "NEW GRAIN MARKET, Karnal, Haryana, 312001, India",
+      "area": "NEW GRAIN MARKET",
+      "avg_review_rating": 4.3,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.66034,76.9878",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 11961,
+      "station_name": "2007644-NEW UNIVERSAL AUTOMOBILE DEALERS",
+      "latitude": 29.689683,
+      "longitude": 76.988417,
+      "address": "BHARAT PETROLEUM CORPN. LTD, OLD G.T. ROAD, KARNAL, Karnal, Haryana, 132001, India",
+      "area": "BHARAT PETROLEUM CORPN. LTD, OLD G.T. ROAD, KARNAL",
+      "avg_review_rating": 4.6,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.689683,76.988417",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 8934,
+      "station_name": "HR | Karnal | Samta Hyundai",
+      "latitude": 29.655078,
+      "longitude": 76.987583,
+      "address": "119 / 8 Milestone, Karnal, Haryana, 132001, India",
+      "area": "119 / 8 Milestone",
+      "avg_review_rating": 4.88,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.655078,76.987583",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 1662,
+      "station_name": "Statiq Hotel Prem Plaza Karnal Station",
+      "latitude": 29.691919,
+      "longitude": 76.977997,
+      "address": "Choudhary Colony, Karnal, Haryana, 132001, India",
+      "area": "Choudhary Colony",
+      "avg_review_rating": 4.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.691919,76.977997",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.5
+  ],
+  "scraped_at": "2026-05-21T08:05:38.874175+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

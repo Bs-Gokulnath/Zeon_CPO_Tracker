@@ -1,0 +1,202 @@
+{
+  "station_id": 12172,
+  "station_detail": {
+    "station_id": 12172,
+    "station_name": "BPCL- M/s Sastha Petro Park",
+    "latitude": 10.058693,
+    "longitude": 76.646872,
+    "address": "Ayyankavu, Ernakulam, Kerala, 686691, India",
+    "area": "Ayyankavu",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.058693,76.646872",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8555 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": "Kochi-dhanushodi rd. kizhake",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 63565,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26505,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 26506,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "BPCL- M/s Sastha Petro Park",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ernakulam",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12172,
+      "station_name": "BPCL- M/s Sastha Petro Park",
+      "latitude": 10.058693,
+      "longitude": 76.646872,
+      "address": "Ayyankavu, Ernakulam, Kerala, 686691, India",
+      "area": "Ayyankavu",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.058693,76.646872",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12269,
+      "station_name": "AGS ",
+      "latitude": 10.046562,
+      "longitude": 76.61545,
+      "address": "Mathirappilly, Kothamangalam, Kerala 686691, Kattappana, Kerala, 686691, India",
+      "area": "Mathirappilly, Kothamangalam, Kerala 686691",
+      "avg_review_rating": 4.49,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.046562,76.61545",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 6059,
+      "station_name": "chargeMOD | RENVOLT EVCS EVOK",
+      "latitude": 10.069488,
+      "longitude": 76.602656,
+      "address": "Opposite to Nangelil Hospital, Ernakulam, Kerala, 686691, India",
+      "area": "Opposite to Nangelil Hospital",
+      "avg_review_rating": 4.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.069488,76.602656",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 5553,
+      "station_name": "KSEB07 EVCS Muvattupuzha",
+      "latitude": 10.015961,
+      "longitude": 76.565445,
+      "address": "Near KSEB Substation, Ernakulam, Kerala, 686661, India",
+      "area": "Near KSEB Substation",
+      "avg_review_rating": 4.33,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.015961,76.565445",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(3).png"
+    },
+    {
+      "id": 8444,
+      "station_name": "KL | Muvattupuzha | GreenVeel",
+      "latitude": 9.973865,
+      "longitude": 76.60074,
+      "address": "CATHERINE COMPLEX, Muvattupuzha, Kerala, 686661, India",
+      "area": "CATHERINE COMPLEX",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.973865,76.60074",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mercedes_Focused_Offline_Map_Pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:11:27.312705+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

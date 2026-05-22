@@ -1,0 +1,254 @@
+{
+  "station_id": 14278,
+  "station_detail": {
+    "station_id": 14278,
+    "station_name": "chargeMOD | AR SQUARE EVCS | Kavalayoor",
+    "latitude": 8.71407,
+    "longitude": 76.77974,
+    "address": "Kavalayoor, Attingal, Kerala, 695144, India",
+    "area": "Kavalayoor",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.71407,76.77974",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8564 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      },
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 3.0,
+    "no_of_reviews": 2,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Chargemod+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 66120,
+        "price_with_currency": "₹ 20.88",
+        "price": 20.88,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 30319,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 30321,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 180.0,
+        "charger_name": "CMD chargeMOD | AR SQUARE EVCS | Kavalayoor 1",
+        "last_used_on": "27/04/2026"
+      },
+      {
+        "charger_id": 66242,
+        "price_with_currency": "₹ 20.88",
+        "price": 20.88,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 30496,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "CMD chargeMOD | AR SQUARE EVCS | Kavalayoor 2",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 100,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Attingal",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 180.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14278,
+      "station_name": "chargeMOD | AR SQUARE EVCS | Kavalayoor",
+      "latitude": 8.71407,
+      "longitude": 76.77974,
+      "address": "Kavalayoor, Attingal, Kerala, 695144, India",
+      "area": "Kavalayoor",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.71407,76.77974",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 12290,
+      "station_name": "KS FUELS",
+      "latitude": 8.678479,
+      "longitude": 76.825208,
+      "address": "NH 66, MAMOM PO, ATTINGAL, TRIVANDRUM, KERALA, Thiruvananthapuram, Kerala, 695101, India",
+      "area": "NH 66, MAMOM PO, ATTINGAL, TRIVANDRUM, KERALA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.678479,76.825208",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 5622,
+      "station_name": "chargeMOD | Edackodu Bank EVCS",
+      "latitude": 8.671912,
+      "longitude": 76.834833,
+      "address": "Edackodu Service Co-operative Bank, Thiruvananthapuram, Kerala, 676506, India",
+      "area": "Edackodu Service Co-operative Bank",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.671912,76.834833",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 15011,
+      "station_name": "IS Villa | Prabha EV",
+      "latitude": 8.727833,
+      "longitude": 76.710739,
+      "address": "IS Villa, Varkala, Kerala, 695141, India",
+      "area": "IS Villa",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.727833,76.710739",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    },
+    {
+      "id": 8208,
+      "station_name": "KL | Varkala | KVE Charge",
+      "latitude": 8.73762,
+      "longitude": 76.707879,
+      "address": "KAKKODUMUKKU KURAKKANNI VARKALA, Varkala, Kerala, 695141, India",
+      "area": "KAKKODUMUKKU KURAKKANNI VARKALA",
+      "avg_review_rating": 2.87,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.73762,76.707879",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mercedes_Branding_Logo.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 1,
+  "ac_prices": [
+    20.88
+  ],
+  "dc_prices": [
+    20.88
+  ],
+  "scraped_at": "2026-05-21T08:13:23.222493+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

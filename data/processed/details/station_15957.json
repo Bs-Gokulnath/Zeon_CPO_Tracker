@@ -1,0 +1,198 @@
+{
+  "station_id": 15957,
+  "station_detail": {
+    "station_id": 15957,
+    "station_name": "Vilayati Dhaba & Resort  Gwalior",
+    "latitude": 26.1584,
+    "longitude": 78.2176,
+    "address": "Rairu - Dabra Bypass Road, Near ITM University, Gwalior, Madhya Pradesh, 474006, India",
+    "area": "Rairu - Dabra Bypass Road, Near ITM University",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.1584,78.2176",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8843 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 69969,
+        "price_with_currency": "₹ 15.99",
+        "price": 15.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35925,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 35926,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Vilayati Dhaba & Resort  Gwalior DC Charger",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Gwalior",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14864,
+      "station_name": " Vilayati Dhaba & Resort Gwalior",
+      "latitude": 26.1584,
+      "longitude": 78.2176,
+      "address": "Rairu - Dabra Bypass Rd, near ITM University, Gwalior, Madhya Pradesh 474006, Gwalior, Madhya Pradesh, 474006, India",
+      "area": "Rairu - Dabra Bypass Rd, near ITM University, Gwalior, Madhya Pradesh 474006",
+      "avg_review_rating": 4.75,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.1584,78.2176",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 15957,
+      "station_name": "Vilayati Dhaba & Resort  Gwalior",
+      "latitude": 26.1584,
+      "longitude": 78.2176,
+      "address": "Rairu - Dabra Bypass Road, Near ITM University, Gwalior, Madhya Pradesh, 474006, India",
+      "area": "Rairu - Dabra Bypass Road, Near ITM University",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.1584,78.2176",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8579,
+      "station_name": "KUMAR FS",
+      "latitude": 26.167675,
+      "longitude": 78.220649,
+      "address": "Gwalior, Gwalior, Madhya Pradesh, 475001, India",
+      "area": "Gwalior",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.167675,78.220649",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8586,
+      "station_name": "K L PETROLEUM",
+      "latitude": 26.170366,
+      "longitude": 78.222091,
+      "address": "Gwalior, Gwalior, Madhya Pradesh, 474001, India",
+      "area": "Gwalior",
+      "avg_review_rating": 4.56,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.170366,78.222091",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 13552,
+      "station_name": "MP | Gwalior | Royal Motors",
+      "latitude": 26.12825,
+      "longitude": 78.212459,
+      "address": "SURVEY NO.88, Gwalior, Madhya Pradesh, 475330, India",
+      "area": "SURVEY NO.88",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.12825,78.212459",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    15.99
+  ],
+  "scraped_at": "2026-05-21T08:17:13.604938+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

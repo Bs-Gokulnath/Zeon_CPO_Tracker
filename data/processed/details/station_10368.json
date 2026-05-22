@@ -1,0 +1,212 @@
+{
+  "station_id": 10368,
+  "station_detail": {
+    "station_id": 10368,
+    "station_name": "Prabhu Farm & Resort",
+    "latitude": 22.413969,
+    "longitude": 71.01728,
+    "address": "Vardhaman Complex, Rajkot, Gujarat, 363520, India",
+    "area": "Vardhaman Complex",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.413969,71.01728",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8070 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/network-branding/verde/banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 59987,
+        "price_with_currency": "₹ 16.95",
+        "price": 16.95,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 20884,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "VER Prabhu Farm & Resort 1",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 59990,
+        "price_with_currency": "₹ 16.95",
+        "price": 16.95,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 20887,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "VER Prabhu Farm & Resort 2",
+        "last_used_on": "27/09/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Rajkot",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 7.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10368,
+      "station_name": "Prabhu Farm & Resort",
+      "latitude": 22.413969,
+      "longitude": 71.01728,
+      "address": "Vardhaman Complex, Rajkot, Gujarat, 363520, India",
+      "area": "Vardhaman Complex",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.413969,71.01728",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 13319,
+      "station_name": "ID(w2gh6h) Bansal Petroleum",
+      "latitude": 22.408692,
+      "longitude": 71.01354,
+      "address": "National Highway 27, Hirasar, Gujarat, 363621, India",
+      "area": "National Highway 27",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.408692,71.01354",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 7121,
+      "station_name": "2021155-BHALGAM PETROLEUM",
+      "latitude": 22.428038,
+      "longitude": 71.069006,
+      "address": "BHALGAM, Bechar, Gujarat, 363621, India",
+      "area": "BHALGAM",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.428038,71.069006",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14595,
+      "station_name": "Shri Ram Petroleum Co",
+      "latitude": 22.37881,
+      "longitude": 70.9279,
+      "address": "Survey No. 52 Paiki 5 & 52 Paiki 6, Plot No. 3, Village – Ranpur, Taluka – Rajkot, District – Rajkot, State – Gujarat, Rajkot, Gujarat, 360001, India",
+      "area": "Survey No. 52 Paiki 5 & 52 Paiki 6, Plot No. 3, Village – Ranpur, Taluka – Rajkot, District – Rajkot, State – Gujarat",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.37881,70.9279",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 6903,
+      "station_name": "BHAGIRATH PETROLEUM BPCL RO",
+      "latitude": 22.35298,
+      "longitude": 70.931562,
+      "address": "Rajkot, Rajkot, Gujarat, 360003, India",
+      "area": "Rajkot",
+      "avg_review_rating": 4.17,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.35298,70.931562",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 2,
+  "dc_count": 0,
+  "ac_prices": [
+    16.95,
+    16.95
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:08:26.801378+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

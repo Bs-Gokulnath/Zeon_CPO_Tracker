@@ -1,0 +1,228 @@
+{
+  "station_id": 1806,
+  "station_detail": {
+    "station_id": 1806,
+    "station_name": "Sunfuel - Radisson Blu Atria Bengaluru",
+    "latitude": 12.98099,
+    "longitude": 77.586151,
+    "address": "# 1, Palace Rd, Ambedkar Veedhi, Bengaluru, Karnataka, 560001, India",
+    "area": "# 1, Palace Rd, Ambedkar Veedhi",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.98099,77.586151",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8672 kms",
+    "operational_time": "00:00 To 23:59",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 4.42,
+    "no_of_reviews": 45,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/AC.png",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Sunfuel+Banner.png",
+    "landmark": "None",
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 165,
+        "id": 1
+      },
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 166,
+        "id": 2
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 1091,
+        "price_with_currency": "₹ 17.52",
+        "price": 17.52,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 1430,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.4,
+        "charger_name": "Sunfuel - Radisson Blu Atria Bengaluru 2",
+        "last_used_on": "29/11/2024"
+      },
+      {
+        "charger_id": 1113,
+        "price_with_currency": "₹ 17.52",
+        "price": 17.52,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 1452,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.4,
+        "charger_name": "Sunfuel - Radisson Blu Atria Bengaluru 1",
+        "last_used_on": "21/02/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 7,
+        "2": 4,
+        "3": 7,
+        "4": 4,
+        "5": 78
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bengaluru",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 7.4,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 1806,
+      "station_name": "Sunfuel - Radisson Blu Atria Bengaluru",
+      "latitude": 12.98099,
+      "longitude": 77.586151,
+      "address": "# 1, Palace Rd, Ambedkar Veedhi, Bengaluru, Karnataka, 560001, India",
+      "area": "# 1, Palace Rd, Ambedkar Veedhi",
+      "avg_review_rating": 4.42,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.98099,77.586151",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 14302,
+      "station_name": "KA | Bengaluru | Prestige Trade Tower ",
+      "latitude": 12.9858,
+      "longitude": 77.587676,
+      "address": "45/1, Bengaluru, Karnataka, 560001, India",
+      "area": "45/1",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.9858,77.587676",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 14137,
+      "station_name": "Freedom Park 24kW CCS2 (CP-1)",
+      "latitude": 12.978502,
+      "longitude": 77.581334,
+      "address": "Gandhi Nagar, Bengaluru, Karnataka, 560009, India",
+      "area": "Gandhi Nagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.978502,77.581334",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    },
+    {
+      "id": 13697,
+      "station_name": "Freedom Park 24kW CCS2 (CP-2)",
+      "latitude": 12.978492,
+      "longitude": 77.581318,
+      "address": "Gandhi Nagar, Bengaluru, Karnataka, 560009, India",
+      "area": "Gandhi Nagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.978492,77.581318",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    },
+    {
+      "id": 6679,
+      "station_name": "Martial Volvo Showroom",
+      "latitude": 12.984312,
+      "longitude": 77.581726,
+      "address": "Race Course Road, Bengaluru, Karnataka, 560001, India",
+      "area": "Race Course Road",
+      "avg_review_rating": 4.91,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.984312,77.581726",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    }
+  ],
+  "ac_count": 2,
+  "dc_count": 0,
+  "ac_prices": [
+    17.52,
+    17.52
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T07:59:13.229927+00:00",
+  "parse_success": true,
+  "missing_fields": [],
+  "coverage_pct": 100.0
+}

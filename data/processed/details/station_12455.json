@@ -1,0 +1,188 @@
+{
+  "station_id": 12455,
+  "station_detail": {
+    "station_id": 12455,
+    "station_name": "ID(4dvafu) Khalsa Oil Store",
+    "latitude": 30.71102,
+    "longitude": 76.20654,
+    "address": "khalsa petrol pump, Khanna, Punjab, 141401, India",
+    "area": "khalsa petrol pump",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.71102,76.20654",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8702 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/networks-logo/HP+E+charge-Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 64086,
+        "price_with_currency": "₹ 15.05",
+        "price": 15.05,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 27304,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "HPL ID(4dvafu) Khalsa Oil Store 1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Khanna",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12455,
+      "station_name": "ID(4dvafu) Khalsa Oil Store",
+      "latitude": 30.71102,
+      "longitude": 76.20654,
+      "address": "khalsa petrol pump, Khanna, Punjab, 141401, India",
+      "area": "khalsa petrol pump",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.71102,76.20654",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 10415,
+      "station_name": "2002912-ZAKIYA FILLING STATION",
+      "latitude": 30.7137,
+      "longitude": 76.20333,
+      "address": "Bharat Petroleum Corporation Limited, NH-1, Ludhiana, Punjab, 141401, India",
+      "area": "Bharat Petroleum Corporation Limited, NH-1",
+      "avg_review_rating": 4.71,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.7137,76.20333",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8775,
+      "station_name": "2003012-PETRO LIBRA",
+      "latitude": 30.72622,
+      "longitude": 76.1738,
+      "address": "LIBRA LUDHIANA, Ludhiana, Punjab, 141402, India",
+      "area": "LIBRA LUDHIANA",
+      "avg_review_rating": 4.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.72622,76.1738",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 9914,
+      "station_name": "Statiq Celebration Bazar Charging Station",
+      "latitude": 30.686827,
+      "longitude": 76.252388,
+      "address": "Celebration Bazar, Village bullepur, Near Patwarkhanna, Next to IGNOU Training, Ludhiana, Punjab, 141401, India",
+      "area": "Celebration Bazar, Village bullepur, Near Patwarkhanna, Next to IGNOU Training",
+      "avg_review_rating": 4.71,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.686827,76.252388",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8774,
+      "station_name": "2002999-RAJIV AUTO POWER",
+      "latitude": 30.74176,
+      "longitude": 76.13701,
+      "address": "GAGGAR MAJRA , Ludhiana, Punjab, 141412, India",
+      "area": "GAGGAR MAJRA ",
+      "avg_review_rating": 4.78,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.74176,76.13701",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    15.05
+  ],
+  "scraped_at": "2026-05-21T08:12:02.833030+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

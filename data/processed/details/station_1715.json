@@ -1,0 +1,198 @@
+{
+  "station_id": 1715,
+  "station_detail": {
+    "station_id": 1715,
+    "station_name": "Moodbidri Sub Division Office Charging Station",
+    "latitude": 13.0655,
+    "longitude": 75.002899,
+    "address": "Belthangady hwy, Mudbidri, Karnataka, 574227, India",
+    "area": "Belthangady hwy",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.0655,75.002899",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8393 kms",
+    "operational_time": "00:00 To 23:59",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 4.29,
+    "no_of_reviews": 227,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/AC.png",
+    "is_connected": false,
+    "station_banner": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/statiq/statiq+banner.png",
+    "landmark": "MESCOM office Moodbidri",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 1360,
+        "price_with_currency": "₹ 15.0",
+        "price": 15.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 1808,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "Smartplug 255 Moodbidri Sub Division Office",
+        "last_used_on": "11/03/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 10,
+        "2": 2,
+        "3": 3,
+        "4": 21,
+        "5": 64
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Mudbidri",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 3.3,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 1715,
+      "station_name": "Moodbidri Sub Division Office Charging Station",
+      "latitude": 13.0655,
+      "longitude": 75.002899,
+      "address": "Belthangady hwy, Mudbidri, Karnataka, 574227, India",
+      "area": "Belthangady hwy",
+      "avg_review_rating": 4.29,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.0655,75.002899",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 1643,
+      "station_name": "PADMASHREE Charging Station",
+      "latitude": 13.074,
+      "longitude": 75.002502,
+      "address": "Betkeri Road, Kotebagilu, Mudbidri, Karnataka, 574227, India",
+      "area": "Betkeri Road, Kotebagilu",
+      "avg_review_rating": 4.88,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.074,75.002502",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 10551,
+      "station_name": "chargeMOD | Crown Master Charging HUB",
+      "latitude": 13.194759,
+      "longitude": 74.999095,
+      "address": "Pulkeri, Udupi, Karnataka, 574104, India",
+      "area": "Pulkeri",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.194759,74.999095",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 1717,
+      "station_name": "Kaikamba Sub Division Office Charging Station",
+      "latitude": 12.943,
+      "longitude": 74.926102,
+      "address": "Kaikamba Mescom Office Entrance, Mulur, Mulur, Karnataka, 574145, India",
+      "area": "Kaikamba Mescom Office Entrance, Mulur",
+      "avg_review_rating": 4.82,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.943,74.926102",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 1621,
+      "station_name": "Karkala Charging Station",
+      "latitude": 13.224446,
+      "longitude": 74.980209,
+      "address": "Karkala, Karkala, Karnataka, 574104, India",
+      "area": "Karkala",
+      "avg_review_rating": 4.79,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.224446,74.980209",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    15.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T07:59:06.226442+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

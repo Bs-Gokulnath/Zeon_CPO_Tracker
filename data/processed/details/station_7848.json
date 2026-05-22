@@ -1,0 +1,204 @@
+{
+  "station_id": 7848,
+  "station_detail": {
+    "station_id": 7848,
+    "station_name": "GJ | Ahmedabad | MB#Landmark Cars Thaltej",
+    "latitude": 23.048198,
+    "longitude": 72.515997,
+    "address": "Thaltej Underbridge, Ahmedabad, Gujarat, 380059, India",
+    "area": "Thaltej Underbridge",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.048198,72.515997",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8232 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.38,
+    "no_of_reviews": 16,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Mercedes_Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 55875,
+        "price_with_currency": "₹ 30.0",
+        "price": 30.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 14441,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 14443,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 360.0,
+        "charger_name": "EVX GJ | Ahmedabad | MB#Landmark Cars Thaltej 1",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 12,
+        "3": 6,
+        "4": 12,
+        "5": 69
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ahmedabad",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 360.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7848,
+      "station_name": "GJ | Ahmedabad | MB#Landmark Cars Thaltej",
+      "latitude": 23.048198,
+      "longitude": 72.515997,
+      "address": "Thaltej Underbridge, Ahmedabad, Gujarat, 380059, India",
+      "area": "Thaltej Underbridge",
+      "avg_review_rating": 4.38,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.048198,72.515997",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mercedes_Branding_Logo.png"
+    },
+    {
+      "id": 13601,
+      "station_name": "Swati Symphony 4W-2",
+      "latitude": 23.04717,
+      "longitude": 72.525296,
+      "address": "Drive In Rd, Ahmedabad, Gujarat, 380052, India",
+      "area": "Drive In Rd",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.04717,72.525296",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    },
+    {
+      "id": 14034,
+      "station_name": "Swati Symphony 4W-1",
+      "latitude": 23.047174,
+      "longitude": 72.525297,
+      "address": "Thaltej, Ahmedabad, Gujarat, 380052, India",
+      "area": "Thaltej",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.047174,72.525297",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    },
+    {
+      "id": 8466,
+      "station_name": "GJ | Ahmedabad | Abhinav Girls Hostel",
+      "latitude": 23.040513,
+      "longitude": 72.511304,
+      "address": "Abhinav Girls Hostel, Ahmedabad, Gujarat, 380054, India",
+      "area": "Abhinav Girls Hostel",
+      "avg_review_rating": 4.56,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.040513,72.511304",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 8156,
+      "station_name": "GLIDA Phoenix Palladium Mall, Ahmedabad",
+      "latitude": 23.057806,
+      "longitude": 72.521139,
+      "address": "Sarkhej - Gadhinagar Highway, Ahmedabad, Gujarat, 380054, India",
+      "area": "Sarkhej - Gadhinagar Highway",
+      "avg_review_rating": 4.75,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.057806,72.521139",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    30.0
+  ],
+  "scraped_at": "2026-05-21T08:03:39.306571+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

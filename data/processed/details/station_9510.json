@@ -1,0 +1,197 @@
+{
+  "station_id": 9510,
+  "station_detail": {
+    "station_id": 9510,
+    "station_name": "2015642-SHANTI FILLING CENTRE",
+    "latitude": 24.77153,
+    "longitude": 77.79625,
+    "address": "ASHOKNAGAR-ISARGARDH ROAD, Ashoknagar, Madhya Pradesh, 473335, India",
+    "area": "ASHOKNAGAR-ISARGARDH ROAD",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.77153,77.79625",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8786 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": "PACHLANA",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 58440,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 18466,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 18467,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "2015642-SHANTI FILLING CENTRE",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ashoknagar",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9510,
+      "station_name": "2015642-SHANTI FILLING CENTRE",
+      "latitude": 24.77153,
+      "longitude": 77.79625,
+      "address": "ASHOKNAGAR-ISARGARDH ROAD, Ashoknagar, Madhya Pradesh, 473335, India",
+      "area": "ASHOKNAGAR-ISARGARDH ROAD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.77153,77.79625",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15192,
+      "station_name": "SANGEETA AUTOMOBILES",
+      "latitude": 24.965062,
+      "longitude": 77.710564,
+      "address": "VILLAGE - KHATAURA, DEHARDA-ISAGARH ROAD, Shivpuri, Madhya Pradesh, 473770, India",
+      "area": "VILLAGE - KHATAURA, DEHARDA-ISAGARH ROAD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.965062,77.710564",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15162,
+      "station_name": "APRON FUELS",
+      "latitude": 24.621359,
+      "longitude": 77.604106,
+      "address": "VILLAGE - SHADORA,GUNA - ASHOKNAGAR ROAD, Ashoknagar, Madhya Pradesh, 473330, India",
+      "area": "VILLAGE - SHADORA,GUNA - ASHOKNAGAR ROAD",
+      "avg_review_rating": 2.77,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.621359,77.604106",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9291,
+      "station_name": "MP | Guna | K2 Square Highway Treat & Resort",
+      "latitude": 24.76435,
+      "longitude": 77.380529,
+      "address": "Mumbai - Agra National Hwy, Guna, Madhya Pradesh, 473001, India",
+      "area": "Mumbai - Agra National Hwy",
+      "avg_review_rating": 4.72,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.76435,77.380529",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15670,
+      "station_name": "Shiv Filling Centre",
+      "latitude": 25.110543,
+      "longitude": 77.607204,
+      "address": "4J64+6V, Lukwasa, Shivpuri, Madhya Pradesh, 473885, India",
+      "area": "4J64+6V, Lukwasa",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.110543,77.607204",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:07:00.521107+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

@@ -1,0 +1,188 @@
+{
+  "station_id": 6773,
+  "station_detail": {
+    "station_id": 6773,
+    "station_name": "Gaikwad Petroleum",
+    "latitude": 19.202402,
+    "longitude": 77.026249,
+    "address": "AT VILLAGE PURNA, ON SH219, TALUKA - PURNA, DISTRICT - PARBHANI, Parbhani, Maharashtra, 431511, India",
+    "area": "AT VILLAGE PURNA, ON SH219, TALUKA - PURNA, DISTRICT - PARBHANI",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.202402,77.026249",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8656 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54322,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 12472,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "Gaikwad Petroleum  EV AC",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Parbhani",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 3.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 6773,
+      "station_name": "Gaikwad Petroleum",
+      "latitude": 19.202402,
+      "longitude": 77.026249,
+      "address": "AT VILLAGE PURNA, ON SH219, TALUKA - PURNA, DISTRICT - PARBHANI, Parbhani, Maharashtra, 431511, India",
+      "area": "AT VILLAGE PURNA, ON SH219, TALUKA - PURNA, DISTRICT - PARBHANI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.202402,77.026249",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 6772,
+      "station_name": "Itc Parbhani",
+      "latitude": 19.2703,
+      "longitude": 76.830653,
+      "address": "PARBHANI - BASMAT ROAD, TAL&DISTRICT - PARBHANI, Jalna, Maharashtra, 431402, India",
+      "area": "PARBHANI - BASMAT ROAD, TAL&DISTRICT - PARBHANI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.2703,76.830653",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7459,
+      "station_name": "2012870-SHARMA FILLING STATION",
+      "latitude": 19.261596,
+      "longitude": 76.816162,
+      "address": "PARBHANI, Parbhani, Maharashtra, 431401, India",
+      "area": "PARBHANI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.261596,76.816162",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13482,
+      "station_name": "ID(zdbrjg)GUNWANT PETROLEUM",
+      "latitude": 19.188091,
+      "longitude": 77.287617,
+      "address": "Pawde, Taroda Kh., Maharashtra, 431605, India",
+      "area": "Pawde",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.188091,77.287617",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 7411,
+      "station_name": "2011143-GUNAJI PETROLEUM",
+      "latitude": 19.077086,
+      "longitude": 77.252885,
+      "address": "LOHA, Loha, Maharashtra, 431602, India",
+      "area": "LOHA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.077086,77.252885",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    14.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:01:44.059307+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

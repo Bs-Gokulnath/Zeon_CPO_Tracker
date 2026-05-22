@@ -1,0 +1,223 @@
+{
+  "station_id": 15608,
+  "station_detail": {
+    "station_id": 15608,
+    "station_name": "Sarvodya Digital Library",
+    "latitude": 26.062931,
+    "longitude": 83.176294,
+    "address": "Kol Bajbahadur, Azamgarh, Uttar Pradesh, 276001, India",
+    "area": "Kol Bajbahadur",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.062931,83.176294",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9336 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 69138,
+        "price_with_currency": "₹ 8.0",
+        "price": 8.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34645,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "Sarvodya DC1",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 69139,
+        "price_with_currency": "₹ 22.0",
+        "price": 22.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34646,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "Sarvodya AC1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Azamgarh",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15608,
+      "station_name": "Sarvodya Digital Library",
+      "latitude": 26.062931,
+      "longitude": 83.176294,
+      "address": "Kol Bajbahadur, Azamgarh, Uttar Pradesh, 276001, India",
+      "area": "Kol Bajbahadur",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.062931,83.176294",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 10519,
+      "station_name": "2007195-K.T.FILLING STATION",
+      "latitude": 26.3483,
+      "longitude": 82.9198,
+      "address": "ATRAULIA, AZAMGARH, Atraulia, Uttar Pradesh, 276001, India",
+      "area": "ATRAULIA, AZAMGARH",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.3483,82.9198",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15890,
+      "station_name": "DUDH NATH BINOD PRAKASH",
+      "latitude": 25.976941,
+      "longitude": 83.574366,
+      "address": "\"DUDH NATH BINOD PRAKASH   ( HSD) 155&122  MAU- GORAKHPUR ROAD  BHUJAUTI  SADAR MAU  MAU  275101\", Mau, Uttar Pradesh, 275101, India",
+      "area": "\"DUDH NATH BINOD PRAKASH   ( HSD) 155&122  MAU- GORAKHPUR ROAD  BHUJAUTI  SADAR MAU  MAU  275101\"",
+      "avg_review_rating": 4.2,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.976941,83.574366",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 10520,
+      "station_name": "2007209-SIDDHIVINAYAK FILLING STATION",
+      "latitude": 25.714834,
+      "longitude": 82.988511,
+      "address": "CHEWAR POORAB, Azamgarh, Uttar Pradesh, 276201, India",
+      "area": "CHEWAR POORAB",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.714834,82.988511",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15432,
+      "station_name": "SAVITRI AUTOMOBILES",
+      "latitude": 26.490386,
+      "longitude": 83.2166,
+      "address": "SIKARIGANJ, GORAKHPUR, Gorakhpur, Uttar Pradesh, 273001, India",
+      "area": "SIKARIGANJ, GORAKHPUR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.490386,83.2166",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 1,
+  "ac_prices": [
+    22.0
+  ],
+  "dc_prices": [
+    8.0
+  ],
+  "scraped_at": "2026-05-21T08:16:19.297044+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

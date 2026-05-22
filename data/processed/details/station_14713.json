@@ -1,0 +1,203 @@
+{
+  "station_id": 14713,
+  "station_detail": {
+    "station_id": 14713,
+    "station_name": "RJ | Jaipur | Hotel Mahal Rajawada Resort ",
+    "latitude": 26.915758,
+    "longitude": 75.734139,
+    "address": "Hotel Mahal rajwada resort Hanuman Nagar E-1, Jaipur, Rajasthan, 302021, India",
+    "area": "Hotel Mahal rajwada resort Hanuman Nagar E-1",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.915758,75.734139",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8605 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/GoElectriQ_Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 67561,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 32093,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 32094,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "SAS RJ | Jaipur | Hotel Mahal Rajawada Resort  1",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Jaipur",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14713,
+      "station_name": "RJ | Jaipur | Hotel Mahal Rajawada Resort ",
+      "latitude": 26.915758,
+      "longitude": 75.734139,
+      "address": "Hotel Mahal rajwada resort Hanuman Nagar E-1, Jaipur, Rajasthan, 302021, India",
+      "area": "Hotel Mahal rajwada resort Hanuman Nagar E-1",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.915758,75.734139",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GoElectriQ_Branding+_Logo_.png"
+    },
+    {
+      "id": 12339,
+      "station_name": "RJ | Jaipur | Hotel Mahal Rajawada Resort ",
+      "latitude": 26.91693,
+      "longitude": 75.734419,
+      "address": "Hotel Mahal rajwada resort Hanuman Nagar E-1, Jaipur, Rajasthan, 302021, India",
+      "area": "Hotel Mahal rajwada resort Hanuman Nagar E-1",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.91693,75.734419",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mercedes_Focused_Offline_Map_Pin.png"
+    },
+    {
+      "id": 14718,
+      "station_name": "RJ | Jaipur | Go ElectriQ -3",
+      "latitude": 26.920831,
+      "longitude": 75.732855,
+      "address": "Sky Ridhiraj, Jaipur, Rajasthan, 302012, India",
+      "area": "Sky Ridhiraj",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.920831,75.732855",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GoElectriQ_Branding+_Logo_.png"
+    },
+    {
+      "id": 1607,
+      "station_name": "Statiq Evershine Tower Jaipur Station",
+      "latitude": 26.9121,
+      "longitude": 75.743103,
+      "address": "F-1, Amrapali Marg, Vaishali Nagar,, Jaipur, Rajasthan, 302021, India",
+      "area": "F-1, Amrapali Marg, Vaishali Nagar,",
+      "avg_review_rating": 4.74,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.9121,75.743103",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 12338,
+      "station_name": "RJ | Jaipur | Shyam House",
+      "latitude": 26.911402,
+      "longitude": 75.742908,
+      "address": "Shyam tower - F2, Jaipur, Rajasthan, 302021, India",
+      "area": "Shyam tower - F2",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.911402,75.742908",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mercedes_Focused_Offline_Map_Pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    20.0
+  ],
+  "scraped_at": "2026-05-21T08:14:13.024731+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

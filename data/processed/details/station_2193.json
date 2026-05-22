@@ -1,0 +1,194 @@
+{
+  "station_id": 2193,
+  "station_detail": {
+    "station_id": 2193,
+    "station_name": "Vishwas Home Stay",
+    "latitude": 17.093463,
+    "longitude": 73.31178,
+    "address": "Kotawde, Ratnagiri, Maharashtra, 415617, India",
+    "area": "Kotawde",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.093463,73.31178",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8245 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 6,
+        "connector_name": "GBT",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png"
+      }
+    ],
+    "avg_review_rating": 4.82,
+    "no_of_reviews": 11,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/eFill+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 2627,
+        "price_with_currency": "₹ 25.0",
+        "price": 25.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 3765,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 6,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "EFI Vishwas Home Stay 1",
+        "last_used_on": "03/06/2024"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 18,
+        "5": 82
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ratnagiri",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 2193,
+      "station_name": "Vishwas Home Stay",
+      "latitude": 17.093463,
+      "longitude": 73.31178,
+      "address": "Kotawde, Ratnagiri, Maharashtra, 415617, India",
+      "area": "Kotawde",
+      "avg_review_rating": 4.82,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.093463,73.31178",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 12980,
+      "station_name": "ID(bfy6ry) Damodar Shivram & Company",
+      "latitude": 17.014967,
+      "longitude": 73.407011,
+      "address": "राज्य महामार्ग क्र. २०४, Hathkhamba, Maharashtra, 415619, India",
+      "area": "राज्य महामार्ग क्र. २०४",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.014967,73.407011",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 13401,
+      "station_name": "ID(nxfacn)Mahakali Petroleum",
+      "latitude": 16.918235,
+      "longitude": 73.31596,
+      "address": "Golap, Golap, Maharashtra, 415616, India",
+      "area": "Golap",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.918235,73.31596",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 9323,
+      "station_name": "MH | Agave | Hotel Oceano Pacific",
+      "latitude": 17.38727,
+      "longitude": 73.528357,
+      "address": "Hotel Oceano Pacific, Ratnagiri, Maharashtra, 415606, India",
+      "area": "Hotel Oceano Pacific",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.38727,73.528357",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/gentari-default.png"
+    },
+    {
+      "id": 10278,
+      "station_name": "MH | Rajapur | Hotel Gurumauli",
+      "latitude": 16.682775,
+      "longitude": 73.546699,
+      "address": "Taluka Rajapur, Kodavali, Maharashtra, 416702, India",
+      "area": "Taluka Rajapur",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.682775,73.546699",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    25.0
+  ],
+  "scraped_at": "2026-05-21T07:59:25.526442+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

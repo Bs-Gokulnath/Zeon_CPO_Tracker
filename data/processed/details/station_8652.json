@@ -1,0 +1,219 @@
+{
+  "station_id": 8652,
+  "station_detail": {
+    "station_id": 8652,
+    "station_name": "KA | Bengaluru | Aloft Bengaluru Outer Ring Road",
+    "latitude": 12.93668,
+    "longitude": 77.694985,
+    "address": "Cessna Business Park Sarjapur - Marathahalli, Bengaluru, Karnataka, 560103, India",
+    "area": "Cessna Business Park Sarjapur - Marathahalli",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.93668,77.694985",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8684 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.1,
+    "no_of_reviews": 10,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 57158,
+        "price_with_currency": "₹ 22.0",
+        "price": 22.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16386,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 16387,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "TCZ KA | Bengaluru | Aloft Bengaluru Outer Ring Road 1",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 20,
+        "2": 0,
+        "3": 0,
+        "4": 10,
+        "5": 70
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bengaluru",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8652,
+      "station_name": "KA | Bengaluru | Aloft Bengaluru Outer Ring Road",
+      "latitude": 12.93668,
+      "longitude": 77.694985,
+      "address": "Cessna Business Park Sarjapur - Marathahalli, Bengaluru, Karnataka, 560103, India",
+      "area": "Cessna Business Park Sarjapur - Marathahalli",
+      "avg_review_rating": 4.1,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.93668,77.694985",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 14301,
+      "station_name": "KA | Bengaluru | Cessna Business Park ",
+      "latitude": 12.936608,
+      "longitude": 77.693295,
+      "address": "Cessna Business Park, Bengaluru, Karnataka, 560103, India",
+      "area": "Cessna Business Park",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.936608,77.693295",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15675,
+      "station_name": "Statiq Prestige Tech Pacific Station",
+      "latitude": 12.938736,
+      "longitude": 77.696233,
+      "address": "Left to the Service Gate Prestige Tech Pacific, 135, Kaverappa Layout, Kadubeesanahalli, Kaikondrahalli, Bengaluru, Karnataka, 560035, India",
+      "area": "Left to the Service Gate Prestige Tech Pacific, 135, Kaverappa Layout, Kadubeesanahalli, Kaikondrahalli",
+      "avg_review_rating": 4.99,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.938736,77.696233",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 6599,
+      "station_name": "REIL VP FUEL PARK",
+      "latitude": 12.93816,
+      "longitude": 77.700272,
+      "address": " Kadubeesanahalli, Panathur, Bengaluru, Karnataka, 560103, India",
+      "area": " Kadubeesanahalli, Panathur",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.93816,77.700272",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 11235,
+      "station_name": "Shell Recharge Prestige Tech Park ",
+      "latitude": 12.94224,
+      "longitude": 77.69231,
+      "address": "Outer Ring Road, Bengaluru, Karnataka, 560103, India",
+      "area": "Outer Ring Road",
+      "avg_review_rating": 3.1,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.94224,77.69231",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    22.0
+  ],
+  "scraped_at": "2026-05-21T08:04:55.741541+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

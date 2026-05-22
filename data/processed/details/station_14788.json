@@ -1,0 +1,204 @@
+{
+  "station_id": 14788,
+  "station_detail": {
+    "station_id": 14788,
+    "station_name": "MAIKALSUTA FUEL PUMP",
+    "latitude": 22.649741,
+    "longitude": 80.345606,
+    "address": "RO AT MANDLA HIGHWAY,GAJIPUR, JABALPUR MANDLA ROAD, MANDLA ,, Mandla, Madhya Pradesh, 481661, India",
+    "area": "RO AT MANDLA HIGHWAY,GAJIPUR, JABALPUR MANDLA ROAD, MANDLA ,",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.649741,80.345606",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9027 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.73,
+    "no_of_reviews": 48,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 67700,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 32306,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 32307,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "MAIKALSUTA FUEL PUMP",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 2,
+        "3": 2,
+        "4": 17,
+        "5": 79
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Mandla",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14788,
+      "station_name": "MAIKALSUTA FUEL PUMP",
+      "latitude": 22.649741,
+      "longitude": 80.345606,
+      "address": "RO AT MANDLA HIGHWAY,GAJIPUR, JABALPUR MANDLA ROAD, MANDLA ,, Mandla, Madhya Pradesh, 481661, India",
+      "area": "RO AT MANDLA HIGHWAY,GAJIPUR, JABALPUR MANDLA ROAD, MANDLA ,",
+      "avg_review_rating": 4.73,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.649741,80.345606",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 7325,
+      "station_name": "2022157-OM SAI RAM PETROLEUM",
+      "latitude": 22.65835,
+      "longitude": 80.33119,
+      "address": "PHOOLSAGAR, Badi, Madhya Pradesh, 481661, India",
+      "area": "PHOOLSAGAR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.65835,80.33119",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14787,
+      "station_name": "JAI JINENDRA FUELS STATION",
+      "latitude": 22.572858,
+      "longitude": 80.353609,
+      "address": "RO AT PONDI, BHAMNI ROAD, MANDLA, Mandla, Madhya Pradesh, 481665, India",
+      "area": "RO AT PONDI, BHAMNI ROAD, MANDLA",
+      "avg_review_rating": 3.75,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.572858,80.353609",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 14800,
+      "station_name": "SAVITRI DHUMKETI  PETROLEUM",
+      "latitude": 22.43638,
+      "longitude": 80.12706,
+      "address": "RO AT NAINPUR, MANDLA, Mandla, Madhya Pradesh, 481776, India",
+      "area": "RO AT NAINPUR, MANDLA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.43638,80.12706",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15844,
+      "station_name": "DEV SRAJAN TRADERS",
+      "latitude": 22.830524,
+      "longitude": 80.691373,
+      "address": "RO AT CHABI TO SHAHPURA SH11, BAGLI, MANDLA, Bagli, Madhya Pradesh, 481672, India",
+      "area": "RO AT CHABI TO SHAHPURA SH11, BAGLI, MANDLA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.830524,80.691373",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:14:25.621331+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

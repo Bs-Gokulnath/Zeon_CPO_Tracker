@@ -1,0 +1,204 @@
+{
+  "station_id": 11022,
+  "station_detail": {
+    "station_id": 11022,
+    "station_name": "PRERNA PETROLEUM",
+    "latitude": 20.322421,
+    "longitude": 77.748334,
+    "address": "Yavatmal, Yavatmal, Maharashtra, 445202, India",
+    "area": "Yavatmal",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.322421,77.748334",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8740 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.62,
+    "no_of_reviews": 16,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 61230,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22815,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 22816,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "PRERNA PETROLEUM",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 12,
+        "4": 12,
+        "5": 75
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Yavatmal",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11022,
+      "station_name": "PRERNA PETROLEUM",
+      "latitude": 20.322421,
+      "longitude": 77.748334,
+      "address": "Yavatmal, Yavatmal, Maharashtra, 445202, India",
+      "area": "Yavatmal",
+      "avg_review_rating": 4.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.322421,77.748334",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 8523,
+      "station_name": "NAGPURE AUTOMOBILE ",
+      "latitude": 20.487584,
+      "longitude": 77.871912,
+      "address": "Plot No, Gut No. 9/1, AT NER,AMRAVATI- YAVATMAL ROAD, Nababpur, Taluka: Yavatmal, District: YEOTMAL,  , Yavatmal, Maharashtra, 445102, India",
+      "area": "Plot No, Gut No. 9/1, AT NER,AMRAVATI- YAVATMAL ROAD, Nababpur, Taluka: Yavatmal, District: YEOTMAL,  ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.487584,77.871912",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13412,
+      "station_name": "ID(btjzfu)ADHOC KAMAL LUBE SERVICE",
+      "latitude": 20.625722,
+      "longitude": 77.872082,
+      "address": "Chikhali Vaidya, Chikhali Vaidya, Maharashtra, 444708, India",
+      "area": "Chikhali Vaidya",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.625722,77.872082",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 12517,
+      "station_name": "ID(rppmi6)M/s SUBHASH SERVICE CENTER",
+      "latitude": 20.389181,
+      "longitude": 78.122888,
+      "address": "Yavatmal, Yavatmal, Maharashtra, India",
+      "area": "Yavatmal",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.389181,78.122888",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 10170,
+      "station_name": "2005506-ANIMESH PETROLEUM",
+      "latitude": 20.5637,
+      "longitude": 78.14847,
+      "address": "RO AT BABULGAON TAL - BABULGAON, Yavatmal, Maharashtra, 445001, India",
+      "area": "RO AT BABULGAON TAL - BABULGAON",
+      "avg_review_rating": 4.17,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.5637,78.14847",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:09:39.582793+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

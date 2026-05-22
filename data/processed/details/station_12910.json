@@ -1,0 +1,217 @@
+{
+  "station_id": 12910,
+  "station_detail": {
+    "station_id": 12910,
+    "station_name": "Galaxy Vega",
+    "latitude": 28.59184,
+    "longitude": 77.45668,
+    "address": "Noida-Greater Noida Link Rd, Greater Noida, Uttar Pradesh, 201009, India",
+    "area": "Noida-Greater Noida Link Rd",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.59184,77.45668",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8794 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/smGentari.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 64582,
+        "price_with_currency": "₹ 16.0",
+        "price": 16.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 28184,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 5,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "SNK Galaxy Vega 1",
+        "last_used_on": "10/05/2026"
+      },
+      {
+        "charger_id": 64584,
+        "price_with_currency": "₹ 17.0",
+        "price": 17.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 28186,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "SNK Galaxy Vega 2",
+        "last_used_on": "19/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Greater Noida",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 7.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12910,
+      "station_name": "Galaxy Vega",
+      "latitude": 28.59184,
+      "longitude": 77.45668,
+      "address": "Noida-Greater Noida Link Rd, Greater Noida, Uttar Pradesh, 201009, India",
+      "area": "Noida-Greater Noida Link Rd",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.59184,77.45668",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/smGMR+default.png"
+    },
+    {
+      "id": 12905,
+      "station_name": "Saviour GreenArch",
+      "latitude": 28.60061,
+      "longitude": 77.44912,
+      "address": "Saviour GreenArch, Greater Noida, Uttar Pradesh, 201306, India",
+      "area": "Saviour GreenArch",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.60061,77.44912",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/smGMR+default.png"
+    },
+    {
+      "id": 12906,
+      "station_name": "Nirala Phase 1",
+      "latitude": 28.587937,
+      "longitude": 77.442344,
+      "address": "GH-04, Greater Noida, Uttar Pradesh, 201306, India",
+      "area": "GH-04",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.587937,77.442344",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/smGMR+default.png"
+    },
+    {
+      "id": 12908,
+      "station_name": "Centurian Park",
+      "latitude": 28.599269,
+      "longitude": 77.443998,
+      "address": "Amrapali Centurian Park, Greater Noida, Uttar Pradesh, 201306, India",
+      "area": "Amrapali Centurian Park",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.599269,77.443998",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/smGMR+default.png"
+    },
+    {
+      "id": 12912,
+      "station_name": "Low Rise Apartments",
+      "latitude": 28.599269,
+      "longitude": 77.443998,
+      "address": "Amrapali Centurian Park, Greater Noida, Uttar Pradesh, 201306, India",
+      "area": "Amrapali Centurian Park",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.599269,77.443998",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/smGMR+default.png"
+    }
+  ],
+  "ac_count": 2,
+  "dc_count": 0,
+  "ac_prices": [
+    16.0,
+    17.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:13:10.781816+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

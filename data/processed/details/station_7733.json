@@ -1,0 +1,188 @@
+{
+  "station_id": 7733,
+  "station_detail": {
+    "station_id": 7733,
+    "station_name": "BPCL Mumbai kharghhar Office 3kw",
+    "latitude": 19.02912,
+    "longitude": 73.06425,
+    "address": "Kharghar, Navi Mumbai, Maharashtra, 410210, India",
+    "area": "Kharghar",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.02912,73.06425",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8239 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 55668,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 14093,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "BPCL Mumbai kharghhar Office 3kw",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Navi Mumbai",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 3.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7732,
+      "station_name": " BPCL Mumbai Kharghar Office",
+      "latitude": 19.029123,
+      "longitude": 73.06425,
+      "address": "6 Sector 2 Kharghar Navi Mumbai Maharashtra , Navi Mumbai, Maharashtra, 410210, India",
+      "area": "6 Sector 2 Kharghar Navi Mumbai Maharashtra ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.029123,73.06425",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7733,
+      "station_name": "BPCL Mumbai kharghhar Office 3kw",
+      "latitude": 19.02912,
+      "longitude": 73.06425,
+      "address": "Kharghar, Navi Mumbai, Maharashtra, 410210, India",
+      "area": "Kharghar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.02912,73.06425",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 2187,
+      "station_name": "SERVICE KEEDA",
+      "latitude": 19.051141,
+      "longitude": 73.076621,
+      "address": "plot no.127, Navi Mumbai, Maharashtra, 410210, India",
+      "area": "plot no.127",
+      "avg_review_rating": 4.84,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.051141,73.076621",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8576,
+      "station_name": "VICTORY AUTOMOBILES",
+      "latitude": 19.014641,
+      "longitude": 73.106277,
+      "address": "NEW HIGHWAY JUNCTION(NH4),KALAMBOLI, Kalamb, Maharashtra, 410218, India",
+      "area": "NEW HIGHWAY JUNCTION(NH4),KALAMBOLI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.014641,73.106277",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8502,
+      "station_name": "MH | Navi Mumbai | Marriott Executive Apartments - Rupa Renaissance",
+      "latitude": 19.06349,
+      "longitude": 73.027686,
+      "address": "D-33, Navi Mumbai, Maharashtra, 400705, India",
+      "area": "D-33",
+      "avg_review_rating": 4.36,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.06349,73.027686",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    14.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:03:33.809517+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

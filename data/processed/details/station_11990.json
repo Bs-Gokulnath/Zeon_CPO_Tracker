@@ -1,0 +1,188 @@
+{
+  "station_id": 11990,
+  "station_detail": {
+    "station_id": 11990,
+    "station_name": "Celebrity resorts",
+    "latitude": 17.581629,
+    "longitude": 78.568399,
+    "address": "1254, Hyderabad, Telangana, 500078, India",
+    "area": "1254",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.581629,78.568399",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8806 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Frame+313409.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 63053,
+        "price_with_currency": "₹ 18.0",
+        "price": 18.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 25825,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "EGW Celebrity resorts 1",
+        "last_used_on": "01/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Hyderabad",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 7.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11990,
+      "station_name": "Celebrity resorts",
+      "latitude": 17.581629,
+      "longitude": 78.568399,
+      "address": "1254, Hyderabad, Telangana, 500078, India",
+      "area": "1254",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.581629,78.568399",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+default+(11).png"
+    },
+    {
+      "id": 8958,
+      "station_name": "M/s. SINDHOOR ENTERPRISES",
+      "latitude": 17.59311,
+      "longitude": 78.5697,
+      "address": "MEDCHAL MALKAJGIRI, Hyderabad, Telangana, 500078, India",
+      "area": "MEDCHAL MALKAJGIRI",
+      "avg_review_rating": 4.85,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.59311,78.5697",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 5004,
+      "station_name": "GLIDA IOC Shameerpet",
+      "latitude": 17.5708,
+      "longitude": 78.557808,
+      "address": "Rajiv Rahadari Rd, Hyderabad, Telangana, 500078, India",
+      "area": "Rajiv Rahadari Rd",
+      "avg_review_rating": 4.56,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.5708,78.557808",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/unavailable+select.png"
+    },
+    {
+      "id": 8957,
+      "station_name": "M/s. YESHWANTH FILLING STATION",
+      "latitude": 17.56988,
+      "longitude": 78.5563,
+      "address": "SY NO.99,THUMKUNTA VILLAGE,SHAMIRPET MANDAL,,  RANGA REDDY, Secunderabad, Telangana, 500078, India",
+      "area": "SY NO.99,THUMKUNTA VILLAGE,SHAMIRPET MANDAL,,  RANGA REDDY",
+      "avg_review_rating": 4.69,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.56988,78.5563",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 15190,
+      "station_name": "Hyundai Minerva Bluefox Station",
+      "latitude": 17.630452,
+      "longitude": 78.569798,
+      "address": "SY No. 48, Grampanchayat l, 2-221, Beside HP Petrol Bunk, Majeedpur, Hyderabad, Telangana, 500078, India",
+      "area": "SY No. 48, Grampanchayat l, 2-221, Beside HP Petrol Bunk, Majeedpur",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.630452,78.569798",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    18.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:11:08.903434+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

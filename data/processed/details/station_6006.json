@@ -1,0 +1,194 @@
+{
+  "station_id": 6006,
+  "station_detail": {
+    "station_id": 6006,
+    "station_name": "chargeMOD |  REBOOST EVCS AIRPORT ROAD | KANNUR",
+    "latitude": 11.754937,
+    "longitude": 75.577813,
+    "address": "ICICI Bank Ltd, Kannur, Kerala, 670692, India",
+    "area": "ICICI Bank Ltd",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.754937,75.577813",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8447 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 3,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Chargemod+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 53329,
+        "price_with_currency": "₹ 20.88",
+        "price": 20.88,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 11278,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "CMD  REBOOST EVCS AIRPORT ROAD | KANNUR 1",
+        "last_used_on": "28/08/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Kannur",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 6006,
+      "station_name": "chargeMOD |  REBOOST EVCS AIRPORT ROAD | KANNUR",
+      "latitude": 11.754937,
+      "longitude": 75.577813,
+      "address": "ICICI Bank Ltd, Kannur, Kerala, 670692, India",
+      "area": "ICICI Bank Ltd",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.754937,75.577813",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 15766,
+      "station_name": "Chorode Bank | Prabha EV | 3.3 kW",
+      "latitude": 11.615051,
+      "longitude": 75.578727,
+      "address": "JH8H+2F9, Kozhikode, Kerala, 673106, India",
+      "area": "JH8H+2F9",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.615051,75.578727",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Prabha_map_pin.png"
+    },
+    {
+      "id": 15770,
+      "station_name": "Kolayad Bank | Prabha EV | 3.3 kW",
+      "latitude": 11.851437,
+      "longitude": 75.715828,
+      "address": "Bus Station Punnappalam, Kannur, Kerala, 670650, India",
+      "area": "Bus Station Punnappalam",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.851437,75.715828",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Prabha_map_pin.png"
+    },
+    {
+      "id": 9550,
+      "station_name": "chargeMOD | Volker Autocraft Montra Kannur",
+      "latitude": 11.838122,
+      "longitude": 75.423834,
+      "address": "Opposite Mosons Villas 18 Dreams, Kannur, Kerala, 670007, India",
+      "area": "Opposite Mosons Villas 18 Dreams",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.838122,75.423834",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 10569,
+      "station_name": "chargeMOD | Kuttiady - Cheriya Kumbalam | EVOK",
+      "latitude": 11.649159,
+      "longitude": 75.755952,
+      "address": "AKK Tower Kuttiady, Wayanad, Kerala, 673508, India",
+      "area": "AKK Tower Kuttiady",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.649159,75.755952",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    20.88
+  ],
+  "scraped_at": "2026-05-21T08:01:10.758015+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,212 @@
+{
+  "station_id": 9862,
+  "station_detail": {
+    "station_id": 9862,
+    "station_name": " Hotel Lords Inn Porbandar",
+    "latitude": 21.631429,
+    "longitude": 69.609166,
+    "address": "Chopati Rd, Porbandar, Gujarat, 360575, India",
+    "area": "Chopati Rd",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.631429,69.609166",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "7915 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/network-branding/verde/banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 58931,
+        "price_with_currency": "₹ 17.8",
+        "price": 17.8,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 19395,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "VER  Hotel Lords Inn Porbandar 1",
+        "last_used_on": "24/01/2026"
+      },
+      {
+        "charger_id": 58934,
+        "price_with_currency": "₹ 17.8",
+        "price": 17.8,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 19399,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "VER  Hotel Lords Inn Porbandar 2",
+        "last_used_on": "08/04/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Porbandar",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 7.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9862,
+      "station_name": " Hotel Lords Inn Porbandar",
+      "latitude": 21.631429,
+      "longitude": 69.609166,
+      "address": "Chopati Rd, Porbandar, Gujarat, 360575, India",
+      "area": "Chopati Rd",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.631429,69.609166",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/verde/default.png"
+    },
+    {
+      "id": 9849,
+      "station_name": "Hotel Honest",
+      "latitude": 21.68158,
+      "longitude": 69.60462,
+      "address": "3-mile, Porbandar, Gujarat, 360575, India",
+      "area": "3-mile",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.68158,69.60462",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 13498,
+      "station_name": "ID(9r9det)Nilkhanth Petroleum",
+      "latitude": 21.688552,
+      "longitude": 69.542045,
+      "address": "hp petroleum rangbai mandir, Odadar, Gujarat, 360579, India",
+      "area": "hp petroleum rangbai mandir",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.688552,69.542045",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 13434,
+      "station_name": "ID(n1egs4)Pavan petrolieum",
+      "latitude": 21.553652,
+      "longitude": 69.690863,
+      "address": "Oddar, Oddar, Gujarat, 360576, India",
+      "area": "Oddar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.553652,69.690863",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 13069,
+      "station_name": "ID(cwjxc8)ARJUN PETROLEUM",
+      "latitude": 21.666814,
+      "longitude": 69.792374,
+      "address": "Bhod, Bhod, Gujarat, 360550, India",
+      "area": "Bhod",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.666814,69.792374",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    }
+  ],
+  "ac_count": 2,
+  "dc_count": 0,
+  "ac_prices": [
+    17.8,
+    17.8
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:07:26.499870+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

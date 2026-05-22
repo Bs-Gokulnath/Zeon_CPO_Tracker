@@ -1,0 +1,204 @@
+{
+  "station_id": 14333,
+  "station_detail": {
+    "station_id": 14333,
+    "station_name": "BP RAJARHAT",
+    "latitude": 22.5743,
+    "longitude": 88.478298,
+    "address": "326, NEWTOWN, BLOCK DJ, NEAR NEW TOWN POLICE STATION, RAJARHAT, NORTH 24 PARGANAS, 700091, Kolkata, West Bengal, 700091, India",
+    "area": "326, NEWTOWN, BLOCK DJ, NEAR NEW TOWN POLICE STATION, RAJARHAT, NORTH 24 PARGANAS, 700091",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.5743,88.478298",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9862 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.91,
+    "no_of_reviews": 110,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 66235,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 30483,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 30484,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "BP RAJARHAT",
+        "last_used_on": "06/02/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 5,
+        "5": 94
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Kolkata",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14333,
+      "station_name": "BP RAJARHAT",
+      "latitude": 22.5743,
+      "longitude": 88.478298,
+      "address": "326, NEWTOWN, BLOCK DJ, NEAR NEW TOWN POLICE STATION, RAJARHAT, NORTH 24 PARGANAS, 700091, Kolkata, West Bengal, 700091, India",
+      "area": "326, NEWTOWN, BLOCK DJ, NEAR NEW TOWN POLICE STATION, RAJARHAT, NORTH 24 PARGANAS, 700091",
+      "avg_review_rating": 4.91,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.5743,88.478298",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15482,
+      "station_name": "Statiq Holiday Inn Express Kolkata",
+      "latitude": 22.578969,
+      "longitude": 88.462348,
+      "address": "Paulmech Hospitality Pvt Ltd, Holiday Inn Express, CF-15,PR No 01-0240 AA-IC, New Town Rajarhat, Kolkata, West Bengal, 700156, India",
+      "area": "Paulmech Hospitality Pvt Ltd, Holiday Inn Express, CF-15,PR No 01-0240 AA-IC, New Town Rajarhat",
+      "avg_review_rating": 4.7,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.578969,88.462348",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 8524,
+      "station_name": "WB | Kolkata | The Westin Kolkata, Rajarhat",
+      "latitude": 22.591396,
+      "longitude": 88.474828,
+      "address": "Plot No. Cbd/2 Action Area - Ii, Kolkata, West Bengal, 700156, India",
+      "area": "Plot No. Cbd/2 Action Area - Ii",
+      "avg_review_rating": 3.83,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.591396,88.474828",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 14999,
+      "station_name": "ID(fg81yh)-Balaji Service Station",
+      "latitude": 22.57652,
+      "longitude": 88.430332,
+      "address": "Nitttr Residential Complex, Kolkata, West Bengal, 700091, India",
+      "area": "Nitttr Residential Complex",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.57652,88.430332",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 9596,
+      "station_name": "Cognizant Charging Station_TCPX_Kolkata",
+      "latitude": 22.569458,
+      "longitude": 88.430155,
+      "address": "Cognizant, Technocomplex, Plot GN-34/3, Sector-V, Saltlake Electronic Complex, Kolkata - West Bengal 700091, Kolkata, West Bengal, 700091, India",
+      "area": "Cognizant, Technocomplex, Plot GN-34/3, Sector-V, Saltlake Electronic Complex, Kolkata - West Bengal 700091",
+      "avg_review_rating": 4.65,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.569458,88.430155",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:13:29.403417+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,204 @@
+{
+  "station_id": 10721,
+  "station_detail": {
+    "station_id": 10721,
+    "station_name": "Statiq Shangri-La Station",
+    "latitude": 28.621151,
+    "longitude": 77.216951,
+    "address": "Near Main Entry gate- 19, Ashoka Rd, Janpath, Connaught Place, New Delhi, Delhi, 110001, India",
+    "area": "Near Main Entry gate- 19, Ashoka Rd, Janpath, Connaught Place",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.621151,77.216951",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8772 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.76,
+    "no_of_reviews": 1732,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 60590,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 21817,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 21818,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Shangri-La DC Charger",
+        "last_used_on": "18/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 2,
+        "2": 1,
+        "3": 2,
+        "4": 10,
+        "5": 86
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "New Delhi",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10721,
+      "station_name": "Statiq Shangri-La Station",
+      "latitude": 28.621151,
+      "longitude": 77.216951,
+      "address": "Near Main Entry gate- 19, Ashoka Rd, Janpath, Connaught Place, New Delhi, Delhi, 110001, India",
+      "area": "Near Main Entry gate- 19, Ashoka Rd, Janpath, Connaught Place",
+      "avg_review_rating": 4.76,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.621151,77.216951",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8772,
+      "station_name": "EESL Statiq Bharat Sanchar Bhawan Charging Station",
+      "latitude": 28.62184,
+      "longitude": 77.219181,
+      "address": "NDMC PARKING, BHARAT SANCHAR BHAWAN, Delhi, Delhi, 110001, India",
+      "area": "NDMC PARKING, BHARAT SANCHAR BHAWAN",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.62184,77.219181",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/default.png"
+    },
+    {
+      "id": 8617,
+      "station_name": "DL | New Delhi | Le Meridien New Delhi",
+      "latitude": 28.618361,
+      "longitude": 77.217772,
+      "address": "Le Meridien, New Delhi, Delhi, 110001, India",
+      "area": "Le Meridien",
+      "avg_review_rating": 4.73,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.618361,77.217772",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonecharging.png"
+    },
+    {
+      "id": 14464,
+      "station_name": "EESL Statiq Oriental Bank M Block CP Station",
+      "latitude": 28.6176,
+      "longitude": 77.2141,
+      "address": "Oriental Bank M Block CP, New Delhi, Delhi, 110001, India",
+      "area": "Oriental Bank M Block CP",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.6176,77.2141",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/default.png"
+    },
+    {
+      "id": 9644,
+      "station_name": "EESL STATIQ Press Club",
+      "latitude": 28.61759,
+      "longitude": 77.21346,
+      "address": " Raisina Road, J J Camp Tigri, New Delhi, Delhi 110001, Delhi, Delhi, 110001, India",
+      "area": " Raisina Road, J J Camp Tigri, New Delhi, Delhi 110001",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.61759,77.21346",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.99
+  ],
+  "scraped_at": "2026-05-21T08:08:59.531418+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

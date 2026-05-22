@@ -1,0 +1,218 @@
+{
+  "station_id": 9889,
+  "station_detail": {
+    "station_id": 9889,
+    "station_name": "Jain Sadguru Capital Park Plot No. 1, 28 & 29, 98/4/1 to 13, Image Gardens Rd, VIP Hills, Madhapur",
+    "latitude": 17.447147,
+    "longitude": 78.386184,
+    "address": "Plot No. 1, Hyderabad, Telangana, 500081, India",
+    "area": "Plot No. 1",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.447147,78.386184",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8786 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 2.75,
+    "no_of_reviews": 4,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/yocharge_Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 60752,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22087,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "YHB Jain Sadguru Capital Park Plot No. 1, 28 & 29, 98/4/1 to 13, Image Gardens Rd, VIP Hills, Madhapur 5",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 60753,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22088,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "preparing"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "YHB Jain Sadguru Capital Park Plot No. 1, 28 & 29, 98/4/1 to 13, Image Gardens Rd, VIP Hills, Madhapur 6",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 25,
+        "2": 25,
+        "3": 25,
+        "4": 0,
+        "5": 25
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Hyderabad",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9889,
+      "station_name": "Jain Sadguru Capital Park Plot No. 1, 28 & 29, 98/4/1 to 13, Image Gardens Rd, VIP Hills, Madhapur",
+      "latitude": 17.447147,
+      "longitude": 78.386184,
+      "address": "Plot No. 1, Hyderabad, Telangana, 500081, India",
+      "area": "Plot No. 1",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.447147,78.386184",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 8666,
+      "station_name": "TS | Hyderabad | The Westin Hyderabad Mindspace",
+      "latitude": 17.44209,
+      "longitude": 78.381739,
+      "address": "Raheja IT Park, Hyderabad, Telangana, 500081, India",
+      "area": "Raheja IT Park",
+      "avg_review_rating": 4.58,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.44209,78.381739",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 13560,
+      "station_name": "MSR CAMSOM CAR-1",
+      "latitude": 17.439705,
+      "longitude": 78.384819,
+      "address": "MSR Casmos, Hyderabad, Telangana, 500081, India",
+      "area": "MSR Casmos",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.439705,78.384819",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    },
+    {
+      "id": 10371,
+      "station_name": "33/11 KV Madhapur Sub Station",
+      "latitude": 17.442665,
+      "longitude": 78.376766,
+      "address": "Madhapur, Hyderabad, Telangana, 500081, India",
+      "area": "Madhapur",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.442665,78.376766",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 1864,
+      "station_name": "Durgam Cheruvu Charging Station",
+      "latitude": 17.436876,
+      "longitude": 78.388519,
+      "address": "Parking, Hyderabad, Telangana, 500033, India",
+      "area": "Parking",
+      "avg_review_rating": 3.49,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.436876,78.388519",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 2,
+  "ac_prices": [],
+  "dc_prices": [
+    20.0,
+    20.0
+  ],
+  "scraped_at": "2026-05-21T08:07:27.454438+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

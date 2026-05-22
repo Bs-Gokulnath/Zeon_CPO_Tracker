@@ -1,0 +1,198 @@
+{
+  "station_id": 12108,
+  "station_detail": {
+    "station_id": 12108,
+    "station_name": "AP | Vizag | Mango Hyundai",
+    "latitude": 17.798115,
+    "longitude": 83.353642,
+    "address": "1-61/5, Vizag, Andhra Pradesh, 530041, India",
+    "area": "1-61/5",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.798115,83.353642",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9314 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 63493,
+        "price_with_currency": "₹ 21.5",
+        "price": 21.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26374,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 26383,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "TCZ AP | Vizag | Mango Hyundai 1",
+        "last_used_on": "09/03/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Vizag",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12108,
+      "station_name": "AP | Vizag | Mango Hyundai",
+      "latitude": 17.798115,
+      "longitude": 83.353642,
+      "address": "1-61/5, Vizag, Andhra Pradesh, 530041, India",
+      "area": "1-61/5",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.798115,83.353642",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 11018,
+      "station_name": "ASG Heights",
+      "latitude": 17.796793,
+      "longitude": 83.353928,
+      "address": "Reliance Digital, Visakhapatnam, Andhra Pradesh, 530041, India",
+      "area": "Reliance Digital",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.796793,83.353928",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/Group+1000001994.png"
+    },
+    {
+      "id": 10750,
+      "station_name": "VIZAG AUTOMOBILES SERVICE STATION",
+      "latitude": 17.832658,
+      "longitude": 83.358173,
+      "address": "VISAKHAPATNAM, Visakhapatnam, Andhra Pradesh, 530040, India",
+      "area": "VISAKHAPATNAM",
+      "avg_review_rating": 4.46,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.832658,83.358173",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13399,
+      "station_name": "ID(2cndkr) Police Welfare Petro Station",
+      "latitude": 17.753685,
+      "longitude": 83.341218,
+      "address": "Dayal Nagar Colony, Visakhapatanam, Andhra Pradesh, 530043, India",
+      "area": "Dayal Nagar Colony",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.753685,83.341218",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 9472,
+      "station_name": "FreshBus Visakhapatnam Charging Station",
+      "latitude": 17.849773,
+      "longitude": 83.357233,
+      "address": "3-151,Ambedkar colony/RTC drivers colony, boruvanipalem, paradesi palem, Madhurawada, Visakhapatnam, Andhra Pradesh, 530048, India",
+      "area": "3-151,Ambedkar colony/RTC drivers colony, boruvanipalem, paradesi palem, Madhurawada",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.849773,83.357233",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.5
+  ],
+  "scraped_at": "2026-05-21T08:11:27.226110+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

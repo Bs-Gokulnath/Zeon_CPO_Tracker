@@ -1,0 +1,188 @@
+{
+  "station_id": 9550,
+  "station_detail": {
+    "station_id": 9550,
+    "station_name": "chargeMOD | Volker Autocraft Montra Kannur",
+    "latitude": 11.838122,
+    "longitude": 75.423834,
+    "address": "Opposite Mosons Villas 18 Dreams, Kannur, Kerala, 670007, India",
+    "area": "Opposite Mosons Villas 18 Dreams",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.838122,75.423834",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8431 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Chargemod+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 58484,
+        "price_with_currency": "₹ 13.0",
+        "price": 13.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 18666,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "CMD Volker Autocraft Montra Kannur 2",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Kannur",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 3.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9550,
+      "station_name": "chargeMOD | Volker Autocraft Montra Kannur",
+      "latitude": 11.838122,
+      "longitude": 75.423834,
+      "address": "Opposite Mosons Villas 18 Dreams, Kannur, Kerala, 670007, India",
+      "area": "Opposite Mosons Villas 18 Dreams",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.838122,75.423834",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 7074,
+      "station_name": "2001166-JAYASREETRANSPORT",
+      "latitude": 11.872795,
+      "longitude": 75.391396,
+      "address": "KANNUR, Kannur, Kerala, 670006, India",
+      "area": "KANNUR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.872795,75.391396",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15768,
+      "station_name": "Kannur Bank | Prabha EV | 3.3 kW",
+      "latitude": 11.875896,
+      "longitude": 75.383242,
+      "address": "V9GM+898, Kannur, Kerala, 670012, India",
+      "area": "V9GM+898",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.875896,75.383242",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Prabha_offline_pin.png"
+    },
+    {
+      "id": 13823,
+      "station_name": "Malabar Residency",
+      "latitude": 11.869181,
+      "longitude": 75.369521,
+      "address": "an temple  Thavekara Road Kannur  Pin; 670001, Kannur, Kerala, 670001, India",
+      "area": "an temple  Thavekara Road Kannur  Pin; 670001",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.869181,75.369521",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    },
+    {
+      "id": 13645,
+      "station_name": "Malabar Residency -2",
+      "latitude": 11.869181,
+      "longitude": 75.369521,
+      "address": "an temple  Thavekara Road Kannur  Pin; 670001, Kannur, Kerala, 670001, India",
+      "area": "an temple  Thavekara Road Kannur  Pin; 670001",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.869181,75.369521",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    13.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:07:00.620466+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

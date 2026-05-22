@@ -1,0 +1,198 @@
+{
+  "station_id": 12111,
+  "station_detail": {
+    "station_id": 12111,
+    "station_name": "CG | Raipur | Mangalam Hyundai W5217",
+    "latitude": 21.210504,
+    "longitude": 81.66581,
+    "address": "Dhamtari Rd, Tikrapara, Chhattisgarh, 492099, India",
+    "area": "Dhamtari Rd",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.210504,81.66581",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9154 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 63498,
+        "price_with_currency": "₹ 22.0",
+        "price": 22.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26385,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 26389,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "TCZ CG | Raipur | Mangalam Hyundai W5217 1",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Tikrapara",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12111,
+      "station_name": "CG | Raipur | Mangalam Hyundai W5217",
+      "latitude": 21.210504,
+      "longitude": 81.66581,
+      "address": "Dhamtari Rd, Tikrapara, Chhattisgarh, 492099, India",
+      "area": "Dhamtari Rd",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.210504,81.66581",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 7281,
+      "station_name": "2007463-OSWAL HIGHWAY SERVICES",
+      "latitude": 21.239593,
+      "longitude": 81.677895,
+      "address": "RAIPUR, Raipur, Chhattisgarh, 492001, India",
+      "area": "RAIPUR",
+      "avg_review_rating": 4.3,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.239593,81.677895",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 2008,
+      "station_name": "Firstup Centre EV Charging Station",
+      "latitude": 21.24164,
+      "longitude": 81.6474,
+      "address": "Civil Lines, Raipur, Chhattisgarh, 492001, India",
+      "area": "Civil Lines",
+      "avg_review_rating": 4.92,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.24164,81.6474",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15005,
+      "station_name": "Labhandih 1",
+      "latitude": 21.2377,
+      "longitude": 81.6946,
+      "address": "Labhandih, Raipur, Chhattisgarh, 492001, India",
+      "area": "Labhandih",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.2377,81.6946",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8454,
+      "station_name": "CG | Raipur | Courtyard by Marriott Raipur",
+      "latitude": 21.238933,
+      "longitude": 81.701368,
+      "address": "NH-6, Raipur, Chhattisgarh, 492012, India",
+      "area": "NH-6",
+      "avg_review_rating": 4.2,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.238933,81.701368",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonecharging.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    22.0
+  ],
+  "scraped_at": "2026-05-21T08:11:27.173184+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

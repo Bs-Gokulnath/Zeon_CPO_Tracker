@@ -1,0 +1,209 @@
+{
+  "station_id": 9461,
+  "station_detail": {
+    "station_id": 9461,
+    "station_name": "UK | Ramnagar | Jim Corbett Marriott Resort & Spa",
+    "latitude": 29.4617,
+    "longitude": 79.148587,
+    "address": "F46X+MCG Jim Corbett National Park, Ramnagar, Uttarakhand, 244715, India",
+    "area": "F46X+MCG Jim Corbett National Park",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.4617,79.148587",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8968 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 4,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 58384,
+        "price_with_currency": "₹ 22.0",
+        "price": 22.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 18364,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 18365,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "TCZ UK | Ramnagar | Jim Corbett Marriott Resort & Spa 1",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ramnagar",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9461,
+      "station_name": "UK | Ramnagar | Jim Corbett Marriott Resort & Spa",
+      "latitude": 29.4617,
+      "longitude": 79.148587,
+      "address": "F46X+MCG Jim Corbett National Park, Ramnagar, Uttarakhand, 244715, India",
+      "area": "F46X+MCG Jim Corbett National Park",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.4617,79.148587",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 1587,
+      "station_name": "Sunfuel - Riverside by Aahma",
+      "latitude": 29.48,
+      "longitude": 79.150002,
+      "address": "Garjiya P.O,, Nainital, Uttarakhand, 244715, India",
+      "area": "Garjiya P.O,",
+      "avg_review_rating": 4.5,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.48,79.150002",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 3720,
+      "station_name": "Statiq ITC Jim Corbett Station",
+      "latitude": 29.53441,
+      "longitude": 79.200546,
+      "address": "Parking Area, Welcomhotel By ITC Hotels, Ramnagar, Uttarakhand, 263646, India",
+      "area": "Parking Area, Welcomhotel By ITC Hotels",
+      "avg_review_rating": 4.71,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.53441,79.200546",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 14586,
+      "station_name": "Wonderwood Resort & Spa",
+      "latitude": 29.361704,
+      "longitude": 79.189698,
+      "address": "Jim Corbett National Park, Kashipur, Uttarakhand, 244715, India",
+      "area": "Jim Corbett National Park",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.361704,79.189698",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/iONCHARGE/ion-available-not-selected.png"
+    },
+    {
+      "id": 8036,
+      "station_name": "Statiq Countryard Resort Station",
+      "latitude": 29.335133,
+      "longitude": 79.138479,
+      "address": "Inside Hotel Parking Near DG Area, Countyard Resort, Neripura, Jim Corbett, Ramnagar, Uttarakhand, 263140, India",
+      "area": "Inside Hotel Parking Near DG Area, Countyard Resort, Neripura, Jim Corbett",
+      "avg_review_rating": 4.34,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.335133,79.138479",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    22.0
+  ],
+  "scraped_at": "2026-05-21T08:06:13.651610+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

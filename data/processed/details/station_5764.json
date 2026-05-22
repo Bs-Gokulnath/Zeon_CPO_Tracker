@@ -1,0 +1,188 @@
+{
+  "station_id": 5764,
+  "station_detail": {
+    "station_id": 5764,
+    "station_name": "chargeMOD | EVM MG Motor Coastline Garage Service Centre | Calicut",
+    "latitude": 11.188797,
+    "longitude": 75.872701,
+    "address": "Bus Stop, Kozhikode, Kerala, 673632, India",
+    "area": "Bus Stop",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.188797,75.872701",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8476 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Chargemod+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 53004,
+        "price_with_currency": "₹ 13.0",
+        "price": 13.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 10953,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "CMD MG Service Centre EVCS Calicut 1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Kozhikode",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 7.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 5764,
+      "station_name": "chargeMOD | EVM MG Motor Coastline Garage Service Centre | Calicut",
+      "latitude": 11.188797,
+      "longitude": 75.872701,
+      "address": "Bus Stop, Kozhikode, Kerala, 673632, India",
+      "area": "Bus Stop",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.188797,75.872701",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(3).png"
+    },
+    {
+      "id": 2845,
+      "station_name": "Statiq Eram Motors Kozhikode Station",
+      "latitude": 11.1815,
+      "longitude": 75.849403,
+      "address": "Right  side of the main entrance gate, 12/43C,Eram Motors, Kozhikode, Kerala, 673631, India",
+      "area": "Right  side of the main entrance gate, 12/43C,Eram Motors",
+      "avg_review_rating": 4.5,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.1815,75.849403",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 5586,
+      "station_name": "chargeMOD | RG NALLANNA AIKKARAPADI EVCS EVOK ",
+      "latitude": 11.173362,
+      "longitude": 75.902209,
+      "address": "RG Nallanna Office, Malappuram, Kerala, 673637, India",
+      "area": "RG Nallanna Office",
+      "avg_review_rating": 4.45,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.173362,75.902209",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 6449,
+      "station_name": "chargeMOD | NOS2 VARALAKSHMI MOTORS EVCS",
+      "latitude": 11.14474,
+      "longitude": 75.896149,
+      "address": "Paingottoormad, Malappuram, Kerala, 673635, India",
+      "area": "Paingottoormad",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.14474,75.896149",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 10592,
+      "station_name": "chargeMOD | Zamooria EV AC Hub",
+      "latitude": 11.206359,
+      "longitude": 75.823354,
+      "address": "Kolathara road, Calicut, Kerala, 673655, India",
+      "area": "Kolathara road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.206359,75.823354",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    13.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:01:10.521879+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

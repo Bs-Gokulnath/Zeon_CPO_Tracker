@@ -1,0 +1,188 @@
+{
+  "station_id": 9907,
+  "station_detail": {
+    "station_id": 9907,
+    "station_name": "Nature's Nest Araku",
+    "latitude": 18.313978,
+    "longitude": 82.893633,
+    "address": "Main road Araku , Visakhapatnam, Andhra Pradesh, 531149, India",
+    "area": "Main road Araku ",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.313978,82.893633",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9267 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/yocharge_Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 59028,
+        "price_with_currency": "₹ 21.0",
+        "price": 21.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 19498,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "YHB Nature's Nest Araku 1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Visakhapatnam",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 7.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9907,
+      "station_name": "Nature's Nest Araku",
+      "latitude": 18.313978,
+      "longitude": 82.893633,
+      "address": "Main road Araku , Visakhapatnam, Andhra Pradesh, 531149, India",
+      "area": "Main road Araku ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.313978,82.893633",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 13229,
+      "station_name": "ID(ajpcww)ITDA Araku Valley",
+      "latitude": 18.307162,
+      "longitude": 82.899593,
+      "address": "Araku Valley, Araku Valley, Andhra Pradesh, 531149, India",
+      "area": "Araku Valley",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.307162,82.899593",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 13296,
+      "station_name": "ID(1zegz3)Gcc Araku",
+      "latitude": 18.319676,
+      "longitude": 82.882361,
+      "address": "Araku Valley, Araku Valley, Andhra Pradesh, 531149, India",
+      "area": "Araku Valley",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.319676,82.882361",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 12581,
+      "station_name": "ID(rjaobp)-Sri Srinivasa Agencies",
+      "latitude": 18.162898,
+      "longitude": 83.129272,
+      "address": "Araku - Visakhapatnam Road, Vizianagaram, Andhra Pradesh, 535145, India",
+      "area": "Araku - Visakhapatnam Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.162898,83.129272",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 13295,
+      "station_name": "ID(rkucef)SRI LAKSHMI NARASIMHA FILLING STATION",
+      "latitude": 18.039195,
+      "longitude": 83.14863,
+      "address": "Lakkavarapukota, Lakkavarapukota Seetharampuram, Andhra Pradesh, 535161, India",
+      "area": "Lakkavarapukota",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.039195,83.14863",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    21.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:07:38.797534+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

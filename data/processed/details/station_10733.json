@@ -1,0 +1,214 @@
+{
+  "station_id": 10733,
+  "station_detail": {
+    "station_id": 10733,
+    "station_name": "2007672-SHIV SHANKAR FILLING STATION",
+    "latitude": 28.976479,
+    "longitude": 77.054436,
+    "address": "FAZILPUR,SONEPAT BAHALGARH ROAD, Rajanpur, Sonipat, Haryana, 131001, India",
+    "area": "FAZILPUR,SONEPAT BAHALGARH ROAD, Rajanpur",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.976479,77.054436",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8760 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.77,
+    "no_of_reviews": 466,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 60642,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 21880,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 21881,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "SHIV SHANKAR FILLING STATION",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 2,
+        "2": 0,
+        "3": 2,
+        "4": 9,
+        "5": 86
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Sonipat",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10733,
+      "station_name": "2007672-SHIV SHANKAR FILLING STATION",
+      "latitude": 28.976479,
+      "longitude": 77.054436,
+      "address": "FAZILPUR,SONEPAT BAHALGARH ROAD, Rajanpur, Sonipat, Haryana, 131001, India",
+      "area": "FAZILPUR,SONEPAT BAHALGARH ROAD, Rajanpur",
+      "avg_review_rating": 4.77,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.976479,77.054436",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8427,
+      "station_name": "Ecoplug GANPATI DHABA",
+      "latitude": 28.990508,
+      "longitude": 77.084777,
+      "address": "GANPATI DHABA, Sonipat, Haryana, 131021, India",
+      "area": "GANPATI DHABA",
+      "avg_review_rating": 4.57,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.990508,77.084777",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 15570,
+      "station_name": "Statiq Sarovar Sonipat Station",
+      "latitude": 28.970076,
+      "longitude": 77.089531,
+      "address": "Hotel Surface Parking, 42nd Milestone Hotels Private Limited, Village Joshi Chauhan, Sai Stadium, Sonipat, Haryana, 131001, India",
+      "area": "Hotel Surface Parking, 42nd Milestone Hotels Private Limited, Village Joshi Chauhan, Sai Stadium",
+      "avg_review_rating": 4.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.970076,77.089531",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 12445,
+      "station_name": "2007671-SINGH MOTORS",
+      "latitude": 28.95654,
+      "longitude": 77.093253,
+      "address": "BHARAT PETROLEUM CORPN. LTD, DELHI AMBALA ROAD, LHS,, Sonipat, Haryana, 131001, India",
+      "area": "BHARAT PETROLEUM CORPN. LTD, DELHI AMBALA ROAD, LHS,",
+      "avg_review_rating": 4.44,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.95654,77.093253",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 2186,
+      "station_name": "E-Fill Electric (EFEV Charging Solutions Pvt. Ltd.)",
+      "latitude": 28.932872,
+      "longitude": 77.090041,
+      "address": "PLOT - 1670, Sonipat, Haryana, 131029, India",
+      "area": "PLOT - 1670",
+      "avg_review_rating": 4.64,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.932872,77.090041",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:08:59.589976+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

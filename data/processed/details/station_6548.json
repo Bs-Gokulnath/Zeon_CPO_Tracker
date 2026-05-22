@@ -1,0 +1,217 @@
+{
+  "station_id": 6548,
+  "station_detail": {
+    "station_id": 6548,
+    "station_name": "REIL BP- Kadru",
+    "latitude": 23.351101,
+    "longitude": 85.314087,
+    "address": "Kadru - Kumhartoli Road, Harmu Housing Colony, Ranchi, Jharkhand, 834002, India",
+    "area": "Kadru - Kumhartoli Road, Harmu Housing Colony",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.351101,85.314087",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9539 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 2,
+        "connector_name": "CHAdeMO",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/chademo.png"
+      },
+      {
+        "id": 6,
+        "connector_name": "GBT",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/REIL/REIL_Banner.png",
+    "landmark": "Kumhartoli Road",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54057,
+        "price_with_currency": "₹ 18.0",
+        "price": 18.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 12049,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 12050,
+            "connector_type": "CHAdeMO",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/chademo.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 2,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 3,
+            "connector_id": 12051,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 6,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 122.0,
+        "charger_name": "EV Charger CCS2-122 KW",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ranchi",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 122.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 6548,
+      "station_name": "REIL BP- Kadru",
+      "latitude": 23.351101,
+      "longitude": 85.314087,
+      "address": "Kadru - Kumhartoli Road, Harmu Housing Colony, Ranchi, Jharkhand, 834002, India",
+      "area": "Kadru - Kumhartoli Road, Harmu Housing Colony",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.351101,85.314087",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 6549,
+      "station_name": "REIL BP-Ormanjhi",
+      "latitude": 23.351101,
+      "longitude": 85.314087,
+      "address": "Ormanjhi, Ranchi, Jharkhand, 835219, India",
+      "area": "Ormanjhi",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.351101,85.314087",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 1956,
+      "station_name": "Sunfuel - Radisson Blu Hotel Ranchi",
+      "latitude": 23.351521,
+      "longitude": 85.324493,
+      "address": "Main Road, Diversion Road, Ranchi, Jharkhand, 834001, India",
+      "area": "Main Road, Diversion Road",
+      "avg_review_rating": 3.73,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.351521,85.324493",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 6638,
+      "station_name": "Statiq Shell Recharge JP Hyunda Station",
+      "latitude": 23.383625,
+      "longitude": 85.290161,
+      "address": "Inside The Showroom, 74A & 74B Road, Piska More, Ratu, Ranchi, Jharkhand, 834005, India",
+      "area": "Inside The Showroom, 74A & 74B Road, Piska More, Ratu",
+      "avg_review_rating": 4.72,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.383625,85.290161",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15817,
+      "station_name": "JH | Ranchi | Courtyard Ranchi",
+      "latitude": 23.403579,
+      "longitude": 85.315315,
+      "address": "Opposit Chasme Shahi Restaurant, Ranchi, Jharkhand, 834008, India",
+      "area": "Opposit Chasme Shahi Restaurant",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.403579,85.315315",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    18.0
+  ],
+  "scraped_at": "2026-05-21T08:01:17.556632+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

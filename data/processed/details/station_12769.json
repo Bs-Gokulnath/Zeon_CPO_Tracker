@@ -1,0 +1,198 @@
+{
+  "station_id": 12769,
+  "station_detail": {
+    "station_id": 12769,
+    "station_name": "ID(267w3t) Shreenath Petroleum",
+    "latitude": 16.684917,
+    "longitude": 74.191701,
+    "address": "Bondre Nagar, Kolhapur, Maharashtra, 416010, India",
+    "area": "Bondre Nagar",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.684917,74.191701",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8334 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/networks-logo/HP+E+charge-Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 64400,
+        "price_with_currency": "₹ 15.05",
+        "price": 15.05,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 27849,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 27850,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "HPL ID-(267w3t) Shreenath Petroleum 1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Kolhapur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12769,
+      "station_name": "ID(267w3t) Shreenath Petroleum",
+      "latitude": 16.684917,
+      "longitude": 74.191701,
+      "address": "Bondre Nagar, Kolhapur, Maharashtra, 416010, India",
+      "area": "Bondre Nagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.684917,74.191701",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 14562,
+      "station_name": "PATIL PETROLEUM",
+      "latitude": 16.692527,
+      "longitude": 74.184987,
+      "address": "KOLHAPUR, Kolhapur, Maharashtra, 416010, India",
+      "area": "KOLHAPUR",
+      "avg_review_rating": 4.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.692527,74.184987",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 8407,
+      "station_name": "KALAMBA PETROLEUM Servo",
+      "latitude": 16.6483,
+      "longitude": 74.2057,
+      "address": "152/1 KOLHAPUR GARGOTI ROAD ,NEAR  KALAMBA LAKE ,KALAMBA ,TAL KARVEER ,DIST KOLHAPUR.PIN CODE 416007, Kolhapur, Maharashtra, 416007, India",
+      "area": "152/1 KOLHAPUR GARGOTI ROAD ,NEAR  KALAMBA LAKE ,KALAMBA ,TAL KARVEER ,DIST KOLHAPUR.PIN CODE 416007",
+      "avg_review_rating": 4.71,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.6483,74.2057",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9682,
+      "station_name": "2004493-SONHIRA PETROLEUM",
+      "latitude": 16.69468,
+      "longitude": 74.14961,
+      "address": "DONAWADI SH116, Kolhapur, Maharashtra, 416010, India",
+      "area": "DONAWADI SH116",
+      "avg_review_rating": 4.86,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.69468,74.14961",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 12475,
+      "station_name": "ID(2fhu7b) Laxmi auto services",
+      "latitude": 16.705709,
+      "longitude": 74.247971,
+      "address": "Laxmi Petrol Pump, Kolhapur, Maharashtra, 416001, India",
+      "area": "Laxmi Petrol Pump",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.705709,74.247971",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    15.05
+  ],
+  "scraped_at": "2026-05-21T08:12:46.847582+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,751 @@
+{
+  "station_id": 8696,
+  "station_detail": {
+    "station_id": 8696,
+    "station_name": "Wave City Center Parking",
+    "latitude": 28.574177,
+    "longitude": 77.355321,
+    "address": "901, Noida, Uttar Pradesh, 201301, India",
+    "area": "901",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.574177,77.355321",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8784 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 4.12,
+    "no_of_reviews": 74,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/1c+Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 57204,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16476,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "1NDHUBLEVAC009",
+        "last_used_on": "30/03/2026"
+      },
+      {
+        "charger_id": 57205,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16477,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "1NDHUBLEVAC002",
+        "last_used_on": "13/03/2026"
+      },
+      {
+        "charger_id": 57206,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16478,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "1NDHUBLEVAC003",
+        "last_used_on": "25/12/2025"
+      },
+      {
+        "charger_id": 57207,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16479,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "1NDHUBLEVAC004",
+        "last_used_on": "25/03/2026"
+      },
+      {
+        "charger_id": 57208,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16480,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "1NDHUBLEVAC005",
+        "last_used_on": "28/10/2025"
+      },
+      {
+        "charger_id": 57209,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16481,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "1NDHUBLEVAC011",
+        "last_used_on": "04/04/2026"
+      },
+      {
+        "charger_id": 57210,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16482,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "1NDHUBLEVAC001",
+        "last_used_on": "09/10/2025"
+      },
+      {
+        "charger_id": 57211,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16483,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "1NDHUBLEVAC007",
+        "last_used_on": "10/03/2026"
+      },
+      {
+        "charger_id": 57212,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16484,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "1NDHUBLEVAC008",
+        "last_used_on": "16/03/2026"
+      },
+      {
+        "charger_id": 57213,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16485,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "1NDHUBLEVAC010",
+        "last_used_on": "25/02/2026"
+      },
+      {
+        "charger_id": 57237,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16509,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "1NDHUBLEVAC015",
+        "last_used_on": "11/04/2026"
+      },
+      {
+        "charger_id": 57239,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16511,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "1NDHUBLEVAC021",
+        "last_used_on": "10/02/2026"
+      },
+      {
+        "charger_id": 57241,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16513,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "1NDHUBLEVAC025",
+        "last_used_on": "15/03/2026"
+      },
+      {
+        "charger_id": 57243,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16515,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "1NDHUBLEVAC013",
+        "last_used_on": "14/04/2026"
+      },
+      {
+        "charger_id": 57245,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16518,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "1NDHUBLEVAC016",
+        "last_used_on": "02/04/2026"
+      },
+      {
+        "charger_id": 57250,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16523,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "1NDHUBLEVAC014",
+        "last_used_on": "12/04/2026"
+      },
+      {
+        "charger_id": 57252,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16524,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "1NDHUBLEVAC017",
+        "last_used_on": "03/04/2026"
+      },
+      {
+        "charger_id": 57256,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16528,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "1NDHUBLEVAC022",
+        "last_used_on": "26/03/2026"
+      },
+      {
+        "charger_id": 57257,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16529,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "1NDHUBLEVAC024",
+        "last_used_on": "08/04/2026"
+      },
+      {
+        "charger_id": 57259,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16531,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "1NDHUBLEVAC019",
+        "last_used_on": "25/03/2026"
+      },
+      {
+        "charger_id": 57262,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16534,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "1NDHUBLEVAC012",
+        "last_used_on": "30/03/2026"
+      },
+      {
+        "charger_id": 57264,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16536,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "1NDHUBLEVAC018",
+        "last_used_on": "30/07/2025"
+      },
+      {
+        "charger_id": 57266,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16538,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "1NDHUBLEVAC020",
+        "last_used_on": "12/04/2026"
+      },
+      {
+        "charger_id": 57268,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16540,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "1NDHUBLEVAC023",
+        "last_used_on": "06/01/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 20,
+        "2": 0,
+        "3": 0,
+        "4": 7,
+        "5": 73
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Noida",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 7.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8696,
+      "station_name": "Wave City Center Parking",
+      "latitude": 28.574177,
+      "longitude": 77.355321,
+      "address": "901, Noida, Uttar Pradesh, 201301, India",
+      "area": "901",
+      "avg_review_rating": 4.12,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.574177,77.355321",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 12902,
+      "station_name": "Mahagun Maple",
+      "latitude": 28.57884,
+      "longitude": 77.37604,
+      "address": "F 26, Noida, Uttar Pradesh, 201303, India",
+      "area": "F 26",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.57884,77.37604",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/smGMR+default.png"
+    },
+    {
+      "id": 15223,
+      "station_name": "EESL NMC Hospital Sec-30 Noida Charging Station",
+      "latitude": 28.56702,
+      "longitude": 77.3353,
+      "address": "Noida Authority Parking, Sector - 30, Noida, Uttar Pradesh, 201301, India",
+      "area": "Noida Authority Parking, Sector - 30",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.56702,77.3353",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15225,
+      "station_name": "EESL Ganga Shoping complex Sec-32 GBT Exicom",
+      "latitude": 28.56702,
+      "longitude": 77.3353,
+      "address": "Noida Authority Parking at Ganga Shopping Complex, Sector - 29, Noida - 201301, Noida, Uttar Pradesh, 201301, India",
+      "area": "Noida Authority Parking at Ganga Shopping Complex, Sector - 29, Noida - 201301",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.56702,77.3353",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 14103,
+      "station_name": "Indosam-75",
+      "latitude": 28.578509,
+      "longitude": 77.381962,
+      "address": "07, Noida, Uttar Pradesh, 201316, India",
+      "area": "07",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.578509,77.381962",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    }
+  ],
+  "ac_count": 24,
+  "dc_count": 0,
+  "ac_prices": [
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:05:09.113766+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

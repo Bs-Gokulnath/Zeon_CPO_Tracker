@@ -1,0 +1,330 @@
+{
+  "station_id": 8278,
+  "station_detail": {
+    "station_id": 8278,
+    "station_name": "EarthtronEV Augusta Point Sector 53 Gurugram",
+    "latitude": 28.443782,
+    "longitude": 77.099739,
+    "address": "Augusta Point, Gurgaon, Haryana, 122002, India",
+    "area": "Augusta Point",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.443782,77.099739",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8758 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      },
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 6,
+        "connector_name": "GBT",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png"
+      }
+    ],
+    "avg_review_rating": 4.29,
+    "no_of_reviews": 86,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/earthtronev_Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 56661,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 15531,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 25.0,
+        "charger_name": "ELC EarthtronEV Augusta Point Sector 53 Gurugram 3",
+        "last_used_on": "20/06/2025"
+      },
+      {
+        "charger_id": 56662,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 15532,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 25.0,
+        "charger_name": "ELC EarthtronEV Augusta Point Sector 53 Gurugram 4",
+        "last_used_on": "25/06/2025"
+      },
+      {
+        "charger_id": 56663,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 15533,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 6,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 15.0,
+        "charger_name": "ELC EarthtronEV Augusta Point Sector 53 Gurugram 5",
+        "last_used_on": "28/06/2025"
+      },
+      {
+        "charger_id": 56664,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 15534,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 6,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "ELC EarthtronEV Augusta Point Sector 53 Gurugram 6",
+        "last_used_on": "11/04/2025"
+      },
+      {
+        "charger_id": 56659,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 15529,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "ELC EarthtronEV Augusta Point Sector 53 Gurugram 1",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 56660,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 15530,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "ELC EarthtronEV Augusta Point Sector 53 Gurugram 2",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 16,
+        "2": 0,
+        "3": 0,
+        "4": 6,
+        "5": 78
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Gurgaon",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10603,
+      "station_name": "Augusta Point Sector 53 Gurugram",
+      "latitude": 28.443782,
+      "longitude": 77.099739,
+      "address": "Augusta Point, Gurugram, Haryana, 122002, India",
+      "area": "Augusta Point",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.443782,77.099739",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8278,
+      "station_name": "EarthtronEV Augusta Point Sector 53 Gurugram",
+      "latitude": 28.443782,
+      "longitude": 77.099739,
+      "address": "Augusta Point, Gurgaon, Haryana, 122002, India",
+      "area": "Augusta Point",
+      "avg_review_rating": 4.29,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.443782,77.099739",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/earthtronev_default.png"
+    },
+    {
+      "id": 1828,
+      "station_name": "The Exotica A Block AC Charger-3",
+      "latitude": 28.444479,
+      "longitude": 77.098434,
+      "address": "Golf Course Road, Gurugram, Haryana, 122011, India",
+      "area": "Golf Course Road",
+      "avg_review_rating": 4.63,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.444479,77.098434",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 3671,
+      "station_name": "The Exotica D3 Block AC Charger-2",
+      "latitude": 28.442379,
+      "longitude": 77.099129,
+      "address": "Golf Course Road, Gurugram, Haryana, 122011, India",
+      "area": "Golf Course Road",
+      "avg_review_rating": 4.82,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.442379,77.099129",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 3673,
+      "station_name": "The Exotica B Block AC Charger-1",
+      "latitude": 28.444538,
+      "longitude": 77.097771,
+      "address": "Golf Course Road, Gurugram, Haryana, 122011, India",
+      "area": "Golf Course Road",
+      "avg_review_rating": 4.82,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.444538,77.097771",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    }
+  ],
+  "ac_count": 2,
+  "dc_count": 4,
+  "ac_prices": [
+    20.0,
+    20.0
+  ],
+  "dc_prices": [
+    20.0,
+    20.0,
+    20.0,
+    20.0
+  ],
+  "scraped_at": "2026-05-21T08:04:13.636501+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

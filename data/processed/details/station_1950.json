@@ -1,0 +1,206 @@
+{
+  "station_id": 1950,
+  "station_detail": {
+    "station_id": 1950,
+    "station_name": "Sunfuel - Radisson Blu Hotel Indore",
+    "latitude": 22.75028,
+    "longitude": 75.902748,
+    "address": "12, Ring Road, Indore, Madhya Pradesh, 452010, India",
+    "area": "12, Ring Road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.75028,75.902748",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8573 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 2.0,
+    "no_of_reviews": 6,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Sunfuel+Banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 352,
+        "id": 1
+      },
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 353,
+        "id": 2
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 1921,
+        "price_with_currency": "₹ 22.19",
+        "price": 22.19,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 2715,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "Sunfuel - Radisson Blu Hotel Indore",
+        "last_used_on": "01/05/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 50,
+        "2": 17,
+        "3": 17,
+        "4": 17,
+        "5": 0
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Indore",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 22.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 1950,
+      "station_name": "Sunfuel - Radisson Blu Hotel Indore",
+      "latitude": 22.75028,
+      "longitude": 75.902748,
+      "address": "12, Ring Road, Indore, Madhya Pradesh, 452010, India",
+      "area": "12, Ring Road",
+      "avg_review_rating": 2.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.75028,75.902748",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8688,
+      "station_name": "Raghunath Prasad & Co.",
+      "latitude": 22.746647,
+      "longitude": 75.89359,
+      "address": "Indore, Indore, Madhya Pradesh, 451010, India",
+      "area": "Indore",
+      "avg_review_rating": 4.54,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.746647,75.89359",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 8686,
+      "station_name": "SUN & DEEP",
+      "latitude": 22.76353,
+      "longitude": 75.90596,
+      "address": "INDORE, Indore, Madhya Pradesh, 452001, India",
+      "area": "INDORE",
+      "avg_review_rating": 4.38,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.76353,75.90596",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 9392,
+      "station_name": "MP | Indore | Indore Marriott Hotel",
+      "latitude": 22.752577,
+      "longitude": 75.882546,
+      "address": "H-2, Indore, Madhya Pradesh, 452010, India",
+      "area": "H-2",
+      "avg_review_rating": 4.75,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.752577,75.882546",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 10896,
+      "station_name": "2011923-RAGHUNATH PRASAD HIGHWAYS",
+      "latitude": 22.731992,
+      "longitude": 75.911371,
+      "address": "KHAJRANA ROAD, KHAJRANA, Indore, Madhya Pradesh, 452010, India",
+      "area": "KHAJRANA ROAD, KHAJRANA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.731992,75.911371",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    22.19
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T07:59:19.171139+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

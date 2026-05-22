@@ -1,0 +1,211 @@
+{
+  "station_id": 1919,
+  "station_detail": {
+    "station_id": 1919,
+    "station_name": "Sunfuel - Radisson Blu Resort Karjat",
+    "latitude": 18.874781,
+    "longitude": 73.362823,
+    "address": "Survey No - 12/6-7, 10/1A,, Karjat, Maharashtra, 401201, India",
+    "area": "Survey No - 12/6-7, 10/1A,",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.874781,73.362823",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8268 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 3,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Sunfuel+Banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 304,
+        "id": 1
+      },
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 305,
+        "id": 2
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 1933,
+        "price_with_currency": "₹ 27.94",
+        "price": 27.94,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 2727,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "Sunfuel - Radisson Blu Resort & Convention Centre, Karjat",
+        "last_used_on": "29/01/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Karjat",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 22.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 1919,
+      "station_name": "Sunfuel - Radisson Blu Resort Karjat",
+      "latitude": 18.874781,
+      "longitude": 73.362823,
+      "address": "Survey No - 12/6-7, 10/1A,, Karjat, Maharashtra, 401201, India",
+      "area": "Survey No - 12/6-7, 10/1A,",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.874781,73.362823",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 7334,
+      "station_name": "2000113-KRISHNA PETROLEUM",
+      "latitude": 18.834624,
+      "longitude": 73.287394,
+      "address": "KHALAPUR, Achalpur, Maharashtra, 410202, India",
+      "area": "KHALAPUR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.834624,73.287394",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7338,
+      "station_name": "2000129-HEMKUNT AUTOMOBILES",
+      "latitude": 18.849055,
+      "longitude": 73.278063,
+      "address": "KALOTE, Achalpur, Maharashtra, 410203, India",
+      "area": "KALOTE",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.849055,73.278063",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 1913,
+      "station_name": "ANG Farms Charging Station",
+      "latitude": 18.880611,
+      "longitude": 73.268997,
+      "address": "Old Mumbai - Pune Hwy, Pune, Maharashtra, 410202, India",
+      "area": "Old Mumbai - Pune Hwy",
+      "avg_review_rating": 4.57,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.880611,73.268997",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 1914,
+      "station_name": "ANG Farms Captive Charging Station",
+      "latitude": 18.880611,
+      "longitude": 73.268997,
+      "address": "Old Mumbai - Pune Highway, Pune, Maharashtra, 410202, India",
+      "area": "Old Mumbai - Pune Highway",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.880611,73.268997",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    27.94
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T07:59:19.033924+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

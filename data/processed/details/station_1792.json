@@ -1,0 +1,198 @@
+{
+  "station_id": 1792,
+  "station_detail": {
+    "station_id": 1792,
+    "station_name": "Sunfuel - Coorg Wilderness Resort & Spa",
+    "latitude": 12.4024,
+    "longitude": 75.748398,
+    "address": "Virajpet Main Road, Madikeri, Karnataka, 571201, India",
+    "area": "Virajpet Main Road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.4024,75.748398",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8470 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 3.9,
+    "no_of_reviews": 10,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/AC.png",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Sunfuel+Banner.png",
+    "landmark": "None",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 1259,
+        "price_with_currency": "₹ 29.38",
+        "price": 29.38,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 1655,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.7,
+        "charger_name": "Sunfuel - Coorg Wilderness Resort & Spa",
+        "last_used_on": "19/09/2024"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 20,
+        "2": 0,
+        "3": 10,
+        "4": 10,
+        "5": 60
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Madikeri",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 7.7,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 1792,
+      "station_name": "Sunfuel - Coorg Wilderness Resort & Spa",
+      "latitude": 12.4024,
+      "longitude": 75.748398,
+      "address": "Virajpet Main Road, Madikeri, Karnataka, 571201, India",
+      "area": "Virajpet Main Road",
+      "avg_review_rating": 3.9,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.4024,75.748398",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 1558,
+      "station_name": "Sunfuel - Club Mahindra Resort - Madikeri",
+      "latitude": 12.4407,
+      "longitude": 75.716599,
+      "address": "Madikeri, Madikeri, Karnataka, 571201, India",
+      "area": "Madikeri",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.4407,75.716599",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 12351,
+      "station_name": "Statiq Taj Gateway Coorg Station",
+      "latitude": 12.442818,
+      "longitude": 75.700658,
+      "address": "1st, Monnageri, Galibeedu, Madikeri, Karnataka, 571202, India",
+      "area": "1st, Monnageri, Galibeedu",
+      "avg_review_rating": 4.6,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.442818,75.700658",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 1556,
+      "station_name": "Sunfuel - Club Mahindra Resort - Virajpet",
+      "latitude": 12.208901,
+      "longitude": 75.735397,
+      "address": "Palangala Village, Karada Post,, Virarajendrapet, Karnataka, 571212, India",
+      "area": "Palangala Village, Karada Post,",
+      "avg_review_rating": 4.64,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.208901,75.735397",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 14240,
+      "station_name": "Athithi Grand 60kW Dual Gun CCS2",
+      "latitude": 12.449962,
+      "longitude": 75.943499,
+      "address": "Kushalnagar, Baichanalli, Karnataka, 571234, India",
+      "area": "Kushalnagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.449962,75.943499",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    29.38
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T07:59:13.063818+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

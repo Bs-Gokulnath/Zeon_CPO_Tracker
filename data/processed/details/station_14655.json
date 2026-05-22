@@ -1,0 +1,314 @@
+{
+  "station_id": 14655,
+  "station_detail": {
+    "station_id": 14655,
+    "station_name": "Spider_Choutuppal",
+    "latitude": 17.265005,
+    "longitude": 78.833867,
+    "address": "Kohara Fuel Services, Hyderabad, Telangana, 508252, India",
+    "area": "Kohara Fuel Services",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.265005,78.833867",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8832 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 8,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/yocharge_Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 67475,
+        "price_with_currency": "₹ 19.99",
+        "price": 19.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 31961,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "YHB Spider_Choutuppal 1",
+        "last_used_on": "18/05/2026"
+      },
+      {
+        "charger_id": 67476,
+        "price_with_currency": "₹ 19.99",
+        "price": 19.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 31962,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "YHB Spider_Choutuppal 2",
+        "last_used_on": "19/05/2026"
+      },
+      {
+        "charger_id": 67477,
+        "price_with_currency": "₹ 19.99",
+        "price": 19.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 31963,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "YHB Spider_Choutuppal 3",
+        "last_used_on": "17/05/2026"
+      },
+      {
+        "charger_id": 67478,
+        "price_with_currency": "₹ 19.99",
+        "price": 19.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 31964,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "YHB Spider_Choutuppal 4",
+        "last_used_on": "19/05/2026"
+      },
+      {
+        "charger_id": 67479,
+        "price_with_currency": "₹ 19.99",
+        "price": 19.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 31965,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "YHB Spider_Choutuppal 5",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 67480,
+        "price_with_currency": "₹ 19.99",
+        "price": 19.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 31966,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "YHB Spider_Choutuppal 6",
+        "last_used_on": "18/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Hyderabad",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14655,
+      "station_name": "Spider_Choutuppal",
+      "latitude": 17.265005,
+      "longitude": 78.833867,
+      "address": "Kohara Fuel Services, Hyderabad, Telangana, 508252, India",
+      "area": "Kohara Fuel Services",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.265005,78.833867",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 12180,
+      "station_name": "VAMSHI FILLING STATION",
+      "latitude": 17.257391,
+      "longitude": 78.866863,
+      "address": "RO AT CHOUTUPPAL, Warangal, Telangana, 508204, India",
+      "area": "RO AT CHOUTUPPAL",
+      "avg_review_rating": 2.5,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.257391,78.866863",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15303,
+      "station_name": "ELVEE PETRO PLAZA",
+      "latitude": 17.292542,
+      "longitude": 78.75148,
+      "address": "YADADRI BHUVANAGIRI, Warangal, Telangana, 508252, India",
+      "area": "YADADRI BHUVANAGIRI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.292542,78.75148",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10787,
+      "station_name": "RICH FIELD FILLING STATION",
+      "latitude": 17.293504,
+      "longitude": 78.751754,
+      "address": "YADADRI BHUVANAGIRI, Warangal, Telangana, 508252, India",
+      "area": "YADADRI BHUVANAGIRI",
+      "avg_review_rating": 3.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.293504,78.751754",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 10943,
+      "station_name": "KONDALREDDY FUEL SERVICE",
+      "latitude": 17.24539,
+      "longitude": 78.92321,
+      "address": "YADADRI BHUVANAGIRI, Warangal, Telangana, 508252, India",
+      "area": "YADADRI BHUVANAGIRI",
+      "avg_review_rating": 4.41,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.24539,78.92321",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 6,
+  "ac_prices": [],
+  "dc_prices": [
+    19.99,
+    19.99,
+    19.99,
+    19.99,
+    19.99,
+    19.99
+  ],
+  "scraped_at": "2026-05-21T08:14:09.914353+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

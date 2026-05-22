@@ -1,0 +1,214 @@
+{
+  "station_id": 12537,
+  "station_detail": {
+    "station_id": 12537,
+    "station_name": "ID(dkgo5i) Patel Service Station ID-dkgo5i",
+    "latitude": 21.225118,
+    "longitude": 79.082688,
+    "address": "Ganesh Nagari, Nagpur, Maharashtra, 440026, India",
+    "area": "Ganesh Nagari",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.225118,79.082688",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8886 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 3,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/networks-logo/HP+E+charge-Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 64169,
+        "price_with_currency": "₹ 15.05",
+        "price": 15.05,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 27439,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 27443,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "HPL ID(dkgo5i) Patel Service Station ID-dkgo5i 1",
+        "last_used_on": "15/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Nagpur",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12537,
+      "station_name": "ID(dkgo5i) Patel Service Station ID-dkgo5i",
+      "latitude": 21.225118,
+      "longitude": 79.082688,
+      "address": "Ganesh Nagari, Nagpur, Maharashtra, 440026, India",
+      "area": "Ganesh Nagari",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.225118,79.082688",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 14310,
+      "station_name": "2018781-SANGITA FUEL SERVICES",
+      "latitude": 21.19933,
+      "longitude": 79.118358,
+      "address": "Plot no.1, Baba Balaknath square share layout, Uppalwadi Road, Nagpur, Maharashtra, 440026, India",
+      "area": "Plot no.1, Baba Balaknath square share layout, Uppalwadi Road",
+      "avg_review_rating": 4.21,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.19933,79.118358",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 15758,
+      "station_name": "EESL Nagpur Nari Road Metro Station",
+      "latitude": 21.17969,
+      "longitude": 79.11031,
+      "address": "Nari Road Metro Station, Nagpur, Maharashtra, Nagpur, Maharashtra, 440013, India",
+      "area": "Nari Road Metro Station, Nagpur, Maharashtra",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.17969,79.11031",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/default.png"
+    },
+    {
+      "id": 15583,
+      "station_name": "EESL Nagpur Automotive Square Metro Station",
+      "latitude": 21.18595,
+      "longitude": 79.11997,
+      "address": "75, Kamptee Rd, Bank Colony, Nagpur, Maharashtra, Nagpur, Maharashtra, 440026, India",
+      "area": "75, Kamptee Rd, Bank Colony, Nagpur, Maharashtra",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.18595,79.11997",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/default.png"
+    },
+    {
+      "id": 14747,
+      "station_name": "JAIMALSINGH LAMBA & CO.",
+      "latitude": 21.174042,
+      "longitude": 79.102046,
+      "address": "RO AT KAMPTEE RD NR TULI MALL,NAGPUR NARI ROAD-JARIPATKA, Nagpur, Maharashtra, 440017, India",
+      "area": "RO AT KAMPTEE RD NR TULI MALL,NAGPUR NARI ROAD-JARIPATKA",
+      "avg_review_rating": 4.6,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.174042,79.102046",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    15.05
+  ],
+  "scraped_at": "2026-05-21T08:12:08.975634+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

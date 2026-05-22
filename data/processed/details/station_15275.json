@@ -1,0 +1,198 @@
+{
+  "station_id": 15275,
+  "station_detail": {
+    "station_id": 15275,
+    "station_name": "SOHANA SUMRAN PETROLEUM",
+    "latitude": 25.87744,
+    "longitude": 78.32324,
+    "address": "VIDISHA ROAD, NEAR BANGLA CHAURAHA, VILLAGE - ONDER, Gwalior, Madhya Pradesh, 473443, India",
+    "area": "VIDISHA ROAD, NEAR BANGLA CHAURAHA, VILLAGE - ONDER",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.87744,78.32324",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8850 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68458,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33596,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 33597,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "SOHANA SUMRAN PETROLEUM",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Gwalior",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15275,
+      "station_name": "SOHANA SUMRAN PETROLEUM",
+      "latitude": 25.87744,
+      "longitude": 78.32324,
+      "address": "VIDISHA ROAD, NEAR BANGLA CHAURAHA, VILLAGE - ONDER, Gwalior, Madhya Pradesh, 473443, India",
+      "area": "VIDISHA ROAD, NEAR BANGLA CHAURAHA, VILLAGE - ONDER",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.87744,78.32324",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15274,
+      "station_name": "ANNPURNA FILLING STATION",
+      "latitude": 25.87744,
+      "longitude": 78.32324,
+      "address": "DABRA BHITARWAR ROAD, GALLA MANDI KE SAAMNE, Gwalior, Madhya Pradesh, 475110, India",
+      "area": "DABRA BHITARWAR ROAD, GALLA MANDI KE SAAMNE",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.87744,78.32324",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7696,
+      "station_name": "2017216-SHRIRAM FILLING STATION",
+      "latitude": 25.908378,
+      "longitude": 78.344979,
+      "address": "RO AT NEW DABRA BYPASS TEHSIL DABRA  DIST. GWALIOR, Gwalior, Madhya Pradesh, 475110, India",
+      "area": "RO AT NEW DABRA BYPASS TEHSIL DABRA  DIST. GWALIOR",
+      "avg_review_rating": 4.75,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.908378,78.344979",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 11916,
+      "station_name": "2021417-BHAGWAN ROKADIYA SARKAR FUEL",
+      "latitude": 26.120398,
+      "longitude": 78.216949,
+      "address": "VILLAGE SIKRODA BADORI , NH7, Gwalior, Madhya Pradesh, 475001, India",
+      "area": "VILLAGE SIKRODA BADORI , NH7",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.120398,78.216949",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13552,
+      "station_name": "MP | Gwalior | Royal Motors",
+      "latitude": 26.12825,
+      "longitude": 78.212459,
+      "address": "SURVEY NO.88, Gwalior, Madhya Pradesh, 475330, India",
+      "area": "SURVEY NO.88",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.12825,78.212459",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:15:35.673390+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

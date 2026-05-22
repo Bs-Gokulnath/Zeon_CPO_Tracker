@@ -1,0 +1,203 @@
+{
+  "station_id": 9944,
+  "station_detail": {
+    "station_id": 9944,
+    "station_name": "SHRI BABA FARID PETROLEUM",
+    "latitude": 20.613571,
+    "longitude": 79.869769,
+    "address": "At Bramhapuri, Chandrapur, Chandrapur, Maharashtra, 441206, India",
+    "area": "At Bramhapuri, Chandrapur",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.613571,79.869769",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8963 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 3.57,
+    "no_of_reviews": 7,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": "At Bramhapuri, Chandrapur",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 59068,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 19576,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 19577,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "SHRI BABA FARID PETROLEUM",
+        "last_used_on": "19/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 29,
+        "2": 0,
+        "3": 0,
+        "4": 29,
+        "5": 43
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Chandrapur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9944,
+      "station_name": "SHRI BABA FARID PETROLEUM",
+      "latitude": 20.613571,
+      "longitude": 79.869769,
+      "address": "At Bramhapuri, Chandrapur, Chandrapur, Maharashtra, 441206, India",
+      "area": "At Bramhapuri, Chandrapur",
+      "avg_review_rating": 3.57,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.613571,79.869769",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12278,
+      "station_name": "20054690-VINAYAK PETROLEUM SERVICE STATION",
+      "latitude": 20.730466,
+      "longitude": 79.887823,
+      "address": "Pauni T Point, Lakahndur Wadsa Road,, Bhandara, Maharashtra, 441803, India",
+      "area": "Pauni T Point, Lakahndur Wadsa Road,",
+      "avg_review_rating": 4.4,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.730466,79.887823",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 14746,
+      "station_name": "2005400 - M.B.KARAMSHI & CO.",
+      "latitude": 20.582084,
+      "longitude": 79.689661,
+      "address": "Bhamhapuri RD, C'P, Nagbhid,, Chandrapur, Maharashtra, 441205, India",
+      "area": "Bhamhapuri RD, C'P, Nagbhid,",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.582084,79.689661",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15157,
+      "station_name": "IKHAR PETROLEUM",
+      "latitude": 20.810438,
+      "longitude": 79.711312,
+      "address": "\"RO AT ASGAON,PAUNI,BHANDARA ASGAON - LAKHANDUR\", Bhandara, Maharashtra, 441910, India",
+      "area": "\"RO AT ASGAON,PAUNI,BHANDARA ASGAON - LAKHANDUR\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.810438,79.711312",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13303,
+      "station_name": "ID(4wjh62) Sandeep petroleum",
+      "latitude": 21.065547,
+      "longitude": 79.864052,
+      "address": "Pimpalgaon, Pimpalgaon, Maharashtra, 441804, India",
+      "area": "Pimpalgaon",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.065547,79.864052",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:07:38.641341+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

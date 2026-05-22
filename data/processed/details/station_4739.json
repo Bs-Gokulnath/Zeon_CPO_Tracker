@@ -1,0 +1,218 @@
+{
+  "station_id": 4739,
+  "station_detail": {
+    "station_id": 4739,
+    "station_name": "REIL Goa Auto Services Indian Oil Petrol Pump Stat",
+    "latitude": 15.63527,
+    "longitude": 73.829536,
+    "address": "NH -17, Near Leyland Spare Parts Showroom, Industrial Area, Goa, Goa, 403513, India",
+    "area": "NH -17, Near Leyland Spare Parts Showroom, Industrial Area",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.63527,73.829536",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8287 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 6,
+        "connector_name": "GBT",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/REIL/REIL_Banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 11446,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 51321,
+        "price_with_currency": "₹ 18.0",
+        "price": 18.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 8844,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 6,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 15.0,
+        "charger_name": "EV Charger DC001-15KW",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 51322,
+        "price_with_currency": "₹ 18.0",
+        "price": 18.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 8845,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 6,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 15.0,
+        "charger_name": "EV Charger DC002-15KW",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Goa",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 15.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 4739,
+      "station_name": "REIL Goa Auto Services Indian Oil Petrol Pump Stat",
+      "latitude": 15.63527,
+      "longitude": 73.829536,
+      "address": "NH -17, Near Leyland Spare Parts Showroom, Industrial Area, Goa, Goa, 403513, India",
+      "area": "NH -17, Near Leyland Spare Parts Showroom, Industrial Area",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.63527,73.829536",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 13368,
+      "station_name": "ID(5a9zk2) Shree Dattaprasad Service Station",
+      "latitude": 15.629413,
+      "longitude": 73.825909,
+      "address": "Mini Satellite Township, Kolval, Goa, 403517, India",
+      "area": "Mini Satellite Township",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.629413,73.825909",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 4744,
+      "station_name": "REIL BANDEKAR AUTO CENTRE Station",
+      "latitude": 15.61452,
+      "longitude": 73.822449,
+      "address": "NH-17, Karaswada, Mapusa, Goa, 403115, India",
+      "area": "NH-17, Karaswada",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.61452,73.822449",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 4737,
+      "station_name": "REIL Sairaj Petroleum Station",
+      "latitude": 15.66159,
+      "longitude": 73.838196,
+      "address": "RTO Check Post, Goa, Goa, 403513, India",
+      "area": "RTO Check Post",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.66159,73.838196",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 4748,
+      "station_name": "REIL SHREE SAIPRASHAD PETROLEUM Station",
+      "latitude": 15.62723,
+      "longitude": 73.870842,
+      "address": "Thivim, Goa, Goa, 403502, India",
+      "area": "Thivim",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.62723,73.870842",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 2,
+  "ac_prices": [],
+  "dc_prices": [
+    18.0,
+    18.0
+  ],
+  "scraped_at": "2026-05-21T07:59:47.904545+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

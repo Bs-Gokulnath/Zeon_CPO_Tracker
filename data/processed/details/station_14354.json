@@ -1,0 +1,208 @@
+{
+  "station_id": 14354,
+  "station_detail": {
+    "station_id": 14354,
+    "station_name": "TS | Hyderabad |  BMW - Kun Exclusive URS",
+    "latitude": 17.421802,
+    "longitude": 78.410792,
+    "address": "Plot No.1 & 2 Survey No.403/1, Hyderabad, Telangana, 500033, India",
+    "area": "Plot No.1 & 2 Survey No.403/1",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.421802,78.410792",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8788 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 2,
+        "connector_name": "CHAdeMO",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/chademo.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 66317,
+        "price_with_currency": "₹ 21.0",
+        "price": 21.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 30579,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 30580,
+            "connector_type": "CHAdeMO",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/chademo.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 2,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 48.0,
+        "charger_name": "TCZ TS | Hyderabad |  BMW - Kun Exclusive URS 1",
+        "last_used_on": "13/12/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Hyderabad",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 48.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14354,
+      "station_name": "TS | Hyderabad |  BMW - Kun Exclusive URS",
+      "latitude": 17.421802,
+      "longitude": 78.410792,
+      "address": "Plot No.1 & 2 Survey No.403/1, Hyderabad, Telangana, 500033, India",
+      "area": "Plot No.1 & 2 Survey No.403/1",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.421802,78.410792",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 10463,
+      "station_name": "KBR Park Gate No-6, ",
+      "latitude": 17.42015,
+      "longitude": 78.412218,
+      "address": "Jubli hills road, Hyderabad, Telangana, 500033, India",
+      "area": "Jubli hills road",
+      "avg_review_rating": 4.55,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.42015,78.412218",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
+    },
+    {
+      "id": 10599,
+      "station_name": "KBR Park Gate No.4, Jubilee Hills, Hyderabad",
+      "latitude": 17.423828,
+      "longitude": 78.412757,
+      "address": "Jubilee Hills, Hyderabad, Telangana, 500033, India",
+      "area": "Jubilee Hills",
+      "avg_review_rating": 2.09,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.423828,78.412757",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 11991,
+      "station_name": "FNCC",
+      "latitude": 17.414922,
+      "longitude": 78.410034,
+      "address": "Road Number 6, Hyderabad, Telangana, 500096, India",
+      "area": "Road Number 6",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.414922,78.410034",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+default+(11).png"
+    },
+    {
+      "id": 8585,
+      "station_name": "KBR Park Gate No.03, Jubilee Hills, Hyderabad",
+      "latitude": 17.425592,
+      "longitude": 78.418813,
+      "address": "Jubilee Hills, Hyderabad, Telangana, 500096, India",
+      "area": "Jubilee Hills",
+      "avg_review_rating": 2.15,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.425592,78.418813",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.0
+  ],
+  "scraped_at": "2026-05-21T08:13:29.653254+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

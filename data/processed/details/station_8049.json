@@ -1,0 +1,204 @@
+{
+  "station_id": 8049,
+  "station_detail": {
+    "station_id": 8049,
+    "station_name": "ASHIRWAD PETROLEUM",
+    "latitude": 20.05909,
+    "longitude": 73.88822,
+    "address": "NH3 ADGAON NAKA , NASHIK, Nashik, Maharashtra, 422003, India",
+    "area": "NH3 ADGAON NAKA , NASHIK",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.05909,73.88822",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8336 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.2,
+    "no_of_reviews": 5,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 56235,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 14946,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 14947,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "ASHIRWAD PETROLEUM  EV - DC",
+        "last_used_on": "15/06/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 20,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 80
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Nashik",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8049,
+      "station_name": "ASHIRWAD PETROLEUM",
+      "latitude": 20.05909,
+      "longitude": 73.88822,
+      "address": "NH3 ADGAON NAKA , NASHIK, Nashik, Maharashtra, 422003, India",
+      "area": "NH3 ADGAON NAKA , NASHIK",
+      "avg_review_rating": 4.2,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.05909,73.88822",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12955,
+      "station_name": "ID(qgho4r)B m patil petrol pump",
+      "latitude": 20.061531,
+      "longitude": 73.891166,
+      "address": "Jaulakedindori, Jaulakedindori, Maharashtra, 422207, India",
+      "area": "Jaulakedindori",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.061531,73.891166",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 11060,
+      "station_name": "S N LADDHA PETROLEUM",
+      "latitude": 20.073355,
+      "longitude": 73.906731,
+      "address": " BHARAT PETROLEUM  GAT NO 2320/2321, NH-3, 10Th Mile Opp Airport Road,  Ojhar, Nashik,  422206, Nashik, Maharashtra, 422206, India",
+      "area": " BHARAT PETROLEUM  GAT NO 2320/2321, NH-3, 10Th Mile Opp Airport Road,  Ojhar, Nashik,  422206",
+      "avg_review_rating": 4.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.073355,73.906731",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12794,
+      "station_name": "ID(3tpfwc)ADHOC DESHMANE PETROLEUM",
+      "latitude": 20.075478,
+      "longitude": 73.909704,
+      "address": "Mumbai - Agra Road, Ojhar, Maharashtra, 422207, India",
+      "area": "Mumbai - Agra Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.075478,73.909704",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 9067,
+      "station_name": "BP ADGAON",
+      "latitude": 20.03648,
+      "longitude": 73.86405,
+      "address": "ATPOADAGAON  MUMBAI AGRA HW OLD NH3 NASHIK, Mumbai, Maharashtra, 422003, India",
+      "area": "ATPOADAGAON  MUMBAI AGRA HW OLD NH3 NASHIK",
+      "avg_review_rating": 4.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.03648,73.86405",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:03:50.587479+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

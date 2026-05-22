@@ -1,0 +1,223 @@
+{
+  "station_id": 14299,
+  "station_detail": {
+    "station_id": 14299,
+    "station_name": "Emly Cafe And Restaurant Emly Cafe And Restaurant Dabwali Sangaria Road Chautala",
+    "latitude": 29.792435,
+    "longitude": 74.535198,
+    "address": "Emly Cafe And Restaurant Dabwali Sangaria Roa, Chautala, Haryana, 125101, India",
+    "area": "Emly Cafe And Restaurant Dabwali Sangaria Roa",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.792435,74.535198",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8529 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/yocharge_Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 66181,
+        "price_with_currency": "₹ 21.0",
+        "price": 21.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 30397,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 40.0,
+        "charger_name": "YHB Emly Cafe And Restaurant Emly Cafe And Restaurant Dabwali Sangaria Road Chautala 1",
+        "last_used_on": "20/12/2025"
+      },
+      {
+        "charger_id": 66182,
+        "price_with_currency": "₹ 18.0",
+        "price": 18.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 30398,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "YHB Emly Cafe And Restaurant Emly Cafe And Restaurant Dabwali Sangaria Road Chautala 2",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Chautala",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 40.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14299,
+      "station_name": "Emly Cafe And Restaurant Emly Cafe And Restaurant Dabwali Sangaria Road Chautala",
+      "latitude": 29.792435,
+      "longitude": 74.535198,
+      "address": "Emly Cafe And Restaurant Dabwali Sangaria Roa, Chautala, Haryana, 125101, India",
+      "area": "Emly Cafe And Restaurant Dabwali Sangaria Roa",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.792435,74.535198",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 13472,
+      "station_name": "ID(mmngm3)SAHARAN HP Petro",
+      "latitude": 29.785867,
+      "longitude": 74.514697,
+      "address": "Chautala, Chautala, Haryana, 125101, India",
+      "area": "Chautala",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.785867,74.514697",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 13196,
+      "station_name": "ID(9ktdcf) Ch. Rai Singh Saharan Petro Station",
+      "latitude": 29.767209,
+      "longitude": 74.476794,
+      "address": "Sangaria, Sangaria, Haryana, 335063, India",
+      "area": "Sangaria",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.767209,74.476794",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 15349,
+      "station_name": "Krishan Fuel Station",
+      "latitude": 29.695119,
+      "longitude": 74.729971,
+      "address": "VILLAGE CHAK FARIDPUR,SANTNAGAR TEHSIL GORIWALA, 125103, Sirsa, Haryana, 125103, India",
+      "area": "VILLAGE CHAK FARIDPUR,SANTNAGAR TEHSIL GORIWALA, 125103",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.695119,74.729971",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 7602,
+      "station_name": "2017655-BP-KHUIYAN MALKANA",
+      "latitude": 29.866167,
+      "longitude": 74.80648,
+      "address": "SIRSA, Sirsa, Haryana, 125104, India",
+      "area": "SIRSA",
+      "avg_review_rating": 4.71,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.866167,74.80648",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 1,
+  "ac_prices": [
+    18.0
+  ],
+  "dc_prices": [
+    21.0
+  ],
+  "scraped_at": "2026-05-21T08:13:29.133285+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

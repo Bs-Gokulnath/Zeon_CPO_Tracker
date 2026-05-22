@@ -1,0 +1,208 @@
+{
+  "station_id": 11008,
+  "station_detail": {
+    "station_id": 11008,
+    "station_name": "Gokulnagar, sri sai surya arcode, Secundrabad",
+    "latitude": 17.43082,
+    "longitude": 78.540872,
+    "address": "Secunderabad , Hyderabad, Telangana, 500003, India",
+    "area": "Secunderabad ",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.43082,78.540872",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8802 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 2.57,
+    "no_of_reviews": 7,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": "Gokulnagar",
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 12912,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 61210,
+        "price_with_currency": "₹ 13.0",
+        "price": 13.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22779,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 22780,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "Gokulnagar, Sri Sai Surya Arcode, Secunderabad",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 57,
+        "2": 0,
+        "3": 0,
+        "4": 14,
+        "5": 29
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Hyderabad",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11008,
+      "station_name": "Gokulnagar, sri sai surya arcode, Secundrabad",
+      "latitude": 17.43082,
+      "longitude": 78.540872,
+      "address": "Secunderabad , Hyderabad, Telangana, 500003, India",
+      "area": "Secunderabad ",
+      "avg_review_rating": 2.57,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.43082,78.540872",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 4961,
+      "station_name": "GLIDA HMR Tarnaka",
+      "latitude": 17.428476,
+      "longitude": 78.52774,
+      "address": "Krishna Deva Raya Rd, Hyderabad, Telangana, 500007, India",
+      "area": "Krishna Deva Raya Rd",
+      "avg_review_rating": 4.6,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.428476,78.52774",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/unavailable+select.png"
+    },
+    {
+      "id": 4972,
+      "station_name": "GLIDA HMR NGRI",
+      "latitude": 17.414084,
+      "longitude": 78.547335,
+      "address": "Near Ngri, Hyderabad, Telangana, 500007, India",
+      "area": "Near Ngri",
+      "avg_review_rating": 4.57,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.414084,78.547335",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/unavailable+select.png"
+    },
+    {
+      "id": 9379,
+      "station_name": "Adikmet Main Road, Osmania University, Amberpet",
+      "latitude": 17.420672,
+      "longitude": 78.524831,
+      "address": "Adikmet Main Road, Hyderabad, Telangana, 500007, India",
+      "area": "Adikmet Main Road",
+      "avg_review_rating": 4.38,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.420672,78.524831",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 4997,
+      "station_name": "GLIDA HMR Mettuguda",
+      "latitude": 17.436066,
+      "longitude": 78.519164,
+      "address": "Near St.Anthony Shrine, Hyderabad, Telangana, 500017, India",
+      "area": "Near St.Anthony Shrine",
+      "avg_review_rating": 4.63,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.436066,78.519164",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/unavailable+select.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    13.0
+  ],
+  "scraped_at": "2026-05-21T08:09:33.874100+00:00",
+  "parse_success": true,
+  "missing_fields": [],
+  "coverage_pct": 100.0
+}

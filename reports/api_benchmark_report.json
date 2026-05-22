@@ -1,0 +1,158 @@
+{
+  "runs_per_endpoint": 20,
+  "endpoints": [
+    {
+      "name": "GET /health",
+      "url": "http://localhost:8000/health",
+      "target_ms": 200,
+      "p50_ms": 43.25,
+      "p95_ms": 50.57,
+      "mean_ms": 42.61,
+      "errors": 0,
+      "passed": true
+    },
+    {
+      "name": "GET /stations (no filter)",
+      "url": "http://localhost:8000/stations?page_size=50",
+      "target_ms": 150,
+      "p50_ms": 48.0,
+      "p95_ms": 91.27,
+      "mean_ms": 60.69,
+      "errors": 0,
+      "passed": true
+    },
+    {
+      "name": "GET /stations (state filter)",
+      "url": "http://localhost:8000/stations?state_id=1&page_size=50",
+      "target_ms": 150,
+      "p50_ms": 48.28,
+      "p95_ms": 54.06,
+      "mean_ms": 45.42,
+      "errors": 0,
+      "passed": true
+    },
+    {
+      "name": "GET /stations (city+type+avail)",
+      "url": "http://localhost:8000/stations?city_id=1&charger_type=DC&availability=Available",
+      "target_ms": 150,
+      "p50_ms": 47.09,
+      "p95_ms": 56.94,
+      "mean_ms": 44.93,
+      "errors": 0,
+      "passed": true
+    },
+    {
+      "name": "GET /stations (text search)",
+      "url": "http://localhost:8000/stations?q=chennai&page_size=20",
+      "target_ms": 150,
+      "p50_ms": 48.34,
+      "p95_ms": 51.96,
+      "mean_ms": 45.37,
+      "errors": 0,
+      "passed": true
+    },
+    {
+      "name": "GET /stations/{id} (detail)",
+      "url": "http://localhost:8000/stations/1",
+      "target_ms": 200,
+      "p50_ms": 45.32,
+      "p95_ms": 53.31,
+      "mean_ms": 44.59,
+      "errors": 0,
+      "passed": true
+    },
+    {
+      "name": "GET /filters",
+      "url": "http://localhost:8000/filters",
+      "target_ms": 100,
+      "p50_ms": 62.85,
+      "p95_ms": 98.38,
+      "mean_ms": 53.27,
+      "errors": 0,
+      "passed": true
+    },
+    {
+      "name": "GET /search?q=chennai",
+      "url": "http://localhost:8000/search?q=chennai",
+      "target_ms": 50,
+      "p50_ms": 44.27,
+      "p95_ms": 53.64,
+      "mean_ms": 43.63,
+      "errors": 0,
+      "passed": false
+    },
+    {
+      "name": "GET /search/autocomplete?q=stat",
+      "url": "http://localhost:8000/search/autocomplete?q=stat",
+      "target_ms": 50,
+      "p50_ms": 47.2,
+      "p95_ms": 57.01,
+      "mean_ms": 45.28,
+      "errors": 0,
+      "passed": false
+    },
+    {
+      "name": "GET /analytics/overview",
+      "url": "http://localhost:8000/analytics/overview",
+      "target_ms": 100,
+      "p50_ms": 47.54,
+      "p95_ms": 54.61,
+      "mean_ms": 45.61,
+      "errors": 0,
+      "passed": true
+    },
+    {
+      "name": "GET /analytics/state-dist",
+      "url": "http://localhost:8000/analytics/state-distribution",
+      "target_ms": 100,
+      "p50_ms": 41.55,
+      "p95_ms": 53.39,
+      "mean_ms": 42.43,
+      "errors": 0,
+      "passed": true
+    },
+    {
+      "name": "GET /analytics/operator-dist",
+      "url": "http://localhost:8000/analytics/operator-distribution",
+      "target_ms": 100,
+      "p50_ms": 44.37,
+      "p95_ms": 52.67,
+      "mean_ms": 42.99,
+      "errors": 0,
+      "passed": true
+    },
+    {
+      "name": "GET /analytics/charger-speed",
+      "url": "http://localhost:8000/analytics/charger-speed",
+      "target_ms": 100,
+      "p50_ms": 42.35,
+      "p95_ms": 48.76,
+      "mean_ms": 41.88,
+      "errors": 0,
+      "passed": true
+    },
+    {
+      "name": "GET /analytics/ac-dc",
+      "url": "http://localhost:8000/analytics/ac-dc-breakdown",
+      "target_ms": 100,
+      "p50_ms": 44.24,
+      "p95_ms": 53.29,
+      "mean_ms": 43.2,
+      "errors": 0,
+      "passed": true
+    },
+    {
+      "name": "GET /nearby (Haversine 5km)",
+      "url": "http://localhost:8000/nearby?lat=28.6&lon=77.2&radius_km=5",
+      "target_ms": 250,
+      "p50_ms": 44.17,
+      "p95_ms": 52.11,
+      "mean_ms": 43.24,
+      "errors": 0,
+      "passed": true
+    }
+  ],
+  "overall_passed": false,
+  "passed_count": 13,
+  "total_count": 15
+}

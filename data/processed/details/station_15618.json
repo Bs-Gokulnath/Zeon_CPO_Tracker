@@ -1,0 +1,198 @@
+{
+  "station_id": 15618,
+  "station_detail": {
+    "station_id": 15618,
+    "station_name": "M/s DADHIBAMAN SERVICE STATION",
+    "latitude": 21.813369,
+    "longitude": 85.803013,
+    "address": "KEONJHAR, Keonjhar, Odisha, 758046, India",
+    "area": "KEONJHAR",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.813369,85.803013",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9585 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 69125,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34619,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 34620,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "M/s DADHIBAMAN SERVICE STATION",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Keonjhar",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15618,
+      "station_name": "M/s DADHIBAMAN SERVICE STATION",
+      "latitude": 21.813369,
+      "longitude": 85.803013,
+      "address": "KEONJHAR, Keonjhar, Odisha, 758046, India",
+      "area": "KEONJHAR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.813369,85.803013",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15587,
+      "station_name": "CHANDRABATI SERVICE STATION",
+      "latitude": 21.777139,
+      "longitude": 85.786473,
+      "address": "CHEMENA, City: KEONJHAR, Taluka: , Dist.: KEONJHAR, Pin - 758046, Keonjhar, Odisha, 758046, India",
+      "area": "CHEMENA, City: KEONJHAR, Taluka: , Dist.: KEONJHAR, Pin - 758046",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.777139,85.786473",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15557,
+      "station_name": "KENDUJHAR PETROLEUM",
+      "latitude": 21.66934,
+      "longitude": 85.584853,
+      "address": "RAISUAN, City: KEONJHAR, Taluka: , Dist.: KEONJHAR, Pin - 758017, Sambalpur, Odisha, 758017, India",
+      "area": "RAISUAN, City: KEONJHAR, Taluka: , Dist.: KEONJHAR, Pin - 758017",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.66934,85.584853",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15575,
+      "station_name": "M/s B.S.FILLEX",
+      "latitude": 21.594507,
+      "longitude": 85.664038,
+      "address": " JAMUNALIA, City: JAMUNALIA, Taluka: , Dist.: KEONJHAR, Keonjhar, Odisha, 758014, India",
+      "area": " JAMUNALIA, City: JAMUNALIA, Taluka: , Dist.: KEONJHAR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.594507,85.664038",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15971,
+      "station_name": "MAA TARINI EV CHARGING  STATION",
+      "latitude": 21.549053,
+      "longitude": 85.49408,
+      "address": "keonjhar, Keonjhar, Odisha, 758018, India",
+      "area": "keonjhar",
+      "avg_review_rating": 4.83,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.549053,85.49408",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:16:25.515530+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,204 @@
+{
+  "station_id": 15139,
+  "station_detail": {
+    "station_id": 15139,
+    "station_name": "PAULSON HIGHWAY FILLING STATION",
+    "latitude": 23.218313,
+    "longitude": 88.508015,
+    "address": "RO AT UDAYPUR, NH-34, Nadia, West Bengal, 741402, India",
+    "area": "RO AT UDAYPUR, NH-34",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.218313,88.508015",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9866 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.67,
+    "no_of_reviews": 18,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68218,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33206,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 33207,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "PAULSON HIGHWAY FILLING STATION",
+        "last_used_on": "19/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 11,
+        "4": 11,
+        "5": 78
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Nadia",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15139,
+      "station_name": "PAULSON HIGHWAY FILLING STATION",
+      "latitude": 23.218313,
+      "longitude": 88.508015,
+      "address": "RO AT UDAYPUR, NH-34, Nadia, West Bengal, 741402, India",
+      "area": "RO AT UDAYPUR, NH-34",
+      "avg_review_rating": 4.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.218313,88.508015",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 15213,
+      "station_name": "HEM AUTO CENTRE",
+      "latitude": 23.219913,
+      "longitude": 88.34969,
+      "address": "RO AT STKK RD,KALNA,BURDWAN DISTRICT Purbha Bardhaman, Kalna, West Bengal, 713409, India",
+      "area": "RO AT STKK RD,KALNA,BURDWAN DISTRICT Purbha Bardhaman",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.219913,88.34969",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14363,
+      "station_name": "BP BIROHI",
+      "latitude": 23.043268,
+      "longitude": 88.53654,
+      "address": "T BIROHI,NH-34,NADIA NH12 JAGULI TO SHANTIPUR, Nadia, West Bengal, 741248, India",
+      "area": "T BIROHI,NH-34,NADIA NH12 JAGULI TO SHANTIPUR",
+      "avg_review_rating": 4.33,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.043268,88.53654",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 12694,
+      "station_name": "ID(jft7fo)Luxmi Narayan Service Station",
+      "latitude": 23.401571,
+      "longitude": 88.490559,
+      "address": "Krishnanagar, Krishnanagar, West Bengal, 741101, India",
+      "area": "Krishnanagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.401571,88.490559",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 12871,
+      "station_name": "ID(h1ffc4)Ma Manasa Auto Fuel Service",
+      "latitude": 22.97053,
+      "longitude": 88.54618,
+      "address": "Muragachha, Muragachha, West Bengal, 741246, India",
+      "area": "Muragachha",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.97053,88.54618",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:15:09.566371+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

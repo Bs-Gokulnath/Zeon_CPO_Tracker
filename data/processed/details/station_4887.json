@@ -1,0 +1,243 @@
+{
+  "station_id": 4887,
+  "station_detail": {
+    "station_id": 4887,
+    "station_name": "IOC Madinaguda",
+    "latitude": 17.494852,
+    "longitude": 78.336468,
+    "address": "Surver No. 98 Miyapur Main Rd, Hyderabad, Telangana, 500050, India",
+    "area": "Surver No. 98 Miyapur Main Rd",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.494852,78.336468",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8781 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 6,
+        "connector_name": "GBT",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png"
+      },
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.42,
+    "no_of_reviews": 621,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Glida+Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 51546,
+        "price_with_currency": "₹ 18.99",
+        "price": 18.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 9200,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 6,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 9201,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 6,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 40.0,
+        "charger_name": "HYD0021",
+        "last_used_on": "01/06/2025"
+      },
+      {
+        "charger_id": 63791,
+        "price_with_currency": "₹ 18.99",
+        "price": 18.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26874,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 26875,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "FCD IOC Madinaguda 2",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 7,
+        "2": 2,
+        "3": 1,
+        "4": 22,
+        "5": 68
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Hyderabad",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 4887,
+      "station_name": "IOC Madinaguda",
+      "latitude": 17.494852,
+      "longitude": 78.336468,
+      "address": "Surver No. 98 Miyapur Main Rd, Hyderabad, Telangana, 500050, India",
+      "area": "Surver No. 98 Miyapur Main Rd",
+      "avg_review_rating": 4.42,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.494852,78.336468",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    },
+    {
+      "id": 4838,
+      "station_name": "Statiq Infinity Mall Station",
+      "latitude": 17.495378,
+      "longitude": 78.334267,
+      "address": "Door no 2-132, Survey No. 320/1 & 315/3, Gangaram, Chanda Nagar, Hyderabad, Telangana, 500050, India",
+      "area": "Door no 2-132, Survey No. 320/1 & 315/3, Gangaram, Chanda Nagar",
+      "avg_review_rating": 4.75,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.495378,78.334267",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 4805,
+      "station_name": "REIL SRI VENKATESWARA FILLING STATION",
+      "latitude": 17.494497,
+      "longitude": 78.341675,
+      "address": " LINGAMPALLY, RANGA REDDY, Hyderabad, Telangana, 500050, India",
+      "area": " LINGAMPALLY, RANGA REDDY",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.494497,78.341675",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 2042,
+      "station_name": "Chandanagar GHMC Office Charging Station",
+      "latitude": 17.494684,
+      "longitude": 78.325989,
+      "address": "Near Gangaram, Chandanagar service road , Ranga Reddy district, Telangana, 500050, India",
+      "area": "Near Gangaram, Chandanagar service road ",
+      "avg_review_rating": 3.29,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.494684,78.325989",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 8973,
+      "station_name": "M/s. PRADEEP AGENCIES",
+      "latitude": 17.49369,
+      "longitude": 78.349066,
+      "address": "NH 9, MIYAPUR, RANGA REDDY DISTRICT, PIN : 500 050, Ranga Reddy district, Telangana, 500050, India",
+      "area": "NH 9, MIYAPUR, RANGA REDDY DISTRICT, PIN : 500 050",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.49369,78.349066",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 2,
+  "ac_prices": [],
+  "dc_prices": [
+    18.99,
+    18.99
+  ],
+  "scraped_at": "2026-05-21T08:00:01.173566+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,228 @@
+{
+  "station_id": 15554,
+  "station_detail": {
+    "station_id": 15554,
+    "station_name": "Hotel Golden Manor Hotel Golden Manor B-22/B-1,2, Shiv Marg, Collectorate Circle, Bani Park.",
+    "latitude": 26.926827,
+    "longitude": 75.794604,
+    "address": "Hotel Golden Manor B-22/B-1, Jaipur, Rajasthan, 302016, India",
+    "area": "Hotel Golden Manor B-22/B-1",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.926827,75.794604",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8611 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/yocharge_Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68974,
+        "price_with_currency": "₹ 21.0",
+        "price": 21.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34390,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 40.0,
+        "charger_name": "YHB Hotel Golden Manor Hotel Golden Manor B-22/B-1,2, Shiv Marg, Collectorate Circle, Bani Park. 1",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 68975,
+        "price_with_currency": "₹ 18.95",
+        "price": 18.95,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34391,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "YHB Hotel Golden Manor Hotel Golden Manor B-22/B-1,2, Shiv Marg, Collectorate Circle, Bani Park. 2",
+        "last_used_on": "15/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Jaipur",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 40.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15554,
+      "station_name": "Hotel Golden Manor Hotel Golden Manor B-22/B-1,2, Shiv Marg, Collectorate Circle, Bani Park.",
+      "latitude": 26.926827,
+      "longitude": 75.794604,
+      "address": "Hotel Golden Manor B-22/B-1, Jaipur, Rajasthan, 302016, India",
+      "area": "Hotel Golden Manor B-22/B-1",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.926827,75.794604",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 1604,
+      "station_name": "Sunfuel - Radisson Jaipur City Center",
+      "latitude": 26.920641,
+      "longitude": 75.794563,
+      "address": "Khasa Kothi Circle,, Jaipur, Rajasthan, 302001, India",
+      "area": "Khasa Kothi Circle,",
+      "avg_review_rating": 3.9,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.920641,75.794563",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 11756,
+      "station_name": "Click Collection Jaipur Plot No. 1-2, Motilal Atal Road Near Central Bus Stand Polo Victory",
+      "latitude": 26.920564,
+      "longitude": 75.797554,
+      "address": "Plot No. 1-2, Jaipur, Rajasthan, 302006, India",
+      "area": "Plot No. 1-2",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.920564,75.797554",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 15879,
+      "station_name": "RJ | Jaipur | Go ElectriQ - 8",
+      "latitude": 26.919131,
+      "longitude": 75.795877,
+      "address": "409, Jaipur, Rajasthan, 302001, India",
+      "area": "409",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.919131,75.795877",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GoEletriq_Focused_Offline_Map_Pin.png"
+    },
+    {
+      "id": 6508,
+      "station_name": "Statiq ITC Rajputana Station",
+      "latitude": 26.919064,
+      "longitude": 75.792041,
+      "address": "Exit gate of the hotel, ITC Rajputana, Palace Road, Gopalbari, Jaipur, Rajasthan, 302006, India",
+      "area": "Exit gate of the hotel, ITC Rajputana, Palace Road, Gopalbari",
+      "avg_review_rating": 4.81,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.919064,75.792041",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 1,
+  "ac_prices": [
+    18.95
+  ],
+  "dc_prices": [
+    21.0
+  ],
+  "scraped_at": "2026-05-21T08:16:09.952887+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

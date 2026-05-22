@@ -1,0 +1,198 @@
+{
+  "station_id": 10918,
+  "station_detail": {
+    "station_id": 10918,
+    "station_name": "Near Rainbow Vistas Green Hills Road, Kukatpally",
+    "latitude": 17.469749,
+    "longitude": 78.40523,
+    "address": "IDA Moosapet Road, Hyderabad, Telangana, 500018, India",
+    "area": "IDA Moosapet Road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.469749,78.40523",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8788 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 60993,
+        "price_with_currency": "₹ 13.0",
+        "price": 13.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22453,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 22454,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "Near Rainbow Vistas Green Hills Road, Kukatpally",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Hyderabad",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10918,
+      "station_name": "Near Rainbow Vistas Green Hills Road, Kukatpally",
+      "latitude": 17.469749,
+      "longitude": 78.40523,
+      "address": "IDA Moosapet Road, Hyderabad, Telangana, 500018, India",
+      "area": "IDA Moosapet Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.469749,78.40523",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 10718,
+      "station_name": "KPHB 4th Phase, Backside Butterfly Park,",
+      "latitude": 17.476926,
+      "longitude": 78.393857,
+      "address": "KPHB, Hyderabad, Telangana, 500085, India",
+      "area": "KPHB",
+      "avg_review_rating": 3.35,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.476926,78.393857",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 10831,
+      "station_name": "IDL Lake opposite to Ashoka one Mall, Moosapet",
+      "latitude": 17.479856,
+      "longitude": 78.416919,
+      "address": "Moosapet, Medchal, Telangana, 500018, India",
+      "area": "Moosapet",
+      "avg_review_rating": 3.41,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.479856,78.416919",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 12186,
+      "station_name": "KPHB Road No.1, beside Stafitas Arena, Kukatpally",
+      "latitude": 17.485133,
+      "longitude": 78.399445,
+      "address": "KPHB Colony , Medchal, Telangana, 500072, India",
+      "area": "KPHB Colony ",
+      "avg_review_rating": 3.4,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.485133,78.399445",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
+    },
+    {
+      "id": 4958,
+      "station_name": "GLIDA HMR Kukatpally",
+      "latitude": 17.48585,
+      "longitude": 78.411178,
+      "address": "Mumbai Hwy, Hyderabad, Telangana, 500072, India",
+      "area": "Mumbai Hwy",
+      "avg_review_rating": 4.39,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.48585,78.411178",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/unavailable+select.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    13.0
+  ],
+  "scraped_at": "2026-05-21T08:09:25.503203+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

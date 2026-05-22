@@ -1,0 +1,204 @@
+{
+  "station_id": 10038,
+  "station_detail": {
+    "station_id": 10038,
+    "station_name": "M/s. Tirukumaran Fuels",
+    "latitude": 12.551321,
+    "longitude": 79.154172,
+    "address": "TIRUVANNAMALAI, Tiruvannamalai, Tamil Nadu, 606803, India",
+    "area": "TIRUVANNAMALAI",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.551321,79.154172",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8840 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.44,
+    "no_of_reviews": 25,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 59217,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 19775,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 19776,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "M/s. Tirukumaran Fuels",
+        "last_used_on": "14/04/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 4,
+        "2": 4,
+        "3": 0,
+        "4": 28,
+        "5": 64
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Tiruvannamalai",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10038,
+      "station_name": "M/s. Tirukumaran Fuels",
+      "latitude": 12.551321,
+      "longitude": 79.154172,
+      "address": "TIRUVANNAMALAI, Tiruvannamalai, Tamil Nadu, 606803, India",
+      "area": "TIRUVANNAMALAI",
+      "avg_review_rating": 4.44,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.551321,79.154172",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9641,
+      "station_name": "M/s. Velpari Enterprises",
+      "latitude": 12.601705,
+      "longitude": 79.16584,
+      "address": "\"Muniyanthangal Village,  Tiruvannamalai,\", Tiruvannamalai, Tamil Nadu, 606903, India",
+      "area": "\"Muniyanthangal Village,  Tiruvannamalai,\"",
+      "avg_review_rating": 4.6,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.601705,79.16584",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12202,
+      "station_name": "M/s. Dhanapal Agency",
+      "latitude": 12.73259,
+      "longitude": 79.30226,
+      "address": "TIRUVANNAMALAI, Tiruvannamalai, Tamil Nadu, 632301, India",
+      "area": "TIRUVANNAMALAI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.73259,79.30226",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9835,
+      "station_name": "TN | Tiruvannamalai | Hotel SEASONS",
+      "latitude": 12.258808,
+      "longitude": 79.068476,
+      "address": "Vellore - Tiruvannamlai Rd, Tiruvannamalai, Tamil Nadu, 606604, India",
+      "area": "Vellore - Tiruvannamlai Rd",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.258808,79.068476",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-online-not-selected.png"
+    },
+    {
+      "id": 10890,
+      "station_name": "M/s. Sri Ram Agencies",
+      "latitude": 12.25754,
+      "longitude": 78.97463,
+      "address": "TIRUVANNAMALAI, Tiruvannamalai, Tamil Nadu, 606704, India",
+      "area": "TIRUVANNAMALAI",
+      "avg_review_rating": 4.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.25754,78.97463",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:07:54.582040+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

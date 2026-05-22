@@ -1,0 +1,188 @@
+{
+  "station_id": 1588,
+  "station_detail": {
+    "station_id": 1588,
+    "station_name": "Sunfuel - Holiday Inn Kolkata Airport",
+    "latitude": 22.623301,
+    "longitude": 88.443398,
+    "address": "Biswa Bangla Sarani, near City Centre 2, Dash Drone, , Kolkata, West Bengal, 700136, India",
+    "area": "Biswa Bangla Sarani, near City Centre 2, Dash Drone, ",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.623301,88.443398",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9858 kms",
+    "operational_time": "00:00 To 23:59",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/AC.png",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Sunfuel+Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 1019,
+        "price_with_currency": "₹ 16.15",
+        "price": 16.15,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 1304,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.7,
+        "charger_name": "Sunfuel - Holiday Inn Kolkata Airport",
+        "last_used_on": "21/02/2023"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Kolkata",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 7.7,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 1588,
+      "station_name": "Sunfuel - Holiday Inn Kolkata Airport",
+      "latitude": 22.623301,
+      "longitude": 88.443398,
+      "address": "Biswa Bangla Sarani, near City Centre 2, Dash Drone, , Kolkata, West Bengal, 700136, India",
+      "area": "Biswa Bangla Sarani, near City Centre 2, Dash Drone, ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.623301,88.443398",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 14027,
+      "station_name": "TMS 2E",
+      "latitude": 22.619058,
+      "longitude": 88.454421,
+      "address": "Newtown, New Town, West Bengal, 700161, India",
+      "area": "Newtown",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.619058,88.454421",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    },
+    {
+      "id": 14477,
+      "station_name": "TMS 4W",
+      "latitude": 22.619045,
+      "longitude": 88.454512,
+      "address": "Newtown, New Town, West Bengal, 700161, India",
+      "area": "Newtown",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.619045,88.454512",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    },
+    {
+      "id": 6749,
+      "station_name": "SPL Volvo Workshop",
+      "latitude": 22.624507,
+      "longitude": 88.469435,
+      "address": "Rajarhat, Jl No. 13, Mouza-Reckjowani, 24 Paraganas (North), Kolkata, West Bengal, 700135, India",
+      "area": "Rajarhat, Jl No. 13, Mouza-Reckjowani, 24 Paraganas (North)",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.624507,88.469435",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 12854,
+      "station_name": "ID(qmspbo)- New Central Service Station",
+      "latitude": 22.61133,
+      "longitude": 88.409435,
+      "address": "Naskar Bagan, Kolkata, West Bengal, 700055, India",
+      "area": "Naskar Bagan",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.61133,88.409435",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    16.15
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T07:58:59.972032+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

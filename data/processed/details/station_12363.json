@@ -1,0 +1,198 @@
+{
+  "station_id": 12363,
+  "station_detail": {
+    "station_id": 12363,
+    "station_name": "2007595 - ROYAL PETROLEUM",
+    "latitude": 21.734158,
+    "longitude": 81.535732,
+    "address": "BPCL Pump, Near Bholaverma Hotel,, Bemetra, Chhattisgarh, 491335, India",
+    "area": "BPCL Pump, Near Bholaverma Hotel,",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.734158,81.535732",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9143 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 63861,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26987,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 26988,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "2007595 - ROYAL PETROLEUM",
+        "last_used_on": "26/02/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bemetra",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12363,
+      "station_name": "2007595 - ROYAL PETROLEUM",
+      "latitude": 21.734158,
+      "longitude": 81.535732,
+      "address": "BPCL Pump, Near Bholaverma Hotel,, Bemetra, Chhattisgarh, 491335, India",
+      "area": "BPCL Pump, Near Bholaverma Hotel,",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.734158,81.535732",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13109,
+      "station_name": "ID(rqcc9k)Ammba fuels bemetara",
+      "latitude": 21.746612,
+      "longitude": 81.52865,
+      "address": "Charbhata, Charbhata, Chhattisgarh, 491335, India",
+      "area": "Charbhata",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.746612,81.52865",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 15325,
+      "station_name": "M/s.  BHATIA BROTHERS",
+      "latitude": 21.62562,
+      "longitude": 81.704976,
+      "address": "RO at Simga, Raipur- Bilaspur Road, Simga , balodabazar (C.G.) , pincode -493101, Simga, Chhattisgarh, 493101, India",
+      "area": "RO at Simga, Raipur- Bilaspur Road, Simga , balodabazar (C.G.) , pincode -493101",
+      "avg_review_rating": 4.53,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.62562,81.704976",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7456,
+      "station_name": "2012728-AYESHA FUELS",
+      "latitude": 21.687731,
+      "longitude": 81.764455,
+      "address": "CHANDERI, Simga, Chhattisgarh, 493101, India",
+      "area": "CHANDERI",
+      "avg_review_rating": 4.52,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.687731,81.764455",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 11929,
+      "station_name": "2022459-USHARA FUEL STATION",
+      "latitude": 21.565061,
+      "longitude": 81.6996,
+      "address": "RAIPUR, Raipur, Chhattisgarh, 493101, India",
+      "area": "RAIPUR",
+      "avg_review_rating": 4.5,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.565061,81.6996",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:11:46.048822+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

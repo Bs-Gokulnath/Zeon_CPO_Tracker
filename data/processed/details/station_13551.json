@@ -1,0 +1,232 @@
+{
+  "station_id": 13551,
+  "station_detail": {
+    "station_id": 13551,
+    "station_name": "TN | Perambalur | Tulya Food Product",
+    "latitude": 11.1713,
+    "longitude": 78.86168,
+    "address": "S.F.NO. 160/1-B, Perambalur, Tamil Nadu, 621126, India",
+    "area": "S.F.NO. 160/1-B",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.1713,78.86168",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8802 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 65369,
+        "price_with_currency": "₹ 21.0",
+        "price": 21.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 29504,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 29505,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 240.0,
+        "charger_name": "TCZ TN | Perambalur | Tulya Food Product 1",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 65370,
+        "price_with_currency": "₹ 21.0",
+        "price": 21.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 29506,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 29507,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 240.0,
+        "charger_name": "TCZ TN | Perambalur | Tulya Food Product 2",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Perambalur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 240.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 13551,
+      "station_name": "TN | Perambalur | Tulya Food Product",
+      "latitude": 11.1713,
+      "longitude": 78.86168,
+      "address": "S.F.NO. 160/1-B, Perambalur, Tamil Nadu, 621126, India",
+      "area": "S.F.NO. 160/1-B",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.1713,78.86168",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 13194,
+      "station_name": "ID(3tpens)Sri Shwetha enterprises",
+      "latitude": 11.118685,
+      "longitude": 78.834578,
+      "address": "Perumalpalayam, Perumalpalayam, Tamil Nadu, 621109, India",
+      "area": "Perumalpalayam",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.118685,78.834578",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 12314,
+      "station_name": "Anand Agencies ",
+      "latitude": 11.236111,
+      "longitude": 78.892631,
+      "address": "BHARAT PETROLEUM DELEAR, 136/8, NH45, CHENNAI-TRICHY HIGHWAY,  VILLAGE-THURAIMANGALAM,  DISTRICT-PERAMBALUR, Perambalur, Tamil Nadu, 621220, India",
+      "area": "BHARAT PETROLEUM DELEAR, 136/8, NH45, CHENNAI-TRICHY HIGHWAY,  VILLAGE-THURAIMANGALAM,  DISTRICT-PERAMBALUR",
+      "avg_review_rating": 4.07,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.236111,78.892631",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 12216,
+      "station_name": "M/s. GVR Agencies",
+      "latitude": 11.237166,
+      "longitude": 78.921897,
+      "address": "Koulpalayam, Perambalur,, Tiruchirappalli, Tamil Nadu, 621220, India",
+      "area": "Koulpalayam, Perambalur,",
+      "avg_review_rating": 4.81,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.237166,78.921897",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12116,
+      "station_name": "TN | Elambalur | Ashva Hyundai",
+      "latitude": 11.262864,
+      "longitude": 78.897499,
+      "address": "Near, Elambalur, Tamil Nadu, 621220, India",
+      "area": "Near",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.262864,78.897499",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 2,
+  "ac_prices": [],
+  "dc_prices": [
+    21.0,
+    21.0
+  ],
+  "scraped_at": "2026-05-21T08:13:22.980400+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

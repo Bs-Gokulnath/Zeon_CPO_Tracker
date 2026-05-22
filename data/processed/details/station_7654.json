@@ -1,0 +1,194 @@
+{
+  "station_id": 7654,
+  "station_detail": {
+    "station_id": 7654,
+    "station_name": "2008191-KARGIL SHAHEED MADAN SINGH FILLING",
+    "latitude": 29.758783,
+    "longitude": 78.450095,
+    "address": "MOTADHAK KOTDWARA, Kotdwara, Uttarakhand, 246149, India",
+    "area": "MOTADHAK KOTDWARA",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.758783,78.450095",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8904 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 3.59,
+    "no_of_reviews": 29,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 55493,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13839,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "2008191-KARGIL SHAHEED MADAN SINGH FILLING",
+        "last_used_on": "19/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 14,
+        "2": 3,
+        "3": 31,
+        "4": 14,
+        "5": 38
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Kotdwara",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7654,
+      "station_name": "2008191-KARGIL SHAHEED MADAN SINGH FILLING",
+      "latitude": 29.758783,
+      "longitude": 78.450095,
+      "address": "MOTADHAK KOTDWARA, Kotdwara, Uttarakhand, 246149, India",
+      "area": "MOTADHAK KOTDWARA",
+      "avg_review_rating": 3.59,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.758783,78.450095",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 7652,
+      "station_name": "2008189-SAI GANGA SERVICE STATION",
+      "latitude": 29.749591,
+      "longitude": 78.522946,
+      "address": "KOTDWAR, Kotdwara, Uttarakhand, 246149, India",
+      "area": "KOTDWAR",
+      "avg_review_rating": 4.53,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.749591,78.522946",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 13377,
+      "station_name": "ID(s3367d)Abhi Service Station",
+      "latitude": 29.817102,
+      "longitude": 78.131084,
+      "address": "Nasir Pur Kalan, Nasir Pur Kalan, Uttarakhand, 247663, India",
+      "area": "Nasir Pur Kalan",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.817102,78.131084",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 7551,
+      "station_name": "2015371-MS FILLING STATION",
+      "latitude": 29.873018,
+      "longitude": 78.124349,
+      "address": "HARIDWAR, Haridwar, Uttarakhand, 249408, India",
+      "area": "HARIDWAR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.873018,78.124349",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12925,
+      "station_name": "ID (puskjq) Ram Filling station",
+      "latitude": 29.851925,
+      "longitude": 78.113752,
+      "address": "Pherupur, Pherupur, Uttarakhand, 249404, India",
+      "area": "Pherupur",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.851925,78.113752",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:03:25.715256+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

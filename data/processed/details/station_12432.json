@@ -1,0 +1,213 @@
+{
+  "station_id": 12432,
+  "station_detail": {
+    "station_id": 12432,
+    "station_name": "JS FILLING STATION",
+    "latitude": 30.262487,
+    "longitude": 75.207953,
+    "address": "LEHRA DHOOLKOT TEHSIL NATHANA, ON BATHINDA -RAMPURA PHUL ROAD BHATINDA DIST. 151111 Punjab, Bhatinda, Punjab, 151111, India",
+    "area": "LEHRA DHOOLKOT TEHSIL NATHANA, ON BATHINDA -RAMPURA PHUL ROAD BHATINDA DIST. 151111 Punjab",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.262487,75.207953",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8600 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.69,
+    "no_of_reviews": 13,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": "BPCL Filling Station",
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 13303,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 64057,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 27254,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 27255,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "JS FILLING STATION",
+        "last_used_on": "28/12/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 8,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 92
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bhatinda",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12432,
+      "station_name": "JS FILLING STATION",
+      "latitude": 30.262487,
+      "longitude": 75.207953,
+      "address": "LEHRA DHOOLKOT TEHSIL NATHANA, ON BATHINDA -RAMPURA PHUL ROAD BHATINDA DIST. 151111 Punjab, Bhatinda, Punjab, 151111, India",
+      "area": "LEHRA DHOOLKOT TEHSIL NATHANA, ON BATHINDA -RAMPURA PHUL ROAD BHATINDA DIST. 151111 Punjab",
+      "avg_review_rating": 4.69,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.262487,75.207953",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13041,
+      "station_name": "ID(638b3b)Hamara Pump Rampura",
+      "latitude": 30.248004,
+      "longitude": 75.237207,
+      "address": "Rampura Phul, Rampura Phul, Punjab, 151103, India",
+      "area": "Rampura Phul",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.248004,75.237207",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 12003,
+      "station_name": "2009345-HIGHWAY FUELS",
+      "latitude": 30.247624,
+      "longitude": 75.150383,
+      "address": " LEHRA MOHABAT ON NH64, BHUCHO LEHRA MOHABAT ROAD, Bhuch, Punjab, 151111, India",
+      "area": " LEHRA MOHABAT ON NH64, BHUCHO LEHRA MOHABAT ROAD",
+      "avg_review_rating": 4.59,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.247624,75.150383",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13483,
+      "station_name": "ID(9ck43k) BABA BHOLE NATH FILLING STATION",
+      "latitude": 30.282166,
+      "longitude": 75.325739,
+      "address": "Jethuke, Jethuke, Punjab, 151103, India",
+      "area": "Jethuke",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.282166,75.325739",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 14907,
+      "station_name": "Ecoplug PB 19 Dhaba",
+      "latitude": 30.286798,
+      "longitude": 75.354432,
+      "address": "NH -7, Barnala, Punjab, 148108, India",
+      "area": "NH -7",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.286798,75.354432",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:11:56.298812+00:00",
+  "parse_success": true,
+  "missing_fields": [],
+  "coverage_pct": 100.0
+}

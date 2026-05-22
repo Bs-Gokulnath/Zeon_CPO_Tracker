@@ -1,0 +1,188 @@
+{
+  "station_id": 10348,
+  "station_detail": {
+    "station_id": 10348,
+    "station_name": "KKB Rio Colina - Club & Villa",
+    "latitude": 21.29861,
+    "longitude": 73.06208,
+    "address": "At & Post Ghala Gam, Surat, Gujarat, 394140, India",
+    "area": "At & Post Ghala Gam",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.29861,73.06208",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8265 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/network-branding/verde/banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 59928,
+        "price_with_currency": "₹ 16.95",
+        "price": 16.95,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 20824,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "VER KKB Rio Colina - Club & Villa 1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Surat",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 7.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10348,
+      "station_name": "KKB Rio Colina - Club & Villa",
+      "latitude": 21.29861,
+      "longitude": 73.06208,
+      "address": "At & Post Ghala Gam, Surat, Gujarat, 394140, India",
+      "area": "At & Post Ghala Gam",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.29861,73.06208",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 14494,
+      "station_name": "GJ | Kadodara | Hotel Jay Shri Gopnath",
+      "latitude": 21.20235,
+      "longitude": 72.96614,
+      "address": "Kamrej Highway, Kadodara, Gujarat, 394325, India",
+      "area": "Kamrej Highway",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.20235,72.96614",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 9339,
+      "station_name": "SOMNATH PETROLEUM",
+      "latitude": 21.42822,
+      "longitude": 73.14339,
+      "address": "SURAT, Surat, Gujarat, 394421, India",
+      "area": "SURAT",
+      "avg_review_rating": 4.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.42822,73.14339",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 8721,
+      "station_name": "BAGUMARA PETROLEUM",
+      "latitude": 21.15779,
+      "longitude": 73.000748,
+      "address": "SURAT, Surat, Gujarat, 394305, India",
+      "area": "SURAT",
+      "avg_review_rating": 3.88,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.15779,73.000748",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15356,
+      "station_name": "Statiq X TATA.ev Nandani Food Plaza Station",
+      "latitude": 21.46681,
+      "longitude": 72.996643,
+      "address": "NH8, Mahuvej Road, Kosamba, Gujarat, 394405, India",
+      "area": "NH8, Mahuvej Road",
+      "avg_review_rating": 4.38,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.46681,72.996643",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    16.95
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:08:11.298910+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,204 @@
+{
+  "station_id": 14825,
+  "station_detail": {
+    "station_id": 14825,
+    "station_name": "EAST & WEST PART",
+    "latitude": 21.32979,
+    "longitude": 74.553733,
+    "address": "EAST & WEST ENGG CO. BPCL DEALER, RO AT  DONDAICHA, STATION ROAD, DONDAICHA. Dist- Dhule, Dhule, Maharashtra, 425408, India",
+    "area": "EAST & WEST ENGG CO. BPCL DEALER, RO AT  DONDAICHA, STATION ROAD, DONDAICHA. Dist- Dhule",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.32979,74.553733",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8419 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.89,
+    "no_of_reviews": 18,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 67763,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 32425,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 32426,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "EAST & WEST PART",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 11,
+        "5": 89
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Dhule",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14825,
+      "station_name": "EAST & WEST PART",
+      "latitude": 21.32979,
+      "longitude": 74.553733,
+      "address": "EAST & WEST ENGG CO. BPCL DEALER, RO AT  DONDAICHA, STATION ROAD, DONDAICHA. Dist- Dhule, Dhule, Maharashtra, 425408, India",
+      "area": "EAST & WEST ENGG CO. BPCL DEALER, RO AT  DONDAICHA, STATION ROAD, DONDAICHA. Dist- Dhule",
+      "avg_review_rating": 4.89,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.32979,74.553733",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 9346,
+      "station_name": "Rajlaxmi Petroleum - 0003",
+      "latitude": 21.249125,
+      "longitude": 74.641448,
+      "address": "SH -1, Dhule, Maharashtra, 425408, India",
+      "area": "SH -1",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.249125,74.641448",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 11004,
+      "station_name": "MATOSHREE PETROLEUM",
+      "latitude": 21.47672,
+      "longitude": 74.496052,
+      "address": "Nandurbar , Nandurbar, Maharashtra, 425410, India",
+      "area": "Nandurbar ",
+      "avg_review_rating": 4.87,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.47672,74.496052",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8357,
+      "station_name": "KANUSHRI PRAKASHA",
+      "latitude": 21.511302,
+      "longitude": 74.374919,
+      "address": "Kanushri Petroleum BPCL, Ankleshwar- Burhanpur Highway, Prakasha, Tal- Shahada, Dist- Jalgaon, Jalgaon, Maharashtra, 425422, India",
+      "area": "Kanushri Petroleum BPCL, Ankleshwar- Burhanpur Highway, Prakasha, Tal- Shahada, Dist- Jalgaon",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.511302,74.374919",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8270,
+      "station_name": "AMBIKA PETRO PART",
+      "latitude": 21.132516,
+      "longitude": 74.797883,
+      "address": "DHULE, Dhule, Maharashtra, 424309, India",
+      "area": "DHULE",
+      "avg_review_rating": 4.12,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.132516,74.797883",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:14:26.971055+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

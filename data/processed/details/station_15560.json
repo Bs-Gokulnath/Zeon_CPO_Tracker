@@ -1,0 +1,250 @@
+{
+  "station_id": 15560,
+  "station_detail": {
+    "station_id": 15560,
+    "station_name": "Statiq x TATA.ev Rani Bagh Resort Station",
+    "latitude": 26.12495,
+    "longitude": 74.34549,
+    "address": "Rani Bagh Resort, N.H.8, By Pass Ajmer Road, Beawar, Rajasthan, 305901, India",
+    "area": "Rani Bagh Resort, N.H.8, By Pass Ajmer Road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.12495,74.34549",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8458 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.66,
+    "no_of_reviews": 338,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 13422,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 68988,
+        "price_with_currency": "₹ 23.99",
+        "price": 23.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34411,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 34412,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 480.0,
+        "charger_name": "Rani Bagh Resort DC Charger 1",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 68989,
+        "price_with_currency": "₹ 23.99",
+        "price": 23.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34413,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 34414,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 480.0,
+        "charger_name": "Rani Bagh Resort DC Charger 2",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 5,
+        "2": 1,
+        "3": 1,
+        "4": 10,
+        "5": 83
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Beawar",
+    "station_access_type": "public",
+    "availability": "Available in",
+    "highest_power_rating": 480.0,
+    "charger_type_of_station": "DC",
+    "station_images": [],
+    "waiting_time": "2026-05-21 15:51:12"
+  },
+  "nearby_stations": [
+    {
+      "id": 15560,
+      "station_name": "Statiq x TATA.ev Rani Bagh Resort Station",
+      "latitude": 26.12495,
+      "longitude": 74.34549,
+      "address": "Rani Bagh Resort, N.H.8, By Pass Ajmer Road, Beawar, Rajasthan, 305901, India",
+      "area": "Rani Bagh Resort, N.H.8, By Pass Ajmer Road",
+      "avg_review_rating": 4.65,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.12495,74.34549",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 8851,
+      "station_name": "2022462-KAMAL PETROLEUM",
+      "latitude": 26.09448,
+      "longitude": 74.30078,
+      "address": "JALIA ROAD, Beawar, Rajasthan, 305901, India",
+      "area": "JALIA ROAD",
+      "avg_review_rating": 4.65,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.09448,74.30078",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7507,
+      "station_name": "2001946-KHARWA HIGHWAY PETROLEUM",
+      "latitude": 26.211162,
+      "longitude": 74.452849,
+      "address": "KHARWA, Dholpur, Rajasthan, 305001, India",
+      "area": "KHARWA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.211162,74.452849",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12564,
+      "station_name": "ID(i5k2qz)Govindam petro lamana ajmer",
+      "latitude": 26.229793,
+      "longitude": 74.470254,
+      "address": "Ajmer, Ajmer, Rajasthan, 305202, India",
+      "area": "Ajmer",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.229793,74.470254",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 8748,
+      "station_name": "Ecoplug Shree Balaji Ashirwad Hotel",
+      "latitude": 26.245693,
+      "longitude": 74.482378,
+      "address": "NH.08, Beawar, Rajasthan, 305203, India",
+      "area": "NH.08",
+      "avg_review_rating": 4.43,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.245693,74.482378",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 2,
+  "ac_prices": [],
+  "dc_prices": [
+    23.99,
+    23.99
+  ],
+  "scraped_at": "2026-05-21T08:16:15.663655+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

@@ -1,0 +1,234 @@
+{
+  "station_id": 8149,
+  "station_detail": {
+    "station_id": 8149,
+    "station_name": "Statiq Virsa Dhaba Station",
+    "latitude": 30.647171,
+    "longitude": 76.529096,
+    "address": "05 meter in left side on front parking of dhaba, Landran, to, Badali Ala Singh,, Sirhind, Punjab, 140403, India",
+    "area": "05 meter in left side on front parking of dhaba, Landran, to, Badali Ala Singh,",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.647171,76.529096",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8731 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.56,
+    "no_of_reviews": 543,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 12046,
+        "id": 1
+      },
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 12047,
+        "id": 2
+      },
+      {
+        "type": "Store",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/store.png",
+        "map_id": 12048,
+        "id": 3
+      },
+      {
+        "type": "Car Care",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/car+care+(1).png",
+        "map_id": 12049,
+        "id": 4
+      },
+      {
+        "type": "Wifi",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/wifi+.png",
+        "map_id": 12050,
+        "id": 6
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 56469,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 15249,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 15250,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Virsa Dhaba DC Charger",
+        "last_used_on": "14/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 7,
+        "2": 2,
+        "3": 2,
+        "4": 8,
+        "5": 81
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Sirhind",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8149,
+      "station_name": "Statiq Virsa Dhaba Station",
+      "latitude": 30.647171,
+      "longitude": 76.529096,
+      "address": "05 meter in left side on front parking of dhaba, Landran, to, Badali Ala Singh,, Sirhind, Punjab, 140403, India",
+      "area": "05 meter in left side on front parking of dhaba, Landran, to, Badali Ala Singh,",
+      "avg_review_rating": 4.56,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.647171,76.529096",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 6796,
+      "station_name": "GURU NANAK ENERGY STATION",
+      "latitude": 30.68019,
+      "longitude": 76.598759,
+      "address": "RO AT VILL MAJATARI SAS NAGAR PUNJA, Patiala, Punjab, 140307, India",
+      "area": "RO AT VILL MAJATARI SAS NAGAR PUNJA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.68019,76.598759",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12706,
+      "station_name": "ID(e96a22)C Gems and Jewels - HP",
+      "latitude": 30.550331,
+      "longitude": 76.486641,
+      "address": "Fatehgarh Sahib, Fatehgarh Sahib, Punjab, 140401, India",
+      "area": "Fatehgarh Sahib",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.550331,76.486641",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 2858,
+      "station_name": "Statiq Indo American Diner Station",
+      "latitude": 30.549801,
+      "longitude": 76.484596,
+      "address": "24/3-13 19/1 1-4 22/1/2/3-16, Khasra No 29/23 9-0, 22/2/2/0-6 33/7/2/3-3, Fatehgarh Sahib, Punjab, 140406, India",
+      "area": "24/3-13 19/1 1-4 22/1/2/3-16, Khasra No 29/23 9-0, 22/2/2/0-6 33/7/2/3-3",
+      "avg_review_rating": 4.73,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.549801,76.484596",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 15474,
+      "station_name": "Statiq X TATA.ev Indo American Diner Station",
+      "latitude": 30.549801,
+      "longitude": 76.484596,
+      "address": "24/3-13 19/1 1-4 22/1/2/3-16, Khasra No 29/23 9-0, 22/2/2/0-6 33/7/2/3-3, Fatehgarh Sahib, Punjab, 140406, India",
+      "area": "24/3-13 19/1 1-4 22/1/2/3-16, Khasra No 29/23 9-0, 22/2/2/0-6 33/7/2/3-3",
+      "avg_review_rating": 4.65,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.549801,76.484596",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.99
+  ],
+  "scraped_at": "2026-05-21T08:04:06.146567+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

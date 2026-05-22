@@ -1,0 +1,240 @@
+{
+  "station_id": 2067,
+  "station_detail": {
+    "station_id": 2067,
+    "station_name": "Hyundai Bikanervala Sec-57 Gurgaon Station",
+    "latitude": 28.416418,
+    "longitude": 77.084969,
+    "address": "Shop No. 75, Golf Course Ext Road, Gurugram, Haryana, 122003, India",
+    "area": "Shop No. 75, Golf Course Ext Road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.416418,77.084969",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8756 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.77,
+    "no_of_reviews": 5334,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-banner-2.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 506,
+        "id": 1
+      },
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 507,
+        "id": 2
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 22523,
+        "price_with_currency": "₹ 24.0",
+        "price": 24.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 6882,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 6883,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 180.0,
+        "charger_name": "Bikanervala Sec 57 DC Charger 1",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 22533,
+        "price_with_currency": "₹ 21.0",
+        "price": 21.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 2,
+            "connector_id": 6918,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "Bikanervala Sec 57 DC Charger 2",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 2,
+        "2": 1,
+        "3": 1,
+        "4": 10,
+        "5": 86
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Gurugram",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 180.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 2067,
+      "station_name": "Hyundai Bikanervala Sec-57 Gurgaon Station",
+      "latitude": 28.416418,
+      "longitude": 77.084969,
+      "address": "Shop No. 75, Golf Course Ext Road, Gurugram, Haryana, 122003, India",
+      "area": "Shop No. 75, Golf Course Ext Road",
+      "avg_review_rating": 4.77,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.416418,77.084969",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-online-not-selected.png"
+    },
+    {
+      "id": 8276,
+      "station_name": "Statiq The Legends Condominium BMW Station",
+      "latitude": 28.417832,
+      "longitude": 77.075905,
+      "address": " Opposite Tower D3 near Exit gate, The Legend Apartments, Sushant Lok III Extension, Sector 57,, Gurugram, Haryana, 122003, India",
+      "area": " Opposite Tower D3 near Exit gate, The Legend Apartments, Sushant Lok III Extension, Sector 57,",
+      "avg_review_rating": 4.64,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.417832,77.075905",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 6839,
+      "station_name": "Statiq The Close North Nirvana Country Station",
+      "latitude": 28.414817,
+      "longitude": 77.071151,
+      "address": "Opposite Tower 12 Near to Service Gate, Sector 50, Gurugram, Haryana, 201401, India",
+      "area": "Opposite Tower 12 Near to Service Gate, Sector 50",
+      "avg_review_rating": 4.64,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.414817,77.071151",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 1900,
+      "station_name": "Central Park Sector-48 Charging Station",
+      "latitude": 28.421,
+      "longitude": 77.071198,
+      "address": "Bellevue,Centralpark 2, Gurugram, Haryana, 122018, India",
+      "area": "Bellevue,Centralpark 2",
+      "avg_review_rating": 4.29,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.421,77.071198",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 3908,
+      "station_name": "Statiq The Close South Nirvana Country Station",
+      "latitude": 28.414301,
+      "longitude": 77.069298,
+      "address": "Nirvana Central Road, The Close South, Sector 50, Gurugram, Haryana, 122001, India",
+      "area": "Nirvana Central Road, The Close South, Sector 50",
+      "avg_review_rating": 4.41,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.414301,77.069298",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 2,
+  "ac_prices": [],
+  "dc_prices": [
+    24.0,
+    21.0
+  ],
+  "scraped_at": "2026-05-21T07:59:25.085017+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

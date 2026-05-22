@@ -1,0 +1,198 @@
+{
+  "station_id": 15219,
+  "station_detail": {
+    "station_id": 15219,
+    "station_name": "BABA FUELS",
+    "latitude": 25.603769,
+    "longitude": 81.65668,
+    "address": "VILLAGE BHAGAUTIPUR,TEHSIL SOARAON PRAYAGRAJ-LUCKNOW HIGHWAY PRAYAGRAJ, Prayagraj, Uttar Pradesh, 229413, India",
+    "area": "VILLAGE BHAGAUTIPUR,TEHSIL SOARAON PRAYAGRAJ-LUCKNOW HIGHWAY PRAYAGRAJ",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.603769,81.65668",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9181 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68367,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33449,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 33450,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "BABA FUELS",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Prayagraj",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15219,
+      "station_name": "BABA FUELS",
+      "latitude": 25.603769,
+      "longitude": 81.65668,
+      "address": "VILLAGE BHAGAUTIPUR,TEHSIL SOARAON PRAYAGRAJ-LUCKNOW HIGHWAY PRAYAGRAJ, Prayagraj, Uttar Pradesh, 229413, India",
+      "area": "VILLAGE BHAGAUTIPUR,TEHSIL SOARAON PRAYAGRAJ-LUCKNOW HIGHWAY PRAYAGRAJ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.603769,81.65668",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10512,
+      "station_name": "2001611-LUCKY SERVICE STATION",
+      "latitude": 25.60046,
+      "longitude": 81.65891,
+      "address": "ALLAHABAD-LUCKNOW RD,PO MANSOORABAD PARGANA NAWABGANJ,TEH SORAON,SH-38 SINGRAUR UPRAHAR, Allahabad, Uttar Pradesh, 229411, India",
+      "area": "ALLAHABAD-LUCKNOW RD,PO MANSOORABAD PARGANA NAWABGANJ,TEH SORAON,SH-38 SINGRAUR UPRAHAR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.60046,81.65891",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15268,
+      "station_name": "IVS FILLING STATION",
+      "latitude": 25.56604,
+      "longitude": 81.7267,
+      "address": "VILLAGE MALAKBALAU TEHSIL SOROAN PRAYAGRAJ, Prayagraj, Uttar Pradesh, 229412, India",
+      "area": "VILLAGE MALAKBALAU TEHSIL SOROAN PRAYAGRAJ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.56604,81.7267",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15250,
+      "station_name": "HIGHWAY ENERGY JUNCTION",
+      "latitude": 25.592457,
+      "longitude": 81.552693,
+      "address": "Village Dheemi, kunda, Pratapgarh, Uttar Pradesh 230201, Pratapgarh, Uttar Pradesh, 230201, India",
+      "area": "Village Dheemi, kunda, Pratapgarh, Uttar Pradesh 230201",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.592457,81.552693",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10511,
+      "station_name": "2014275-MANGALAM FILLING STATION",
+      "latitude": 25.62541,
+      "longitude": 81.86064,
+      "address": "SARAI BAJU NH 330 SORAON, Faizabad, Uttar Pradesh, 212502, India",
+      "area": "SARAI BAJU NH 330 SORAON",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.62541,81.86064",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:15:28.440237+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

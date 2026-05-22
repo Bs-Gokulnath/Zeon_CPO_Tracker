@@ -1,0 +1,198 @@
+{
+  "station_id": 11821,
+  "station_detail": {
+    "station_id": 11821,
+    "station_name": "2013906-RBS ENERGY CENTRE ",
+    "latitude": 26.819342,
+    "longitude": 83.069924,
+    "address": "BETWEEN KM STONE NOS 44 TO 48 ON, Gorakhpur, Uttar Pradesh, 273015, India",
+    "area": "BETWEEN KM STONE NOS 44 TO 48 ON",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.819342,83.069924",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9330 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 62826,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 25402,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 25403,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "2013906-RBS ENERGY CENTRE",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Gorakhpur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11821,
+      "station_name": "2013906-RBS ENERGY CENTRE ",
+      "latitude": 26.819342,
+      "longitude": 83.069924,
+      "address": "BETWEEN KM STONE NOS 44 TO 48 ON, Gorakhpur, Uttar Pradesh, 273015, India",
+      "area": "BETWEEN KM STONE NOS 44 TO 48 ON",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.819342,83.069924",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13476,
+      "station_name": "ID(okwkef)Shekhar Filling Center",
+      "latitude": 26.8065,
+      "longitude": 83.072909,
+      "address": "State Highway 88, Anaie, Uttar Pradesh, 272175, India",
+      "area": "State Highway 88",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.8065,83.072909",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 8991,
+      "station_name": "UP | Khalilabad | Anand Highway Resort",
+      "latitude": 26.785457,
+      "longitude": 83.012487,
+      "address": "NH 27 (NEW)/ NH 28 (OLD, Khalilabad, Uttar Pradesh, 272175, India",
+      "area": "NH 27 (NEW)/ NH 28 (OLD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.785457,83.012487",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 14361,
+      "station_name": "M/s. BP Khalilabad",
+      "latitude": 26.785374,
+      "longitude": 83.011783,
+      "address": "SANT KABIR NAGAR, Gorakhpur, Uttar Pradesh, 272175, India",
+      "area": "SANT KABIR NAGAR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.785374,83.011783",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14865,
+      "station_name": "SHAMBHAVI SERVICE CENTRE",
+      "latitude": 26.822838,
+      "longitude": 82.840697,
+      "address": "SHAMBHAVI SERVICE CENTRE , VILLAGE- KHAJAULA TAPPA, Basti, Uttar Pradesh, 272002, India",
+      "area": "SHAMBHAVI SERVICE CENTRE , VILLAGE- KHAJAULA TAPPA",
+      "avg_review_rating": 4.6,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.822838,82.840697",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:10:38.449145+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

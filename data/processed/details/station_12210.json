@@ -1,0 +1,194 @@
+{
+  "station_id": 12210,
+  "station_detail": {
+    "station_id": 12210,
+    "station_name": "BP IBRAHIMPATNAM",
+    "latitude": 16.600013,
+    "longitude": 80.509243,
+    "address": "VIJAYAWADA, Vijayawada, Andhra Pradesh, 521226, India",
+    "area": "VIJAYAWADA",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.600013,80.509243",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9006 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.54,
+    "no_of_reviews": 26,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 63663,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26653,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "BP IBRAHIMPATNAM",
+        "last_used_on": "14/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 4,
+        "2": 4,
+        "3": 4,
+        "4": 12,
+        "5": 77
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Vijayawada",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12210,
+      "station_name": "BP IBRAHIMPATNAM",
+      "latitude": 16.600013,
+      "longitude": 80.509243,
+      "address": "VIJAYAWADA, Vijayawada, Andhra Pradesh, 521226, India",
+      "area": "VIJAYAWADA",
+      "avg_review_rating": 4.54,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.600013,80.509243",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13297,
+      "station_name": "ID(mmr24d)SRI SAI ROADWAYS",
+      "latitude": 16.603605,
+      "longitude": 80.501146,
+      "address": "Hyderabad - Vijayawada Highway, Jupudi, Andhra Pradesh, 521456, India",
+      "area": "Hyderabad - Vijayawada Highway",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.603605,80.501146",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 14501,
+      "station_name": "Hyundai Maya Autobahn Station",
+      "latitude": 16.59,
+      "longitude": 80.52,
+      "address": "Maaya Autobahn Ventures Pvt Ltd, Sy.Nos.78,79,191/1 A, 192/ 1.193.194 and 195/1 Ibrahimpatnam Village, of NTR District  Andhra Pradesh on LHS towards Vijayawada, Vijayawada, Andhra Pradesh, 521456, India",
+      "area": "Maaya Autobahn Ventures Pvt Ltd, Sy.Nos.78,79,191/1 A, 192/ 1.193.194 and 195/1 Ibrahimpatnam Village, of NTR District  Andhra Pradesh on LHS towards Vijayawada",
+      "avg_review_rating": 4.7,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.59,80.52",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-online-not-selected.png"
+    },
+    {
+      "id": 8719,
+      "station_name": "K. SRINIVASA RAO",
+      "latitude": 16.631635,
+      "longitude": 80.555368,
+      "address": "NTR, Vijayawada, Andhra Pradesh, 521228, India",
+      "area": "NTR",
+      "avg_review_rating": 4.2,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.631635,80.555368",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7024,
+      "station_name": "2009932-BP PARITALA",
+      "latitude": 16.623136,
+      "longitude": 80.452575,
+      "address": "KANCHIKACHERLA MANDAL, Addanki, Andhra Pradesh, 521456, India",
+      "area": "KANCHIKACHERLA MANDAL",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.623136,80.452575",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:11:34.207939+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

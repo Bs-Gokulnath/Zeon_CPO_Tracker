@@ -1,0 +1,188 @@
+{
+  "station_id": 9352,
+  "station_detail": {
+    "station_id": 9352,
+    "station_name": "N R JADHAV AND COMPANY - 0003",
+    "latitude": 17.794993,
+    "longitude": 75.054809,
+    "address": "Velapur, Solapur, Maharashtra, 413113, India",
+    "area": "Velapur",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.794993,75.054809",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8436 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Tecell+Banner+2.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 58263,
+        "price_with_currency": "₹ 16.96",
+        "price": 16.96,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 18157,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "TEC N R JADHAV AND COMPANY - 0003 1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Solapur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 3.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9352,
+      "station_name": "N R JADHAV AND COMPANY - 0003",
+      "latitude": 17.794993,
+      "longitude": 75.054809,
+      "address": "Velapur, Solapur, Maharashtra, 413113, India",
+      "area": "Velapur",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.794993,75.054809",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 13217,
+      "station_name": "ID(a3hd6e) Krushi Utpanna Bazar Samiti Akluj",
+      "latitude": 17.894248,
+      "longitude": 75.009217,
+      "address": "Sangram Nagar, Akluj, Maharashtra, 413101, India",
+      "area": "Sangram Nagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.894248,75.009217",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 8353,
+      "station_name": "M/S JAYWANT BHARAT PETROLEUM",
+      "latitude": 17.866184,
+      "longitude": 75.288497,
+      "address": "SOLAPUR, Solapur, Maharashtra, 413302, India",
+      "area": "SOLAPUR",
+      "avg_review_rating": 4.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.866184,75.288497",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12758,
+      "station_name": "ID(a9dpeg) Siddhi Petro Oasis",
+      "latitude": 17.684652,
+      "longitude": 75.291031,
+      "address": "Pandharpur, Pandharpur, Maharashtra, 413304, India",
+      "area": "Pandharpur",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.684652,75.291031",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 10757,
+      "station_name": "M/S SHRI SHAMBHU PETROLEUM",
+      "latitude": 18.016896,
+      "longitude": 75.218324,
+      "address": "KARMALA CHOWK NH65, Solapur, Maharashtra, 413211, India",
+      "area": "KARMALA CHOWK NH65",
+      "avg_review_rating": 4.59,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.016896,75.218324",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    16.96
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:06:01.884307+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

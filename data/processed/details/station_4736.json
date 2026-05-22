@@ -1,0 +1,218 @@
+{
+  "station_id": 4736,
+  "station_detail": {
+    "station_id": 4736,
+    "station_name": "REIL Govekar Petroleum Station",
+    "latitude": 15.584965,
+    "longitude": 73.95961,
+    "address": "St.Sarvan, Bicholim, Goa, 403529, India",
+    "area": "St.Sarvan",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.584965,73.95961",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8300 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 6,
+        "connector_name": "GBT",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/REIL/REIL_Banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 11443,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 51306,
+        "price_with_currency": "₹ 18.0",
+        "price": 18.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 8822,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 6,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 15.0,
+        "charger_name": "EV Charger DC001-15KW",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 51307,
+        "price_with_currency": "₹ 18.0",
+        "price": 18.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 8823,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 6,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 15.0,
+        "charger_name": "EV Charger DC002- 15KW",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bicholim",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 15.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 4736,
+      "station_name": "REIL Govekar Petroleum Station",
+      "latitude": 15.584965,
+      "longitude": 73.95961,
+      "address": "St.Sarvan, Bicholim, Goa, 403529, India",
+      "area": "St.Sarvan",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.584965,73.95961",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 4750,
+      "station_name": "REIL SIYA PETROLEUM Station",
+      "latitude": 15.57202,
+      "longitude": 74.015968,
+      "address": "Near Govt Multipurpose Hall Sanquelim, Goa, Goa, 403505, India",
+      "area": "Near Govt Multipurpose Hall Sanquelim",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.57202,74.015968",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 9653,
+      "station_name": "2004478-SIYA PETROLEUM",
+      "latitude": 15.55412,
+      "longitude": 74.01508,
+      "address": "NEAR GOVT. MULTIPURPOSE HALL, Sanquelim, Goa, 403505, India",
+      "area": "NEAR GOVT. MULTIPURPOSE HALL",
+      "avg_review_rating": 3.77,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.55412,74.01508",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 9606,
+      "station_name": "2004446-SHREE SWAMI SAMARTH AGENCIES",
+      "latitude": 15.5294,
+      "longitude": 73.99235,
+      "address": "SURVEY NO-46/3, Bicholim, Goa, 403505, India",
+      "area": "SURVEY NO-46/3",
+      "avg_review_rating": 4.4,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.5294,73.99235",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 9654,
+      "station_name": "2004363-S.N.BURYE ",
+      "latitude": 15.54848,
+      "longitude": 74.04391,
+      "address": "BPCL DEALERS ONDA, Sanquelim, Goa, 403505, India",
+      "area": "BPCL DEALERS ONDA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.54848,74.04391",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 2,
+  "ac_prices": [],
+  "dc_prices": [
+    18.0,
+    18.0
+  ],
+  "scraped_at": "2026-05-21T07:59:47.896086+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

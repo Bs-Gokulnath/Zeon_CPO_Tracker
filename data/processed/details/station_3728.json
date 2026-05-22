@@ -1,0 +1,216 @@
+{
+  "station_id": 3728,
+  "station_detail": {
+    "station_id": 3728,
+    "station_name": "132/33 KV GIS Fever Hospital Substation EV Chargin",
+    "latitude": 17.396372,
+    "longitude": 78.499413,
+    "address": "Fever Hospital 132 Kv Substation, Hyderabad , Hyderabad, Telangana, 500044, India",
+    "area": "Fever Hospital 132 Kv Substation, Hyderabad ",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.396372,78.499413",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8797 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.75,
+    "no_of_reviews": 20,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 11338,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 22546,
+        "price_with_currency": "₹ 13.0",
+        "price": 13.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 6907,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 6908,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "132/33 KV GIS Fever Hospital Substation EV Charging Station",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 5,
+        "2": 0,
+        "3": 0,
+        "4": 5,
+        "5": 90
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Hyderabad",
+    "station_access_type": "public",
+    "availability": "Available in",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": [],
+    "waiting_time": "2026-05-21 14:46:39"
+  },
+  "nearby_stations": [
+    {
+      "id": 3728,
+      "station_name": "132/33 KV GIS Fever Hospital Substation EV Chargin",
+      "latitude": 17.396372,
+      "longitude": 78.499413,
+      "address": "Fever Hospital 132 Kv Substation, Hyderabad , Hyderabad, Telangana, 500044, India",
+      "area": "Fever Hospital 132 Kv Substation, Hyderabad ",
+      "avg_review_rating": 4.75,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.396372,78.499413",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 14353,
+      "station_name": "TS | Hyderabad |  BMW - Kun Exclusive RTC",
+      "latitude": 17.405448,
+      "longitude": 78.499568,
+      "address": "#1-8-670, Hyderabad, Telangana, 500020, India",
+      "area": "#1-8-670",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.405448,78.499568",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 4988,
+      "station_name": "IOC Vidyanagar",
+      "latitude": 17.402168,
+      "longitude": 78.509141,
+      "address": "1-9-1122/A, Hyderabad, Telangana, 500044, India",
+      "area": "1-9-1122/A",
+      "avg_review_rating": 4.51,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.402168,78.509141",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    },
+    {
+      "id": 4788,
+      "station_name": "REIL SAI PRIYA FILLING STATION",
+      "latitude": 17.4093,
+      "longitude": 78.498024,
+      "address": "MUSHEERABAD, Hyderabad, Telangana, 500020, India",
+      "area": "MUSHEERABAD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.4093,78.498024",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 1998,
+      "station_name": "Amberpet Police line Charging Station",
+      "latitude": 17.387215,
+      "longitude": 78.516632,
+      "address": "Police Quarters, Police Lines, Hyderabad, Telangana, 500013, India",
+      "area": "Police Quarters, Police Lines",
+      "avg_review_rating": 3.4,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.387215,78.516632",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    13.0
+  ],
+  "scraped_at": "2026-05-21T07:59:42.866857+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

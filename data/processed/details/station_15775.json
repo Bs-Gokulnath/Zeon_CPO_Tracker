@@ -1,0 +1,204 @@
+{
+  "station_id": 15775,
+  "station_detail": {
+    "station_id": 15775,
+    "station_name": "N.A.R.AGENCIES",
+    "latitude": 13.375813,
+    "longitude": 78.56706,
+    "address": "PUNGANUR VILLAGE, PUNGANUR MANDAL, Chittoor, Andhra Pradesh, 517247, India",
+    "area": "PUNGANUR VILLAGE, PUNGANUR MANDAL",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.375813,78.56706",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8781 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 2.33,
+    "no_of_reviews": 3,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 69487,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35172,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 35173,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "N.A.R.AGENCIES",
+        "last_used_on": "14/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 67,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 33
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Chittoor",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15775,
+      "station_name": "N.A.R.AGENCIES",
+      "latitude": 13.375813,
+      "longitude": 78.56706,
+      "address": "PUNGANUR VILLAGE, PUNGANUR MANDAL, Chittoor, Andhra Pradesh, 517247, India",
+      "area": "PUNGANUR VILLAGE, PUNGANUR MANDAL",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.375813,78.56706",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 12919,
+      "station_name": "GMG FUEL STATION",
+      "latitude": 13.29485,
+      "longitude": 78.6688,
+      "address": "MUTHUKURU VILLAGE , VA KOTHUR, PEDAPANJANI MANDAL, Nellore, Andhra Pradesh, 517408, India",
+      "area": "MUTHUKURU VILLAGE , VA KOTHUR, PEDAPANJANI MANDAL",
+      "avg_review_rating": 4.5,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.29485,78.6688",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 11838,
+      "station_name": "J. GOPAL KARTHIKEYA FILLING STATION",
+      "latitude": 13.542794,
+      "longitude": 78.518794,
+      "address": "ANNAMAYYA, Nellore, Andhra Pradesh, 517325, India",
+      "area": "ANNAMAYYA",
+      "avg_review_rating": 2.71,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.542794,78.518794",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15562,
+      "station_name": "Hotel VVR Sri SrinivasaGrand(Charge_IN by Mahindra",
+      "latitude": 13.194353,
+      "longitude": 78.540336,
+      "address": "VVR Sri Srinivasa Grand Mulbagal Dosa Toll plaza, Mulbagal, Karnataka, 563132, India",
+      "area": "VVR Sri Srinivasa Grand Mulbagal Dosa Toll plaza",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.194353,78.540336",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mahindra_Branding_logo.png"
+    },
+    {
+      "id": 11832,
+      "station_name": "VVR Srinivasa Grand",
+      "latitude": 13.19405,
+      "longitude": 78.54015,
+      "address": "Toll plaza, Mulbagal, Karnataka, 563132, India",
+      "area": "Toll plaza",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.19405,78.54015",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/Group+1000001994.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:16:40.737633+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,198 @@
+{
+  "station_id": 15461,
+  "station_detail": {
+    "station_id": 15461,
+    "station_name": "CHINIYAHAN AND SONS FILING STATION",
+    "latitude": 25.64105,
+    "longitude": 82.17097,
+    "address": "\" VILLAGE KODAHUN MUNGRABADSHAHPU MUNGRABADSHAHPU\", Jaunpur, Uttar Pradesh, 222202, India",
+    "area": "\" VILLAGE KODAHUN MUNGRABADSHAHPU MUNGRABADSHAHPU\"",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.64105,82.17097",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9233 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68727,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34080,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 34081,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "CHINIYAHAN AND SONS FILING STATION",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Jaunpur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15461,
+      "station_name": "CHINIYAHAN AND SONS FILING STATION",
+      "latitude": 25.64105,
+      "longitude": 82.17097,
+      "address": "\" VILLAGE KODAHUN MUNGRABADSHAHPU MUNGRABADSHAHPU\", Jaunpur, Uttar Pradesh, 222202, India",
+      "area": "\" VILLAGE KODAHUN MUNGRABADSHAHPU MUNGRABADSHAHPU\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.64105,82.17097",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10724,
+      "station_name": "2023218-DEV FILLING STATION",
+      "latitude": 25.66621,
+      "longitude": 82.20302,
+      "address": "VILLAGE MUGARDEEH SHAHARI MUNGRABADSHAHP, Jaunpur, Uttar Pradesh, 222202, India",
+      "area": "VILLAGE MUGARDEEH SHAHARI MUNGRABADSHAHP",
+      "avg_review_rating": 4.17,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.66621,82.20302",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15267,
+      "station_name": "SATHARIA FILLING CENTER",
+      "latitude": 25.659145,
+      "longitude": 82.233867,
+      "address": "SATHARIA IND. DEVELOPMENT AUTH. NH-231, Jaunpur, Uttar Pradesh, 222202, India",
+      "area": "SATHARIA IND. DEVELOPMENT AUTH. NH-231",
+      "avg_review_rating": 4.75,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.659145,82.233867",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15459,
+      "station_name": "RISHIRAM FILLING STATION",
+      "latitude": 25.48843,
+      "longitude": 82.01085,
+      "address": "\" VILLAGE KHUDAYPUR URF KASGANW TEHSIL PHOOLPUR PRAYAGRAJ\", Prayagraj, Uttar Pradesh, 221507, India",
+      "area": "\" VILLAGE KHUDAYPUR URF KASGANW TEHSIL PHOOLPUR PRAYAGRAJ\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.48843,82.01085",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15458,
+      "station_name": "ADARSH PETROLEUM",
+      "latitude": 25.827551,
+      "longitude": 82.015657,
+      "address": "\" VILL. RAJAPUR KHARHAR,PO-RANIGANJ PRATAPGARH–JAUNPUR ROAD(NH-31), RANIGANJ\", Pratapgarh, Uttar Pradesh, 230304, India",
+      "area": "\" VILL. RAJAPUR KHARHAR,PO-RANIGANJ PRATAPGARH–JAUNPUR ROAD(NH-31), RANIGANJ\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.827551,82.015657",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:15:55.891683+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

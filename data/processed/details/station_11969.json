@@ -1,0 +1,198 @@
+{
+  "station_id": 11969,
+  "station_detail": {
+    "station_id": 11969,
+    "station_name": "Lally Motors",
+    "latitude": 31.28912,
+    "longitude": 75.659695,
+    "address": "Opp. Best Price, G.T. Road, Jalandhar, 144010, Jalandhar, Punjab, 144010, India",
+    "area": "Opp. Best Price, G.T. Road, Jalandhar, 144010",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.28912,75.659695",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8658 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 63026,
+        "price_with_currency": "₹ 0",
+        "price": 0.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 25778,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 25779,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Lally Motors",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Jalandhar",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11969,
+      "station_name": "Lally Motors",
+      "latitude": 31.28912,
+      "longitude": 75.659695,
+      "address": "Opp. Best Price, G.T. Road, Jalandhar, 144010, Jalandhar, Punjab, 144010, India",
+      "area": "Opp. Best Price, G.T. Road, Jalandhar, 144010",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.28912,75.659695",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 10500,
+      "station_name": "Statiq x TATA.ev Haveli Jalandhar Station",
+      "latitude": 31.27837,
+      "longitude": 75.676223,
+      "address": "Left Side of the parking area, Village Khajurla Phagwara, Kapurthala, Jalandhar, Punjab, 144402, India",
+      "area": "Left Side of the parking area, Village Khajurla Phagwara, Kapurthala",
+      "avg_review_rating": 4.69,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.27837,75.676223",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 6889,
+      "station_name": "BHAGWATI PETROLEUM",
+      "latitude": 31.337751,
+      "longitude": 75.630998,
+      "address": "VILLAGE SUCHI PIND NEAR GNDU, Jalandhar, Punjab, 144009, India",
+      "area": "VILLAGE SUCHI PIND NEAR GNDU",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.337751,75.630998",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14253,
+      "station_name": "2003003-RAJ FILLING STATION",
+      "latitude": 31.269477,
+      "longitude": 75.586522,
+      "address": "JALANDHAR, Jalandhar, Punjab, 144022, India",
+      "area": "JALANDHAR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.269477,75.586522",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 6649,
+      "station_name": "BHARAT PETRO POINT",
+      "latitude": 31.342285,
+      "longitude": 75.591934,
+      "address": "\"RO AT HOSHIARPUR ROAD JALANDHAR, HOSHIARPUR ROAD, JALANDHAR CITY, JALANDHAR, Punjab, India - 144004\", Hoshiarpur, Punjab, 144004, India",
+      "area": "\"RO AT HOSHIARPUR ROAD JALANDHAR, HOSHIARPUR ROAD, JALANDHAR CITY, JALANDHAR, Punjab, India - 144004\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.342285,75.591934",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    0.0
+  ],
+  "scraped_at": "2026-05-21T08:10:59.937118+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,223 @@
+{
+  "station_id": 9888,
+  "station_detail": {
+    "station_id": 9888,
+    "station_name": "SINE.EV HO SINE TEKNOLOGIES(HO), SF.109/1A, Suraksha Behind, Bodipalayam,",
+    "latitude": 10.895,
+    "longitude": 76.971639,
+    "address": "SINE TEKNOLOGIES(HO), Madukkarai, Tamil Nadu, 641105, India",
+    "area": "SINE TEKNOLOGIES(HO)",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.895,76.971639",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8595 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/yocharge_Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 60820,
+        "price_with_currency": "₹ 23.11",
+        "price": 23.11,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22158,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 20.0,
+        "charger_name": "YHB SINE.EV HO 3",
+        "last_used_on": "27/04/2026"
+      },
+      {
+        "charger_id": 67739,
+        "price_with_currency": "₹ 20.8",
+        "price": 20.8,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 32381,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "YHB SINE.EV HO SINE TEKNOLOGIES(HO), SF.109/1A, Suraksha Behind, Bodipalayam, 4",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Madukkarai",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 24.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9888,
+      "station_name": "SINE.EV HO SINE TEKNOLOGIES(HO), SF.109/1A, Suraksha Behind, Bodipalayam,",
+      "latitude": 10.895,
+      "longitude": 76.971639,
+      "address": "SINE TEKNOLOGIES(HO), Madukkarai, Tamil Nadu, 641105, India",
+      "area": "SINE TEKNOLOGIES(HO)",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.895,76.971639",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 7229,
+      "station_name": "2006370-BP - MADUKARRAI",
+      "latitude": 10.904153,
+      "longitude": 76.959186,
+      "address": "COIMBATORE, Coimbatore, Tamil Nadu, 641105, India",
+      "area": "COIMBATORE",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.904153,76.959186",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7838,
+      "station_name": "TN | Coimbatore | MB#Sundaram Motors",
+      "latitude": 10.918422,
+      "longitude": 76.984616,
+      "address": "Sundaram Motors, Coimbatore, Tamil Nadu, 641043, India",
+      "area": "Sundaram Motors",
+      "avg_review_rating": 4.41,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.918422,76.984616",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mercedes_Charging_Map_Pin.png"
+    },
+    {
+      "id": 13538,
+      "station_name": "Sundaram & Co Filling Station",
+      "latitude": 10.945737,
+      "longitude": 76.978773,
+      "address": "Coimbatore, Coimbatore, Tamil Nadu, 641021, India",
+      "area": "Coimbatore",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.945737,76.978773",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7234,
+      "station_name": "2006465-SREE VIGNESWARA ENTERPRISES",
+      "latitude": 10.863925,
+      "longitude": 76.874632,
+      "address": "COIMBATORE, Coimbatore, Tamil Nadu, 641105, India",
+      "area": "COIMBATORE",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.863925,76.874632",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 1,
+  "ac_prices": [
+    20.8
+  ],
+  "dc_prices": [
+    23.11
+  ],
+  "scraped_at": "2026-05-21T08:07:27.373297+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

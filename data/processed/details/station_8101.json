@@ -1,0 +1,193 @@
+{
+  "station_id": 8101,
+  "station_detail": {
+    "station_id": 8101,
+    "station_name": "AMMAN AGRO FUELS",
+    "latitude": 10.078406,
+    "longitude": 79.041931,
+    "address": "NO 5C2, MIMISAL ROAD, AVADAIYARKOIL, PUDUKOTTAI, Pudukottai, Tamil Nadu, 614618, India",
+    "area": "NO 5C2, MIMISAL ROAD, AVADAIYARKOIL, PUDUKOTTAI",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.078406,79.041931",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8817 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 56288,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 15002,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "AMMAN AGRO FUELS CHARGER 1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Pudukottai",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 3.3,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8101,
+      "station_name": "AMMAN AGRO FUELS",
+      "latitude": 10.078406,
+      "longitude": 79.041931,
+      "address": "NO 5C2, MIMISAL ROAD, AVADAIYARKOIL, PUDUKOTTAI, Pudukottai, Tamil Nadu, 614618, India",
+      "area": "NO 5C2, MIMISAL ROAD, AVADAIYARKOIL, PUDUKOTTAI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.078406,79.041931",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8092,
+      "station_name": "SRM AGENCY",
+      "latitude": 10.036072,
+      "longitude": 79.231077,
+      "address": "S.F 310/9,EAST COAST ROAD, MANAMELGUDI, PUDUKOTTAI, Pudukottai, Tamil Nadu, 614620, India",
+      "area": "S.F 310/9,EAST COAST ROAD, MANAMELGUDI, PUDUKOTTAI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.036072,79.231077",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8102,
+      "station_name": "RANI KAMALAMBAL RAJYEE",
+      "latitude": 10.382046,
+      "longitude": 78.807462,
+      "address": "6091/3B, OPP COLLECTORATE, PALACE GATE, PUDUKOTTAI, Pudukottai, Tamil Nadu, 622005, India",
+      "area": "6091/3B, OPP COLLECTORATE, PALACE GATE, PUDUKOTTAI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.382046,78.807462",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8097,
+      "station_name": "BHARATI FILLING STATION",
+      "latitude": 9.846068,
+      "longitude": 78.63575,
+      "address": "SY NO 325/2, MADURAI-THONDI MAIN RD, KALAYARKOIL, SIVAGANGAI, Sivaganga, Tamil Nadu, 630551, India",
+      "area": "SY NO 325/2, MADURAI-THONDI MAIN RD, KALAYARKOIL, SIVAGANGAI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.846068,78.63575",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 11878,
+      "station_name": "M.PACCHAMUTHU",
+      "latitude": 10.576108,
+      "longitude": 79.018829,
+      "address": "PUDUKOTTAI, Pudukottai, Tamil Nadu, 613301, India",
+      "area": "PUDUKOTTAI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.576108,79.018829",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    14.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:04:00.021701+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

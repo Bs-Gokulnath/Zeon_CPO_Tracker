@@ -1,0 +1,204 @@
+{
+  "station_id": 2251,
+  "station_detail": {
+    "station_id": 2251,
+    "station_name": "Sunfuel - WelcomHeritage Ramgarh, Panchkula-Chandi",
+    "latitude": 30.647881,
+    "longitude": 76.886581,
+    "address": "NH 73, Near Sector 28, Panchkula, Haryana, 134118, India",
+    "area": "NH 73, Near Sector 28",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.647881,76.886581",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8765 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 3.7,
+    "no_of_reviews": 27,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Sunfuel+Banner.png",
+    "landmark": "The Quila",
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 687,
+        "id": 1
+      },
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 688,
+        "id": 2
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 2245,
+        "price_with_currency": "₹ 15.0",
+        "price": 15.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 3245,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.4,
+        "charger_name": "Sunfuel - Welcom Heritage Chandigarh/Ramgarh",
+        "last_used_on": "05/01/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 26,
+        "2": 0,
+        "3": 7,
+        "4": 11,
+        "5": 56
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Panchkula",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 7.4,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 2251,
+      "station_name": "Sunfuel - WelcomHeritage Ramgarh, Panchkula-Chandi",
+      "latitude": 30.647881,
+      "longitude": 76.886581,
+      "address": "NH 73, Near Sector 28, Panchkula, Haryana, 134118, India",
+      "area": "NH 73, Near Sector 28",
+      "avg_review_rating": 3.7,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.647881,76.886581",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 1562,
+      "station_name": "Sunfuel - Holiday Inn Chandigarh Zirakpur",
+      "latitude": 30.6395,
+      "longitude": 76.822403,
+      "address": "Zirakpur, Zirakpur, Punjab, 140603, India",
+      "area": "Zirakpur",
+      "avg_review_rating": 4.57,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.6395,76.822403",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 10930,
+      "station_name": "2002924-HIRDA RAM MANSA RAM ",
+      "latitude": 30.590695,
+      "longitude": 76.846519,
+      "address": "Ambala-Chandigarh Road NH22 Dist Mohali, Dera Bassi, Patiala, Punjab, 140507, India",
+      "area": "Ambala-Chandigarh Road NH22 Dist Mohali, Dera Bassi",
+      "avg_review_rating": 4.31,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.590695,76.846519",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 4957,
+      "station_name": "GLIDA HPCL Manimazra",
+      "latitude": 30.709865,
+      "longitude": 76.828621,
+      "address": "Pocket 4 AND 5, Chandigarh, Chandigarh, 160101, India",
+      "area": "Pocket 4 AND 5",
+      "avg_review_rating": 4.31,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.709865,76.828621",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    },
+    {
+      "id": 3585,
+      "station_name": "Statiq Green Lotus Saksham Station",
+      "latitude": 30.632936,
+      "longitude": 76.795189,
+      "address": "Gurudwara, Patiala Road, Nabha, Punjab, 140603, India",
+      "area": "Gurudwara, Patiala Road",
+      "avg_review_rating": 4.74,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.632936,76.795189",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    15.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T07:59:35.098855+00:00",
+  "parse_success": true,
+  "missing_fields": [],
+  "coverage_pct": 100.0
+}

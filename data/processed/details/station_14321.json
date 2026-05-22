@@ -1,0 +1,198 @@
+{
+  "station_id": 14321,
+  "station_detail": {
+    "station_id": 14321,
+    "station_name": "M/s. SAI SRI PETROLEUM",
+    "latitude": 10.67002,
+    "longitude": 79.38824,
+    "address": "TIRUVARUR, Tiruvallur, Tamil Nadu, 614014, India",
+    "area": "TIRUVARUR",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.67002,79.38824",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8858 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 66213,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 30447,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 30448,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "M/s. SAI SRI PETROLEUM",
+        "last_used_on": "13/03/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Tiruvallur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14321,
+      "station_name": "M/s. SAI SRI PETROLEUM",
+      "latitude": 10.67002,
+      "longitude": 79.38824,
+      "address": "TIRUVARUR, Tiruvallur, Tamil Nadu, 614014, India",
+      "area": "TIRUVARUR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.67002,79.38824",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12402,
+      "station_name": "KRUPAS PETROLEUM",
+      "latitude": 10.66265,
+      "longitude": 79.4307,
+      "address": "99&100, NEDUVAKKOTTAI VILLAGE, VILLAGE-NEDUVAKOTTAI, THALUK-MANARGUDI, DISTRICT-TIRUVARUR,, Tiruvannamalai, Tamil Nadu, 614001, India",
+      "area": "99&100, NEDUVAKKOTTAI VILLAGE, VILLAGE-NEDUVAKOTTAI, THALUK-MANARGUDI, DISTRICT-TIRUVARUR,",
+      "avg_review_rating": 3.43,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.66265,79.4307",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 7419,
+      "station_name": "2011362-UKKADAI ESTATE PETROLEUM AGENCIES",
+      "latitude": 10.789359,
+      "longitude": 79.343608,
+      "address": "AMMAPETTAI, Ammapettai, Tamil Nadu, 614401, India",
+      "area": "AMMAPETTAI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.789359,79.343608",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10969,
+      "station_name": "M/s. MUTHU AGENCIES",
+      "latitude": 10.780558,
+      "longitude": 79.262444,
+      "address": "THANJAVUR, Thanjavur, Tamil Nadu, 613504, India",
+      "area": "THANJAVUR",
+      "avg_review_rating": 4.08,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.780558,79.262444",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14309,
+      "station_name": "RNS FUELS",
+      "latitude": 10.80218,
+      "longitude": 79.53681,
+      "address": "109/14A, TIRUVARUR TO AYIKUDI ON NH83, VILLAGE-AYIKUDI, THALUK-TIRUVARUR, DISTRICT-TIRUVARUR,, Tiruvallur, Tamil Nadu, 614103, India",
+      "area": "109/14A, TIRUVARUR TO AYIKUDI ON NH83, VILLAGE-AYIKUDI, THALUK-TIRUVARUR, DISTRICT-TIRUVARUR,",
+      "avg_review_rating": 2.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.80218,79.53681",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:13:29.375474+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

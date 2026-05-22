@@ -1,0 +1,204 @@
+{
+  "station_id": 14879,
+  "station_detail": {
+    "station_id": 14879,
+    "station_name": "SHREE SITARAMJI ENERGY STATION",
+    "latitude": 22.713155,
+    "longitude": 76.526521,
+    "address": "NH59A (NEW NH47) HATNORA, Dewas, Madhya Pradesh, 455440, India",
+    "area": "NH59A (NEW NH47) HATNORA",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.713155,76.526521",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8637 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 3.74,
+    "no_of_reviews": 19,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 67842,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 32552,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 32553,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "SHREE SITARAMJI ENERGY STATION",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 21,
+        "2": 5,
+        "3": 5,
+        "4": 16,
+        "5": 53
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Dewas",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14879,
+      "station_name": "SHREE SITARAMJI ENERGY STATION",
+      "latitude": 22.713155,
+      "longitude": 76.526521,
+      "address": "NH59A (NEW NH47) HATNORA, Dewas, Madhya Pradesh, 455440, India",
+      "area": "NH59A (NEW NH47) HATNORA",
+      "avg_review_rating": 3.74,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.713155,76.526521",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8758,
+      "station_name": "MAA LAXMI FUEL POINT",
+      "latitude": 22.699389,
+      "longitude": 76.581539,
+      "address": "NH59A (NEW NH47), AT PANIGAON, DIST - DEWAS, MADHYA PRADESH, PIN - 455440\", Dewas, Madhya Pradesh, 455440, India",
+      "area": "NH59A (NEW NH47), AT PANIGAON, DIST - DEWAS, MADHYA PRADESH, PIN - 455440\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.699389,76.581539",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15467,
+      "station_name": "INDRA AUTO SERVICE",
+      "latitude": 22.70656,
+      "longitude": 76.319419,
+      "address": "CHAPDA DEWAS, Dewas, Madhya Pradesh, 455227, India",
+      "area": "CHAPDA DEWAS",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.70656,76.319419",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 14880,
+      "station_name": "2015997 SHREE BALAJI FILLING STATION",
+      "latitude": 22.784783,
+      "longitude": 76.751284,
+      "address": "KANNOD ASHTA ROAD, Dewas, Madhya Pradesh, 455332, India",
+      "area": "KANNOD ASHTA ROAD",
+      "avg_review_rating": 4.88,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.784783,76.751284",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 12990,
+      "station_name": "ID(7ck5e3)SHREE BALAJI FILLING STATION",
+      "latitude": 22.661831,
+      "longitude": 76.758148,
+      "address": "National Highway 47, Barkhedi, Madhya Pradesh, 455332, India",
+      "area": "National Highway 47",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.661831,76.758148",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:14:33.206446+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,204 @@
+{
+  "station_id": 15549,
+  "station_detail": {
+    "station_id": 15549,
+    "station_name": "EESL HPCL Auto Care DC Charger 01",
+    "latitude": 28.364401,
+    "longitude": 76.918697,
+    "address": "HSIIDC Indl Estate, Plot No 10, Sector 3, Manesar, Gurugram, Haryana 122052, Gurugram, Haryana, 122052, India",
+    "area": "HSIIDC Indl Estate, Plot No 10, Sector 3, Manesar, Gurugram, Haryana 122052",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.364401,76.918697",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8739 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 6,
+        "connector_name": "GBT",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png"
+      }
+    ],
+    "avg_review_rating": 4.94,
+    "no_of_reviews": 17,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68959,
+        "price_with_currency": "₹ 10.0",
+        "price": 10.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34374,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 6,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 15.0,
+        "charger_name": "EESL HPCL Auto Care DC Charger 01",
+        "last_used_on": "16/04/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 6,
+        "5": 94
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Gurugram",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 15.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15549,
+      "station_name": "EESL HPCL Auto Care DC Charger 01",
+      "latitude": 28.364401,
+      "longitude": 76.918697,
+      "address": "HSIIDC Indl Estate, Plot No 10, Sector 3, Manesar, Gurugram, Haryana 122052, Gurugram, Haryana, 122052, India",
+      "area": "HSIIDC Indl Estate, Plot No 10, Sector 3, Manesar, Gurugram, Haryana 122052",
+      "avg_review_rating": 4.94,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.364401,76.918697",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 1579,
+      "station_name": "Statiq Savoy Suites Manesar Station",
+      "latitude": 28.366404,
+      "longitude": 76.944302,
+      "address": "Take right from main entrance, Surface Parking, R 75, Sector 1, Main Rd, Gurugram, Haryana, 122051, India",
+      "area": "Take right from main entrance, Surface Parking, R 75, Sector 1, Main Rd",
+      "avg_review_rating": 4.63,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.366404,76.944302",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 2154,
+      "station_name": "Statiq AdWall Vipul Lavany Station",
+      "latitude": 28.387501,
+      "longitude": 76.94194,
+      "address": "Vipul Lavanya, Gurugram, Haryana, 122004, India",
+      "area": "Vipul Lavanya",
+      "avg_review_rating": 4.75,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.387501,76.94194",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 8420,
+      "station_name": "Ecoplug Ravi Hotel",
+      "latitude": 28.375992,
+      "longitude": 76.954132,
+      "address": "Village- Nakhrola , Gurugram, Haryana, 121106, India",
+      "area": "Village- Nakhrola ",
+      "avg_review_rating": 4.78,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.375992,76.954132",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 15550,
+      "station_name": "EESL HPCL Dhruvika Petro DC Charger 02",
+      "latitude": 28.396098,
+      "longitude": 76.932972,
+      "address": "Ground Floor, Wazirpur, Manesar Rd, Nawada Fatehpur, Sector 86, Gurugram, Haryana 122505, Gurugram, Haryana, 122505, India",
+      "area": "Ground Floor, Wazirpur, Manesar Rd, Nawada Fatehpur, Sector 86, Gurugram, Haryana 122505",
+      "avg_review_rating": 3.82,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.396098,76.932972",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    10.0
+  ],
+  "scraped_at": "2026-05-21T08:16:07.959872+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

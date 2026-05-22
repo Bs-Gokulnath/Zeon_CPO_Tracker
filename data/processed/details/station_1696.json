@@ -1,0 +1,187 @@
+{
+  "station_id": 1696,
+  "station_detail": {
+    "station_id": 1696,
+    "station_name": "Shimoga CSD 3 Charging Station",
+    "latitude": 13.93931,
+    "longitude": 75.540497,
+    "address": "Gopala Gowda Road, Shimoga, Karnataka, 577205, India",
+    "area": "Gopala Gowda Road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.93931,75.540497",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8457 kms",
+    "operational_time": "00:00 To 23:59",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/AC.png",
+    "is_connected": false,
+    "station_banner": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/statiq/statiq+banner.png",
+    "landmark": "Lagana Mandira",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 1647,
+        "price_with_currency": "₹ 15.0",
+        "price": 15.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 2257,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "SmartPlug384 Shimoga CSD 3",
+        "last_used_on": "18/02/2024"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Shimoga",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 3.3,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 1696,
+      "station_name": "Shimoga CSD 3 Charging Station",
+      "latitude": 13.93931,
+      "longitude": 75.540497,
+      "address": "Gopala Gowda Road, Shimoga, Karnataka, 577205, India",
+      "area": "Gopala Gowda Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.93931,75.540497",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 7254,
+      "station_name": "2006749-VIJAYA SERVICE STATION",
+      "latitude": 13.927253,
+      "longitude": 75.564735,
+      "address": "SHIMOGA, Shimoga, Karnataka, 577201, India",
+      "area": "SHIMOGA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.927253,75.564735",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 1852,
+      "station_name": "Shivamogga CSD 1 Charging Station\t",
+      "latitude": 13.942,
+      "longitude": 75.581902,
+      "address": "Balraj Urs Road, Shimoga, Karnataka, 577201, India",
+      "area": "Balraj Urs Road",
+      "avg_review_rating": 4.12,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.942,75.581902",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 12068,
+      "station_name": "KA | Shivamogga | Rahul Hyundai",
+      "latitude": 13.912095,
+      "longitude": 75.582325,
+      "address": "Shankar Mutt Rd, Shivamogga, Karnataka, 577201, India",
+      "area": "Shankar Mutt Rd",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.912095,75.582325",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 7484,
+      "station_name": "2013250-SANTHOSH FUELS",
+      "latitude": 13.91236,
+      "longitude": 75.58288,
+      "address": "SHIMOGA, Shimoga, Karnataka, 577202, India",
+      "area": "SHIMOGA",
+      "avg_review_rating": 4.49,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.91236,75.58288",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    15.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T07:59:05.924890+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

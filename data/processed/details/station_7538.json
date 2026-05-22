@@ -1,0 +1,194 @@
+{
+  "station_id": 7538,
+  "station_detail": {
+    "station_id": 7538,
+    "station_name": "2014945-BP-PIPAVAV",
+    "latitude": 21.013842,
+    "longitude": 71.555552,
+    "address": "RAJULA, Rajula, Gujarat, 365560, India",
+    "area": "RAJULA",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.013842,71.555552",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8106 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.21,
+    "no_of_reviews": 19,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 55377,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13723,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "2014945-BP-PIPAVAV",
+        "last_used_on": "22/08/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 16,
+        "2": 0,
+        "3": 5,
+        "4": 5,
+        "5": 74
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Rajula",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7538,
+      "station_name": "2014945-BP-PIPAVAV",
+      "latitude": 21.013842,
+      "longitude": 71.555552,
+      "address": "RAJULA, Rajula, Gujarat, 365560, India",
+      "area": "RAJULA",
+      "avg_review_rating": 4.21,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.013842,71.555552",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15605,
+      "station_name": "HARIOM PETROLEUM .",
+      "latitude": 20.97651,
+      "longitude": 71.39985,
+      "address": "\"RO AT KAKAVADAR ON NH8E RAJULA TOWA        KAKAVADAR        TIMBI \", Amreli, Gujarat, 365560, India",
+      "area": "\"RO AT KAKAVADAR ON NH8E RAJULA TOWA        KAKAVADAR        TIMBI \"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.97651,71.39985",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8737,
+      "station_name": "M/s. PARAS PETROLEUM",
+      "latitude": 21.105395,
+      "longitude": 71.75706,
+      "address": "Bhavnagar, Nagpur, Maharashtra, 364290, India",
+      "area": "Bhavnagar",
+      "avg_review_rating": 4.73,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.105395,71.75706",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13324,
+      "station_name": "ID(8e74hz)Ashutosh Petroleum",
+      "latitude": 21.133132,
+      "longitude": 71.254041,
+      "address": "Khambha, Khambha, Gujarat, 365650, India",
+      "area": "Khambha",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.133132,71.254041",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 8311,
+      "station_name": "Jay Shyam Petroleum",
+      "latitude": 21.217714,
+      "longitude": 71.896359,
+      "address": "NH51, Longadi Gujrat 364295, Talaja, Gujarat, 364295, India",
+      "area": "NH51, Longadi Gujrat 364295",
+      "avg_review_rating": 4.7,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.217714,71.896359",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:03:15.028078+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

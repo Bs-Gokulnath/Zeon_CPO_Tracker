@@ -1,0 +1,222 @@
+{
+  "station_id": 15552,
+  "station_detail": {
+    "station_id": 15552,
+    "station_name": "MCD Parking Muskan Chowk Muskan Chowk, Panchsheel Garden, Panchsheel Park, Shahdara, Delhi, 110032",
+    "latitude": 28.676915,
+    "longitude": 77.279283,
+    "address": "Muskan Chowk, Delhi, Delhi, 110032, India",
+    "area": "Muskan Chowk",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.676915,77.279283",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8778 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      },
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/yocharge_Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 69267,
+        "price_with_currency": "₹ 21.0",
+        "price": 21.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34863,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "YHB MCD Parking Muskan Chowk Muskan Chowk, Panchsheel Garden, Panchsheel Park, Shahdara, Delhi, 110032 4",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 69268,
+        "price_with_currency": "₹ 21.0",
+        "price": 21.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34864,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "YHB MCD Parking Muskan Chowk Muskan Chowk, Panchsheel Garden, Panchsheel Park, Shahdara, Delhi, 110032 5",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Delhi",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15552,
+      "station_name": "MCD Parking Muskan Chowk Muskan Chowk, Panchsheel Garden, Panchsheel Park, Shahdara, Delhi, 110032",
+      "latitude": 28.676915,
+      "longitude": 77.279283,
+      "address": "Muskan Chowk, Delhi, Delhi, 110032, India",
+      "area": "Muskan Chowk",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.676915,77.279283",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 12613,
+      "station_name": "ID(7nasqz)Ugrasain and sons",
+      "latitude": 28.673261,
+      "longitude": 77.278366,
+      "address": "Grand Trunk Road, Delhi, Delhi, 110032, India",
+      "area": "Grand Trunk Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.673261,77.278366",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 11731,
+      "station_name": "Shyam Lal College",
+      "latitude": 28.6738,
+      "longitude": 77.2837,
+      "address": "Dwarkapuri, New Delhi, Delhi, 110032, India",
+      "area": "Dwarkapuri",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.6738,77.2837",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargerKarodefault.png"
+    },
+    {
+      "id": 11771,
+      "station_name": "Seelampur",
+      "latitude": 28.672,
+      "longitude": 77.2733,
+      "address": "New Seelampur, New Delhi, Delhi, 110053, India",
+      "area": "New Seelampur",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.672,77.2733",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargerKarodefault.png"
+    },
+    {
+      "id": 3900,
+      "station_name": "Statiq DMRC Hub Shahdara Metro Station",
+      "latitude": 28.67379,
+      "longitude": 77.289291,
+      "address": "Back Side of Sulabh Sauchalaya, DMRC Shahdara, 1, 1118, Delhi, Delhi, 110032, India",
+      "area": "Back Side of Sulabh Sauchalaya, DMRC Shahdara, 1, 1118",
+      "avg_review_rating": 4.74,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.67379,77.289291",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 2,
+  "ac_prices": [],
+  "dc_prices": [
+    21.0,
+    21.0
+  ],
+  "scraped_at": "2026-05-21T08:16:07.874828+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

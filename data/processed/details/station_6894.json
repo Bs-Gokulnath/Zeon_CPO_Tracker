@@ -1,0 +1,203 @@
+{
+  "station_id": 6894,
+  "station_detail": {
+    "station_id": 6894,
+    "station_name": "2010616-KESHAR PRASAD HIGHWAY SERVICES",
+    "latitude": 19.331703,
+    "longitude": 75.719008,
+    "address": "AURANGABAD RD KM STONE NH211 NAGJHARI, GEVRAI, Ahmednaga, Ahmednagar, Maharashtra, 431127, India",
+    "area": "AURANGABAD RD KM STONE NH211 NAGJHARI, GEVRAI, Ahmednaga",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.331703,75.719008",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8520 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.62,
+    "no_of_reviews": 52,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": " NH211 NAGJHARI Ahmednagar",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54560,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 12851,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 12852,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "2010616-KESHAR PRASAD HIGHWAY SERVICES",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 2,
+        "2": 4,
+        "3": 4,
+        "4": 12,
+        "5": 79
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ahmednagar",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 6894,
+      "station_name": "2010616-KESHAR PRASAD HIGHWAY SERVICES",
+      "latitude": 19.331703,
+      "longitude": 75.719008,
+      "address": "AURANGABAD RD KM STONE NH211 NAGJHARI, GEVRAI, Ahmednaga, Ahmednagar, Maharashtra, 431127, India",
+      "area": "AURANGABAD RD KM STONE NH211 NAGJHARI, GEVRAI, Ahmednaga",
+      "avg_review_rating": 4.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.331703,75.719008",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 6732,
+      "station_name": "Harbhagwan Harbhajanlal",
+      "latitude": 19.361191,
+      "longitude": 75.712631,
+      "address": "BEED ROAD NH211, SHAHAGADH, OPPOSITE SHAHGAD BUS STAND, DISTRICT - JALNA, Ahmednagar, Maharashtra, 431205, India",
+      "area": "BEED ROAD NH211, SHAHAGADH, OPPOSITE SHAHGAD BUS STAND, DISTRICT - JALNA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.361191,75.712631",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 6896,
+      "station_name": "2021220-TIRUPATI BALAJI PETROLEUM",
+      "latitude": 19.4329,
+      "longitude": 75.71357,
+      "address": "AURANGABAD- BEED ROAD NH 52, GUT NO 200 & 201, Ahmednagar, Maharashtra, 431205, India",
+      "area": "AURANGABAD- BEED ROAD NH 52, GUT NO 200 & 201",
+      "avg_review_rating": 4.6,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.4329,75.71357",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 6855,
+      "station_name": "2020059-JAYESH PETROLEUM",
+      "latitude": 19.228398,
+      "longitude": 75.755408,
+      "address": "ON NH52, BEED- AURANGABAD ROAD, WADGAON DHOK, Beed, Maharashtra, 431127, India",
+      "area": "ON NH52, BEED- AURANGABAD ROAD, WADGAON DHOK",
+      "avg_review_rating": 4.79,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.228398,75.755408",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8360,
+      "station_name": "M/s KIRTI PETROLEUM",
+      "latitude": 19.191338,
+      "longitude": 75.761319,
+      "address": "BEED TO AURANGABAD RD, NH-52  Village : GADHI PHATA  Taluka : GEVRAI, Beed - 431127, Ahmednagar, Maharashtra, 431127, India",
+      "area": "BEED TO AURANGABAD RD, NH-52  Village : GADHI PHATA  Taluka : GEVRAI, Beed - 431127",
+      "avg_review_rating": 4.83,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.191338,75.761319",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:01:54.252520+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

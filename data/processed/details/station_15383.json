@@ -1,0 +1,198 @@
+{
+  "station_id": 15383,
+  "station_detail": {
+    "station_id": 15383,
+    "station_name": "NARMADA SERVICE STATION",
+    "latitude": 12.5223,
+    "longitude": 76.869413,
+    "address": "104481, BHARAT PETROLEUM DEALER, M. C. ROAD, KALAHALLI, KALLAHALLI, MANDYA, MANDYA, MANDYA - MANDYA TOWN, MANDYA-571401, Mandya, Karnataka, 571401, India",
+    "area": "104481, BHARAT PETROLEUM DEALER, M. C. ROAD, KALAHALLI, KALLAHALLI, MANDYA, MANDYA, MANDYA - MANDYA TOWN, MANDYA-571401",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.5223,76.869413",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8592 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68621,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33877,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 33878,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "NARMADA SERVICE STATION",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Mandya",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15383,
+      "station_name": "NARMADA SERVICE STATION",
+      "latitude": 12.5223,
+      "longitude": 76.869413,
+      "address": "104481, BHARAT PETROLEUM DEALER, M. C. ROAD, KALAHALLI, KALLAHALLI, MANDYA, MANDYA, MANDYA - MANDYA TOWN, MANDYA-571401, Mandya, Karnataka, 571401, India",
+      "area": "104481, BHARAT PETROLEUM DEALER, M. C. ROAD, KALAHALLI, KALLAHALLI, MANDYA, MANDYA, MANDYA - MANDYA TOWN, MANDYA-571401",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.5223,76.869413",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13259,
+      "station_name": "ID(j7pt9f)Amaravathi Fuels station",
+      "latitude": 12.545875,
+      "longitude": 76.932643,
+      "address": "National Highway 275, Guthalu, Karnataka, 571404, India",
+      "area": "National Highway 275",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.545875,76.932643",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 14502,
+      "station_name": "Hyundai Paakshala Station",
+      "latitude": 12.547729,
+      "longitude": 76.937964,
+      "address": "No-888, Benguluru-Mysuru Express way, Kasba-2 Hobli, MC Road Hosabudanoor, Mandya Karnataka -571401, Mandya, Karnataka, 571401, India",
+      "area": "No-888, Benguluru-Mysuru Express way, Kasba-2 Hobli, MC Road Hosabudanoor, Mandya Karnataka -571401",
+      "avg_review_rating": 4.6,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.547729,76.937964",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-online-not-selected.png"
+    },
+    {
+      "id": 15811,
+      "station_name": "Janya Enterprises L3 60kW",
+      "latitude": 12.481258,
+      "longitude": 77.033715,
+      "address": "Maddur, Maddur, Karnataka, 571422, India",
+      "area": "Maddur",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.481258,77.033715",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    },
+    {
+      "id": 9349,
+      "station_name": "Nimisha Fuels - 0003",
+      "latitude": 12.450436,
+      "longitude": 76.693067,
+      "address": "KIRANGURU - PANDAVAPURA, Mandya, Karnataka, 571435, India",
+      "area": "KIRANGURU - PANDAVAPURA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.450436,76.693067",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:15:49.062426+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

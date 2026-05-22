@@ -1,0 +1,203 @@
+{
+  "station_id": 8038,
+  "station_detail": {
+    "station_id": 8038,
+    "station_name": "BPCL-AR fuel",
+    "latitude": 10.427418,
+    "longitude": 77.954339,
+    "address": "Thadikombu, Dindigul, Tamil Nadu, 624709, India",
+    "area": "Thadikombu",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.427418,77.954339",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8700 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.23,
+    "no_of_reviews": 93,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": "opposite jiobp petrol pump",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 56222,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 14924,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 14925,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "AR Fuels Dual CCS",
+        "last_used_on": "17/04/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 8,
+        "2": 4,
+        "3": 6,
+        "4": 22,
+        "5": 60
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Dindigul",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8038,
+      "station_name": "BPCL-AR fuel",
+      "latitude": 10.427418,
+      "longitude": 77.954339,
+      "address": "Thadikombu, Dindigul, Tamil Nadu, 624709, India",
+      "area": "Thadikombu",
+      "avg_review_rating": 4.23,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.427418,77.954339",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14286,
+      "station_name": "Hyundai Hotel Sri Vari Station",
+      "latitude": 10.3925,
+      "longitude": 77.9314,
+      "address": "Hotel Sri Vari (Kumaran Residency), Palam Rajakkapatty,Door no 451, Survey no: 29/2A1 Anaipatty panchayat, Dindigul, Tamil Nadu, 624002, India",
+      "area": "Hotel Sri Vari (Kumaran Residency), Palam Rajakkapatty,Door no 451, Survey no: 29/2A1 Anaipatty panchayat",
+      "avg_review_rating": 4.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.3925,77.9314",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-online-not-selected.png"
+    },
+    {
+      "id": 8096,
+      "station_name": "POOCHENDU FILLING STATION",
+      "latitude": 10.367463,
+      "longitude": 77.959743,
+      "address": "NO 71/1, PALANI ROAD, OPP WAREHOUSE, DINDIGUL, Dindigul, Tamil Nadu, 624003, India",
+      "area": "NO 71/1, PALANI ROAD, OPP WAREHOUSE, DINDIGUL",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.367463,77.959743",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 11876,
+      "station_name": "IRS FILLING STATION",
+      "latitude": 10.363671,
+      "longitude": 77.988237,
+      "address": "DINDIGUL, Dindigul, Tamil Nadu, 624005, India",
+      "area": "DINDIGUL",
+      "avg_review_rating": 4.79,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.363671,77.988237",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8105,
+      "station_name": "SABMS FILLING STATION",
+      "latitude": 10.528882,
+      "longitude": 77.950975,
+      "address": "9-T, VADAMADURAI ROAD, VEDASANDUR, DINDIGUL, Dindigul, Tamil Nadu, 624710, India",
+      "area": "9-T, VADAMADURAI ROAD, VEDASANDUR, DINDIGUL",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.528882,77.950975",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:03:50.626159+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

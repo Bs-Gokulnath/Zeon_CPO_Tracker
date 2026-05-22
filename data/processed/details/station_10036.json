@@ -1,0 +1,227 @@
+{
+  "station_id": 10036,
+  "station_detail": {
+    "station_id": 10036,
+    "station_name": "Statiq Hotel Paradise Jharmari Station",
+    "latitude": 30.425612,
+    "longitude": 76.778804,
+    "address": "Left to the Front Parking, Lohgarh, Mohali, Punjab, 134003, India",
+    "area": "Left to the Front Parking, Lohgarh",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.425612,76.778804",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8752 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.78,
+    "no_of_reviews": 771,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Lodging",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/lodging.png",
+        "map_id": 12708,
+        "id": 5
+      },
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 12709,
+        "id": 1
+      },
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 12710,
+        "id": 2
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 59215,
+        "price_with_currency": "₹ 24.15",
+        "price": 24.15,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 19772,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 19773,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 180.0,
+        "charger_name": "Hotel Paradise DC Charger",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 1,
+        "2": 0,
+        "3": 3,
+        "4": 10,
+        "5": 86
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Mohali",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 180.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10036,
+      "station_name": "Statiq Hotel Paradise Jharmari Station",
+      "latitude": 30.425612,
+      "longitude": 76.778804,
+      "address": "Left to the Front Parking, Lohgarh, Mohali, Punjab, 134003, India",
+      "area": "Left to the Front Parking, Lohgarh",
+      "avg_review_rating": 4.78,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.425612,76.778804",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8889,
+      "station_name": "HR | Ambala | Regenta Central City Vilas Palace",
+      "latitude": 30.407087,
+      "longitude": 76.785145,
+      "address": "9th Milestone LHS, Ambala, Haryana, 134007, India",
+      "area": "9th Milestone LHS",
+      "avg_review_rating": 4.86,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.407087,76.785145",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 14469,
+      "station_name": "Vardaan Fuel Park",
+      "latitude": 30.408708,
+      "longitude": 76.756397,
+      "address": "Devinagar, Ambala, Haryana, 134007, India",
+      "area": "Devinagar",
+      "avg_review_rating": 4.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.408708,76.756397",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12511,
+      "station_name": "ID(3ndvfa) Devi oil store",
+      "latitude": 30.397972,
+      "longitude": 76.753562,
+      "address": "Ghel Road, Ambala, Haryana, 134003, India",
+      "area": "Ghel Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.397972,76.753562",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 13268,
+      "station_name": "ID(7pq3sr) Mohinder Filling Station",
+      "latitude": 30.46073,
+      "longitude": 76.78777,
+      "address": "Sitarpur, Sitarpur, Punjab, 140501, India",
+      "area": "Sitarpur",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.46073,76.78777",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    24.15
+  ],
+  "scraped_at": "2026-05-21T08:07:54.383694+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

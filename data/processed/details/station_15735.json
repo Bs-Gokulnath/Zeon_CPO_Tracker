@@ -1,0 +1,238 @@
+{
+  "station_id": 15735,
+  "station_detail": {
+    "station_id": 15735,
+    "station_name": "Mannat Haveli Murthal (Charge_IN by Mahindra)",
+    "latitude": 29.065828,
+    "longitude": 77.062814,
+    "address": "52nd Milestone N.H -1, Sonipat, Haryana, 131027, India",
+    "area": "52nd Milestone N.H -1",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.065828,77.062814",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8762 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 9,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/MnM_Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 69366,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35017,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 35018,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 360.0,
+        "charger_name": "MPC Mannat Haveli Murthal (Charge_IN by Mahindra) 1",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 69367,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35019,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 35020,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 360.0,
+        "charger_name": "MPC Mannat Haveli Murthal (Charge_IN by Mahindra) 2",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Sonipat",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 360.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15735,
+      "station_name": "Mannat Haveli Murthal (Charge_IN by Mahindra)",
+      "latitude": 29.065828,
+      "longitude": 77.062814,
+      "address": "52nd Milestone N.H -1, Sonipat, Haryana, 131027, India",
+      "area": "52nd Milestone N.H -1",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.065828,77.062814",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mahindra_Branding_logo.png"
+    },
+    {
+      "id": 8040,
+      "station_name": "EarthtronEV Mannat Haveli Murthal",
+      "latitude": 29.066642,
+      "longitude": 77.0634,
+      "address": "Mannat Haveli Murthal 52th Mile Stone NH-1, Gurgaon, Haryana, 131027, India",
+      "area": "Mannat Haveli Murthal 52th Mile Stone NH-1",
+      "avg_review_rating": 3.97,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.066642,77.0634",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15089,
+      "station_name": "Statiq x TATA.ev Haveli Murthal Sonipat Station",
+      "latitude": 29.068394,
+      "longitude": 77.060903,
+      "address": "Haveli Restaurant And Resorts Limited, G.T. Road, Near Village Bhigan, Near Village Bhigan, Sonipat, Haryana, 131001, India",
+      "area": "Haveli Restaurant And Resorts Limited, G.T. Road, Near Village Bhigan, Near Village Bhigan",
+      "avg_review_rating": 4.66,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.068394,77.060903",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 10732,
+      "station_name": "2007709-FRIENDS FILLING STATION",
+      "latitude": 29.060858,
+      "longitude": 77.063484,
+      "address": "HASANPUR, NH1, NEAR SUKHDEV DHABA, Sonipat, Haryana, 131001, India",
+      "area": "HASANPUR, NH1, NEAR SUKHDEV DHABA",
+      "avg_review_rating": 4.49,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.060858,77.063484",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 8750,
+      "station_name": "Ecoplug Mohan Kamboj  Dhaba & Hotel",
+      "latitude": 29.053211,
+      "longitude": 77.06568,
+      "address": "NH-44, Sonipat, Haryana, 131039, India",
+      "area": "NH-44",
+      "avg_review_rating": 4.4,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.053211,77.06568",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 2,
+  "ac_prices": [],
+  "dc_prices": [
+    20.0,
+    20.0
+  ],
+  "scraped_at": "2026-05-21T08:16:40.339726+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

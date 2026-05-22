@@ -1,0 +1,231 @@
+{
+  "station_id": 11267,
+  "station_detail": {
+    "station_id": 11267,
+    "station_name": "Hotel The Blackstone",
+    "latitude": 26.835682,
+    "longitude": 75.755928,
+    "address": "Address A-20, Iskcon Rd, Ganesh Nagar, Radha kunj, Mansarovar, Iskcon Rd, Jaipur, Rajasthan, 302020, Jaipur, Rajasthan, 302020, India",
+    "area": "Address A-20, Iskcon Rd, Ganesh Nagar, Radha kunj, Mansarovar, Iskcon Rd, Jaipur, Rajasthan, 302020",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.835682,75.755928",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8606 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.86,
+    "no_of_reviews": 1845,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": "Near Hyatt Regency",
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 13221,
+        "id": 1
+      },
+      {
+        "type": "Car Care",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/car+care+(1).png",
+        "map_id": 13222,
+        "id": 4
+      },
+      {
+        "type": "Lodging",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/lodging.png",
+        "map_id": 13223,
+        "id": 5
+      },
+      {
+        "type": "Wifi",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/wifi+.png",
+        "map_id": 13224,
+        "id": 6
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 61675,
+        "price_with_currency": "₹ 19.99",
+        "price": 19.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23498,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 23499,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 240.0,
+        "charger_name": "Hotel The Blackstone DC Charger",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 2,
+        "2": 0,
+        "3": 1,
+        "4": 6,
+        "5": 92
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Jaipur",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 240.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11267,
+      "station_name": "Hotel The Blackstone",
+      "latitude": 26.835682,
+      "longitude": 75.755928,
+      "address": "Address A-20, Iskcon Rd, Ganesh Nagar, Radha kunj, Mansarovar, Iskcon Rd, Jaipur, Rajasthan, 302020, Jaipur, Rajasthan, 302020, India",
+      "area": "Address A-20, Iskcon Rd, Ganesh Nagar, Radha kunj, Mansarovar, Iskcon Rd, Jaipur, Rajasthan, 302020",
+      "avg_review_rating": 4.86,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.835682,75.755928",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 15374,
+      "station_name": "Ecoplug Hotel The Blackstone",
+      "latitude": 26.835659,
+      "longitude": 75.757278,
+      "address": "A-20, Jaipur, Rajasthan, 302020, India",
+      "area": "A-20",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.835659,75.757278",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 15076,
+      "station_name": "GLIDA Mangyawas, Jaipur",
+      "latitude": 26.858027,
+      "longitude": 75.728242,
+      "address": "Plot no 34A, Jaipur, Rajasthan, 302020, India",
+      "area": "Plot no 34A",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.858027,75.728242",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    },
+    {
+      "id": 2842,
+      "station_name": "REIL House Charging Station",
+      "latitude": 26.869108,
+      "longitude": 75.7621,
+      "address": "Shipra Path, Jaipur, Rajasthan, 302020, India",
+      "area": "Shipra Path",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.869108,75.7621",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 9903,
+      "station_name": "Clarion Bella Casa Ctiyplex, Ashram Marg, Tonk Road, Choti Chopad, Chandrakala Colony, Durgapura,",
+      "latitude": 26.840587,
+      "longitude": 75.79452,
+      "address": "Ctiyplex, Jaipur, Rajasthan, 302018, India",
+      "area": "Ctiyplex",
+      "avg_review_rating": 4.8,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.840587,75.79452",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    19.99
+  ],
+  "scraped_at": "2026-05-21T08:10:13.472656+00:00",
+  "parse_success": true,
+  "missing_fields": [],
+  "coverage_pct": 100.0
+}

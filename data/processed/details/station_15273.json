@@ -1,0 +1,204 @@
+{
+  "station_id": 15273,
+  "station_detail": {
+    "station_id": 15273,
+    "station_name": "M/s. CHAHI PETROLEUM",
+    "latitude": 22.121434,
+    "longitude": 73.407056,
+    "address": "\"Village/Taluka-DABHOI, Vadodara \", Vadodara, Gujarat, 391110, India",
+    "area": "\"Village/Taluka-DABHOI, Vadodara \"",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.121434,73.407056",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8311 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 2.9,
+    "no_of_reviews": 10,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68453,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33588,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 33589,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "M/s. CHAHI PETROLEUM",
+        "last_used_on": "29/03/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 50,
+        "2": 0,
+        "3": 0,
+        "4": 10,
+        "5": 40
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Vadodara",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15273,
+      "station_name": "M/s. CHAHI PETROLEUM",
+      "latitude": 22.121434,
+      "longitude": 73.407056,
+      "address": "\"Village/Taluka-DABHOI, Vadodara \", Vadodara, Gujarat, 391110, India",
+      "area": "\"Village/Taluka-DABHOI, Vadodara \"",
+      "avg_review_rating": 2.9,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.121434,73.407056",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7599,
+      "station_name": "2017469-NANDINI PETROLEUM",
+      "latitude": 22.175864,
+      "longitude": 73.338207,
+      "address": "DABHOI, Dabhoi, Gujarat, 391107, India",
+      "area": "DABHOI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.175864,73.338207",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10347,
+      "station_name": "Orsang Camp",
+      "latitude": 22.001564,
+      "longitude": 73.477857,
+      "address": "Orsang Gamdi, Dabhoi, Gujarat, 391105, India",
+      "area": "Orsang Gamdi",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.001564,73.477857",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15386,
+      "station_name": "Highway Eats (Charge_IN by Mahindra)",
+      "latitude": 22.193735,
+      "longitude": 73.191238,
+      "address": "Highway Eats, Vadodara, Gujarat, 391243, India",
+      "area": "Highway Eats",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.193735,73.191238",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mahindra_Branding_logo.png"
+    },
+    {
+      "id": 13461,
+      "station_name": "ID(2amzdv)Vivek roadways",
+      "latitude": 22.20326,
+      "longitude": 73.19219,
+      "address": "National Highway 48, Alamgir, Gujarat, 391243, India",
+      "area": "National Highway 48",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.20326,73.19219",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:15:35.688970+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

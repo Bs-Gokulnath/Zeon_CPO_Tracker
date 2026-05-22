@@ -1,0 +1,238 @@
+{
+  "station_id": 8489,
+  "station_detail": {
+    "station_id": 8489,
+    "station_name": "MH |  Ahmednagar | Hotel Sri Datta Digambar",
+    "latitude": 19.584392,
+    "longitude": 75.000214,
+    "address": " State Highway 60, Ahmednagar, Maharashtra, 414603, India",
+    "area": " State Highway 60",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.584392,75.000214",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8447 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.0,
+    "no_of_reviews": 9,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 56969,
+        "price_with_currency": "₹ 22.0",
+        "price": 22.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16042,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 16043,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 240.0,
+        "charger_name": "TCZ MH |  Ahmednagar | Hotel Sri Datta Digambar 1",
+        "last_used_on": "19/05/2026"
+      },
+      {
+        "charger_id": 57817,
+        "price_with_currency": "₹ 22.0",
+        "price": 22.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 17438,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 17439,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "TCZ MH |  Ahmednagar | Hotel Sri Datta Digambar 2",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 11,
+        "2": 0,
+        "3": 22,
+        "4": 11,
+        "5": 56
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ahmednagar",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 240.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8489,
+      "station_name": "MH |  Ahmednagar | Hotel Sri Datta Digambar",
+      "latitude": 19.584392,
+      "longitude": 75.000214,
+      "address": " State Highway 60, Ahmednagar, Maharashtra, 414603, India",
+      "area": " State Highway 60",
+      "avg_review_rating": 4.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.584392,75.000214",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 13152,
+      "station_name": "ID(d3afe2) Hira Petroleum",
+      "latitude": 19.593899,
+      "longitude": 75.007201,
+      "address": "Aurangabad - Ahmednagar - Pune Highway, Jalke Bk., Maharashtra, 414603, India",
+      "area": "Aurangabad - Ahmednagar - Pune Highway",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.593899,75.007201",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 5013,
+      "station_name": "GLIDA Hotel Heritage INN",
+      "latitude": 19.691737,
+      "longitude": 75.071597,
+      "address": "No.237 Nagar Road, Aurangabad, Maharashtra, 431136, India",
+      "area": "No.237 Nagar Road",
+      "avg_review_rating": 4.4,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.691737,75.071597",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/unavailable+select.png"
+    },
+    {
+      "id": 10159,
+      "station_name": "2000842-SHYAM AUTOMOBILES",
+      "latitude": 19.712371,
+      "longitude": 74.986028,
+      "address": "GUT NO. 16, VAIJAPUR ROAD, NEAR 33 KVA SUB STATION, JAKMATHA,, Aurangabad, Maharashtra, 431109, India",
+      "area": "GUT NO. 16, VAIJAPUR ROAD, NEAR 33 KVA SUB STATION, JAKMATHA,",
+      "avg_review_rating": 4.92,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.712371,74.986028",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13380,
+      "station_name": "ID(r5kkba) KHURANA PETROLEUM",
+      "latitude": 19.722287,
+      "longitude": 75.110807,
+      "address": "Dhoregaon, Dhoregaon, Maharashtra, 431133, India",
+      "area": "Dhoregaon",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.722287,75.110807",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 2,
+  "ac_prices": [],
+  "dc_prices": [
+    22.0,
+    22.0
+  ],
+  "scraped_at": "2026-05-21T08:04:43.192203+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

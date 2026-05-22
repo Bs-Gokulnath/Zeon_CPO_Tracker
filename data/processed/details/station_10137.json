@@ -1,0 +1,204 @@
+{
+  "station_id": 10137,
+  "station_detail": {
+    "station_id": 10137,
+    "station_name": "Hyundai Hotel Saravana Bhavan Charging Station",
+    "latitude": 12.357198,
+    "longitude": 78.434708,
+    "address": "3/53, Pallathukottai, Goundanoor Village, Post Pochampally Taluk, Krishnagiri, Tamil Nadu, 635306, India",
+    "area": "3/53, Pallathukottai, Goundanoor Village, Post Pochampally Taluk",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.357198,78.434708",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8761 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.64,
+    "no_of_reviews": 463,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-banner-2.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 59364,
+        "price_with_currency": "₹ 26.0",
+        "price": 26.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 19976,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 19977,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Hyundai Hotel Saravana Bhavan DC Charger",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 2,
+        "2": 2,
+        "3": 2,
+        "4": 21,
+        "5": 74
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Krishnagiri",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10137,
+      "station_name": "Hyundai Hotel Saravana Bhavan Charging Station",
+      "latitude": 12.357198,
+      "longitude": 78.434708,
+      "address": "3/53, Pallathukottai, Goundanoor Village, Post Pochampally Taluk, Krishnagiri, Tamil Nadu, 635306, India",
+      "area": "3/53, Pallathukottai, Goundanoor Village, Post Pochampally Taluk",
+      "avg_review_rating": 4.64,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.357198,78.434708",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-online-not-selected.png"
+    },
+    {
+      "id": 13230,
+      "station_name": "ID(k6f6pq) Asha Fuels",
+      "latitude": 12.341375,
+      "longitude": 78.46477,
+      "address": "Rengampatti, Rengampatti, Tamil Nadu, 635306, India",
+      "area": "Rengampatti",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.341375,78.46477",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 8903,
+      "station_name": "AL JABBAR FUELS",
+      "latitude": 12.46997,
+      "longitude": 78.337534,
+      "address": "VILL. JAGADEVIPALAYAM,KRISHNAGIRI dist, Krishnagiri, Tamil Nadu, 635109, India",
+      "area": "VILL. JAGADEVIPALAYAM,KRISHNAGIRI dist",
+      "avg_review_rating": 4.47,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.46997,78.337534",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12845,
+      "station_name": "ID(bxgsha)Five Star fuels",
+      "latitude": 12.477438,
+      "longitude": 78.328335,
+      "address": "National Highway 77, Krishnagiri, Tamil Nadu, 635203, India",
+      "area": "National Highway 77",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.477438,78.328335",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 6720,
+      "station_name": "POOJA AGENCY",
+      "latitude": 12.487882,
+      "longitude": 78.563483,
+      "address": "\"SY NO 99B/22A, NO.164/7, KRISHNAGIRI MAIN ROAD, TIRUPATHUR,  \", Thiruporur, Tamil Nadu, 635601, India",
+      "area": "\"SY NO 99B/22A, NO.164/7, KRISHNAGIRI MAIN ROAD, TIRUPATHUR,  \"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.487882,78.563483",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    26.0
+  ],
+  "scraped_at": "2026-05-21T08:07:55.843935+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

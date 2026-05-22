@@ -1,0 +1,204 @@
+{
+  "station_id": 6731,
+  "station_detail": {
+    "station_id": 6731,
+    "station_name": "2022301-RONAK PETROLEUM",
+    "latitude": 22.55007,
+    "longitude": 71.216373,
+    "address": "VILLAGE JAMVADI, TALUKA THANGADH, SURENDRANAGAR, Surendranagar, Gujarat, 363530, India",
+    "area": "VILLAGE JAMVADI, TALUKA THANGADH, SURENDRANAGAR",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.55007,71.216373",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8092 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 12,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54273,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 12401,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 12402,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "2022301-RONAK PETROLEUM  EV - DC",
+        "last_used_on": "17/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Surendranagar",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 6731,
+      "station_name": "2022301-RONAK PETROLEUM",
+      "latitude": 22.55007,
+      "longitude": 71.216373,
+      "address": "VILLAGE JAMVADI, TALUKA THANGADH, SURENDRANAGAR, Surendranagar, Gujarat, 363530, India",
+      "area": "VILLAGE JAMVADI, TALUKA THANGADH, SURENDRANAGAR",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.55007,71.216373",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 7398,
+      "station_name": "2010831-BP-CHOTILA",
+      "latitude": 22.476984,
+      "longitude": 71.279983,
+      "address": "CHOTILA, Chotila, Gujarat, 360311, India",
+      "area": "CHOTILA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.476984,71.279983",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13149,
+      "station_name": "ID(pmsvhb) Adhoc Vijay Filling Station/Harekrishna Petroleum",
+      "latitude": 22.451408,
+      "longitude": 71.247527,
+      "address": "Rajkot - Ahmedabad Highway, Magharikhada, Gujarat, 363520, India",
+      "area": "Rajkot - Ahmedabad Highway",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.451408,71.247527",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 7869,
+      "station_name": "SHIV KRUPA TRANSPORT",
+      "latitude": 22.421185,
+      "longitude": 71.180699,
+      "address": "RO AT NH8, VILLAGE NANI MOLD, Chotila, Gujarat, 363520, India",
+      "area": "RO AT NH8, VILLAGE NANI MOLD",
+      "avg_review_rating": 4.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.421185,71.180699",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8145,
+      "station_name": "GLIDA Maruti Hotel & Resort",
+      "latitude": 22.416981,
+      "longitude": 71.142099,
+      "address": "Survey No, Rajkot, Gujarat, 363520, India",
+      "area": "Survey No",
+      "avg_review_rating": 4.6,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.416981,71.142099",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:01:40.699976+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,204 @@
+{
+  "station_id": 8547,
+  "station_detail": {
+    "station_id": 8547,
+    "station_name": "KANCHI SEETHARAMAIAH & SO ",
+    "latitude": 17.10108,
+    "longitude": 80.614677,
+    "address": "TIRUVURU VILLAGETIRUVURUTHIRUVURUTHIRUVUR521235, Tiruchanur, Andhra Pradesh, 521235, India",
+    "area": "TIRUVURU VILLAGETIRUVURUTHIRUVURUTHIRUVUR521235",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.10108,80.614677",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9020 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.9,
+    "no_of_reviews": 10,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 57046,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16173,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 16174,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "finishing"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "KANCHI SEETHARAMAIAH & SO    EV - DC",
+        "last_used_on": "07/11/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 10,
+        "5": 90
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Tiruchanur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8547,
+      "station_name": "KANCHI SEETHARAMAIAH & SO ",
+      "latitude": 17.10108,
+      "longitude": 80.614677,
+      "address": "TIRUVURU VILLAGETIRUVURUTHIRUVURUTHIRUVUR521235, Tiruchanur, Andhra Pradesh, 521235, India",
+      "area": "TIRUVURU VILLAGETIRUVURUTHIRUVURUTHIRUVUR521235",
+      "avg_review_rating": 4.9,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.10108,80.614677",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10815,
+      "station_name": "JAYA RAVI FILLING STATION",
+      "latitude": 17.200695,
+      "longitude": 80.63997,
+      "address": "KHAMMAM, Khammam, Telangana, 507302, India",
+      "area": "KHAMMAM",
+      "avg_review_rating": 4.93,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.200695,80.63997",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 10810,
+      "station_name": "SRI SAI BALAJI FILLING STATION",
+      "latitude": 17.18048,
+      "longitude": 80.391923,
+      "address": "KHAMMAM, Khammam, Telangana, 507165, India",
+      "area": "KHAMMAM",
+      "avg_review_rating": 4.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.18048,80.391923",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8603,
+      "station_name": "SRI VENKATESWARA AGRO",
+      "latitude": 17.062949,
+      "longitude": 80.983369,
+      "address": "ELURU, Eluru, Andhra Pradesh, 534460, India",
+      "area": "ELURU",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.062949,80.983369",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10818,
+      "station_name": "INDIRA PETROLEUM",
+      "latitude": 17.23745,
+      "longitude": 80.2416,
+      "address": "Warangal Retail Territory/RO/DO, Khammam, Telangana, 507318, India",
+      "area": "Warangal Retail Territory/RO/DO",
+      "avg_review_rating": 4.86,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.23745,80.2416",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:04:49.107953+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

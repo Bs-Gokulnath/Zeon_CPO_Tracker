@@ -1,0 +1,198 @@
+{
+  "station_id": 15159,
+  "station_detail": {
+    "station_id": 15159,
+    "station_name": "M/s. G S FILLING STATION",
+    "latitude": 27.13059,
+    "longitude": 77.832699,
+    "address": "\"VILLAGE DAVLI LHS BW KM STONE 14-21 ON NH-AB AGRA BYPASS ROAD PO 283105 AGRA,\", Agra, Uttar Pradesh, 283105, India",
+    "area": "\"VILLAGE DAVLI LHS BW KM STONE 14-21 ON NH-AB AGRA BYPASS ROAD PO 283105 AGRA,\"",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.13059,77.832699",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8815 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68255,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33270,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 33271,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "M/s. G S FILLING STATION",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Agra",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15159,
+      "station_name": "M/s. G S FILLING STATION",
+      "latitude": 27.13059,
+      "longitude": 77.832699,
+      "address": "\"VILLAGE DAVLI LHS BW KM STONE 14-21 ON NH-AB AGRA BYPASS ROAD PO 283105 AGRA,\", Agra, Uttar Pradesh, 283105, India",
+      "area": "\"VILLAGE DAVLI LHS BW KM STONE 14-21 ON NH-AB AGRA BYPASS ROAD PO 283105 AGRA,\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.13059,77.832699",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7318,
+      "station_name": "2008220-ANIL HIGHWAY FILLING STATION",
+      "latitude": 27.156108,
+      "longitude": 77.905532,
+      "address": "AGRA, Agra, Uttar Pradesh, 283125, India",
+      "area": "AGRA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.156108,77.905532",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13341,
+      "station_name": "ID(64g5ha) HARIT FILLING CENTER",
+      "latitude": 27.241104,
+      "longitude": 77.8321,
+      "address": "National Highway 19, Arsena, Uttar Pradesh, 283101, India",
+      "area": "National Highway 19",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.241104,77.8321",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 10174,
+      "station_name": "UP | Agra | Prime Star",
+      "latitude": 27.221162,
+      "longitude": 77.916974,
+      "address": "MB | Prime Star | Artauni, Agra, Uttar Pradesh, 282007, India",
+      "area": "MB | Prime Star | Artauni",
+      "avg_review_rating": 4.88,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.221162,77.916974",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mercedes_Branding_Logo.png"
+    },
+    {
+      "id": 7324,
+      "station_name": "2008321-PRATAP FILLING STATION",
+      "latitude": 27.252334,
+      "longitude": 77.82145,
+      "address": "AGRA, Agra, Uttar Pradesh, 282007, India",
+      "area": "AGRA",
+      "avg_review_rating": 4.39,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.252334,77.82145",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:15:15.491076+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,204 @@
+{
+  "station_id": 8482,
+  "station_detail": {
+    "station_id": 8482,
+    "station_name": "HR | Sohna | Westin Sohna Resort & Spa",
+    "latitude": 28.237639,
+    "longitude": 77.148268,
+    "address": "\" The Westin Sohna Resort & Spa  , Gurugram, Haryana, 122103, India",
+    "area": "\" The Westin Sohna Resort & Spa  ",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.237639,77.148268",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8760 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.66,
+    "no_of_reviews": 35,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 56961,
+        "price_with_currency": "₹ 22.0",
+        "price": 22.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16026,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 16028,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "TCZ HR | Sohna | Westin Sohna Resort & Spa 1",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 6,
+        "2": 0,
+        "3": 0,
+        "4": 11,
+        "5": 83
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Gurugram",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8482,
+      "station_name": "HR | Sohna | Westin Sohna Resort & Spa",
+      "latitude": 28.237639,
+      "longitude": 77.148268,
+      "address": "\" The Westin Sohna Resort & Spa  , Gurugram, Haryana, 122103, India",
+      "area": "\" The Westin Sohna Resort & Spa  ",
+      "avg_review_rating": 4.66,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.237639,77.148268",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 15413,
+      "station_name": "M/S Shri Chand & Sons",
+      "latitude": 28.242136,
+      "longitude": 77.072209,
+      "address": "Sohna , On sohna - palwal rd , dist Gurugram, Gurugram, Haryana, 122103, India",
+      "area": "Sohna , On sohna - palwal rd , dist Gurugram",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.242136,77.072209",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7145,
+      "station_name": "2003308-SIRICHAND & SONS",
+      "latitude": 28.242133,
+      "longitude": 77.072181,
+      "address": "SOHNA, Sohna, Haryana, 122103, India",
+      "area": "SOHNA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.242133,77.072181",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10411,
+      "station_name": "SHRI CHAND & SONS",
+      "latitude": 28.242058,
+      "longitude": 77.072165,
+      "address": "BPCL, SOHNA PALWAL ROAD, SOHNA GURGAON., Sohna, Haryana, 122103, India",
+      "area": "BPCL, SOHNA PALWAL ROAD, SOHNA GURGAON.",
+      "avg_review_rating": 4.57,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.242058,77.072165",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8487,
+      "station_name": "HR | Sohna | JMV Hyundai",
+      "latitude": 28.304061,
+      "longitude": 77.066065,
+      "address": "Sohna - Gurgaon Rd, Sohna, Haryana, 122102, India",
+      "area": "Sohna - Gurgaon Rd",
+      "avg_review_rating": 4.55,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.304061,77.066065",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    22.0
+  ],
+  "scraped_at": "2026-05-21T08:04:39.741721+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,199 @@
+{
+  "station_id": 10827,
+  "station_detail": {
+    "station_id": 10827,
+    "station_name": "EESL Statiq Khanna Market Station 1",
+    "latitude": 28.580623,
+    "longitude": 77.22102,
+    "address": "Khanna Market Rd, Aliganj, Block 14, Lodi Colony, New Delhi, Delhi, 110003, India",
+    "area": "Khanna Market Rd, Aliganj, Block 14, Lodi Colony",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.580623,77.22102",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8771 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 4.46,
+    "no_of_reviews": 24,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 60813,
+        "price_with_currency": "₹ 10.0",
+        "price": 10.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22150,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "EESL Statiq Khanna Market Charger",
+        "last_used_on": "11/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 4,
+        "2": 4,
+        "3": 4,
+        "4": 17,
+        "5": 71
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "New Delhi",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 22.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10827,
+      "station_name": "EESL Statiq Khanna Market Station 1",
+      "latitude": 28.580623,
+      "longitude": 77.22102,
+      "address": "Khanna Market Rd, Aliganj, Block 14, Lodi Colony, New Delhi, Delhi, 110003, India",
+      "area": "Khanna Market Rd, Aliganj, Block 14, Lodi Colony",
+      "avg_review_rating": 4.46,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.580623,77.22102",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 14465,
+      "station_name": "EESL Statiq Palika Maternity Hospital Statiq",
+      "latitude": 28.5838,
+      "longitude": 77.222,
+      "address": "Palika Maternity Hospital, Block 11, Near Khanna Market, New Delhi, Delhi, 110003, India",
+      "area": "Palika Maternity Hospital, Block 11, Near Khanna Market",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.5838,77.222",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/default.png"
+    },
+    {
+      "id": 10828,
+      "station_name": "EESL Statiq Khanna Market Station 2",
+      "latitude": 28.584557,
+      "longitude": 77.220445,
+      "address": "Khanna Market Rd, Block C 3, Lodi Colony, New Delhi, Delhi, 110003, India",
+      "area": "Khanna Market Rd, Block C 3, Lodi Colony",
+      "avg_review_rating": 4.36,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.584557,77.220445",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 2862,
+      "station_name": "Statiq BSES Hub Lodhi Colony",
+      "latitude": 28.587475,
+      "longitude": 77.226334,
+      "address": "23, Lodhi Road, New Delhi, Delhi, 110003, India",
+      "area": "23, Lodhi Road",
+      "avg_review_rating": 4.73,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.587475,77.226334",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 11745,
+      "station_name": "JLN Stadium 3019",
+      "latitude": 28.5797,
+      "longitude": 77.2305,
+      "address": "Baba Banda Singh Bahadur Setu, New Delhi, Delhi, 110003, India",
+      "area": "Baba Banda Singh Bahadur Setu",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.5797,77.2305",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    10.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:09:17.455197+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

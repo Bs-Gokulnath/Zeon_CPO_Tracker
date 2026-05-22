@@ -1,0 +1,198 @@
+{
+  "station_id": 15576,
+  "station_detail": {
+    "station_id": 15576,
+    "station_name": "M/s. PATEL FILLING STATION",
+    "latitude": 27.225998,
+    "longitude": 78.645036,
+    "address": "VILLAGE AKBARPUR KUTAKPUR ETAH - SHIKOHABAD ROAD SH PO 283136 JASRANA,, Jasrana, Uttar Pradesh, 283136, India",
+    "area": "VILLAGE AKBARPUR KUTAKPUR ETAH - SHIKOHABAD ROAD SH PO 283136 JASRANA,",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.225998,78.645036",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8896 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 69015,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34461,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 34462,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "M/s. PATEL FILLING STATION",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Jasrana",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15576,
+      "station_name": "M/s. PATEL FILLING STATION",
+      "latitude": 27.225998,
+      "longitude": 78.645036,
+      "address": "VILLAGE AKBARPUR KUTAKPUR ETAH - SHIKOHABAD ROAD SH PO 283136 JASRANA,, Jasrana, Uttar Pradesh, 283136, India",
+      "area": "VILLAGE AKBARPUR KUTAKPUR ETAH - SHIKOHABAD ROAD SH PO 283136 JASRANA,",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.225998,78.645036",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15498,
+      "station_name": "K.P. SINGH AND SONS FILLING STATION",
+      "latitude": 27.14104,
+      "longitude": 78.604888,
+      "address": "\" BHARAT PETROLEUM DEALERS VILLAGE DAKHINARA ETAH - SHIKOHABAD ROAD PO 205135 DAKHINARA,\", Firozabad, Uttar Pradesh, 205262, India",
+      "area": "\" BHARAT PETROLEUM DEALERS VILLAGE DAKHINARA ETAH - SHIKOHABAD ROAD PO 205135 DAKHINARA,\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.14104,78.604888",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15502,
+      "station_name": "M.R. FUELS",
+      "latitude": 27.118395,
+      "longitude": 78.618337,
+      "address": "\" BHARAT PETROLEUM DEALERS SHIKOHABAD SHIKOHABAD PO 283135 SHIKOHABAD,\", Mainpuri, Uttar Pradesh, 205303, India",
+      "area": "\" BHARAT PETROLEUM DEALERS SHIKOHABAD SHIKOHABAD PO 283135 SHIKOHABAD,\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.118395,78.618337",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15500,
+      "station_name": "ANGNA SERVICE STATION",
+      "latitude": 27.082711,
+      "longitude": 78.632327,
+      "address": "\"BHARAT PETROLEUM DEALERS VILLAGE SUMMERPUR MAUZA - DHATRI, TEHSIL - SHIKOHABAD PO 205135 PARGANA TAHSIL SHIKOHABAD,\", Firozabad, Uttar Pradesh, 205001, India",
+      "area": "\"BHARAT PETROLEUM DEALERS VILLAGE SUMMERPUR MAUZA - DHATRI, TEHSIL - SHIKOHABAD PO 205135 PARGANA TAHSIL SHIKOHABAD,\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.082711,78.632327",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7331,
+      "station_name": "2008381-DINESH FILLING STATION",
+      "latitude": 27.012504,
+      "longitude": 78.752579,
+      "address": "SIRSAGANJ, Sirsaganj, Uttar Pradesh, 205151, India",
+      "area": "SIRSAGANJ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.012504,78.752579",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:16:15.753333+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

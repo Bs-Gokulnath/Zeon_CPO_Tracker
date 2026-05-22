@@ -1,0 +1,204 @@
+{
+  "station_id": 12187,
+  "station_detail": {
+    "station_id": 12187,
+    "station_name": "Krishna Volvo Vijayawada (Public)",
+    "latitude": 16.510724,
+    "longitude": 80.729307,
+    "address": "Door No - 66/1, Airport Road, Opp to Sri Chaitanya Colleges, Main Road Nidamanuru, Door No - 66/1, Airport Road, Opp to Sri Chaitanya Colleges, Main Road Nidamanuru, Vijayawada, Andhra Pradesh, 521104, Vijayawada, Andhra Pradesh, 521104, India",
+    "area": "Door No - 66/1, Airport Road, Opp to Sri Chaitanya Colleges, Main Road Nidamanuru, Door No - 66/1, Airport Road, Opp to Sri Chaitanya Colleges, Main Road Nidamanuru, Vijayawada, Andhra Pradesh, 521104",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.510724,80.729307",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9029 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.86,
+    "no_of_reviews": 57,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Volvo.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 63610,
+        "price_with_currency": "₹ 22.0",
+        "price": 22.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26572,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 26573,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Krishna Volvo Vijayawada",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 14,
+        "5": 86
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Vijayawada",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12187,
+      "station_name": "Krishna Volvo Vijayawada (Public)",
+      "latitude": 16.510724,
+      "longitude": 80.729307,
+      "address": "Door No - 66/1, Airport Road, Opp to Sri Chaitanya Colleges, Main Road Nidamanuru, Door No - 66/1, Airport Road, Opp to Sri Chaitanya Colleges, Main Road Nidamanuru, Vijayawada, Andhra Pradesh, 521104, Vijayawada, Andhra Pradesh, 521104, India",
+      "area": "Door No - 66/1, Airport Road, Opp to Sri Chaitanya Colleges, Main Road Nidamanuru, Door No - 66/1, Airport Road, Opp to Sri Chaitanya Colleges, Main Road Nidamanuru, Vijayawada, Andhra Pradesh, 521104",
+      "avg_review_rating": 4.86,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.510724,80.729307",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/volvo+default.png"
+    },
+    {
+      "id": 6668,
+      "station_name": "Statiq Yellowings ITC Vijayawada Station",
+      "latitude": 16.516985,
+      "longitude": 80.755219,
+      "address": "Gudavalli village, behind ashok leyland vijayawada rural Vijayawada,, Vijayawada, Andhra Pradesh, 754005, India",
+      "area": "Gudavalli village, behind ashok leyland vijayawada rural Vijayawada,",
+      "avg_review_rating": 4.99,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.516985,80.755219",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 8550,
+      "station_name": "SRI VANI BHAVANI FILLING STATION",
+      "latitude": 16.474153,
+      "longitude": 80.713156,
+      "address": "DOOR NO 7-149, VIJAYAWADA-MACHILIPATNAM NH NO. 9PORANKIPORANKIPENNAMALURU521137, Krishna, Andhra Pradesh, 521137, India",
+      "area": "DOOR NO 7-149, VIJAYAWADA-MACHILIPATNAM NH NO. 9PORANKIPORANKIPENNAMALURU521137",
+      "avg_review_rating": 4.75,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.474153,80.713156",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 8695,
+      "station_name": "TC I  INDIA  LTD",
+      "latitude": 16.508413,
+      "longitude": 80.67751,
+      "address": "NTR, Vijayawada, Andhra Pradesh, 520007, India",
+      "area": "NTR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.508413,80.67751",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 6315,
+      "station_name": "chargeMOD | Montra 11 Vijayawada",
+      "latitude": 16.5146,
+      "longitude": 80.6702,
+      "address": "49-1-135E, Vijayawada, Andhra Pradesh, 520008, India",
+      "area": "49-1-135E",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.5146,80.6702",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(3).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    22.0
+  ],
+  "scraped_at": "2026-05-21T08:11:27.545978+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

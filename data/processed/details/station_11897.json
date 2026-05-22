@@ -1,0 +1,198 @@
+{
+  "station_id": 11897,
+  "station_detail": {
+    "station_id": 11897,
+    "station_name": "PURVAJ FUELS",
+    "latitude": 14.029028,
+    "longitude": 80.033911,
+    "address": "KOTA VILLAGE, KOTA MANDAL, Nellore, Andhra Pradesh, 524411, India",
+    "area": "KOTA VILLAGE, KOTA MANDAL",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=14.029028,80.033911",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8942 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 62914,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 25562,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 25563,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "PURVAJ FUELS",
+        "last_used_on": "10/02/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Nellore",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11897,
+      "station_name": "PURVAJ FUELS",
+      "latitude": 14.029028,
+      "longitude": 80.033911,
+      "address": "KOTA VILLAGE, KOTA MANDAL, Nellore, Andhra Pradesh, 524411, India",
+      "area": "KOTA VILLAGE, KOTA MANDAL",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=14.029028,80.033911",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8337,
+      "station_name": "Hyundai Sampoorna Bhavan Charging Station",
+      "latitude": 14.077779,
+      "longitude": 79.888895,
+      "address": "Plot no 148-1A,NH5 ROAD,BUDANAM,CHILLAKUR MANDAL,NELLORE,SRI POTTI SRIRAMULU NELLORE ,ANDHRA PRADESH, Nellore, Andhra Pradesh, 524410, India",
+      "area": "Plot no 148-1A,NH5 ROAD,BUDANAM,CHILLAKUR MANDAL,NELLORE,SRI POTTI SRIRAMULU NELLORE ,ANDHRA PRADESH",
+      "avg_review_rating": 4.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=14.077779,79.888895",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-online-not-selected.png"
+    },
+    {
+      "id": 8814,
+      "station_name": "SRI SRINIVASA FUELS",
+      "latitude": 14.12129,
+      "longitude": 79.871463,
+      "address": "CHILLAKUR VILLAGE, CHILLAKUR MANDAL, Tirupati, Andhra Pradesh, 524101, India",
+      "area": "CHILLAKUR VILLAGE, CHILLAKUR MANDAL",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=14.12129,79.871463",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13307,
+      "station_name": "ID(qexqz2)-Sri hari filling station,adhoc",
+      "latitude": 14.136871,
+      "longitude": 79.864476,
+      "address": "Chillakur, Chillakur, Andhra Pradesh, 524412, India",
+      "area": "Chillakur",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=14.136871,79.864476",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 8794,
+      "station_name": "VAISHNAVI FILLING STATION",
+      "latitude": 14.271431,
+      "longitude": 79.986091,
+      "address": "SRI POTTI SRIRAMULU, Nellore, Andhra Pradesh, 524321, India",
+      "area": "SRI POTTI SRIRAMULU",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=14.271431,79.986091",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:10:45.247010+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

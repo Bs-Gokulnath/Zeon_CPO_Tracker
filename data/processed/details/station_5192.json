@@ -1,0 +1,283 @@
+{
+  "station_id": 5192,
+  "station_detail": {
+    "station_id": 5192,
+    "station_name": "Statiq Ananta Udaipur Station 2",
+    "latitude": 24.571072,
+    "longitude": 73.624702,
+    "address": "Visitor Parking, Ananta, Udaipur, Village Bujhda, Tehsil Girwa, Road, Kodiyat, Udaipur, Rajasthan, Udaipur, Rajasthan, 313031, India",
+    "area": "Visitor Parking, Ananta, Udaipur, Village Bujhda, Tehsil Girwa, Road, Kodiyat, Udaipur, Rajasthan",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.571072,73.624702",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8364 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 4.5,
+    "no_of_reviews": 212,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 11751,
+        "id": 1
+      },
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 11752,
+        "id": 2
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 52242,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 10168,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 3,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "Ananta Udaipur BMW AC Charger 3",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 52243,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 10169,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "Ananta Udaipur BMW AC Charger 4",
+        "last_used_on": "20/05/2026"
+      },
+      {
+        "charger_id": 52244,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 10170,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "Ananta Udaipur BMW AC Charger 2",
+        "last_used_on": "19/05/2026"
+      },
+      {
+        "charger_id": 52246,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 10172,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "Ananta Udaipur BMW AC Charger 1",
+        "last_used_on": "19/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 5,
+        "2": 3,
+        "3": 6,
+        "4": 9,
+        "5": 77
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Udaipur",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 22.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 5192,
+      "station_name": "Statiq Ananta Udaipur Station 2",
+      "latitude": 24.571072,
+      "longitude": 73.624702,
+      "address": "Visitor Parking, Ananta, Udaipur, Village Bujhda, Tehsil Girwa, Road, Kodiyat, Udaipur, Rajasthan, Udaipur, Rajasthan, 313031, India",
+      "area": "Visitor Parking, Ananta, Udaipur, Village Bujhda, Tehsil Girwa, Road, Kodiyat, Udaipur, Rajasthan",
+      "avg_review_rating": 4.5,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.571072,73.624702",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 5184,
+      "station_name": "Statiq Ananta Udaipur Station 1",
+      "latitude": 24.570301,
+      "longitude": 73.62677,
+      "address": " Staff Parking,Ananta, Udaipur, Village Bujhda, Tehsil Girwa, Road, Kodiyat, Udaipur, Rajasthan , Udaipur, Rajasthan, 313031, India",
+      "area": " Staff Parking,Ananta, Udaipur, Village Bujhda, Tehsil Girwa, Road, Kodiyat, Udaipur, Rajasthan ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.570301,73.62677",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 15997,
+      "station_name": "Statiq Fairmont Udaipur Station",
+      "latitude": 24.55755,
+      "longitude": 73.650346,
+      "address": "Next To HP Gas Godown, Seesarma, Udaipur, Rajasthan, 313031, India",
+      "area": "Next To HP Gas Godown, Seesarma",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.55755,73.650346",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 12528,
+      "station_name": "ID(7f13d1)KAylan fuel centre",
+      "latitude": 24.562446,
+      "longitude": 73.655201,
+      "address": "National Highway 76A, Udaipur, Rajasthan, 313031, India",
+      "area": "National Highway 76A",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.562446,73.655201",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 9905,
+      "station_name": "Bamboo Saa Resort & Spa 12, Sajjangarh Rd, Harsh Nagar, Eklavya Colony,",
+      "latitude": 24.590865,
+      "longitude": 73.651533,
+      "address": "12, Udaipur, Rajasthan, 313001, India",
+      "area": "12",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.590865,73.651533",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    }
+  ],
+  "ac_count": 4,
+  "dc_count": 0,
+  "ac_prices": [
+    14.0,
+    14.0,
+    14.0,
+    14.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:01:03.745514+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

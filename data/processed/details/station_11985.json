@@ -1,0 +1,204 @@
+{
+  "station_id": 11985,
+  "station_detail": {
+    "station_id": 11985,
+    "station_name": "AJ FUELS",
+    "latitude": 10.515045,
+    "longitude": 78.213375,
+    "address": "95/5A4B1A, VILLAGE-NADUPATTY, THALUK-MANAPPARAI, DISTRICT-TRICHIRAPALLI, Tiruchirappalli, Tamil Nadu, 621315, India",
+    "area": "95/5A4B1A, VILLAGE-NADUPATTY, THALUK-MANAPPARAI, DISTRICT-TRICHIRAPALLI",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.515045,78.213375",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8729 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.22,
+    "no_of_reviews": 32,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 63046,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 25815,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 25816,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 90.0,
+        "charger_name": "AJ FUELS",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 16,
+        "2": 0,
+        "3": 6,
+        "4": 3,
+        "5": 75
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Tiruchirappalli",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 90.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11985,
+      "station_name": "AJ FUELS",
+      "latitude": 10.515045,
+      "longitude": 78.213375,
+      "address": "95/5A4B1A, VILLAGE-NADUPATTY, THALUK-MANAPPARAI, DISTRICT-TRICHIRAPALLI, Tiruchirappalli, Tamil Nadu, 621315, India",
+      "area": "95/5A4B1A, VILLAGE-NADUPATTY, THALUK-MANAPPARAI, DISTRICT-TRICHIRAPALLI",
+      "avg_review_rating": 4.22,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.515045,78.213375",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 12855,
+      "station_name": "ID(kior2q)Sri Mahalakshmi agencies",
+      "latitude": 10.556471,
+      "longitude": 78.31417,
+      "address": "Tiruchirappalli, Tiruchirappalli, Tamil Nadu, 621315, India",
+      "area": "Tiruchirappalli",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.556471,78.31417",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 7578,
+      "station_name": "2013554-CHINNAMMAL ENTERPRISES",
+      "latitude": 10.563411,
+      "longitude": 78.32585,
+      "address": "VAIYAMPATTI, Abiramam, Tamil Nadu, 621315, India",
+      "area": "VAIYAMPATTI",
+      "avg_review_rating": 4.9,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.563411,78.32585",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9416,
+      "station_name": "Vadamadurai Automobiles",
+      "latitude": 10.435777,
+      "longitude": 78.08655,
+      "address": "NO 6531, DINDIGUL-TRICHY RD, Vadamadurai, Dindigul, Tamil Nadu, 624802, India",
+      "area": "NO 6531, DINDIGUL-TRICHY RD, Vadamadurai",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.435777,78.08655",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10910,
+      "station_name": "M/s. Sivagami Enterprises",
+      "latitude": 10.456404,
+      "longitude": 78.453912,
+      "address": "Paluvanchi, Tiruchirapalli,, Virappanchatram, Tamil Nadu, 621305, India",
+      "area": "Paluvanchi, Tiruchirapalli,",
+      "avg_review_rating": 4.9,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.456404,78.453912",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:11:08.738855+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

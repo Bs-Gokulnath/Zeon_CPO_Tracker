@@ -1,0 +1,204 @@
+{
+  "station_id": 9683,
+  "station_detail": {
+    "station_id": 9683,
+    "station_name": "2004426-SANGAM AGENCIES",
+    "latitude": 16.75166,
+    "longitude": 74.42155,
+    "address": "HATKENANGLE, Kolhapur, Maharashtra, 416109, India",
+    "area": "HATKENANGLE",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.75166,74.42155",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8359 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.53,
+    "no_of_reviews": 57,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 58691,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 18994,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 18995,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "2004426-SANGAM AGENCIES",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 2,
+        "3": 7,
+        "4": 28,
+        "5": 63
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Kolhapur",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9683,
+      "station_name": "2004426-SANGAM AGENCIES",
+      "latitude": 16.75166,
+      "longitude": 74.42155,
+      "address": "HATKENANGLE, Kolhapur, Maharashtra, 416109, India",
+      "area": "HATKENANGLE",
+      "avg_review_rating": 4.53,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.75166,74.42155",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 14934,
+      "station_name": "chargeMOD | MAHARAJA EVCS | Kolhapur",
+      "latitude": 16.75893,
+      "longitude": 74.51609,
+      "address": "Sangali Kolhapur Road, Kolhapur, Maharashtra, 416101, India",
+      "area": "Sangali Kolhapur Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.75893,74.51609",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 13336,
+      "station_name": "ID(6cn4tt) Disha petrolinks",
+      "latitude": 16.74472,
+      "longitude": 74.323432,
+      "address": "Akabar Mohalla, Herle, Maharashtra, 416005, India",
+      "area": "Akabar Mohalla",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.74472,74.323432",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 15106,
+      "station_name": "MALI PETROLEUM",
+      "latitude": 16.660052,
+      "longitude": 74.36195,
+      "address": "Bharat Petroleum Dealer Gat.No1, Kolhapur Road Village -Pattan-Kodoli City Pattankodoli Distt. Kolhapur, Kolhapur, Maharashtra, 416110, India",
+      "area": "Bharat Petroleum Dealer Gat.No1, Kolhapur Road Village -Pattan-Kodoli City Pattankodoli Distt. Kolhapur",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.660052,74.36195",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 8338,
+      "station_name": "KHUD-KARAM PETROLEUM Ichalkaranji",
+      "latitude": 16.63191,
+      "longitude": 74.43572,
+      "address": "RENDAL ROAD, RENDAL CITY REDAL KOLHAPUR, Ichalkaranji, Maharashtra, 416143, India",
+      "area": "RENDAL ROAD, RENDAL CITY REDAL KOLHAPUR",
+      "avg_review_rating": 4.81,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.63191,74.43572",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:07:13.570574+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

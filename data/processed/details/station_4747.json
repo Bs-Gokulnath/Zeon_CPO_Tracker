@@ -1,0 +1,108 @@
+{
+  "station_id": 4747,
+  "station_detail": {
+    "station_id": 4747,
+    "station_name": "REIL P.G. VIRGINCAR(Abdul Adhoc) Station",
+    "latitude": 15.2719,
+    "longitude": 73.958511,
+    "address": "(A/C SERVICE STATION) SALCETE MARGAO ( CHALTA NO), Goa, Goa, 403601, India",
+    "area": "(A/C SERVICE STATION) SALCETE MARGAO ( CHALTA NO)",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.2719,73.958511",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8297 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/REIL/REIL_Banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 11454,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 51328,
+        "price_with_currency": "₹ 18.0",
+        "price": 18.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 8857,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 8858,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 3,
+            "connector_id": 8859,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 9.9,
+        "charger_name": "EV Charger AC001-10KW",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Goa",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 9.9,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    18.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T07:59:48.029971+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

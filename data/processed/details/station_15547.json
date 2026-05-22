@@ -1,0 +1,204 @@
+{
+  "station_id": 15547,
+  "station_detail": {
+    "station_id": 15547,
+    "station_name": "KHUSHVEER FILLING STATION",
+    "latitude": 27.267644,
+    "longitude": 74.330421,
+    "address": "RO AT BANTHRI ON SH-60, Jaipur, Rajasthan, 341023, India",
+    "area": "RO AT BANTHRI ON SH-60",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.267644,74.330421",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8472 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 3.71,
+    "no_of_reviews": 7,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68957,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34370,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 34371,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "KHUSHVEER FILLING STATION",
+        "last_used_on": "19/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 29,
+        "2": 0,
+        "3": 0,
+        "4": 14,
+        "5": 57
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Jaipur",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15547,
+      "station_name": "KHUSHVEER FILLING STATION",
+      "latitude": 27.267644,
+      "longitude": 74.330421,
+      "address": "RO AT BANTHRI ON SH-60, Jaipur, Rajasthan, 341023, India",
+      "area": "RO AT BANTHRI ON SH-60",
+      "avg_review_rating": 3.71,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.267644,74.330421",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 12679,
+      "station_name": "ID(99df9n)Prasun Filling Station",
+      "latitude": 27.417554,
+      "longitude": 74.556666,
+      "address": "Didwana-Ladnun Road, Didwana, Rajasthan, 341303, India",
+      "area": "Didwana-Ladnun Road",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.417554,74.556666",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 14498,
+      "station_name": "MANGALAM HIGHWAY FILLING STATION",
+      "latitude": 27.553006,
+      "longitude": 74.350603,
+      "address": "NAGAUR, Nagaur, Rajasthan, 341316, India",
+      "area": "NAGAUR",
+      "avg_review_rating": 4.93,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.553006,74.350603",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14504,
+      "station_name": "2013727-Tirupati highway centre",
+      "latitude": 27.557991,
+      "longitude": 74.441518,
+      "address": "HC5R+5JR Badela, Rajasthan, Ladnun, Rajasthan, 341306, India",
+      "area": "HC5R+5JR Badela, Rajasthan",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.557991,74.441518",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14503,
+      "station_name": "SIYAG FILLING STATION",
+      "latitude": 27.356345,
+      "longitude": 73.968126,
+      "address": "NAGAUR, Nagaur, Rajasthan, 341022, India",
+      "area": "NAGAUR",
+      "avg_review_rating": 3.29,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.356345,73.968126",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:16:07.924396+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

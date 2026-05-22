@@ -1,0 +1,208 @@
+{
+  "station_id": 8238,
+  "station_detail": {
+    "station_id": 8238,
+    "station_name": "M/s Manpur Agro Service",
+    "latitude": 26.939758,
+    "longitude": 76.544199,
+    "address": "NH21 LHS AGRA TO JAIPUR DIST DAUSA, Kota, Rajasthan, 303508, India",
+    "area": "NH21 LHS AGRA TO JAIPUR DIST DAUSA",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.939758,76.544199",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8685 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.84,
+    "no_of_reviews": 25,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": " JAIPUR DIST DAUSA",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 56610,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 15451,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 15452,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "M/s Manpur Agro Service",
+        "last_used_on": "18/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 16,
+        "5": 84
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Kota",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8238,
+      "station_name": "M/s Manpur Agro Service",
+      "latitude": 26.939758,
+      "longitude": 76.544199,
+      "address": "NH21 LHS AGRA TO JAIPUR DIST DAUSA, Kota, Rajasthan, 303508, India",
+      "area": "NH21 LHS AGRA TO JAIPUR DIST DAUSA",
+      "avg_review_rating": 4.84,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.939758,76.544199",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8225,
+      "station_name": "Ecoplug Highway King Tea Stall",
+      "latitude": 26.947885,
+      "longitude": 76.569856,
+      "address": "jaipur agra highway near sikandra chowk gi, Dausa, Rajasthan, 303326, India",
+      "area": "jaipur agra highway near sikandra chowk gi",
+      "avg_review_rating": 4.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.947885,76.569856",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 14774,
+      "station_name": "RAJASTHAN FUEL",
+      "latitude": 26.95352,
+      "longitude": 76.64248,
+      "address": "SIKRI (NH-11),DAUSA, Dausa, Rajasthan, 303508, India",
+      "area": "SIKRI (NH-11),DAUSA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.95352,76.64248",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7520,
+      "station_name": "2008535-OM PETROLEUM",
+      "latitude": 26.959979,
+      "longitude": 76.691074,
+      "address": "PANCHOLI, Dholpur, Rajasthan, 303509, India",
+      "area": "PANCHOLI",
+      "avg_review_rating": 4.68,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.959979,76.691074",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 4761,
+      "station_name": "REIL PRAKASH INDIAN OIL Station",
+      "latitude": 26.90822,
+      "longitude": 76.393646,
+      "address": "INDIAN OIL PETROL PUMP NH-11 JAIPUR AGRA ROAD KHERLI, Dausa, Rajasthan, 303303, India",
+      "area": "INDIAN OIL PETROL PUMP NH-11 JAIPUR AGRA ROAD KHERLI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.90822,76.393646",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:04:13.479998+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

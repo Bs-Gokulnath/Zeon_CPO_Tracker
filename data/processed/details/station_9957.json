@@ -1,0 +1,294 @@
+{
+  "station_id": 9957,
+  "station_detail": {
+    "station_id": 9957,
+    "station_name": "Invesco Hyd SEZ Unit: 6th Floor, Block 6 South Tower, Divyasree Orion Survery No. 66/1 Raidurg Village, Serilingampally Mandal, Madhura Nagar Colony, Gachibowli,",
+    "latitude": 17.421838,
+    "longitude": 78.375451,
+    "address": "SEZ Unit: 6th Floor, Hyderabad, Telangana, 500032, India",
+    "area": "SEZ Unit: 6th Floor",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.421838,78.375451",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8784 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/yocharge_Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 60760,
+        "price_with_currency": "₹ 15.0",
+        "price": 15.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22095,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 5,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "YHB Invesco Hyd SEZ Unit: 6th Floor, Block 6 South Tower, Divyasree Orion Survery No. 66/1 Raidurg Village, Serilingampally Mandal, Madhura Nagar Colony, Gachibowli, 11",
+        "last_used_on": "15/10/2025"
+      },
+      {
+        "charger_id": 60761,
+        "price_with_currency": "₹ 15.0",
+        "price": 15.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22096,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 5,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "YHB Invesco Hyd SEZ Unit: 6th Floor, Block 6 South Tower, Divyasree Orion Survery No. 66/1 Raidurg Village, Serilingampally Mandal, Madhura Nagar Colony, Gachibowli, 12",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 60762,
+        "price_with_currency": "₹ 15.0",
+        "price": 15.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22097,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 5,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "YHB Invesco Hyd SEZ Unit: 6th Floor, Block 6 South Tower, Divyasree Orion Survery No. 66/1 Raidurg Village, Serilingampally Mandal, Madhura Nagar Colony, Gachibowli, 13",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 60763,
+        "price_with_currency": "₹ 15.0",
+        "price": 15.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22098,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "YHB Invesco Hyd SEZ Unit: 6th Floor, Block 6 South Tower, Divyasree Orion Survery No. 66/1 Raidurg Village, Serilingampally Mandal, Madhura Nagar Colony, Gachibowli, 14",
+        "last_used_on": "08/09/2025"
+      },
+      {
+        "charger_id": 60764,
+        "price_with_currency": "₹ 15.0",
+        "price": 15.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22099,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "YHB Invesco Hyd SEZ Unit: 6th Floor, Block 6 South Tower, Divyasree Orion Survery No. 66/1 Raidurg Village, Serilingampally Mandal, Madhura Nagar Colony, Gachibowli, 15",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Hyderabad",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 22.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9957,
+      "station_name": "Invesco Hyd SEZ Unit: 6th Floor, Block 6 South Tower, Divyasree Orion Survery No. 66/1 Raidurg Village, Serilingampally Mandal, Madhura Nagar Colony, Gachibowli,",
+      "latitude": 17.421838,
+      "longitude": 78.375451,
+      "address": "SEZ Unit: 6th Floor, Hyderabad, Telangana, 500032, India",
+      "area": "SEZ Unit: 6th Floor",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.421838,78.375451",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 14324,
+      "station_name": "Hyundai Divyashree NSL Orion Station",
+      "latitude": 17.421276,
+      "longitude": 78.375841,
+      "address": "C9GH+2FV, Old Mumbai Hwy, Near Raidurgam Police Station, Madhura Nagar Colony, Gachibowli, Hyderabad, Telangana - 500104, Hyderabad, Telangana, 500104, India",
+      "area": "C9GH+2FV, Old Mumbai Hwy, Near Raidurgam Police Station, Madhura Nagar Colony, Gachibowli, Hyderabad, Telangana - 500104",
+      "avg_review_rating": 4.5,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.421276,78.375841",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-online-not-selected.png"
+    },
+    {
+      "id": 14778,
+      "station_name": "Statiq Divyasree NSL Orion Station 1",
+      "latitude": 17.421301,
+      "longitude": 78.375907,
+      "address": "C9GH+2FV, Old Mumbai Hwy, Near Raidurgam Police Station, Madhura Nagar Colony, Gachibowli, Hyderabad, Rai Durg, Hyderabad, Telangana, 500104, India",
+      "area": "C9GH+2FV, Old Mumbai Hwy, Near Raidurgam Police Station, Madhura Nagar Colony, Gachibowli, Hyderabad, Rai Durg",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.421301,78.375907",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15995,
+      "station_name": "Statiq Karunadu Hyderabad Station",
+      "latitude": 17.42333,
+      "longitude": 78.3776,
+      "address": "Divyasree Nsl Orion, Madhura Nagar Colony, Gachibowli, Hyderabad, Telangana, 500104, India",
+      "area": "Divyasree Nsl Orion, Madhura Nagar Colony, Gachibowli",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.42333,78.3776",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 15673,
+      "station_name": "Statiq Divyasree NSL Orion Station",
+      "latitude": 17.423285,
+      "longitude": 78.37821,
+      "address": "C9GH+2FV, Old Mumbai Hwy, Near Raidurgam Police Station, Madhura Nagar Colony, Gachibowli, Hyderabad, Rai Durg, Hyderabad, Telangana, 500104, India",
+      "area": "C9GH+2FV, Old Mumbai Hwy, Near Raidurgam Police Station, Madhura Nagar Colony, Gachibowli, Hyderabad, Rai Durg",
+      "avg_review_rating": 4.74,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.423285,78.37821",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    }
+  ],
+  "ac_count": 5,
+  "dc_count": 0,
+  "ac_prices": [
+    15.0,
+    15.0,
+    15.0,
+    15.0,
+    15.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:07:45.243844+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

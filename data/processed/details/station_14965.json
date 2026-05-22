@@ -1,0 +1,204 @@
+{
+  "station_id": 14965,
+  "station_detail": {
+    "station_id": 14965,
+    "station_name": "M/s.ATUL FILLING STATION",
+    "latitude": 26.620741,
+    "longitude": 79.552825,
+    "address": "AURAIYA-KANNAUJ ROAD PO 206123, DIBIAPUR, Dibiyapur, Uttar Pradesh, 206123, India",
+    "area": "AURAIYA-KANNAUJ ROAD PO 206123, DIBIAPUR",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.620741,79.552825",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8980 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.96,
+    "no_of_reviews": 45,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 67959,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 32779,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 32780,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "M/s. ATUL FILLING STATION",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4,
+        "5": 96
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Dibiyapur",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14965,
+      "station_name": "M/s.ATUL FILLING STATION",
+      "latitude": 26.620741,
+      "longitude": 79.552825,
+      "address": "AURAIYA-KANNAUJ ROAD PO 206123, DIBIAPUR, Dibiyapur, Uttar Pradesh, 206123, India",
+      "area": "AURAIYA-KANNAUJ ROAD PO 206123, DIBIAPUR",
+      "avg_review_rating": 4.96,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.620741,79.552825",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 7631,
+      "station_name": "2008390-TAJ HITECH",
+      "latitude": 26.448764,
+      "longitude": 79.524895,
+      "address": "AURIAYA, Bahua, Uttar Pradesh, 206122, India",
+      "area": "AURIAYA",
+      "avg_review_rating": 4.79,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.448764,79.524895",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7332,
+      "station_name": "2008383-A C PETROLEUM",
+      "latitude": 26.803272,
+      "longitude": 79.494728,
+      "address": "BIDHUNA, Bidhuna, Uttar Pradesh, 206243, India",
+      "area": "BIDHUNA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.803272,79.494728",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7639,
+      "station_name": "2011468-GOPAK FILLING STATION",
+      "latitude": 26.424759,
+      "longitude": 79.553425,
+      "address": "BHAGAUTIPUR, Bahua, Uttar Pradesh, 206122, India",
+      "area": "BHAGAUTIPUR",
+      "avg_review_rating": 4.36,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.424759,79.553425",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7309,
+      "station_name": "2008037-BP-SIKANDRA",
+      "latitude": 26.41054,
+      "longitude": 79.570844,
+      "address": "SIKANDRA, Sikandra, Uttar Pradesh, 209125, India",
+      "area": "SIKANDRA",
+      "avg_review_rating": 3.81,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.41054,79.570844",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:14:54.024599+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

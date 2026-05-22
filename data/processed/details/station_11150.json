@@ -1,0 +1,198 @@
+{
+  "station_id": 11150,
+  "station_detail": {
+    "station_id": 11150,
+    "station_name": "2009113-JAIN AGRO SERVICE CENTRE",
+    "latitude": 30.609231,
+    "longitude": 74.906713,
+    "address": "PANCHGRAHIN ON MOGA ROAD, Moga, Punjab, 151207, India",
+    "area": "PANCHGRAHIN ON MOGA ROAD",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.609231,74.906713",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8577 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 61392,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23112,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 23113,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "JAIN AGRO SERVICE CENTRE",
+        "last_used_on": "13/11/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Moga",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11150,
+      "station_name": "2009113-JAIN AGRO SERVICE CENTRE",
+      "latitude": 30.609231,
+      "longitude": 74.906713,
+      "address": "PANCHGRAHIN ON MOGA ROAD, Moga, Punjab, 151207, India",
+      "area": "PANCHGRAHIN ON MOGA ROAD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.609231,74.906713",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10307,
+      "station_name": "2009342-SARPANCH PETRO SERVICES - ADHOC",
+      "latitude": 30.59585,
+      "longitude": 74.86891,
+      "address": "RO AT KOTKAPUR CITY, KOTKAPUR-MOGA ROAD, Faridkot, Punjab, 151204, India",
+      "area": "RO AT KOTKAPUR CITY, KOTKAPUR-MOGA ROAD",
+      "avg_review_rating": 4.31,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.59585,74.86891",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 13016,
+      "station_name": "ID(qye2z7)Dashmesh HP center",
+      "latitude": 30.573142,
+      "longitude": 74.855455,
+      "address": "HVF4+569, Dhaipai, Punjab, 151204, India",
+      "area": "HVF4+569",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.573142,74.855455",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 12014,
+      "station_name": "2009212-KANWAL FILLING STATION",
+      "latitude": 30.710883,
+      "longitude": 75.098395,
+      "address": "GILL, Moga, Punjab, 142038, India",
+      "area": "GILL",
+      "avg_review_rating": 4.25,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.710883,75.098395",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 12008,
+      "station_name": "2019810-KANAHIYA SERVICE STATION",
+      "latitude": 30.418548,
+      "longitude": 74.985733,
+      "address": "RO AT ZIDDA TOLL PLAZA-BAJAKHANA ROAD, Faridkot, Punjab, 151205, India",
+      "area": "RO AT ZIDDA TOLL PLAZA-BAJAKHANA ROAD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.418548,74.985733",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:09:58.259968+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

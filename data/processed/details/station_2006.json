@@ -1,0 +1,214 @@
+{
+  "station_id": 2006,
+  "station_detail": {
+    "station_id": 2006,
+    "station_name": "Statiq Chaar Bhai Station",
+    "latitude": 28.41897,
+    "longitude": 77.157295,
+    "address": "Chaar Bhai Dhaba & Sweets, Faridabad - Gurgaon Rd, , Gurugram, Haryana, 122003, India",
+    "area": "Chaar Bhai Dhaba & Sweets, Faridabad - Gurgaon Rd, ",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.41897,77.157295",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8763 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.61,
+    "no_of_reviews": 947,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": "Near HP Petrol Pump",
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 429,
+        "id": 1
+      },
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 430,
+        "id": 2
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 1748,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 2427,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "Chaar Bhai DC Charger",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 5,
+        "2": 1,
+        "3": 3,
+        "4": 11,
+        "5": 80
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Gurugram",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": [
+      {
+        "id": 228,
+        "station_image_url": "$21"
+      }
+    ]
+  },
+  "nearby_stations": [
+    {
+      "id": 4943,
+      "station_name": "GLIDA HPCL BST Petro Mart",
+      "latitude": 28.418811,
+      "longitude": 77.157121,
+      "address": "On, Gurugram, Haryana, 122003, India",
+      "area": "On",
+      "avg_review_rating": 4.29,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.418811,77.157121",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    },
+    {
+      "id": 2006,
+      "station_name": "Statiq Chaar Bhai Station",
+      "latitude": 28.41897,
+      "longitude": 77.157295,
+      "address": "Chaar Bhai Dhaba & Sweets, Faridabad - Gurgaon Rd, , Gurugram, Haryana, 122003, India",
+      "area": "Chaar Bhai Dhaba & Sweets, Faridabad - Gurgaon Rd, ",
+      "avg_review_rating": 4.61,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.41897,77.157295",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 7147,
+      "station_name": "2003402-FUEL AND FUN",
+      "latitude": 28.424579,
+      "longitude": 77.147233,
+      "address": "GURGAON, Gurugram, Haryana, 122103, India",
+      "area": "GURGAON",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.424579,77.147233",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7824,
+      "station_name": "Statiq Krrish Provence BMW Station",
+      "latitude": 28.430827,
+      "longitude": 77.143858,
+      "address": "Right side after Main Gate Entry, KRRISH PROVENCE ESTATE, Gwal Pahari, Bandhwari, Haryana , Gurugram, Haryana, 122003, India",
+      "area": "Right side after Main Gate Entry, KRRISH PROVENCE ESTATE, Gwal Pahari, Bandhwari, Haryana ",
+      "avg_review_rating": 4.5,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.430827,77.143858",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 8698,
+      "station_name": "Paras Trade Center ",
+      "latitude": 28.43671,
+      "longitude": 77.132446,
+      "address": "619, Gurugram, Haryana, 122011, India",
+      "area": "619",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.43671,77.132446",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/1c_normal.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.99
+  ],
+  "scraped_at": "2026-05-21T07:59:19.436127+00:00",
+  "parse_success": true,
+  "missing_fields": [],
+  "coverage_pct": 100.0
+}

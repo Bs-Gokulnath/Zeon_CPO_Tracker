@@ -1,0 +1,209 @@
+{
+  "station_id": 14904,
+  "station_detail": {
+    "station_id": 14904,
+    "station_name": "Pappu & Pappu Family Restaurant - ChargeJet",
+    "latitude": 23.019091,
+    "longitude": 75.833721,
+    "address": "Pappu and Pappu restaurant Kithoda, Indore, Madhya Pradesh, 453551, India",
+    "area": "Pappu and Pappu restaurant Kithoda",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.019091,75.833721",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8569 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 6,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/ChargeJet_Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 67867,
+        "price_with_currency": "₹ 22.5",
+        "price": 22.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 32602,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 32603,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 240.0,
+        "charger_name": "CHG Pappu & Pappu Family Restaurant - ChargeJet 1",
+        "last_used_on": "18/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Indore",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 240.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14904,
+      "station_name": "Pappu & Pappu Family Restaurant - ChargeJet",
+      "latitude": 23.019091,
+      "longitude": 75.833721,
+      "address": "Pappu and Pappu restaurant Kithoda, Indore, Madhya Pradesh, 453551, India",
+      "area": "Pappu and Pappu restaurant Kithoda",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.019091,75.833721",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargeJet_Branding_Logo_Pin.png"
+    },
+    {
+      "id": 12969,
+      "station_name": "ID(j9sd4y) Yatharth Filling Station",
+      "latitude": 23.034544,
+      "longitude": 75.828377,
+      "address": "Kithoda, Kithoda, Madhya Pradesh, 456006, India",
+      "area": "Kithoda",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.034544,75.828377",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 7591,
+      "station_name": "2017042-TRIMURTI FILLING STATION",
+      "latitude": 23.049684,
+      "longitude": 75.826824,
+      "address": "UJJAIN, Ujjain, Madhya Pradesh, 456006, India",
+      "area": "UJJAIN",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.049684,75.826824",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14584,
+      "station_name": "Ecoplug Surana Delicacies",
+      "latitude": 23.08422,
+      "longitude": 75.816734,
+      "address": "Indore-Ujjain Road, Ujjain, Madhya Pradesh, 456006, India",
+      "area": "Indore-Ujjain Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.08422,75.816734",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15907,
+      "station_name": "Hotel Sundaram Palace - ChargeJet",
+      "latitude": 23.063327,
+      "longitude": 75.912346,
+      "address": "Narwar Dewas-Ujjain Bypass Road, Ujjain, Madhya Pradesh, 456664, India",
+      "area": "Narwar Dewas-Ujjain Bypass Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.063327,75.912346",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargeJet_Branding_Logo_Pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    22.5
+  ],
+  "scraped_at": "2026-05-21T08:14:44.894471+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

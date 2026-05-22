@@ -1,0 +1,193 @@
+{
+  "station_id": 6954,
+  "station_detail": {
+    "station_id": 6954,
+    "station_name": "BALAJEE FUELS",
+    "latitude": 24.152647,
+    "longitude": 86.338291,
+    "address": "AZIDIH ON DHANBAD GIRIDIH ROA  GIRIDIH, Giridih, Jharkhand, 815301, India",
+    "area": "AZIDIH ON DHANBAD GIRIDIH ROA  GIRIDIH",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.152647,86.338291",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9646 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54699,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13036,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "BALAJEE FUELS CHARGER 1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Giridih",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 3.3,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 6954,
+      "station_name": "BALAJEE FUELS",
+      "latitude": 24.152647,
+      "longitude": 86.338291,
+      "address": "AZIDIH ON DHANBAD GIRIDIH ROA  GIRIDIH, Giridih, Jharkhand, 815301, India",
+      "area": "AZIDIH ON DHANBAD GIRIDIH ROA  GIRIDIH",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.152647,86.338291",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 6955,
+      "station_name": "JAI MATA DI FUELS",
+      "latitude": 24.200665,
+      "longitude": 86.271565,
+      "address": "BISHUNPUR,PACHAMBA GIRIDIH, Giridih, Jharkhand, 815316, India",
+      "area": "BISHUNPUR,PACHAMBA GIRIDIH",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.200665,86.271565",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 6953,
+      "station_name": "SHIV SHAKTI FUEL ",
+      "latitude": 24.1795,
+      "longitude": 86.439,
+      "address": "RUKOTAND,MDR ROAD -89 GIRIDIH, Giridih, Jharkhand, 815312, India",
+      "area": "RUKOTAND,MDR ROAD -89 GIRIDIH",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.1795,86.439",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9823,
+      "station_name": "SHREE SHYAM FUELS",
+      "latitude": 24.065836,
+      "longitude": 86.5793,
+      "address": "JAMTARA, Jamtara, Jharkhand, 815352, India",
+      "area": "JAMTARA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.065836,86.5793",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12560,
+      "station_name": "ID(yr96bh)Shiva petroleum",
+      "latitude": 23.88047,
+      "longitude": 86.308732,
+      "address": "Jarmunai alias Murchakocha, Dhanbad, Jharkhand, 826006, India",
+      "area": "Jarmunai alias Murchakocha",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.88047,86.308732",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    14.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:02:02.882816+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,198 @@
+{
+  "station_id": 11140,
+  "station_detail": {
+    "station_id": 11140,
+    "station_name": "SHSHAPUR PETROLEUM",
+    "latitude": 15.858733,
+    "longitude": 75.110108,
+    "address": "BELGAUM, Belgaum, Karnataka, 591117, India",
+    "area": "BELGAUM",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.858733,75.110108",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8425 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 61383,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23093,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 23094,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "SHSHAPUR PETROLEUM",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Belgaum",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11140,
+      "station_name": "SHSHAPUR PETROLEUM",
+      "latitude": 15.858733,
+      "longitude": 75.110108,
+      "address": "BELGAUM, Belgaum, Karnataka, 591117, India",
+      "area": "BELGAUM",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.858733,75.110108",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 11143,
+      "station_name": "S C PANCHKATI MUTT PETROLEUM",
+      "latitude": 15.94668,
+      "longitude": 75.304698,
+      "address": "BELGAUM, Belgaum, Karnataka, 591123, India",
+      "area": "BELGAUM",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.94668,75.304698",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 11130,
+      "station_name": "M/s. BOLANNAVAR PETROLEUMS",
+      "latitude": 15.821046,
+      "longitude": 74.850269,
+      "address": "Belgaum, Belgaum, Karnataka, 591102, India",
+      "area": "Belgaum",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.821046,74.850269",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 6640,
+      "station_name": "VINAYAK PETROL PUMP",
+      "latitude": 15.900546,
+      "longitude": 74.773232,
+      "address": "BHARAT PETROLEUM CORPORATION LTD, NESARGI, BAILHONGAL TALUK, NESARGI,591121 BELGAUM, INDIA, Belgaum, Karnataka, 591121, India",
+      "area": "BHARAT PETROLEUM CORPORATION LTD, NESARGI, BAILHONGAL TALUK, NESARGI,591121 BELGAUM, INDIA",
+      "avg_review_rating": 4.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.900546,74.773232",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15327,
+      "station_name": "SHREE RENUKA DEVI PETROLEUM",
+      "latitude": 16.205055,
+      "longitude": 75.058478,
+      "address": "KOUJALAGI VILLAGE KULGOD ROAD, GOKAK TALUK, BELGUM DISTRICT, Belgaum, Karnataka, 591227, India",
+      "area": "KOUJALAGI VILLAGE KULGOD ROAD, GOKAK TALUK, BELGUM DISTRICT",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.205055,75.058478",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:09:58.137675+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

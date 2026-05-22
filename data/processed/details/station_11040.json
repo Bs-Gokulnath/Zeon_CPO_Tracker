@@ -1,0 +1,198 @@
+{
+  "station_id": 11040,
+  "station_detail": {
+    "station_id": 11040,
+    "station_name": "BAFNA PVC",
+    "latitude": 18.741446,
+    "longitude": 75.297648,
+    "address": "AHMEDNAGAR, Ahmednagar, Maharashtra, 413201, India",
+    "area": "AHMEDNAGAR",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.741446,75.297648",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8470 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 61252,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22856,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 22857,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "BAFNA PVC",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ahmednagar",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11040,
+      "station_name": "BAFNA PVC",
+      "latitude": 18.741446,
+      "longitude": 75.297648,
+      "address": "AHMEDNAGAR, Ahmednagar, Maharashtra, 413201, India",
+      "area": "AHMEDNAGAR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.741446,75.297648",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15701,
+      "station_name": "chargeMOD | Rekha Gang Sheti EVCS | ASHTI",
+      "latitude": 18.80078,
+      "longitude": 75.180882,
+      "address": "Parshwanath Automobile, Ashti, Maharashtra, 414203, India",
+      "area": "Parshwanath Automobile",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.80078,75.180882",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 15241,
+      "station_name": "LG MISAL",
+      "latitude": 18.935969,
+      "longitude": 75.336472,
+      "address": "SURVEY NO 46 4A, AHMEDNAGAR-BEED RD, AMALNER,BEED, Ahmadnagar, Maharashtra, 413207, India",
+      "area": "SURVEY NO 46 4A, AHMEDNAGAR-BEED RD, AMALNER,BEED",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.935969,75.336472",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 6791,
+      "station_name": "Tatya Petroleum",
+      "latitude": 18.832306,
+      "longitude": 75.55096,
+      "address": "KRANTI NAGAR, PATODA, PATODA BUS STAND ROAD, DISTRICT - BEED, Beed, Maharashtra, 414204, India",
+      "area": "KRANTI NAGAR, PATODA, PATODA BUS STAND ROAD, DISTRICT - BEED",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.832306,75.55096",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 6674,
+      "station_name": "Sai Shraddha Fuels",
+      "latitude": 18.631035,
+      "longitude": 74.958679,
+      "address": "GAT NO. 222 WALVAD,TAL. KARJAT, SHRIGONDA-JAMKHED ROAD, NH 548D, DISTRICT- AHMEDNAGAR, Ahmednagar, Maharashtra, 414402, India",
+      "area": "GAT NO. 222 WALVAD,TAL. KARJAT, SHRIGONDA-JAMKHED ROAD, NH 548D, DISTRICT- AHMEDNAGAR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.631035,74.958679",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:09:40.184249+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

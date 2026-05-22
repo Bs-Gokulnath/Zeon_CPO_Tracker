@@ -1,0 +1,269 @@
+{
+  "station_id": 14861,
+  "station_detail": {
+    "station_id": 14861,
+    "station_name": "Statiq Marriott Executive Apartment-UB City",
+    "latitude": 12.971726,
+    "longitude": 77.595872,
+    "address": "24, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka, 560001, India",
+    "area": "24, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.971726,77.595872",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8673 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 4.9,
+    "no_of_reviews": 10,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 13380,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 67811,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 32507,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 32508,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Marriott Executive Apartment DC Charger",
+        "last_used_on": "17/05/2026"
+      },
+      {
+        "charger_id": 67812,
+        "price_with_currency": "₹ 16.5",
+        "price": 16.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 32509,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 3,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 11.0,
+        "charger_name": "Marriott Executive Apartment AC Charger-1",
+        "last_used_on": "05/04/2026"
+      },
+      {
+        "charger_id": 67813,
+        "price_with_currency": "₹ 16.5",
+        "price": 16.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 32510,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 11.0,
+        "charger_name": "Marriott Executive Apartment AC Charger-2",
+        "last_used_on": "21/04/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 10,
+        "5": 90
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bengaluru",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14861,
+      "station_name": "Statiq Marriott Executive Apartment-UB City",
+      "latitude": 12.971726,
+      "longitude": 77.595872,
+      "address": "24, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka, 560001, India",
+      "area": "24, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar",
+      "avg_review_rating": 4.9,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.971726,77.595872",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 8669,
+      "station_name": "KA | Bengaluru | JW Marriott Hotel - UB City",
+      "latitude": 12.972,
+      "longitude": 77.595253,
+      "address": "24/1, Bengaluru, Karnataka, 560001, India",
+      "area": "24/1",
+      "avg_review_rating": 4.97,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.972,77.595253",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 7839,
+      "station_name": "KA | Bengaluru | MB#Sundaram Motors Kasturba Road",
+      "latitude": 12.974006,
+      "longitude": 77.596089,
+      "address": "107, Bengaluru, Karnataka, 560001, India",
+      "area": "107",
+      "avg_review_rating": 4.63,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.974006,77.596089",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mercedes_Branding_Logo.png"
+    },
+    {
+      "id": 2005,
+      "station_name": "Sunfuel - Bangalore Club",
+      "latitude": 12.97323,
+      "longitude": 77.599731,
+      "address": "No.10, Residency Rd, Shanthala Nagar, Bengaluru, Karnataka, 560025, India",
+      "area": "No.10, Residency Rd, Shanthala Nagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.97323,77.599731",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 4856,
+      "station_name": "GLIDA Audi Bengaluru",
+      "latitude": 12.970142,
+      "longitude": 77.600496,
+      "address": "No 1 & 2, Bengaluru, Karnataka, 560001, India",
+      "area": "No 1 & 2",
+      "avg_review_rating": 4.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.970142,77.600496",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    }
+  ],
+  "ac_count": 2,
+  "dc_count": 1,
+  "ac_prices": [
+    16.5,
+    16.5
+  ],
+  "dc_prices": [
+    21.99
+  ],
+  "scraped_at": "2026-05-21T08:14:33.125554+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

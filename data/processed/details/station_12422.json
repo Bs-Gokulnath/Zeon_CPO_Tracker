@@ -1,0 +1,204 @@
+{
+  "station_id": 12422,
+  "station_detail": {
+    "station_id": 12422,
+    "station_name": "chargeMOD | Thiruvidakazhi EVCS | Tamil Nadu",
+    "latitude": 11.040814,
+    "longitude": 79.786873,
+    "address": "Near , Thiruvidakazhi, Tamil Nadu, 609310, India",
+    "area": "Near ",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.040814,79.786873",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8903 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.0,
+    "no_of_reviews": 2,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Chargemod+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 64034,
+        "price_with_currency": "₹ 20.88",
+        "price": 20.88,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 27221,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 27222,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "CMD chargeMOD | Thiruvidakazhi EVCS | Tamil Nadu 1",
+        "last_used_on": "09/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 50,
+        "4": 0,
+        "5": 50
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Thiruvidakazhi",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12422,
+      "station_name": "chargeMOD | Thiruvidakazhi EVCS | Tamil Nadu",
+      "latitude": 11.040814,
+      "longitude": 79.786873,
+      "address": "Near , Thiruvidakazhi, Tamil Nadu, 609310, India",
+      "area": "Near ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.040814,79.786873",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 10518,
+      "station_name": "M/s. P.Durairaj & P.Soundararaj",
+      "latitude": 10.946055,
+      "longitude": 79.82707,
+      "address": "KARAIKAL, Karaikal, Pondicherry, 609605, India",
+      "area": "KARAIKAL",
+      "avg_review_rating": 4.77,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.946055,79.82707",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9998,
+      "station_name": "M/s. Meenakshi Associates",
+      "latitude": 11.192784,
+      "longitude": 79.709883,
+      "address": "Mayiladuthurai, Mayiladuthurai, Tamil Nadu, 609117, India",
+      "area": "Mayiladuthurai",
+      "avg_review_rating": 4.78,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.192784,79.709883",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14400,
+      "station_name": "M/s. Sri Venkateshwara Agenceis",
+      "latitude": 10.882741,
+      "longitude": 79.645419,
+      "address": "33/1A, 33/1B, MYILADUTHURAI-TIRUVARUR ROAD, VILLAGE-SANNANALLUR, THALUK-NANILLAM, DISTRICT-TIRUVARUR, Tiruchirappalli, Tamil Nadu, 609701, India",
+      "area": "33/1A, 33/1B, MYILADUTHURAI-TIRUVARUR ROAD, VILLAGE-SANNANALLUR, THALUK-NANILLAM, DISTRICT-TIRUVARUR",
+      "avg_review_rating": 4.64,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.882741,79.645419",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7579,
+      "station_name": "2013798-BALAJI AGENCIES",
+      "latitude": 10.798139,
+      "longitude": 79.826136,
+      "address": "THETHI VILLAGE, Abiramam, Tamil Nadu, 611002, India",
+      "area": "THETHI VILLAGE",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.798139,79.826136",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    20.88
+  ],
+  "scraped_at": "2026-05-21T08:11:56.272768+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

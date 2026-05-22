@@ -1,0 +1,203 @@
+{
+  "station_id": 6919,
+  "station_detail": {
+    "station_id": 6919,
+    "station_name": "2011463-VAISHNAVI PETROLEUM",
+    "latitude": 18.92452,
+    "longitude": 74.48231,
+    "address": "BHARAT PETROLEUM CORPN. LTD,  PALVE KHURD, MAHSANE PHATA, Ahmednagar, Maharashtra, 414301, India",
+    "area": "BHARAT PETROLEUM CORPN. LTD,  PALVE KHURD, MAHSANE PHATA",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.92452,74.48231",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8386 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.59,
+    "no_of_reviews": 17,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": " MAHSANE PHATA, Ahmednagar",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54653,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 12964,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 12965,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "2012005-VAISHNAVI PETROLEUM",
+        "last_used_on": "25/12/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 6,
+        "3": 6,
+        "4": 12,
+        "5": 76
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ahmednagar",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 6919,
+      "station_name": "2011463-VAISHNAVI PETROLEUM",
+      "latitude": 18.92452,
+      "longitude": 74.48231,
+      "address": "BHARAT PETROLEUM CORPN. LTD,  PALVE KHURD, MAHSANE PHATA, Ahmednagar, Maharashtra, 414301, India",
+      "area": "BHARAT PETROLEUM CORPN. LTD,  PALVE KHURD, MAHSANE PHATA",
+      "avg_review_rating": 4.59,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.92452,74.48231",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7348,
+      "station_name": "2000262-SHRI SAMARTH MULTISERVICES",
+      "latitude": 18.93007,
+      "longitude": 74.485706,
+      "address": "MHASANE PHATA, SUPA, Ahmednagar, Maharashtra, 414301, India",
+      "area": "MHASANE PHATA, SUPA",
+      "avg_review_rating": 4.56,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.93007,74.485706",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 15367,
+      "station_name": "Hotel Albharwadi (Charge_IN by Mahindra)",
+      "latitude": 18.93789,
+      "longitude": 74.4988,
+      "address": "WFQX 3G8, Ahilyanagar, Maharashtra, 414301, India",
+      "area": "WFQX 3G8",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.93789,74.4988",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mahindra_Branding_logo.png"
+    },
+    {
+      "id": 12507,
+      "station_name": "ID(temt6s) HP SERVICE CENTRE SUPA",
+      "latitude": 18.949704,
+      "longitude": 74.519512,
+      "address": "Waghunde Kh., Ahmednagar, Maharashtra, 414301, India",
+      "area": "Waghunde Kh.",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.949704,74.519512",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 6918,
+      "station_name": "2000276-ASHWIN AUTOMOBILES",
+      "latitude": 19.0302,
+      "longitude": 74.6388,
+      "address": "BHARAT PETROLEUM CORPN. LTD,   VILLAGE - Chas, Ahmednagar, Ahmednagar, Maharashtra, 414005, India",
+      "area": "BHARAT PETROLEUM CORPN. LTD,   VILLAGE - Chas, Ahmednagar",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.0302,74.6388",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:01:54.364073+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

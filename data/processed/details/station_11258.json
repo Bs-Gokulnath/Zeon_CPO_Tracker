@@ -1,0 +1,204 @@
+{
+  "station_id": 11258,
+  "station_detail": {
+    "station_id": 11258,
+    "station_name": "2007583-KIRTI PETROLEUM",
+    "latitude": 21.975607,
+    "longitude": 81.31434,
+    "address": "Village Birkona, NH-12 A,  Raipur road  Dist. Kabirdham (C.G.) , Raipur, Chhattisgarh, 491995, India",
+    "area": "Village Birkona, NH-12 A,  Raipur road  Dist. Kabirdham (C.G.) ",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.975607,81.31434",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9122 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.63,
+    "no_of_reviews": 81,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 61656,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23468,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 23469,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "KIRTI PETROLEUM",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 2,
+        "2": 1,
+        "3": 2,
+        "4": 19,
+        "5": 75
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Raipur",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11258,
+      "station_name": "2007583-KIRTI PETROLEUM",
+      "latitude": 21.975607,
+      "longitude": 81.31434,
+      "address": "Village Birkona, NH-12 A,  Raipur road  Dist. Kabirdham (C.G.) , Raipur, Chhattisgarh, 491995, India",
+      "area": "Village Birkona, NH-12 A,  Raipur road  Dist. Kabirdham (C.G.) ",
+      "avg_review_rating": 4.63,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.975607,81.31434",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 13075,
+      "station_name": "ID(rnp1qs)-Tilak filling station",
+      "latitude": 21.982121,
+      "longitude": 81.305615,
+      "address": "Dullapurarani, Dullapurarani, Chhattisgarh, 491995, India",
+      "area": "Dullapurarani",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.982121,81.305615",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 15493,
+      "station_name": "NAVAKAR PETROLEUM",
+      "latitude": 22.206395,
+      "longitude": 81.418952,
+      "address": "RO AT MAINPURA, PANDHARIYA, NH-130A, KAWARDHA, Kawardha, Chhattisgarh, 491559, India",
+      "area": "RO AT MAINPURA, PANDHARIYA, NH-130A, KAWARDHA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.206395,81.418952",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13109,
+      "station_name": "ID(rqcc9k)Ammba fuels bemetara",
+      "latitude": 21.746612,
+      "longitude": 81.52865,
+      "address": "Charbhata, Charbhata, Chhattisgarh, 491335, India",
+      "area": "Charbhata",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.746612,81.52865",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 12363,
+      "station_name": "2007595 - ROYAL PETROLEUM",
+      "latitude": 21.734158,
+      "longitude": 81.535732,
+      "address": "BPCL Pump, Near Bholaverma Hotel,, Bemetra, Chhattisgarh, 491335, India",
+      "area": "BPCL Pump, Near Bholaverma Hotel,",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.734158,81.535732",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:10:13.286026+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

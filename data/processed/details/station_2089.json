@@ -1,0 +1,385 @@
+{
+  "station_id": 2089,
+  "station_detail": {
+    "station_id": 2089,
+    "station_name": "Statiq Divyasree NR Enclave Station",
+    "latitude": 12.98647,
+    "longitude": 77.730392,
+    "address": "Divyasree Nr Enclave, 1st Main Road, Bengaluru, Karnataka, 560066, India",
+    "area": "Divyasree Nr Enclave, 1st Main Road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.98647,77.730392",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8688 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 4.69,
+    "no_of_reviews": 3391,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 538,
+        "id": 2
+      },
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 539,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 2402,
+        "price_with_currency": "₹ 22.4",
+        "price": 22.4,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 3452,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 3453,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "DivyaSree NR Enclave DC Charger",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 2726,
+        "price_with_currency": "₹ 11.99",
+        "price": 11.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 3917,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "DivyaSree NR Enclave 1a",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 2727,
+        "price_with_currency": "₹ 11.99",
+        "price": 11.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 3918,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "DivyaSree NR Enclave 1b",
+        "last_used_on": "15/05/2026"
+      },
+      {
+        "charger_id": 2728,
+        "price_with_currency": "₹ 11.99",
+        "price": 11.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 3919,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "DivyaSree NR Enclave 1c",
+        "last_used_on": "14/05/2026"
+      },
+      {
+        "charger_id": 3397,
+        "price_with_currency": "₹ 11.99",
+        "price": 11.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 4772,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "DivyaSree NR Enclave 2a",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 3398,
+        "price_with_currency": "₹ 11.99",
+        "price": 11.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 4773,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "DivyaSree NR Enclave 2b",
+        "last_used_on": "19/05/2026"
+      },
+      {
+        "charger_id": 3399,
+        "price_with_currency": "₹ 11.99",
+        "price": 11.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 4774,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "DivyaSree NR Enclave 2c",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 3,
+        "2": 1,
+        "3": 1,
+        "4": 15,
+        "5": 80
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bengaluru",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": [
+      {
+        "id": 127,
+        "station_image_url": "$21"
+      },
+      {
+        "id": 128,
+        "station_image_url": "$22"
+      }
+    ]
+  },
+  "nearby_stations": [
+    {
+      "id": 2089,
+      "station_name": "Statiq Divyasree NR Enclave Station",
+      "latitude": 12.98647,
+      "longitude": 77.730392,
+      "address": "Divyasree Nr Enclave, 1st Main Road, Bengaluru, Karnataka, 560066, India",
+      "area": "Divyasree Nr Enclave, 1st Main Road",
+      "avg_review_rating": 4.69,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.98647,77.730392",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 14307,
+      "station_name": "Statiq Holiday Inn Express Whitefield Station",
+      "latitude": 12.986646,
+      "longitude": 77.733105,
+      "address": "Plot No. 4, Beside Harman Building, Next To Itpl Back Gate, EPIP Zone, Krishnarajapuram, Bengaluru, Karnataka, 560066, India",
+      "area": "Plot No. 4, Beside Harman Building, Next To Itpl Back Gate, EPIP Zone, Krishnarajapuram",
+      "avg_review_rating": 4.72,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.986646,77.733105",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 8643,
+      "station_name": "KA | Bengaluru | Sheraton Grand Bengaluru Whitefield Hotel & Convention Center",
+      "latitude": 12.989109,
+      "longitude": 77.729249,
+      "address": "Prestige Shantiniketan Hoodi, Bengaluru, Karnataka, 560066, India",
+      "area": "Prestige Shantiniketan Hoodi",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.989109,77.729249",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 2097,
+      "station_name": "Statiq Nexus Shantiniketan Station",
+      "latitude": 12.9896,
+      "longitude": 77.728104,
+      "address": "Whitefield Road, Bengaluru, Karnataka, 560067, India",
+      "area": "Whitefield Road",
+      "avg_review_rating": 4.56,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.9896,77.728104",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 4938,
+      "station_name": "GLIDA Nexus Mall ShantiNiketan",
+      "latitude": 12.989473,
+      "longitude": 77.727899,
+      "address": "Nexus Shantiniketan Mall, Bengaluru, Karnataka, 560067, India",
+      "area": "Nexus Shantiniketan Mall",
+      "avg_review_rating": 4.7,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.989473,77.727899",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    }
+  ],
+  "ac_count": 6,
+  "dc_count": 1,
+  "ac_prices": [
+    11.99,
+    11.99,
+    11.99,
+    11.99,
+    11.99,
+    11.99
+  ],
+  "dc_prices": [
+    22.4
+  ],
+  "scraped_at": "2026-05-21T07:59:25.238167+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

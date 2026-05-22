@@ -1,0 +1,188 @@
+{
+  "station_id": 6729,
+  "station_detail": {
+    "station_id": 6729,
+    "station_name": "Sai Ganesh Fuels",
+    "latitude": 19.365776,
+    "longitude": 75.205607,
+    "address": "GAT NO - 1318/1/2B, NEWASA ROAD, TAL & VILL - SHEVGAON, DISTRICT - AHMEDNAGAR, Ahmednagar, Maharashtra, 414502, India",
+    "area": "GAT NO - 1318/1/2B, NEWASA ROAD, TAL & VILL - SHEVGAON, DISTRICT - AHMEDNAGAR",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.365776,75.205607",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8466 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54271,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 12399,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "Sai Ganesh Fuels EV - AC",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ahmednagar",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 3.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 6729,
+      "station_name": "Sai Ganesh Fuels",
+      "latitude": 19.365776,
+      "longitude": 75.205607,
+      "address": "GAT NO - 1318/1/2B, NEWASA ROAD, TAL & VILL - SHEVGAON, DISTRICT - AHMEDNAGAR, Ahmednagar, Maharashtra, 414502, India",
+      "area": "GAT NO - 1318/1/2B, NEWASA ROAD, TAL & VILL - SHEVGAON, DISTRICT - AHMEDNAGAR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.365776,75.205607",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7462,
+      "station_name": "2019937-VITHOBA RAJE PETROLEUM",
+      "latitude": 19.185573,
+      "longitude": 75.159933,
+      "address": "MALIBABHULGAON, Achalpur, Maharashtra, 414102, India",
+      "area": "MALIBABHULGAON",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.185573,75.159933",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13460,
+      "station_name": "ID(3amg7y) Sai Baba petroleum",
+      "latitude": 19.189182,
+      "longitude": 75.138286,
+      "address": "Malibabhulgaon, Malibabhulgaon, Maharashtra, 414102, India",
+      "area": "Malibabhulgaon",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.189182,75.138286",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 8301,
+      "station_name": "SHRI HARI FUELS",
+      "latitude": 19.15338,
+      "longitude": 75.015054,
+      "address": "KARANJI, Ahmadnagar, Maharashtra, 414106, India",
+      "area": "KARANJI",
+      "avg_review_rating": 4.74,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.15338,75.015054",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12961,
+      "station_name": "ID(vuvhsf) Apurva Petroleum",
+      "latitude": 19.147745,
+      "longitude": 75.009393,
+      "address": "Ahmednagar - Pathardi Road, Karanji, Maharashtra, 414106, India",
+      "area": "Ahmednagar - Pathardi Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.147745,75.009393",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    14.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:01:40.457955+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

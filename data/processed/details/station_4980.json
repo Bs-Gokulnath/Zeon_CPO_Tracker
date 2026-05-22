@@ -1,0 +1,194 @@
+{
+  "station_id": 4980,
+  "station_detail": {
+    "station_id": 4980,
+    "station_name": "GLIDA MG PRABHADEVI MUMBAI",
+    "latitude": 19.012548,
+    "longitude": 72.82269,
+    "address": "MG Mumbai South, Mumbai, Maharashtra, 400025, India",
+    "area": "MG Mumbai South",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.012548,72.82269",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8213 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.83,
+    "no_of_reviews": 363,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Glida+Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 51976,
+        "price_with_currency": "₹ 18.99",
+        "price": 18.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 9771,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "MUM0006",
+        "last_used_on": "24/02/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 2,
+        "2": 0,
+        "3": 1,
+        "4": 6,
+        "5": 91
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Mumbai",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 4980,
+      "station_name": "GLIDA MG PRABHADEVI MUMBAI",
+      "latitude": 19.012548,
+      "longitude": 72.82269,
+      "address": "MG Mumbai South, Mumbai, Maharashtra, 400025, India",
+      "area": "MG Mumbai South",
+      "avg_review_rating": 4.83,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.012548,72.82269",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/unavailable+select.png"
+    },
+    {
+      "id": 7827,
+      "station_name": "MH | Mumbai | MB#Autohangar India Pvt Ltd - Prabhadevi",
+      "latitude": 19.013062,
+      "longitude": 72.825215,
+      "address": "Auto Hangar Advantage, Mumbai, Maharashtra, 400025, India",
+      "area": "Auto Hangar Advantage",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.013062,72.825215",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mercedes_Branding_Logo.png"
+    },
+    {
+      "id": 6671,
+      "station_name": "KIFS Volvo Prabhadevi Showroom",
+      "latitude": 19.013845,
+      "longitude": 72.829521,
+      "address": "Sea Sequence ,Ground floor , Appasaheb Marathe Marg, Prabhadevi, Mumbai, Maharashtra, 400025, India",
+      "area": "Sea Sequence ,Ground floor , Appasaheb Marathe Marg, Prabhadevi",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.013845,72.829521",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 1826,
+      "station_name": "Sunfuel - The Quorum Club Lower Parel Mumbai",
+      "latitude": 19.0082,
+      "longitude": 72.832199,
+      "address": "Tower 2A, 7th and 8th, One World Center, Senapati Bapat Marg, Mumbai, Maharashtra, 400013, India",
+      "area": "Tower 2A, 7th and 8th, One World Center, Senapati Bapat Marg",
+      "avg_review_rating": 4.38,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.0082,72.832199",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 10990,
+      "station_name": "Statiq Raheja Imperia 1 Station",
+      "latitude": 19.001847,
+      "longitude": 72.822742,
+      "address": "At Guest Parking, Basement 1 .45, Shankar Rao Naram Path, Lower Parel West, Lower Parel, Mumbai, Maharashtra, 400013, India",
+      "area": "At Guest Parking, Basement 1 .45, Shankar Rao Naram Path, Lower Parel West, Lower Parel",
+      "avg_review_rating": 4.87,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.001847,72.822742",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    18.99
+  ],
+  "scraped_at": "2026-05-21T08:00:50.688152+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

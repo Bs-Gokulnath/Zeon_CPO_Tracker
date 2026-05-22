@@ -1,0 +1,194 @@
+{
+  "station_id": 7395,
+  "station_detail": {
+    "station_id": 7395,
+    "station_name": "2010273-SAI SHIVRAM PETROLEUM",
+    "latitude": 19.436047,
+    "longitude": 74.612835,
+    "address": "RAHURI FACTORY, Achalpur, Maharashtra, 413705, India",
+    "area": "RAHURI FACTORY",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.436047,74.612835",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8405 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.71,
+    "no_of_reviews": 17,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 55234,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13580,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "2010273-SAI SHIVRAM PETROLEUM",
+        "last_used_on": "06/05/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 6,
+        "4": 18,
+        "5": 76
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Achalpur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7395,
+      "station_name": "2010273-SAI SHIVRAM PETROLEUM",
+      "latitude": 19.436047,
+      "longitude": 74.612835,
+      "address": "RAHURI FACTORY, Achalpur, Maharashtra, 413705, India",
+      "area": "RAHURI FACTORY",
+      "avg_review_rating": 4.71,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.436047,74.612835",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12798,
+      "station_name": "ID(eyjxj8)CHARUDATT OIL AGENCY",
+      "latitude": 19.442659,
+      "longitude": 74.606784,
+      "address": "Rahuri Factory, Ahmednagar, Maharashtra, 413706, India",
+      "area": "Rahuri Factory",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.442659,74.606784",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 13253,
+      "station_name": "ID(6k5rhq) Dinkarrao Jagtap Petroleum",
+      "latitude": 19.515869,
+      "longitude": 74.548982,
+      "address": "Kolhar Kh, Kolhar Kh, Maharashtra, India",
+      "area": "Kolhar Kh",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.515869,74.548982",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 12956,
+      "station_name": "ID(grzk54) Sai kaveri petroleum",
+      "latitude": 19.586425,
+      "longitude": 74.51432,
+      "address": "Lohagaon, Lohagaon, Maharashtra, 413712, India",
+      "area": "Lohagaon",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.586425,74.51432",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 6700,
+      "station_name": "Keshav Enterprises",
+      "latitude": 19.622156,
+      "longitude": 74.604301,
+      "address": "SHRIRAMPUR-SANGAMNER ROAD, TAL- SHRIRAMPUR, DISTRICT - AHMEDNAGAR, Ahmednagar, Maharashtra, 413709, India",
+      "area": "SHRIRAMPUR-SANGAMNER ROAD, TAL- SHRIRAMPUR, DISTRICT - AHMEDNAGAR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.622156,74.604301",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:02:55.694751+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

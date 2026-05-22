@@ -1,0 +1,194 @@
+{
+  "station_id": 8968,
+  "station_detail": {
+    "station_id": 8968,
+    "station_name": "EESL Statiq Talkatora Stadium Charging Station",
+    "latitude": 28.625449,
+    "longitude": 77.194369,
+    "address": "Nehru Park Chanakyapuri, New Delhi, Delhi 110021, Delhi, Delhi, 110021, India",
+    "area": "Nehru Park Chanakyapuri, New Delhi, Delhi 110021",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.625449,77.194369",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8769 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.36,
+    "no_of_reviews": 14,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 57747,
+        "price_with_currency": "₹ 19.0",
+        "price": 19.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 17311,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "EESL Statiq Talkatora Stadium DC Charger 1 Exicom",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 14,
+        "2": 0,
+        "3": 0,
+        "4": 7,
+        "5": 79
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Delhi",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8968,
+      "station_name": "EESL Statiq Talkatora Stadium Charging Station",
+      "latitude": 28.625449,
+      "longitude": 77.194369,
+      "address": "Nehru Park Chanakyapuri, New Delhi, Delhi 110021, Delhi, Delhi, 110021, India",
+      "area": "Nehru Park Chanakyapuri, New Delhi, Delhi 110021",
+      "avg_review_rating": 4.36,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.625449,77.194369",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/default.png"
+    },
+    {
+      "id": 8955,
+      "station_name": " EESL Statiq Talkatora Garden Station",
+      "latitude": 28.622128,
+      "longitude": 77.194655,
+      "address": "Mother Teresa Cres, Willingdon Crescent, President's Estate, New Delhi, Delhi 110001, Delhi, Delhi, 110002, India",
+      "area": "Mother Teresa Cres, Willingdon Crescent, President's Estate, New Delhi, Delhi 110001",
+      "avg_review_rating": 4.71,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.622128,77.194655",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/default.png"
+    },
+    {
+      "id": 14459,
+      "station_name": "EESL Statiq ICICI Bank Janpath Guest House Station",
+      "latitude": 28.6221,
+      "longitude": 77.1948,
+      "address": "EESL ICICI Bank Janpath Guest House, New Delhi, Delhi, 110001, India",
+      "area": "EESL ICICI Bank Janpath Guest House",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.6221,77.1948",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/default.png"
+    },
+    {
+      "id": 14457,
+      "station_name": "EESL Statiq Ferns n Petals BPCL D Block Station",
+      "latitude": 28.6337,
+      "longitude": 77.2078,
+      "address": "EESL Ferns n Petals BPCL D Block, New Delhi, Delhi, 110074, India",
+      "area": "EESL Ferns n Petals BPCL D Block",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.6337,77.2078",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/default.png"
+    },
+    {
+      "id": 8771,
+      "station_name": "EESL Statiq Chelmsford Club Station",
+      "latitude": 28.618512,
+      "longitude": 77.212473,
+      "address": "Raisina Road, Sansad Marg Area, Delhi, Delhi, 110001, India",
+      "area": "Raisina Road, Sansad Marg Area",
+      "avg_review_rating": 4.74,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.618512,77.212473",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/charging.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    19.0
+  ],
+  "scraped_at": "2026-05-21T08:05:39.251979+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

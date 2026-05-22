@@ -1,0 +1,198 @@
+{
+  "station_id": 11835,
+  "station_detail": {
+    "station_id": 11835,
+    "station_name": "Novotel Varun Beach",
+    "latitude": 17.711337,
+    "longitude": 83.316073,
+    "address": "Dr NTR Beach Rd, Visakhapatnam, Andhra Pradesh, 530002, India",
+    "area": "Dr NTR Beach Rd",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.711337,83.316073",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9310 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/ur_Gentari+(3).png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 62848,
+        "price_with_currency": "₹ 23.5",
+        "price": 23.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 25433,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 25434,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 80.0,
+        "charger_name": "URZ Novotel Varun Beach 1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Visakhapatnam",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 80.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11835,
+      "station_name": "Novotel Varun Beach",
+      "latitude": 17.711337,
+      "longitude": 83.316073,
+      "address": "Dr NTR Beach Rd, Visakhapatnam, Andhra Pradesh, 530002, India",
+      "area": "Dr NTR Beach Rd",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.711337,83.316073",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ur_Group+483953+(1).png"
+    },
+    {
+      "id": 12524,
+      "station_name": "ID(7rvj2n) MILLENNIUM OUTLET",
+      "latitude": 17.720681,
+      "longitude": 83.320166,
+      "address": "HPCL Millennium Petrol Bunk, Visakhapatnam, Andhra Pradesh, 530003, India",
+      "area": "HPCL Millennium Petrol Bunk",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.720681,83.320166",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 8453,
+      "station_name": "AP | Visakhapatnam | Four Points By Sheraton",
+      "latitude": 17.721181,
+      "longitude": 83.312119,
+      "address": "10-28-3 Uplands, Visakhapatnam, Andhra Pradesh, 530003, India",
+      "area": "10-28-3 Uplands",
+      "avg_review_rating": 4.5,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.721181,83.312119",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 11017,
+      "station_name": "Hotel Meghalaya",
+      "latitude": 17.72351,
+      "longitude": 83.309693,
+      "address": "10-4-15, Visakhapatnam, Andhra Pradesh, 530016, India",
+      "area": "10-4-15",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.72351,83.309693",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ur_Group+483953+(1).png"
+    },
+    {
+      "id": 13740,
+      "station_name": "Best Western Plus Tejvivaan",
+      "latitude": 17.725417,
+      "longitude": 83.300764,
+      "address": "Dondaparthy, Visakhapatnam, Andhra Pradesh, 530016, India",
+      "area": "Dondaparthy",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.725417,83.300764",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    23.5
+  ],
+  "scraped_at": "2026-05-21T08:10:38.527898+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

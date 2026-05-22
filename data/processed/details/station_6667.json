@@ -1,0 +1,204 @@
+{
+  "station_id": 6667,
+  "station_detail": {
+    "station_id": 6667,
+    "station_name": "2011479-SHREE VARDHAMAN PETROLEUM",
+    "latitude": 24.005302,
+    "longitude": 72.774504,
+    "address": "\"Kheralu-Ambaji SH-56,  MEHSANA, Sartanpur,Mehsan\"\t384330, Mehsana, Gujarat, 384330, India",
+    "area": "\"Kheralu-Ambaji SH-56,  MEHSANA, Sartanpur,Mehsan\"\t384330",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.005302,72.774504",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8271 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.2,
+    "no_of_reviews": 50,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54188,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 12295,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 12296,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "2011479-SHREE VARDHAMAN PETROLEUM",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 16,
+        "2": 4,
+        "3": 0,
+        "4": 4,
+        "5": 76
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Mehsana",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 6667,
+      "station_name": "2011479-SHREE VARDHAMAN PETROLEUM",
+      "latitude": 24.005302,
+      "longitude": 72.774504,
+      "address": "\"Kheralu-Ambaji SH-56,  MEHSANA, Sartanpur,Mehsan\"\t384330, Mehsana, Gujarat, 384330, India",
+      "area": "\"Kheralu-Ambaji SH-56,  MEHSANA, Sartanpur,Mehsan\"\t384330",
+      "avg_review_rating": 4.2,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.005302,72.774504",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 9408,
+      "station_name": "DANTA Automobiles",
+      "latitude": 24.179498,
+      "longitude": 72.749145,
+      "address": "RO at Ratanpur taluka danta , Ambaji, Gujarat, 385120, India",
+      "area": "RO at Ratanpur taluka danta ",
+      "avg_review_rating": 4.38,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.179498,72.749145",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 8155,
+      "station_name": "SHREE HARSIDDH PETROLEUM",
+      "latitude": 23.97433,
+      "longitude": 72.528557,
+      "address": "\"ADDRESS :-BHARAT PETROLEUM   Vadgam - Kheralu Highway Road, NH -58 At & po, Pilucha , ta Vadgam, Dist Bansknatha pincode 385421\", Banaskantha, Gujarat, 385421, India",
+      "area": "\"ADDRESS :-BHARAT PETROLEUM   Vadgam - Kheralu Highway Road, NH -58 At & po, Pilucha , ta Vadgam, Dist Bansknatha pincode 385421\"",
+      "avg_review_rating": 3.91,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.97433,72.528557",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 6847,
+      "station_name": "2003810-BALAJI AUTO FUEL",
+      "latitude": 23.842752,
+      "longitude": 73.027773,
+      "address": "IDAR BHILODA HIGHAY SH 10,  SABARKANTHA, KUSHKI, SABARKANTHA, Vadodara, Gujarat, 383430, India",
+      "area": "IDAR BHILODA HIGHAY SH 10,  SABARKANTHA, KUSHKI, SABARKANTHA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.842752,73.027773",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 6784,
+      "station_name": "GLIDA Royal Inn Hotel",
+      "latitude": 24.331263,
+      "longitude": 72.847754,
+      "address": "DK Circle, Ambaji, Gujarat, 385110, India",
+      "area": "DK Circle",
+      "avg_review_rating": 4.49,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.331263,72.847754",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:01:35.053996+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

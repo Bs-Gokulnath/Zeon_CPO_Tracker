@@ -1,0 +1,305 @@
+{
+  "station_id": 15789,
+  "station_detail": {
+    "station_id": 15789,
+    "station_name": "EESL AMC Near Gate 2 Kakariya Lake",
+    "latitude": 23.013058,
+    "longitude": 72.600801,
+    "address": "AMC Near Gate 2, Kakariya Lake, Near Public Convenience, Ahmedabad, Gujarat, Ahmedabad, Gujarat, 380028, India",
+    "area": "AMC Near Gate 2, Kakariya Lake, Near Public Convenience, Ahmedabad, Gujarat",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.013058,72.600801",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8240 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 2,
+        "connector_name": "CHAdeMO",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/chademo.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      },
+      {
+        "id": 6,
+        "connector_name": "GBT",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 69542,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 3,
+            "connector_id": 35236,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "unavailable"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 35477,
+            "connector_type": "CHAdeMO",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/chademo.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 2,
+            "connector_status": "unavailable"
+          },
+          {
+            "display_id": 1,
+            "connector_id": 35478,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 142.0,
+        "charger_name": "EESL AMC Near Gate 2 Kakariya Lake 142kW CCS2/ChadeMO/Type2",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 69543,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35237,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 6,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 15.0,
+        "charger_name": "EESL AMC Near Gate 2 Kakariya Lake 15kW GBT-1",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 69544,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35238,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 6,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 15.0,
+        "charger_name": "EESL AMC Near Gate 2 Kakariya Lake 15kW GBT-2",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 69545,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35239,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 6,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 15.0,
+        "charger_name": "EESL AMC Near Gate 2 Kakariya Lake 15kW GBT-3",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ahmedabad",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 142.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15789,
+      "station_name": "EESL AMC Near Gate 2 Kakariya Lake",
+      "latitude": 23.013058,
+      "longitude": 72.600801,
+      "address": "AMC Near Gate 2, Kakariya Lake, Near Public Convenience, Ahmedabad, Gujarat, Ahmedabad, Gujarat, 380028, India",
+      "area": "AMC Near Gate 2, Kakariya Lake, Near Public Convenience, Ahmedabad, Gujarat",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.013058,72.600801",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 1997,
+      "station_name": "Torrent Power - Raipur Darwaja EV Charging Station",
+      "latitude": 23.017349,
+      "longitude": 72.596519,
+      "address": "Raipur Darwaja BRTS, Ahmedabad, Gujarat, 380022, India",
+      "area": "Raipur Darwaja BRTS",
+      "avg_review_rating": 4.24,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.017349,72.596519",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/torrent_map_pin.png"
+    },
+    {
+      "id": 15790,
+      "station_name": "EESL AMC Nr. Kids City Kankariya Lake",
+      "latitude": 23.002405,
+      "longitude": 72.60098,
+      "address": "Nr. Kids City's of Kankariya Lake, Nr. Picnic House, Ahmedabad, Gujarat, Ahmedabad, Gujarat, 380028, India",
+      "area": "Nr. Kids City's of Kankariya Lake, Nr. Picnic House, Ahmedabad, Gujarat",
+      "avg_review_rating": 3.5,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.002405,72.60098",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/default.png"
+    },
+    {
+      "id": 9393,
+      "station_name": "GJ | Ahmedabad | Planet Hyundai",
+      "latitude": 23.00379,
+      "longitude": 72.617195,
+      "address": "Planet House, Ahmedabad, Gujarat, 380008, India",
+      "area": "Planet House",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.00379,72.617195",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 9949,
+      "station_name": "MANINAGAR (2W/3W) XJR6+MM5, Dalal Colony, Muktimedan, Daxini Society, Maninagar,",
+      "latitude": 22.991636,
+      "longitude": 72.611834,
+      "address": "XJR6+MM5, Ahmedabad, Gujarat, 380008, India",
+      "area": "XJR6+MM5",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.991636,72.611834",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 4,
+  "ac_prices": [],
+  "dc_prices": [
+    20.0,
+    20.0,
+    20.0,
+    20.0
+  ],
+  "scraped_at": "2026-05-21T08:16:53.680193+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

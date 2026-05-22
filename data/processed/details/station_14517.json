@@ -1,0 +1,203 @@
+{
+  "station_id": 14517,
+  "station_detail": {
+    "station_id": 14517,
+    "station_name": "Surya Petroleum",
+    "latitude": 21.339193,
+    "longitude": 79.135647,
+    "address": "Diggalwadi, parshivni, Nagpur, Maharashtra, 441105, India",
+    "area": "Diggalwadi, parshivni",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.339193,79.135647",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8893 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.82,
+    "no_of_reviews": 11,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": "441105",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 67197,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 31558,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 31559,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "Surya Petroleum",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 9,
+        "4": 0,
+        "5": 91
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Nagpur",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14517,
+      "station_name": "Surya Petroleum",
+      "latitude": 21.339193,
+      "longitude": 79.135647,
+      "address": "Diggalwadi, parshivni, Nagpur, Maharashtra, 441105, India",
+      "area": "Diggalwadi, parshivni",
+      "avg_review_rating": 4.82,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.339193,79.135647",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 15037,
+      "station_name": "Paliwal petroleum",
+      "latitude": 21.375487,
+      "longitude": 79.125579,
+      "address": "319, Mahuli, Maharashtra , Nagpur, Maharashtra, 441105, India",
+      "area": "319, Mahuli, Maharashtra ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.375487,79.125579",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9386,
+      "station_name": "MH | Nagpur | Hotel Sunrise N Resorts",
+      "latitude": 21.280632,
+      "longitude": 79.084179,
+      "address": "Near Koradi Thermal Power Station, Nagpur, Maharashtra, 441113, India",
+      "area": "Near Koradi Thermal Power Station",
+      "avg_review_rating": 4.86,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.280632,79.084179",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 13240,
+      "station_name": "ID(gzugn3)Mansar auto care center",
+      "latitude": 21.331652,
+      "longitude": 79.227831,
+      "address": "Dumari kh, Dumari Kh, Maharashtra, 441105, India",
+      "area": "Dumari kh",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.331652,79.227831",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 12918,
+      "station_name": "Statiq Enviiiro Wheels Nandgaon Station",
+      "latitude": 21.312249,
+      "longitude": 79.228693,
+      "address": "Plot no.19, Survey no.224, Near BPCL Pump, NH07, Vill. Nandgaon, Dumari, Tehsil Parseoni, Nagpur, Maharashtra, 440018, India",
+      "area": "Plot no.19, Survey no.224, Near BPCL Pump, NH07, Vill. Nandgaon, Dumari, Tehsil Parseoni",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.312249,79.228693",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:13:54.653348+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

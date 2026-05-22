@@ -1,0 +1,660 @@
+{
+  "station_id": 8705,
+  "station_detail": {
+    "station_id": 8705,
+    "station_name": "Gomti Nagar Charging Station Lucknow",
+    "latitude": 26.824151,
+    "longitude": 81.012905,
+    "address": "plot no. 6/855, Lucknow, Uttar Pradesh, 226001, India",
+    "area": "plot no. 6/855",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.824151,81.012905",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9126 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 4.0,
+    "no_of_reviews": 1,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/1c+Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 57248,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16520,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Gomti Nagar Charging Station Lucknow 1",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 57249,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16521,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Gomti Nagar Charging Station Lucknow 2",
+        "last_used_on": "11/09/2025"
+      },
+      {
+        "charger_id": 57253,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16525,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 5,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Gomti Nagar Charging Station Lucknow 3",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 57255,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16527,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Gomti Nagar Charging Station Lucknow 4",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 57258,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16530,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Gomti Nagar Charging Station Lucknow 5",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 57260,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16532,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Gomti Nagar Charging Station Lucknow 6",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 57261,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16533,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Gomti Nagar Charging Station Lucknow 7",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 57263,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16535,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Gomti Nagar Charging Station Lucknow 8",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 57265,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16537,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Gomti Nagar Charging Station Lucknow 9",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 57267,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16539,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Gomti Nagar Charging Station Lucknow 10",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 57269,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16541,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Gomti Nagar Charging Station Lucknow 11",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 57270,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16542,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Gomti Nagar Charging Station Lucknow 12",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 57271,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16543,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Gomti Nagar Charging Station Lucknow 13",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 57272,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16544,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 5,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Gomti Nagar Charging Station Lucknow 14",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 57274,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16546,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Gomti Nagar Charging Station Lucknow 15",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 57276,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16548,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Gomti Nagar Charging Station Lucknow 16",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 57277,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16549,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Gomti Nagar Charging Station Lucknow 17",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 57278,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16550,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Gomti Nagar Charging Station Lucknow 18",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 57279,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16551,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Gomti Nagar Charging Station Lucknow 19",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 57281,
+        "price_with_currency": "₹ 17.45",
+        "price": 17.45,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16553,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "MMB Gomti Nagar Charging Station Lucknow 20",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 100,
+        "5": 0
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Lucknow",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 3.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8705,
+      "station_name": "Gomti Nagar Charging Station Lucknow",
+      "latitude": 26.824151,
+      "longitude": 81.012905,
+      "address": "plot no. 6/855, Lucknow, Uttar Pradesh, 226001, India",
+      "area": "plot no. 6/855",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.824151,81.012905",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/1c_normal.png"
+    },
+    {
+      "id": 12894,
+      "station_name": "Ecoplug Riverview Arcade Shopping Complex",
+      "latitude": 26.82676,
+      "longitude": 81.00859,
+      "address": "Sector-4, Lucknow, Uttar Pradesh, 226010, India",
+      "area": "Sector-4",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.82676,81.00859",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 8161,
+      "station_name": "Statiq Mercure Lucknow BMW Station",
+      "latitude": 26.807415,
+      "longitude": 81.010473,
+      "address": "Front Parking, Mercure Hotel, Plot No 7-2, Amar Shaheed Path, Ardonamau, Lucknow, Uttar Pradesh, 226010, India",
+      "area": "Front Parking, Mercure Hotel, Plot No 7-2, Amar Shaheed Path, Ardonamau",
+      "avg_review_rating": 4.7,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.807415,81.010473",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 8701,
+      "station_name": "K.B & Sons EV CHARGING STATION",
+      "latitude": 26.841698,
+      "longitude": 81.01492,
+      "address": "HP petrol pump, Lucknow, Uttar Pradesh, 226010, India",
+      "area": "HP petrol pump",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.841698,81.01492",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/1c_normal.png"
+    },
+    {
+      "id": 12299,
+      "station_name": "Ecoplug Prithvi EV Charging Station",
+      "latitude": 26.80114,
+      "longitude": 81.00814,
+      "address": "Prithvi Puram Ahimamau Sultanpur Road, Lucknow, Uttar Pradesh, 226002, India",
+      "area": "Prithvi Puram Ahimamau Sultanpur Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.80114,81.00814",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    }
+  ],
+  "ac_count": 20,
+  "dc_count": 0,
+  "ac_prices": [
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45,
+    17.45
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:05:09.414912+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

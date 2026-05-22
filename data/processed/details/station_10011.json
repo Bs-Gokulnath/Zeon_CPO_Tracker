@@ -1,0 +1,308 @@
+{
+  "station_id": 10011,
+  "station_detail": {
+    "station_id": 10011,
+    "station_name": "EESL Statiq Dwarka Sec 2 Station",
+    "latitude": 28.599502,
+    "longitude": 77.064728,
+    "address": "H3X7+PWX, Pocket 1, Sector 2, New Delhi, Delhi, 110075, India",
+    "area": "H3X7+PWX, Pocket 1, Sector 2",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.599502,77.064728",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8757 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 59187,
+        "price_with_currency": "₹ 4.2",
+        "price": 4.2,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 19726,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "EESL Statiq Dwarka Sec 2 AC Charger 1a",
+        "last_used_on": "03/05/2025"
+      },
+      {
+        "charger_id": 59188,
+        "price_with_currency": "₹ 4.2",
+        "price": 4.2,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 19727,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "EESL Statiq Dwarka Sec 2 AC Charger 1b",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 59189,
+        "price_with_currency": "₹ 4.2",
+        "price": 4.2,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 19728,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "EESL Statiq Dwarka Sec 2 AC Charger 1c",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 68439,
+        "price_with_currency": "₹ 1.6",
+        "price": 1.6,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33563,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "EESL-DTC Dwarka Sec 2 AC Charger 2(a)",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 68440,
+        "price_with_currency": "₹ 1.6",
+        "price": 1.6,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33564,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "EESL-DTC Dwarka Sec 2 AC Charger 2(b)",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 68441,
+        "price_with_currency": "₹ 1.6",
+        "price": 1.6,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33565,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "EESL-DTC Dwarka Sec 2 AC Charger 2(c)",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "New Delhi",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 3.3,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10011,
+      "station_name": "EESL Statiq Dwarka Sec 2 Station",
+      "latitude": 28.599502,
+      "longitude": 77.064728,
+      "address": "H3X7+PWX, Pocket 1, Sector 2, New Delhi, Delhi, 110075, India",
+      "area": "H3X7+PWX, Pocket 1, Sector 2",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.599502,77.064728",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 14548,
+      "station_name": "SHIV SS",
+      "latitude": 28.59386,
+      "longitude": 77.07785,
+      "address": "New Delhi, New Delhi, Delhi, 110075, India",
+      "area": "New Delhi",
+      "avg_review_rating": 4.75,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.59386,77.07785",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 2010,
+      "station_name": "Statiq AdWall Fakhruddin Memorial CGH Station",
+      "latitude": 28.58847,
+      "longitude": 77.055504,
+      "address": " Fakhruddin Memorial CGHS Ltd.Plot-18, New Delhi, Delhi, 110075, India",
+      "area": " Fakhruddin Memorial CGHS Ltd.Plot-18",
+      "avg_review_rating": 4.85,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.58847,77.055504",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 2175,
+      "station_name": "Statiq Everest Dwarka Sec-10 Hub 1",
+      "latitude": 28.581657,
+      "longitude": 77.056221,
+      "address": "Dwarka Sec 10 Metro Station, New Delhi, Delhi, 110100, India",
+      "area": "Dwarka Sec 10 Metro Station",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.581657,77.056221",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 1933,
+      "station_name": "Statiq DMRC Hub Dwarka Sector 10 Metro Station",
+      "latitude": 28.581657,
+      "longitude": 77.056221,
+      "address": "Dwarka Sec 10 Metro Station, Delhi, Delhi, 110075, India",
+      "area": "Dwarka Sec 10 Metro Station",
+      "avg_review_rating": 4.73,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.581657,77.056221",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 6,
+  "dc_count": 0,
+  "ac_prices": [
+    4.2,
+    4.2,
+    4.2,
+    1.6,
+    1.6,
+    1.6
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:07:48.533814+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

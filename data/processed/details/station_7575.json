@@ -1,0 +1,194 @@
+{
+  "station_id": 7575,
+  "station_detail": {
+    "station_id": 7575,
+    "station_name": "2015948-VIJAYALAXMI PETROLEUM",
+    "latitude": 16.513906,
+    "longitude": 75.303622,
+    "address": "JAMKHANDI, Jamkhandi, Karnataka, 587301, India",
+    "area": "JAMKHANDI",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.513906,75.303622",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8451 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.59,
+    "no_of_reviews": 83,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 55414,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13760,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "2015948-VIJAYALAXMI PETROLEUM",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 5,
+        "2": 0,
+        "3": 5,
+        "4": 12,
+        "5": 78
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Jamkhandi",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7575,
+      "station_name": "2015948-VIJAYALAXMI PETROLEUM",
+      "latitude": 16.513906,
+      "longitude": 75.303622,
+      "address": "JAMKHANDI, Jamkhandi, Karnataka, 587301, India",
+      "area": "JAMKHANDI",
+      "avg_review_rating": 4.59,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.513906,75.303622",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15331,
+      "station_name": "NISARGA PRIYA PUMP",
+      "latitude": 16.352868,
+      "longitude": 75.236497,
+      "address": "SORAGAON VILLAGE,MUDHOL NIPPANI HIGHWAY, MUDHOL TALUK, BAGALKOT DISTRICT, Bagalkot, Karnataka, 587312, India",
+      "area": "SORAGAON VILLAGE,MUDHOL NIPPANI HIGHWAY, MUDHOL TALUK, BAGALKOT DISTRICT",
+      "avg_review_rating": 4.74,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.352868,75.236497",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 11250,
+      "station_name": "Channagireshwar Petroleum",
+      "latitude": 16.380817,
+      "longitude": 75.112346,
+      "address": "BAGALKOT, Bagalkot, Karnataka, 587312, India",
+      "area": "BAGALKOT",
+      "avg_review_rating": 4.86,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.380817,75.112346",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 7611,
+      "station_name": "2018205-PENDARI PETROLEUM",
+      "latitude": 16.387063,
+      "longitude": 75.097421,
+      "address": "MAHALINGPUR, Mahalingpur, Karnataka, 587312, India",
+      "area": "MAHALINGPUR",
+      "avg_review_rating": 4.71,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.387063,75.097421",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 9917,
+      "station_name": "BUTALI PETROLEUM",
+      "latitude": 16.727193,
+      "longitude": 75.075884,
+      "address": "ATHANI BELGAUM Karnataka, Belgaum, Karnataka, 591304, India",
+      "area": "ATHANI BELGAUM Karnataka",
+      "avg_review_rating": 4.7,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.727193,75.075884",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:03:20.459699+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

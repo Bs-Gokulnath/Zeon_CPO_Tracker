@@ -1,0 +1,194 @@
+{
+  "station_id": 7233,
+  "station_detail": {
+    "station_id": 7233,
+    "station_name": "2001197-KUZHINJALIL FUELS",
+    "latitude": 10.877632,
+    "longitude": 76.548755,
+    "address": "KALLADIKODE, Alangad, Kerala, 678596, India",
+    "area": "KALLADIKODE",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.877632,76.548755",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8548 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.69,
+    "no_of_reviews": 16,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 55072,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13418,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "2001197-KUZHINJALIL FUELS",
+        "last_used_on": "27/02/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 6,
+        "2": 0,
+        "3": 0,
+        "4": 6,
+        "5": 88
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Alangad",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7233,
+      "station_name": "2001197-KUZHINJALIL FUELS",
+      "latitude": 10.877632,
+      "longitude": 76.548755,
+      "address": "KALLADIKODE, Alangad, Kerala, 678596, India",
+      "area": "KALLADIKODE",
+      "avg_review_rating": 4.69,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.877632,76.548755",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9739,
+      "station_name": "chargeMOD | Sihla Energy | Mundur | EVCS",
+      "latitude": 10.839663,
+      "longitude": 76.579965,
+      "address": "Sihla Energy Charging Station, Palakkad, Kerala, 678592, India",
+      "area": "Sihla Energy Charging Station",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.839663,76.579965",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 15475,
+      "station_name": "M S PETROLEUM",
+      "latitude": 10.822333,
+      "longitude": 76.595701,
+      "address": "Palakkad, Palakkad, Kerala, 678592, India",
+      "area": "Palakkad",
+      "avg_review_rating": 3.86,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.822333,76.595701",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7609,
+      "station_name": "2018081-VISHAK FUELS AND LUBRICANTS",
+      "latitude": 10.7918,
+      "longitude": 76.4997,
+      "address": "PALAKKAD, Palakkad, Kerala, 678613, India",
+      "area": "PALAKKAD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.7918,76.4997",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 5258,
+      "station_name": "chargeMOD | ELECTRICA EVCS PALAKKAD",
+      "latitude": 10.785348,
+      "longitude": 76.60369,
+      "address": "Oppo Kallekkad Police camp, Palakkad, Kerala, 678006, India",
+      "area": "Oppo Kallekkad Police camp",
+      "avg_review_rating": 4.74,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.785348,76.60369",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:02:31.178179+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

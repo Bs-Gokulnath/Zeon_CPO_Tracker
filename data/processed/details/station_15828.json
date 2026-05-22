@@ -1,0 +1,204 @@
+{
+  "station_id": 15828,
+  "station_detail": {
+    "station_id": 15828,
+    "station_name": "KAWAL MOTORS PRIVATE LIMITED",
+    "latitude": 26.195825,
+    "longitude": 79.843719,
+    "address": "RO AT GAURPATHAK BHOGNIPUR  KANPUR DEHAT 209112, Kanpur, Uttar Pradesh, 209112, India",
+    "area": "RO AT GAURPATHAK BHOGNIPUR  KANPUR DEHAT 209112",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.195825,79.843719",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9005 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 4,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 69591,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35301,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 35302,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "KAWAL MOTORS PRIVATE LIMITED",
+        "last_used_on": "15/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Kanpur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15828,
+      "station_name": "KAWAL MOTORS PRIVATE LIMITED",
+      "latitude": 26.195825,
+      "longitude": 79.843719,
+      "address": "RO AT GAURPATHAK BHOGNIPUR  KANPUR DEHAT 209112, Kanpur, Uttar Pradesh, 209112, India",
+      "area": "RO AT GAURPATHAK BHOGNIPUR  KANPUR DEHAT 209112",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.195825,79.843719",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12862,
+      "station_name": "ID(exwof9)AMB HP FILLING STATION",
+      "latitude": 26.180013,
+      "longitude": 79.790545,
+      "address": "Pipri, Pipri, Uttar Pradesh, 209112, India",
+      "area": "Pipri",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.180013,79.790545",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+charging+pin-+selected.png"
+    },
+    {
+      "id": 15394,
+      "station_name": "KRISHNA FILLING CENTER",
+      "latitude": 26.0604,
+      "longitude": 79.6294,
+      "address": "RO AT USERGAON TEH  KALPI  JALAUN 285204, Kalpi, Uttar Pradesh, 285204, India",
+      "area": "RO AT USERGAON TEH  KALPI  JALAUN 285204",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.0604,79.6294",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15230,
+      "station_name": "DARSHAN AUTO FILL",
+      "latitude": 26.390237,
+      "longitude": 80.029571,
+      "address": "RO AT UMRAN NH2 AKBARPUR UMRAN KANPUR DEHAT 209101, Kanpur, Uttar Pradesh, 209101, India",
+      "area": "RO AT UMRAN NH2 AKBARPUR UMRAN KANPUR DEHAT 209101",
+      "avg_review_rating": 4.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.390237,80.029571",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15193,
+      "station_name": "2013664-RAM CHANDER FILLING STATION",
+      "latitude": 26.12369,
+      "longitude": 80.16693,
+      "address": "Syondi, Hamirpur Road, Ghatampur, Kanpur Nagar, Kanpur, Uttar Pradesh, 209206, India",
+      "area": "Syondi, Hamirpur Road, Ghatampur, Kanpur Nagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.12369,80.16693",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:16:53.714312+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

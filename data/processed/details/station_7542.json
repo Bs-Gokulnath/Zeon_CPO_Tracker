@@ -1,0 +1,200 @@
+{
+  "station_id": 7542,
+  "station_detail": {
+    "station_id": 7542,
+    "station_name": "2015146-SMT. INDRA FILLING STATION",
+    "latitude": 27.223743,
+    "longitude": 75.931176,
+    "address": "JAIPUR, Jaipur, Rajasthan, 303104, India",
+    "area": "JAIPUR",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.223743,75.931176",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8629 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.79,
+    "no_of_reviews": 33,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 13278,
+        "id": 2
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 55381,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13727,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "2015146-SMT. INDRA FILLING STATION",
+        "last_used_on": "09/02/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 21,
+        "5": 79
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Jaipur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7542,
+      "station_name": "2015146-SMT. INDRA FILLING STATION",
+      "latitude": 27.223743,
+      "longitude": 75.931176,
+      "address": "JAIPUR, Jaipur, Rajasthan, 303104, India",
+      "area": "JAIPUR",
+      "avg_review_rating": 4.79,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.223743,75.931176",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 2219,
+      "station_name": "Sunfuel - Club Mahindra Tree House Resort Jaipur",
+      "latitude": 27.177259,
+      "longitude": 75.976448,
+      "address": "Nature farms, NH11c , Kalwad Kalan and Khurd, Jaipur, Rajasthan, 303002, India",
+      "area": "Nature farms, NH11c , Kalwad Kalan and Khurd",
+      "avg_review_rating": 4.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.177259,75.976448",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 13175,
+      "station_name": "ID(659jit)Mahadev filling station",
+      "latitude": 27.282021,
+      "longitude": 75.953738,
+      "address": "Nawalpura, Nawalpura, Rajasthan, 303104, India",
+      "area": "Nawalpura",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.282021,75.953738",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 4797,
+      "station_name": "REIL MADERNA FILLING STATION",
+      "latitude": 27.133747,
+      "longitude": 75.961189,
+      "address": "NH-11 JAIPUR AGRA ROAD JHALATAL DIST. , Bharatpur, Rajasthan, 321303, India",
+      "area": "NH-11 JAIPUR AGRA ROAD JHALATAL DIST. ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.133747,75.961189",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 4760,
+      "station_name": "REIL Tiwari Service Centre Station",
+      "latitude": 27.133699,
+      "longitude": 75.961403,
+      "address": "Achrol Jaipur-Delhi Highway, Jaipur, Rajasthan, 303002, India",
+      "area": "Achrol Jaipur-Delhi Highway",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.133699,75.961403",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:03:15.041266+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

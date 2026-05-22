@@ -1,0 +1,238 @@
+{
+  "station_id": 8452,
+  "station_detail": {
+    "station_id": 8452,
+    "station_name": "CG | Bilaspur | Courtyard by Marriott Bilaspur",
+    "latitude": 22.093945,
+    "longitude": 82.125088,
+    "address": "Citymall 36, Bilaspur, Chhattisgarh, 495001, India",
+    "area": "Citymall 36",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.093945,82.125088",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9206 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 3.89,
+    "no_of_reviews": 18,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 56931,
+        "price_with_currency": "₹ 22.0",
+        "price": 22.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 15969,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 15970,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "TCZ CG | Bilaspur | Courtyard by Marriott Bilaspur 1",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 57777,
+        "price_with_currency": "₹ 21.0",
+        "price": 21.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 17369,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 17370,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "TCZ CG | Bilaspur | Courtyard by Marriott Bilaspur 2",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 22,
+        "2": 0,
+        "3": 11,
+        "4": 0,
+        "5": 67
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bilaspur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8452,
+      "station_name": "CG | Bilaspur | Courtyard by Marriott Bilaspur",
+      "latitude": 22.093945,
+      "longitude": 82.125088,
+      "address": "Citymall 36, Bilaspur, Chhattisgarh, 495001, India",
+      "area": "Citymall 36",
+      "avg_review_rating": 3.89,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.093945,82.125088",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 11255,
+      "station_name": "2007543-SARWAMANGALA FUELS",
+      "latitude": 22.09923,
+      "longitude": 82.107984,
+      "address": "Usalpur, Mungeli Road, Bilaspur, Chhattisgarh, 495001, India",
+      "area": "Usalpur, Mungeli Road",
+      "avg_review_rating": 4.45,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.09923,82.107984",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12825,
+      "station_name": "CG | Bilaspur | Krishna Hyundai",
+      "latitude": 22.048683,
+      "longitude": 82.122304,
+      "address": "Tifra, Bilaspur, Chhattisgarh, 495220, India",
+      "area": "Tifra",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.048683,82.122304",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15399,
+      "station_name": "YASH PETROLIEUM",
+      "latitude": 22.041927,
+      "longitude": 82.056513,
+      "address": "RO at Belmundi Sakri Baypass   Katghora Ambikapur Road, Dist , Bilaspur , Bilaspur, Chhattisgarh, 495001, India",
+      "area": "RO at Belmundi Sakri Baypass   Katghora Ambikapur Road, Dist , Bilaspur ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.041927,82.056513",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12366,
+      "station_name": "2007579-PANCHDEVI PETROLEUM",
+      "latitude": 22.011675,
+      "longitude": 82.098867,
+      "address": "RO at Chakarbhata, Bodri,, Bilaspur, Chhattisgarh, 495220, India",
+      "area": "RO at Chakarbhata, Bodri,",
+      "avg_review_rating": 4.36,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.011675,82.098867",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 2,
+  "ac_prices": [],
+  "dc_prices": [
+    22.0,
+    21.0
+  ],
+  "scraped_at": "2026-05-21T08:04:35.634945+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

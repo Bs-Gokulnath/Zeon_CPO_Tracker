@@ -1,0 +1,198 @@
+{
+  "station_id": 8591,
+  "station_detail": {
+    "station_id": 8591,
+    "station_name": "M/s. Mudrawati Filling Station",
+    "latitude": 26.78478,
+    "longitude": 82.429901,
+    "address": "KM STONE 162 TO 167 LHS,BADHAR KHURD, BASTI, Basti, Uttar Pradesh, 272127, India",
+    "area": "KM STONE 162 TO 167 LHS,BADHAR KHURD, BASTI",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.78478,82.429901",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9266 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 57091,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16261,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 16262,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "M/s. Mudrawati Filling Station_EV_DC",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Basti",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8591,
+      "station_name": "M/s. Mudrawati Filling Station",
+      "latitude": 26.78478,
+      "longitude": 82.429901,
+      "address": "KM STONE 162 TO 167 LHS,BADHAR KHURD, BASTI, Basti, Uttar Pradesh, 272127, India",
+      "area": "KM STONE 162 TO 167 LHS,BADHAR KHURD, BASTI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.78478,82.429901",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8611,
+      "station_name": "M/s. Kamal Shri Builders",
+      "latitude": 26.781349,
+      "longitude": 82.503524,
+      "address": "Basti, Basti, Uttar Pradesh, 272001, India",
+      "area": "Basti",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.781349,82.503524",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8670,
+      "station_name": "M/s. SRI RAM ASRAY YADAV AUTOMOBILES ",
+      "latitude": 26.767584,
+      "longitude": 82.622979,
+      "address": "DHUDHORA, FAIZABAD - BASTI, Basti, Uttar Pradesh, 272131, India",
+      "area": "DHUDHORA, FAIZABAD - BASTI",
+      "avg_review_rating": 4.56,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.767584,82.622979",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13431,
+      "station_name": "id(okue56)Lakshmi filling station",
+      "latitude": 26.771945,
+      "longitude": 82.642458,
+      "address": "Mandha, Mandha, Uttar Pradesh, 272131, India",
+      "area": "Mandha",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.771945,82.642458",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 14895,
+      "station_name": "N.B.AUTO FUELS",
+      "latitude": 26.749474,
+      "longitude": 82.217227,
+      "address": "RO AT KUDHA KESHAVPUR UPARHAR, FAIZABAD - AKBARPUR ROAD,  SADAR ,FAIZABAD, Faizabad, Uttar Pradesh, 224001, India",
+      "area": "RO AT KUDHA KESHAVPUR UPARHAR, FAIZABAD - AKBARPUR ROAD,  SADAR ,FAIZABAD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.749474,82.217227",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:04:49.484047+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

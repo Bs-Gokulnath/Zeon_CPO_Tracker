@@ -1,0 +1,188 @@
+{
+  "station_id": 12639,
+  "station_detail": {
+    "station_id": 12639,
+    "station_name": "ID(3gh5bg) Matoshri petroleum",
+    "latitude": 20.111218,
+    "longitude": 73.807562,
+    "address": "Maharashtra State Highway 17, Nashik, Maharashtra, 422004, India",
+    "area": "Maharashtra State Highway 17",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.111218,73.807562",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8328 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/networks-logo/HP+E+charge-Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 64270,
+        "price_with_currency": "₹ 15.05",
+        "price": 15.05,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 27615,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "HPL ID(3gh5bg) Matoshri petroleum 1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Nashik",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12639,
+      "station_name": "ID(3gh5bg) Matoshri petroleum",
+      "latitude": 20.111218,
+      "longitude": 73.807562,
+      "address": "Maharashtra State Highway 17, Nashik, Maharashtra, 422004, India",
+      "area": "Maharashtra State Highway 17",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.111218,73.807562",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 8299,
+      "station_name": "NAVNATH PETROLEUM",
+      "latitude": 20.102434,
+      "longitude": 73.80663,
+      "address": "DINDORI ROAD , DHAKAMBE ,NASHIK, Nashik, Maharashtra, 422004, India",
+      "area": "DINDORI ROAD , DHAKAMBE ,NASHIK",
+      "avg_review_rating": 4.54,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.102434,73.80663",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8390,
+      "station_name": "S B VINAYAKA PETROLEUM",
+      "latitude": 20.075688,
+      "longitude": 73.779356,
+      "address": "NASHIK, Nashik, Maharashtra, 422004, India",
+      "area": "NASHIK",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.075688,73.779356",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8048,
+      "station_name": "OM SAMARTH PETROLEUM",
+      "latitude": 20.193225,
+      "longitude": 73.828935,
+      "address": "DINDORI , NASHIK, Nashik, Maharashtra, 422202, India",
+      "area": "DINDORI , NASHIK",
+      "avg_review_rating": 4.56,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.193225,73.828935",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 9067,
+      "station_name": "BP ADGAON",
+      "latitude": 20.03648,
+      "longitude": 73.86405,
+      "address": "ATPOADAGAON  MUMBAI AGRA HW OLD NH3 NASHIK, Mumbai, Maharashtra, 422003, India",
+      "area": "ATPOADAGAON  MUMBAI AGRA HW OLD NH3 NASHIK",
+      "avg_review_rating": 4.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.03648,73.86405",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    15.05
+  ],
+  "scraped_at": "2026-05-21T08:12:23.982293+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

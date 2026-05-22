@@ -1,0 +1,205 @@
+{
+  "station_id": 11848,
+  "station_detail": {
+    "station_id": 11848,
+    "station_name": "LOK PUJYA FILLING CENTRE",
+    "latitude": 30.260859,
+    "longitude": 78.088359,
+    "address": "Harrawala, Dehradun, Uttarakhand, 248001, India",
+    "area": "Harrawala",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.260859,78.088359",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8875 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.52,
+    "no_of_reviews": 112,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 62862,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 25459,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 25460,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "LOK PUJYA FILLING CENTRE",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 6,
+        "2": 4,
+        "3": 3,
+        "4": 7,
+        "5": 80
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Dehradun",
+    "station_access_type": "public",
+    "availability": "Available in",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": [],
+    "waiting_time": "2026-05-21 13:51:17"
+  },
+  "nearby_stations": [
+    {
+      "id": 11848,
+      "station_name": "LOK PUJYA FILLING CENTRE",
+      "latitude": 30.260859,
+      "longitude": 78.088359,
+      "address": "Harrawala, Dehradun, Uttarakhand, 248001, India",
+      "area": "Harrawala",
+      "avg_review_rating": 4.52,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.260859,78.088359",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+charging.png"
+    },
+    {
+      "id": 13299,
+      "station_name": "id(58cqbr)MS balajee petroleum",
+      "latitude": 30.254373,
+      "longitude": 78.093074,
+      "address": "Harrawala Railway Road, Harrawala, Uttarakhand, 248005, India",
+      "area": "Harrawala Railway Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.254373,78.093074",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 1217,
+      "station_name": "Windlass River Valley Charging Station",
+      "latitude": 30.248199,
+      "longitude": 78.0961,
+      "address": "Windlass River Valley, Harrawala/Kuanwala, Haridwar Road, NH-72, Dehradun, Uttarakhand, 248005, India",
+      "area": "Windlass River Valley, Harrawala/Kuanwala, Haridwar Road, NH-72",
+      "avg_review_rating": 3.28,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.248199,78.0961",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 6759,
+      "station_name": "Ecoplug Oasis mall, dehradun",
+      "latitude": 30.287834,
+      "longitude": 78.06456,
+      "address": "haridwar - dehradun rd dharampur, Dehradun, Uttarakhand, 248012, India",
+      "area": "haridwar - dehradun rd dharampur",
+      "avg_review_rating": 4.57,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.287834,78.06456",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 10393,
+      "station_name": "Near Maharana Pratap Chok",
+      "latitude": 30.3078,
+      "longitude": 78.0996,
+      "address": "Maharana Pratap Chowk, Dehradun, Uttarakhand, 248001, India",
+      "area": "Maharana Pratap Chowk",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.3078,78.0996",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargerKarodefault.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:10:38.851416+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

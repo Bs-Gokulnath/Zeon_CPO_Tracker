@@ -1,0 +1,193 @@
+{
+  "station_id": 12254,
+  "station_detail": {
+    "station_id": 12254,
+    "station_name": "chargeMOD | Samisti Aranya Resorts | BPN EVCS | Hyderabad",
+    "latitude": 16.35038,
+    "longitude": 78.750759,
+    "address": "Amarabad, Hyderabad, Telangana, 509201, India",
+    "area": "Amarabad",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.35038,78.750759",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8817 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Chargemod+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 63718,
+        "price_with_currency": "₹ 20.88",
+        "price": 20.88,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26738,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "CMD chargeMOD | Shri Krishna Ambhas| BPN EVCS | Hyderabad 1",
+        "last_used_on": "14/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Hyderabad",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 7.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12254,
+      "station_name": "chargeMOD | Samisti Aranya Resorts | BPN EVCS | Hyderabad",
+      "latitude": 16.35038,
+      "longitude": 78.750759,
+      "address": "Amarabad, Hyderabad, Telangana, 509201, India",
+      "area": "Amarabad",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.35038,78.750759",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 12256,
+      "station_name": "chargeMOD | BPN EV Charging Hub | Brahmanapally",
+      "latitude": 16.41795,
+      "longitude": 78.73663,
+      "address": "Brahmanapally, Hyderabad, Telangana, 509375, India",
+      "area": "Brahmanapally",
+      "avg_review_rating": 4.8,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.41795,78.73663",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(3).png"
+    },
+    {
+      "id": 12177,
+      "station_name": "ADITHYA FILLING STATION 168269",
+      "latitude": 16.695595,
+      "longitude": 78.932075,
+      "address": "RO AT DEVARAKONDA, Nalgonda, Telangana, 508248, India",
+      "area": "RO AT DEVARAKONDA",
+      "avg_review_rating": 4.08,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.695595,78.932075",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 9824,
+      "station_name": "M/s. RAGHAVENDRA FLG. STN.",
+      "latitude": 16.680818,
+      "longitude": 78.48045,
+      "address": "NAGARKURNOOL, Nagar Karnul, Telangana, 509324, India",
+      "area": "NAGARKURNOOL",
+      "avg_review_rating": 4.79,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.680818,78.48045",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 2245,
+      "station_name": "Vishnu Shopping Mall  Kondamallepally",
+      "latitude": 16.712303,
+      "longitude": 78.981738,
+      "address": "Kondamallepalli Near Mallepalli Telangana-508, Nalgonda, Telangana, 508243, India",
+      "area": "Kondamallepalli Near Mallepalli Telangana-508",
+      "avg_review_rating": 4.66,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=16.712303,78.981738",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    20.88
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:11:39.872653+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

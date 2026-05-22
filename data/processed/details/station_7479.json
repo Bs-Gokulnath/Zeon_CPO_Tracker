@@ -1,0 +1,194 @@
+{
+  "station_id": 7479,
+  "station_detail": {
+    "station_id": 7479,
+    "station_name": "2002479-SHAKTI FILLING STATION",
+    "latitude": 19.183324,
+    "longitude": 84.727616,
+    "address": "GIRISOLA, Kochinda, Odisha, 761009, India",
+    "area": "GIRISOLA",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.183324,84.727616",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9464 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 3.36,
+    "no_of_reviews": 14,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 55318,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13664,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "2002479-SHAKTI FILLING STATION",
+        "last_used_on": "23/12/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 29,
+        "2": 0,
+        "3": 14,
+        "4": 21,
+        "5": 36
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Kochinda",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7479,
+      "station_name": "2002479-SHAKTI FILLING STATION",
+      "latitude": 19.183324,
+      "longitude": 84.727616,
+      "address": "GIRISOLA, Kochinda, Odisha, 761009, India",
+      "area": "GIRISOLA",
+      "avg_review_rating": 3.36,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.183324,84.727616",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12217,
+      "station_name": "SHANTI FILLING STATION..",
+      "latitude": 19.029866,
+      "longitude": 84.619084,
+      "address": "123, JADUPUDI, KANCHILI MANDAL, ICHAPURAM, SRIKAKULAM, 532290, Vizag, Andhra Pradesh, 532290, India",
+      "area": "123, JADUPUDI, KANCHILI MANDAL, ICHAPURAM, SRIKAKULAM, 532290",
+      "avg_review_rating": 3.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.029866,84.619084",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7130,
+      "station_name": "2002584-MAA ADISHAKTI FILLING STATION",
+      "latitude": 19.3471,
+      "longitude": 84.957948,
+      "address": "CHATRAPUR, Chatrapur, Odisha, 761020, India",
+      "area": "CHATRAPUR",
+      "avg_review_rating": 2.83,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.3471,84.957948",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13051,
+      "station_name": "ID(hn6pfz)WSA Haripuram",
+      "latitude": 18.83171,
+      "longitude": 84.48432,
+      "address": "Bethalapuram, Bethalapuram, Andhra Pradesh, 532242, India",
+      "area": "Bethalapuram",
+      "avg_review_rating": 4.75,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.83171,84.48432",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 13509,
+      "station_name": "ID(mxmk33)Jaya Laxmi Filling  Station",
+      "latitude": 18.78144,
+      "longitude": 84.4138,
+      "address": "Mogilipadu, Kasibugga, Andhra Pradesh, 532221, India",
+      "area": "Mogilipadu",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.78144,84.4138",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:03:06.586702+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

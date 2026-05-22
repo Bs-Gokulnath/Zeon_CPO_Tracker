@@ -1,0 +1,204 @@
+{
+  "station_id": 9320,
+  "station_detail": {
+    "station_id": 9320,
+    "station_name": "UP | Moradabad | Hotel Holiday Regency",
+    "latitude": 28.823544,
+    "longitude": 78.685191,
+    "address": "9th, Moradabad, Uttar Pradesh, 244001, India",
+    "area": "9th",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.823544,78.685191",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8916 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.7,
+    "no_of_reviews": 37,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/gentari-Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 58183,
+        "price_with_currency": "₹ 22.05",
+        "price": 22.05,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 18036,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 18038,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "GNT UP | Moradabad | Hotel Holiday Regency 1",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 3,
+        "2": 3,
+        "3": 0,
+        "4": 11,
+        "5": 84
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Moradabad",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9320,
+      "station_name": "UP | Moradabad | Hotel Holiday Regency",
+      "latitude": 28.823544,
+      "longitude": 78.685191,
+      "address": "9th, Moradabad, Uttar Pradesh, 244001, India",
+      "area": "9th",
+      "avg_review_rating": 4.7,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.823544,78.685191",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/gentari-default.png"
+    },
+    {
+      "id": 13375,
+      "station_name": "ID(94j9ze) HP CENTRE MUNDAPANDEY",
+      "latitude": 28.817862,
+      "longitude": 78.891878,
+      "address": "Chamraua, Chamraua, Uttar Pradesh, 244104, India",
+      "area": "Chamraua",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.817862,78.891878",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 9295,
+      "station_name": "UP | Rampur | Haryana Punjab Dhaba",
+      "latitude": 28.794255,
+      "longitude": 78.966291,
+      "address": "Munda Pande Chak Dafe Singh, Moradabad, Uttar Pradesh, 244001, India",
+      "area": "Munda Pande Chak Dafe Singh",
+      "avg_review_rating": 4.21,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.794255,78.966291",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/gentari-default.png"
+    },
+    {
+      "id": 11918,
+      "station_name": "AULAKH FILLING CENTRE",
+      "latitude": 29.04752,
+      "longitude": 78.531048,
+      "address": "RO AT LAKARHAT(UMRI), MORADABAD BIJNOR ROAD, AMROHA, AMROHA-244221, Meerut, Uttar Pradesh, 244221, India",
+      "area": "RO AT LAKARHAT(UMRI), MORADABAD BIJNOR ROAD, AMROHA, AMROHA-244221",
+      "avg_review_rating": 4.22,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.04752,78.531048",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10797,
+      "station_name": "Moga Punjabi Haveli",
+      "latitude": 28.837037,
+      "longitude": 78.32146,
+      "address": "JALALPUR, Amroha, Uttar Pradesh, 244235, India",
+      "area": "JALALPUR",
+      "avg_review_rating": 4.8,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.837037,78.32146",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/iONCHARGE/ion-available-not-selected.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    22.05
+  ],
+  "scraped_at": "2026-05-21T08:06:01.793040+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

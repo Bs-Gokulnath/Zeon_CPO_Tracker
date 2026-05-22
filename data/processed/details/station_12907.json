@@ -1,0 +1,275 @@
+{
+  "station_id": 12907,
+  "station_detail": {
+    "station_id": 12907,
+    "station_name": "Paras Seasons",
+    "latitude": 28.49566,
+    "longitude": 77.40811,
+    "address": "Paras Seasons Society Rd, Noida, Uttar Pradesh, 201305, India",
+    "area": "Paras Seasons Society Rd",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.49566,77.40811",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8789 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/smGentari.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 64574,
+        "price_with_currency": "₹ 15.0",
+        "price": 15.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 28176,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "SNK Paras Seasons 1",
+        "last_used_on": "01/05/2026"
+      },
+      {
+        "charger_id": 64577,
+        "price_with_currency": "₹ 16.0",
+        "price": 16.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 28179,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "SNK Paras Seasons 2",
+        "last_used_on": "27/12/2025"
+      },
+      {
+        "charger_id": 64578,
+        "price_with_currency": "₹ 15.0",
+        "price": 15.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 28180,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "SNK Paras Seasons 3",
+        "last_used_on": "30/03/2026"
+      },
+      {
+        "charger_id": 64580,
+        "price_with_currency": "₹ 16.0",
+        "price": 16.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 28182,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "SNK Paras Seasons 4",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Noida",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 7.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12907,
+      "station_name": "Paras Seasons",
+      "latitude": 28.49566,
+      "longitude": 77.40811,
+      "address": "Paras Seasons Society Rd, Noida, Uttar Pradesh, 201305, India",
+      "area": "Paras Seasons Society Rd",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.49566,77.40811",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/smGMR+default.png"
+    },
+    {
+      "id": 1878,
+      "station_name": "Statiq AdWall Lotus Zing Station",
+      "latitude": 28.495823,
+      "longitude": 77.410385,
+      "address": "Chhaprauli Bangar, Noida, Uttar Pradesh, 201305, India",
+      "area": "Chhaprauli Bangar",
+      "avg_review_rating": 4.29,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.495823,77.410385",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 1541,
+      "station_name": "Statiq Advant IT Park Station",
+      "latitude": 28.500422,
+      "longitude": 77.41053,
+      "address": "Gate No -3 Exit way Parking Area, Advant IT Park, Plot No. 7, Noida-Greater Noida Expressway, Greater Noida, Uttar Pradesh, 201305, India",
+      "area": "Gate No -3 Exit way Parking Area, Advant IT Park, Plot No. 7, Noida-Greater Noida Expressway",
+      "avg_review_rating": 4.75,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.500422,77.41053",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 2049,
+      "station_name": "Statiq Stellar Okas Station",
+      "latitude": 28.503206,
+      "longitude": 77.414421,
+      "address": "Plot No.5, Sector 142, Noida, Uttar Pradesh, 201305, India",
+      "area": "Plot No.5, Sector 142",
+      "avg_review_rating": 4.72,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.503206,77.414421",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 12916,
+      "station_name": "Sikka Karnam Greens",
+      "latitude": 28.49821,
+      "longitude": 77.4223,
+      "address": "Sector 143B, Noida, Uttar Pradesh, 201305, India",
+      "area": "Sector 143B",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.49821,77.4223",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/smGMR+default.png"
+    }
+  ],
+  "ac_count": 4,
+  "dc_count": 0,
+  "ac_prices": [
+    15.0,
+    16.0,
+    15.0,
+    16.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:13:10.808660+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

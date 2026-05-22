@@ -1,0 +1,248 @@
+{
+  "station_id": 8616,
+  "station_detail": {
+    "station_id": 8616,
+    "station_name": "AP | Chittoor | Nandi Food Plaza",
+    "latitude": 13.204103,
+    "longitude": 78.941753,
+    "address": "174 Nalagampalli Chittoor - Bangalore Highway, Chittoor, Andhra Pradesh, 517416, India",
+    "area": "174 Nalagampalli Chittoor - Bangalore Highway",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.204103,78.941753",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8820 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 4.41,
+    "no_of_reviews": 68,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 57119,
+        "price_with_currency": "₹ 21.5",
+        "price": 21.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16315,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 16316,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 480.0,
+        "charger_name": "TCZ AP | Chittoor | Nandi Food Plaza 1",
+        "last_used_on": "20/05/2026"
+      },
+      {
+        "charger_id": 57120,
+        "price_with_currency": "₹ 21.5",
+        "price": 21.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16317,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 16318,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 240.0,
+        "charger_name": "TCZ AP | Chittoor | Nandi Food Plaza 2",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 4,
+        "2": 3,
+        "3": 4,
+        "4": 24,
+        "5": 65
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Chittoor",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 480.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8616,
+      "station_name": "AP | Chittoor | Nandi Food Plaza",
+      "latitude": 13.204103,
+      "longitude": 78.941753,
+      "address": "174 Nalagampalli Chittoor - Bangalore Highway, Chittoor, Andhra Pradesh, 517416, India",
+      "area": "174 Nalagampalli Chittoor - Bangalore Highway",
+      "avg_review_rating": 4.41,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.204103,78.941753",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 14332,
+      "station_name": "SRI GANESH AGENCIES",
+      "latitude": 13.277591,
+      "longitude": 79.035548,
+      "address": "CHIGARAPAALI VILLAGE, CTM MANDAL, Nellore, Andhra Pradesh, 517130, India",
+      "area": "CHIGARAPAALI VILLAGE, CTM MANDAL",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.277591,79.035548",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 11992,
+      "station_name": "Chitoor Charging Hub",
+      "latitude": 13.197311,
+      "longitude": 79.065978,
+      "address": "53W8+WHJ, Chittoor, Andhra Pradesh, 517128, India",
+      "area": "53W8+WHJ",
+      "avg_review_rating": 4.94,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.197311,79.065978",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+default+(11).png"
+    },
+    {
+      "id": 8879,
+      "station_name": "SRI GNANA SAI FILLING STATION",
+      "latitude": 13.258597,
+      "longitude": 79.120558,
+      "address": "CHITTOOR, Chittoor, Andhra Pradesh, 517127, India",
+      "area": "CHITTOOR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.258597,79.120558",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 10276,
+      "station_name": "AP | Palamaner | Amarnath Yummy Foods, Village Foods-Millet Foods",
+      "latitude": 13.206661,
+      "longitude": 78.72468,
+      "address": "Bengaluru - Tirupathi & Chennai NH4 BY-PASS, Palamaner, Andhra Pradesh, 517408, India",
+      "area": "Bengaluru - Tirupathi & Chennai NH4 BY-PASS",
+      "avg_review_rating": 4.71,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.206661,78.72468",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/gentari-default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 2,
+  "ac_prices": [],
+  "dc_prices": [
+    21.5,
+    21.5
+  ],
+  "scraped_at": "2026-05-21T08:04:55.452501+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,204 @@
+{
+  "station_id": 8535,
+  "station_detail": {
+    "station_id": 8535,
+    "station_name": "RJ | Jaipur | Novotel Jaipur Convention Centre",
+    "latitude": 26.78102,
+    "longitude": 75.827172,
+    "address": "Sitapura Industrial Area Tonk Road, Jaipur, Rajasthan, 302022, India",
+    "area": "Sitapura Industrial Area Tonk Road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.78102,75.827172",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8613 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.7,
+    "no_of_reviews": 53,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 57028,
+        "price_with_currency": "₹ 22.0",
+        "price": 22.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16141,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 16142,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 240.0,
+        "charger_name": "TCZ RJ | Jaipur | Novotel Jaipur Convention Centre 1",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 6,
+        "2": 0,
+        "3": 0,
+        "4": 8,
+        "5": 87
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Jaipur",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 240.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8535,
+      "station_name": "RJ | Jaipur | Novotel Jaipur Convention Centre",
+      "latitude": 26.78102,
+      "longitude": 75.827172,
+      "address": "Sitapura Industrial Area Tonk Road, Jaipur, Rajasthan, 302022, India",
+      "area": "Sitapura Industrial Area Tonk Road",
+      "avg_review_rating": 4.7,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.78102,75.827172",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 1551,
+      "station_name": "Sunfuel - Crowne Plaza Jaipur Tonk Road",
+      "latitude": 26.779699,
+      "longitude": 75.828201,
+      "address": "Plot No SP 1, Jaipur, Rajasthan, 302022, India",
+      "area": "Plot No SP 1",
+      "avg_review_rating": 3.25,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.779699,75.828201",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 6681,
+      "station_name": "Rajasthan Volvo Workshop",
+      "latitude": 26.780712,
+      "longitude": 75.835461,
+      "address": "G-109 (A), Sitapura Industrial Area, Jaipur, Rajasthan, 302022, India",
+      "area": "G-109 (A), Sitapura Industrial Area",
+      "avg_review_rating": 4.86,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.780712,75.835461",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/volvo+default.png"
+    },
+    {
+      "id": 12850,
+      "station_name": "ID(97qj5d) DD Sharma Petroleums",
+      "latitude": 26.77206,
+      "longitude": 75.833047,
+      "address": "Sector 10, Jaipur, Rajasthan, 302029, India",
+      "area": "Sector 10",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.77206,75.833047",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 14714,
+      "station_name": "RJ | Jaipur | Go ElectriQ - 2",
+      "latitude": 26.802174,
+      "longitude": 75.856777,
+      "address": "Vivacity mall, Jaipur, Rajasthan, 302017, India",
+      "area": "Vivacity mall",
+      "avg_review_rating": 4.9,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.802174,75.856777",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GoEletriq_Charging_Map_Pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    22.0
+  ],
+  "scraped_at": "2026-05-21T08:04:43.683097+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

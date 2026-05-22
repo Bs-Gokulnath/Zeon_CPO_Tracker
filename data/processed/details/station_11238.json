@@ -1,0 +1,205 @@
+{
+  "station_id": 11238,
+  "station_detail": {
+    "station_id": 11238,
+    "station_name": "Shell Recharge Advaith Hyundai Mysore",
+    "latitude": 12.3491,
+    "longitude": 76.5717,
+    "address": "Mysore Hassan road, Mysore, Karnataka, 570016, India",
+    "area": "Mysore Hassan road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.3491,76.5717",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8559 kms",
+    "operational_time": "08:00 To 20:00",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.0,
+    "no_of_reviews": 34,
+    "station_image_url": null,
+    "is_connected": true,
+    "station_banner": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/banners/updatedbannerimage.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 61627,
+        "price_with_currency": "₹ 23.0",
+        "price": 23.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 23415,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 23416,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "SR-ADA-Charger 1",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 12,
+        "2": 9,
+        "3": 9,
+        "4": 9,
+        "5": 62
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Mysore",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11238,
+      "station_name": "Shell Recharge Advaith Hyundai Mysore",
+      "latitude": 12.3491,
+      "longitude": 76.5717,
+      "address": "Mysore Hassan road, Mysore, Karnataka, 570016, India",
+      "area": "Mysore Hassan road",
+      "avg_review_rating": 4.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.3491,76.5717",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
+    },
+    {
+      "id": 11937,
+      "station_name": "SRI NANJUNDESHWARA SERVICE STATION",
+      "latitude": 12.35271,
+      "longitude": 76.55041,
+      "address": "MYSORE, Mysore, Karnataka, 571130, India",
+      "area": "MYSORE",
+      "avg_review_rating": 4.7,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.35271,76.55041",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14943,
+      "station_name": "Natraj",
+      "latitude": 12.334578,
+      "longitude": 76.590966,
+      "address": "Mysore, Mysore, Karnataka, 570017, India",
+      "area": "Mysore",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.334578,76.590966",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14543,
+      "station_name": "VARAPRADHA",
+      "latitude": 12.345859,
+      "longitude": 76.60169,
+      "address": "Mysuru, Mysuru, Karnataka, 570017, India",
+      "area": "Mysuru",
+      "avg_review_rating": 4.74,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.345859,76.60169",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 11230,
+      "station_name": "Shell Recharge Hunsur Road",
+      "latitude": 12.32785,
+      "longitude": 76.60819,
+      "address": "Hunsur Main Road, Mysore, Karnataka, 570017, India",
+      "area": "Hunsur Main Road",
+      "avg_review_rating": 4.34,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.32785,76.60819",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    23.0
+  ],
+  "scraped_at": "2026-05-21T08:10:08.560785+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "station_image_url",
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 86.4
+}

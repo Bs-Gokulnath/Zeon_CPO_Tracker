@@ -1,0 +1,188 @@
+{
+  "station_id": 11970,
+  "station_detail": {
+    "station_id": 11970,
+    "station_name": "Dhingra",
+    "latitude": 28.478735,
+    "longitude": 77.049227,
+    "address": "\"Plot No 55, Sector-16,Industrial Area, Gurugram, 122002 Gurugram Haryana-122002\", Gurugram, Haryana, 122002, India",
+    "area": "\"Plot No 55, Sector-16,Industrial Area, Gurugram, 122002 Gurugram Haryana-122002\"",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.478735,77.049227",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8754 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 63027,
+        "price_with_currency": "₹ 0",
+        "price": 0.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 25780,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 150.0,
+        "charger_name": "Dhingra",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Gurugram",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 150.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11970,
+      "station_name": "Dhingra",
+      "latitude": 28.478735,
+      "longitude": 77.049227,
+      "address": "\"Plot No 55, Sector-16,Industrial Area, Gurugram, 122002 Gurugram Haryana-122002\", Gurugram, Haryana, 122002, India",
+      "area": "\"Plot No 55, Sector-16,Industrial Area, Gurugram, 122002 Gurugram Haryana-122002\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.478735,77.049227",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 10899,
+      "station_name": "Statiq Sector 14 AC Charging Station",
+      "latitude": 28.4779,
+      "longitude": 77.0483,
+      "address": "House Number 337, Gurugram, Haryana, 122001, India",
+      "area": "House Number 337",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.4779,77.0483",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 7997,
+      "station_name": "HR | Gurugram | Mercedes-Benz Silver Arrows Gurugram",
+      "latitude": 28.470827,
+      "longitude": 77.05271,
+      "address": "IDC, Gurugram, Haryana, 122001, India",
+      "area": "IDC",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.470827,77.05271",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mercedes_Branding_Logo.png"
+    },
+    {
+      "id": 15986,
+      "station_name": "HR |  Gurugram | BMW - Bird Automotive ",
+      "latitude": 28.471092,
+      "longitude": 77.054307,
+      "address": "4 IDC, Gurugram, Haryana, 122001, India",
+      "area": "4 IDC",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.471092,77.054307",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 1942,
+      "station_name": "Sunfuel - Country Inn & Suites, Gurgaon Sector 12",
+      "latitude": 28.46978,
+      "longitude": 77.038254,
+      "address": "Plot No. 301, 302, Anamika Enclave, Gurugram, Haryana, 122001, India",
+      "area": "Plot No. 301, 302, Anamika Enclave",
+      "avg_review_rating": 4.77,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.46978,77.038254",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Sunfuel+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    0.0
+  ],
+  "scraped_at": "2026-05-21T08:10:59.984882+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

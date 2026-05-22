@@ -1,0 +1,204 @@
+{
+  "station_id": 12059,
+  "station_detail": {
+    "station_id": 12059,
+    "station_name": "KA | Javagondnahalli | Hotel Aroma Natural Pure Veg",
+    "latitude": 13.839469,
+    "longitude": 76.739146,
+    "address": "Madras Bombay Trunk Rd, Javagondnahalli, Karnataka, 577511, India",
+    "area": "Madras Bombay Trunk Rd",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.839469,76.739146",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8586 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 1,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 63436,
+        "price_with_currency": "₹ 21.5",
+        "price": 21.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26266,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 26270,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "TCZ KA | Javagondnahalli | Hotel Aroma Natural Pure Veg 1",
+        "last_used_on": "19/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Javagondnahalli",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 4811,
+      "station_name": "Statiq x TATA.ev Hotel Aroma Veg Station",
+      "latitude": 13.8392,
+      "longitude": 76.739197,
+      "address": "Right Side of the Main Entrance Gate Khata No. 1122, Madras Bombay Trunk Road, Javagondnahalli, Hiriyur, Chitradurga, Karnataka, 577511, India",
+      "area": "Right Side of the Main Entrance Gate Khata No. 1122, Madras Bombay Trunk Road, Javagondnahalli, Hiriyur",
+      "avg_review_rating": 4.7,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.8392,76.739197",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 12059,
+      "station_name": "KA | Javagondnahalli | Hotel Aroma Natural Pure Veg",
+      "latitude": 13.839469,
+      "longitude": 76.739146,
+      "address": "Madras Bombay Trunk Rd, Javagondnahalli, Karnataka, 577511, India",
+      "area": "Madras Bombay Trunk Rd",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.839469,76.739146",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 14933,
+      "station_name": "chargeMOD | L M Charging station | Ujjanakunte",
+      "latitude": 13.82336,
+      "longitude": 76.775327,
+      "address": "Adyar Ananda Bhavan , Sira, Karnataka, 572139, India",
+      "area": "Adyar Ananda Bhavan ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.82336,76.775327",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 8291,
+      "station_name": "MARUTHI ENTERPRISES",
+      "latitude": 13.931784,
+      "longitude": 76.611578,
+      "address": "SY.NO.58/2A,HULIYAR ROAD,HIRIYUR CHITRADURGA DISTRICT - 577599, Chitradurga, Karnataka, 577599, India",
+      "area": "SY.NO.58/2A,HULIYAR ROAD,HIRIYUR CHITRADURGA DISTRICT - 577599",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.931784,76.611578",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7252,
+      "station_name": "2006725-MARUTHI ENTERPRISES",
+      "latitude": 13.931829,
+      "longitude": 76.611553,
+      "address": "HIRIYUR, Hiriyur, Karnataka, 577599, India",
+      "area": "HIRIYUR",
+      "avg_review_rating": 4.69,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.931829,76.611553",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.5
+  ],
+  "scraped_at": "2026-05-21T08:11:21.232803+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

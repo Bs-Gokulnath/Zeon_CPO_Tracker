@@ -1,0 +1,204 @@
+{
+  "station_id": 15242,
+  "station_detail": {
+    "station_id": 15242,
+    "station_name": "KAMAL FUELS",
+    "latitude": 12.348284,
+    "longitude": 76.071901,
+    "address": "\"SURVEY NO 1/14,B.M. ROAD, MYSORE, CHOWDENAHALLI VILLAGE,PERIYAPATNA, Karnataka\", Mysuru, Karnataka, 571234, India",
+    "area": "\"SURVEY NO 1/14,B.M. ROAD, MYSORE, CHOWDENAHALLI VILLAGE,PERIYAPATNA, Karnataka\"",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.348284,76.071901",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8504 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.5,
+    "no_of_reviews": 58,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68403,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33507,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 33508,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "KAMAL FUELS",
+        "last_used_on": "19/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 9,
+        "2": 0,
+        "3": 2,
+        "4": 12,
+        "5": 78
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Mysuru",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15242,
+      "station_name": "KAMAL FUELS",
+      "latitude": 12.348284,
+      "longitude": 76.071901,
+      "address": "\"SURVEY NO 1/14,B.M. ROAD, MYSORE, CHOWDENAHALLI VILLAGE,PERIYAPATNA, Karnataka\", Mysuru, Karnataka, 571234, India",
+      "area": "\"SURVEY NO 1/14,B.M. ROAD, MYSORE, CHOWDENAHALLI VILLAGE,PERIYAPATNA, Karnataka\"",
+      "avg_review_rating": 4.5,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.348284,76.071901",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 3664,
+      "station_name": "Statiq Hotel Four Season Station",
+      "latitude": 12.383058,
+      "longitude": 76.031527,
+      "address": "In front of hotel four seasons, mysore-madikeri highway, Hotel Four Season, Mysore, Karnataka, 571234, India",
+      "area": "In front of hotel four seasons, mysore-madikeri highway, Hotel Four Season",
+      "avg_review_rating": 4.7,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.383058,76.031527",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 5195,
+      "station_name": "Statiq Hotel Siri Ambari Station",
+      "latitude": 12.4008,
+      "longitude": 76.017502,
+      "address": "Left side of main entrance, Hotel Siri Amabari,Kushalnagar Road, Bylakuppe,, Kushalnagar, Karnataka, 571234, India",
+      "area": "Left side of main entrance, Hotel Siri Amabari,Kushalnagar Road, Bylakuppe,",
+      "avg_review_rating": 4.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.4008,76.017502",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 14927,
+      "station_name": "SRINIVASA PETROLEUMS",
+      "latitude": 12.22468,
+      "longitude": 76.00327,
+      "address": "KODAGU, Mysore, Karnataka, 571254, India",
+      "area": "KODAGU",
+      "avg_review_rating": 4.48,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.22468,76.00327",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14240,
+      "station_name": "Athithi Grand 60kW Dual Gun CCS2",
+      "latitude": 12.449962,
+      "longitude": 75.943499,
+      "address": "Kushalnagar, Baichanalli, Karnataka, 571234, India",
+      "area": "Kushalnagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.449962,75.943499",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:15:28.498100+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

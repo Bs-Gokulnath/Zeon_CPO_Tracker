@@ -1,0 +1,210 @@
+{
+  "station_id": 1996,
+  "station_detail": {
+    "station_id": 1996,
+    "station_name": "Torrent Power - Drive inn EV Charging Station",
+    "latitude": 23.044277,
+    "longitude": 72.546799,
+    "address": "Drive Inn Road, Ahmedabad, Gujarat, 380018, India",
+    "area": "Drive Inn Road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.044277,72.546799",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8235 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.66,
+    "no_of_reviews": 4142,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Torrent_Banner1.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 416,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 2118,
+        "price_with_currency": "₹ 13.0",
+        "price": 13.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 3076,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Finished",
+            "connector_type_id": 1,
+            "connector_status": "finishing"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 3077,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Drive In Saurabh Switch House DC Charger",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 3,
+        "2": 1,
+        "3": 4,
+        "4": 12,
+        "5": 80
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ahmedabad",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 1996,
+      "station_name": "Torrent Power - Drive inn EV Charging Station",
+      "latitude": 23.044277,
+      "longitude": 72.546799,
+      "address": "Drive Inn Road, Ahmedabad, Gujarat, 380018, India",
+      "area": "Drive Inn Road",
+      "avg_review_rating": 4.66,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.044277,72.546799",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/torrent_charging.png"
+    },
+    {
+      "id": 8137,
+      "station_name": "PARMAR TRADE LINK",
+      "latitude": 23.045512,
+      "longitude": 72.539544,
+      "address": "DRIVEIN ROAD,AHMEDABAD, Ahmedabad, Gujarat, 380052, India",
+      "area": "DRIVEIN ROAD,AHMEDABAD",
+      "avg_review_rating": 4.53,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.045512,72.539544",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 14143,
+      "station_name": "vishwa lake iksa 4w",
+      "latitude": 23.050386,
+      "longitude": 72.543229,
+      "address": "Memnagar, Ahmedabad, Gujarat, 380052, India",
+      "area": "Memnagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.050386,72.543229",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    },
+    {
+      "id": 13829,
+      "station_name": "Satyam Skyline 4W-1",
+      "latitude": 23.05279,
+      "longitude": 72.547467,
+      "address": "Satyam Skyline, Ahmedabad, Gujarat, 380013, India",
+      "area": "Satyam Skyline",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.05279,72.547467",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+default+(8).png"
+    },
+    {
+      "id": 1995,
+      "station_name": "Torrent Power - Naranpura EV Charging Station",
+      "latitude": 23.052956,
+      "longitude": 72.548477,
+      "address": "AEC Cross Roads, Ahmedabad, Gujarat, 380018, India",
+      "area": "AEC Cross Roads",
+      "avg_review_rating": 4.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.052956,72.548477",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/torrent_charging.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    13.0
+  ],
+  "scraped_at": "2026-05-21T07:59:19.317203+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

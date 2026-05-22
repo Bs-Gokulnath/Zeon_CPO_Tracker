@@ -1,0 +1,194 @@
+{
+  "station_id": 7692,
+  "station_detail": {
+    "station_id": 7692,
+    "station_name": "2023468-BP-BANDA",
+    "latitude": 25.539364,
+    "longitude": 80.216705,
+    "address": "BANDA, Banda, Uttar Pradesh, 210001, India",
+    "area": "BANDA",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.539364,80.216705",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9036 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.04,
+    "no_of_reviews": 49,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 55531,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13877,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "2023468-BP-BANDA",
+        "last_used_on": "10/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 16,
+        "2": 4,
+        "3": 2,
+        "4": 14,
+        "5": 63
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Banda",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7692,
+      "station_name": "2023468-BP-BANDA",
+      "latitude": 25.539364,
+      "longitude": 80.216705,
+      "address": "BANDA, Banda, Uttar Pradesh, 210001, India",
+      "area": "BANDA",
+      "avg_review_rating": 4.04,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.539364,80.216705",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14968,
+      "station_name": "RAJEEV SINGH FILLING STATION",
+      "latitude": 25.428039,
+      "longitude": 80.014714,
+      "address": "BHARAT PETROLEUM CORPORATION LTD,NH-86(NEW NH 34), KABRAI, District - MAHOBA, U.P., Kabrai, Uttar Pradesh, 210424, India",
+      "area": "BHARAT PETROLEUM CORPORATION LTD,NH-86(NEW NH 34), KABRAI, District - MAHOBA, U.P.",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.428039,80.014714",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15906,
+      "station_name": "ASHIRWAD FUEL",
+      "latitude": 25.720758,
+      "longitude": 79.897621,
+      "address": "RO AT JALLA MAUDAHA HAMIRPUR, Hamirpur, Uttar Pradesh, 210501, India",
+      "area": "RO AT JALLA MAUDAHA HAMIRPUR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.720758,79.897621",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15243,
+      "station_name": "JAGDISH CH.VIPIN KUMAR FLG. STN.",
+      "latitude": 25.913404,
+      "longitude": 80.14044,
+      "address": "RO AT RARAZOI KUCHECHA  HAMIRPUR 210301, Hamirpur, Uttar Pradesh, 210301, India",
+      "area": "RO AT RARAZOI KUCHECHA  HAMIRPUR 210301",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.913404,80.14044",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15319,
+      "station_name": "BENIPRASAD RAMNARAYAN",
+      "latitude": 25.923204,
+      "longitude": 80.141697,
+      "address": "RO AT KUCHECHA AND KUCHECHA HAMIRPUR ROAD HAMIRPUR 210301, Hamirpur, Uttar Pradesh, 210301, India",
+      "area": "RO AT KUCHECHA AND KUCHECHA HAMIRPUR ROAD HAMIRPUR 210301",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.923204,80.141697",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:03:32.056464+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

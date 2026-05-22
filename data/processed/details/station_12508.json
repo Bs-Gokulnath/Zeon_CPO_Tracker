@@ -1,0 +1,198 @@
+{
+  "station_id": 12508,
+  "station_detail": {
+    "station_id": 12508,
+    "station_name": "ID(hwbnb4) Abhi Fuels Center",
+    "latitude": 22.696675,
+    "longitude": 88.416658,
+    "address": "Sodepur Road, Muragachha, West Bengal, 700113, India",
+    "area": "Sodepur Road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.696675,88.416658",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9856 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/networks-logo/HP+E+charge-Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 64139,
+        "price_with_currency": "₹ 15.05",
+        "price": 15.05,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 27387,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 27390,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "HPL ID(hwbnb4) Abhi Fuels Center 1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Muragachha",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12508,
+      "station_name": "ID(hwbnb4) Abhi Fuels Center",
+      "latitude": 22.696675,
+      "longitude": 88.416658,
+      "address": "Sodepur Road, Muragachha, West Bengal, 700113, India",
+      "area": "Sodepur Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.696675,88.416658",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+charging+pin-+selected.png"
+    },
+    {
+      "id": 12727,
+      "station_name": "ID(aza7z5)TRINAYANI FUEL STATION",
+      "latitude": 22.730351,
+      "longitude": 88.401464,
+      "address": "Kalyani Expressway, Khardaha, West Bengal, 700118, India",
+      "area": "Kalyani Expressway",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.730351,88.401464",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 15183,
+      "station_name": "KRISHNA S/STN",
+      "latitude": 22.70188,
+      "longitude": 88.374485,
+      "address": "24 PGS (N), 24 Parganas (n), West Bengal, 743176, India",
+      "area": "24 PGS (N)",
+      "avg_review_rating": 4.41,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.70188,88.374485",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 15195,
+      "station_name": "PAL CHOWDHURY BROS",
+      "latitude": 22.681618,
+      "longitude": 88.45861,
+      "address": "\"NH-34, PO- MADHAYAMGRAM,, MADHYAMGRAM, 24 PGS (N)\", Kolkata, West Bengal, 743275, India",
+      "area": "\"NH-34, PO- MADHAYAMGRAM,, MADHYAMGRAM, 24 PGS (N)\"",
+      "avg_review_rating": 2.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.681618,88.45861",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 15179,
+      "station_name": "BELGHORIA S/S",
+      "latitude": 22.664612,
+      "longitude": 88.376882,
+      "address": "38 B.T. ROAD, BELGHORIA, B.T.ROAD, KOLKATA, NORTH 24 PARGANAS WB, 700056, Kolkata, West Bengal, 700056, India",
+      "area": "38 B.T. ROAD, BELGHORIA, B.T.ROAD, KOLKATA, NORTH 24 PARGANAS WB, 700056",
+      "avg_review_rating": 3.5,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.664612,88.376882",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    15.05
+  ],
+  "scraped_at": "2026-05-21T08:12:08.731107+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

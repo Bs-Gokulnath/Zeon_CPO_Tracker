@@ -1,0 +1,198 @@
+{
+  "station_id": 8576,
+  "station_detail": {
+    "station_id": 8576,
+    "station_name": "VICTORY AUTOMOBILES",
+    "latitude": 19.014641,
+    "longitude": 73.106277,
+    "address": "NEW HIGHWAY JUNCTION(NH4),KALAMBOLI, Kalamb, Maharashtra, 410218, India",
+    "area": "NEW HIGHWAY JUNCTION(NH4),KALAMBOLI",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.014641,73.106277",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8243 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 57075,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16229,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 16230,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "VICTORY AUTOMOBILES_EV_DC",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Kalamb",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8576,
+      "station_name": "VICTORY AUTOMOBILES",
+      "latitude": 19.014641,
+      "longitude": 73.106277,
+      "address": "NEW HIGHWAY JUNCTION(NH4),KALAMBOLI, Kalamb, Maharashtra, 410218, India",
+      "area": "NEW HIGHWAY JUNCTION(NH4),KALAMBOLI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.014641,73.106277",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 2108,
+      "station_name": "Sharvil Ventures ",
+      "latitude": 18.997056,
+      "longitude": 73.117936,
+      "address": "Plot 78, Navi Mumbai, Maharashtra, 410206, India",
+      "area": "Plot 78",
+      "avg_review_rating": 3.95,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.997056,73.117936",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eFill+charging.png"
+    },
+    {
+      "id": 13905,
+      "station_name": "KR 4A Level-2 4W-22kW",
+      "latitude": 18.978547,
+      "longitude": 73.11357,
+      "address": "Takka Road, Navi Mumbai, Maharashtra, 410206, India",
+      "area": "Takka Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.978547,73.11357",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    },
+    {
+      "id": 14439,
+      "station_name": "KR 4A Level-2",
+      "latitude": 18.977638,
+      "longitude": 73.11394,
+      "address": "Konkan Division, Navi Mumbai, Maharashtra, 410206, India",
+      "area": "Konkan Division",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.977638,73.11394",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    },
+    {
+      "id": 7733,
+      "station_name": "BPCL Mumbai kharghhar Office 3kw",
+      "latitude": 19.02912,
+      "longitude": 73.06425,
+      "address": "Kharghar, Navi Mumbai, Maharashtra, 410210, India",
+      "area": "Kharghar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.02912,73.06425",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:04:49.301303+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,275 @@
+{
+  "station_id": 8154,
+  "station_detail": {
+    "station_id": 8154,
+    "station_name": "Statiq GRS Fantasy Park Station",
+    "latitude": 12.353155,
+    "longitude": 76.635862,
+    "address": "Near the exit gate, No 127, KIADB Industrial Area,Off KRS Road opp Ring Road Metagalli, Mysore, Karnataka, 570016, India",
+    "area": "Near the exit gate, No 127, KIADB Industrial Area,Off KRS Road opp Ring Road Metagalli",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.353155,76.635862",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8566 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 4.64,
+    "no_of_reviews": 1681,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 12051,
+        "id": 1
+      },
+      {
+        "type": "Wifi",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/wifi+.png",
+        "map_id": 12052,
+        "id": 6
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 56481,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 15271,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 15272,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "GRS Park DC Charger",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 56572,
+        "price_with_currency": "₹ 14.49",
+        "price": 14.49,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 15391,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "GRS Fantasy Park BMW AC Charger1",
+        "last_used_on": "14/05/2026"
+      },
+      {
+        "charger_id": 56573,
+        "price_with_currency": "₹ 14.49",
+        "price": 14.49,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 15392,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "GRS Fantasy Park BMW AC Charger2",
+        "last_used_on": "14/04/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 3,
+        "2": 1,
+        "3": 4,
+        "4": 16,
+        "5": 77
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Mysore",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8154,
+      "station_name": "Statiq GRS Fantasy Park Station",
+      "latitude": 12.353155,
+      "longitude": 76.635862,
+      "address": "Near the exit gate, No 127, KIADB Industrial Area,Off KRS Road opp Ring Road Metagalli, Mysore, Karnataka, 570016, India",
+      "area": "Near the exit gate, No 127, KIADB Industrial Area,Off KRS Road opp Ring Road Metagalli",
+      "avg_review_rating": 4.64,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.353155,76.635862",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 7854,
+      "station_name": "KA | Mysuru | MB#Akshaya Motors Hebbal",
+      "latitude": 12.359504,
+      "longitude": 76.621513,
+      "address": "Akshaya Motors Site no 57-60, Bengaluru, Karnataka, 570016, India",
+      "area": "Akshaya Motors Site no 57-60",
+      "avg_review_rating": 4.69,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.359504,76.621513",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mercedes_Branding_Logo.png"
+    },
+    {
+      "id": 15186,
+      "station_name": "M/s. CHANDRAKALA REDDY FUEL STATION",
+      "latitude": 12.36641,
+      "longitude": 76.66213,
+      "address": "\"SY NO. 27/6 (OLD SY NO. 27/2),, MYSORE, SIDDALINGAPURA, KASABA HOBLI, Karnataka\", Mysuru, Karnataka, 570003, India",
+      "area": "\"SY NO. 27/6 (OLD SY NO. 27/2),, MYSORE, SIDDALINGAPURA, KASABA HOBLI, Karnataka\"",
+      "avg_review_rating": 4.41,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.36641,76.66213",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 14543,
+      "station_name": "VARAPRADHA",
+      "latitude": 12.345859,
+      "longitude": 76.60169,
+      "address": "Mysuru, Mysuru, Karnataka, 570017, India",
+      "area": "Mysuru",
+      "avg_review_rating": 4.74,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.345859,76.60169",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 10604,
+      "station_name": "KA | Mysuru | KPR Hyundai",
+      "latitude": 12.327253,
+      "longitude": 76.609335,
+      "address": "198, Mysuru, Karnataka, 570017, India",
+      "area": "198",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.327253,76.609335",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 2,
+  "dc_count": 1,
+  "ac_prices": [
+    14.49,
+    14.49
+  ],
+  "dc_prices": [
+    21.99
+  ],
+  "scraped_at": "2026-05-21T08:04:06.165624+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

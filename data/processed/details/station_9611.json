@@ -1,0 +1,203 @@
+{
+  "station_id": 9611,
+  "station_detail": {
+    "station_id": 9611,
+    "station_name": "2004479-SHRI KAMAKSHI FILLING",
+    "latitude": 15.37054,
+    "longitude": 74.00955,
+    "address": "BPCL DEALERS, SHIRODA, Ponda, Goa, 403401, India",
+    "area": "BPCL DEALERS, SHIRODA",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.37054,74.00955",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8303 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 9,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": "SHIRODA,POND GOA",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 58579,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 18818,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 18819,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "2004479-SHRI KAMAKSHI FILLIN",
+        "last_used_on": "08/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ponda",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9611,
+      "station_name": "2004479-SHRI KAMAKSHI FILLING",
+      "latitude": 15.37054,
+      "longitude": 74.00955,
+      "address": "BPCL DEALERS, SHIRODA, Ponda, Goa, 403401, India",
+      "area": "BPCL DEALERS, SHIRODA",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.37054,74.00955",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9610,
+      "station_name": "2004380-SIDHARTH AGENCIES",
+      "latitude": 15.37171,
+      "longitude": 74.00983,
+      "address": "OPP TOP COLA FACTORY, Salcette, Goa, 403401, India",
+      "area": "OPP TOP COLA FACTORY",
+      "avg_review_rating": 4.5,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.37171,74.00983",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 9899,
+      "station_name": "NANU INDUSTRIES Sapana Town Road, opp. CMM factory, Prabhu Nagar",
+      "latitude": 15.40063,
+      "longitude": 74.021101,
+      "address": "Sapana Town Road, Ponda, Goa, 403401, India",
+      "area": "Sapana Town Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.40063,74.021101",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 4851,
+      "station_name": "GLIDA Audi Goa",
+      "latitude": 15.361064,
+      "longitude": 73.953737,
+      "address": "9X63+CFH, Goa, Goa, 403718, India",
+      "area": "9X63+CFH",
+      "avg_review_rating": 3.89,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.361064,73.953737",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/unavailable+select.png"
+    },
+    {
+      "id": 4794,
+      "station_name": "REIL Hp Petrol Pump - Pereira Auto",
+      "latitude": 15.36292,
+      "longitude": 73.941849,
+      "address": "Near Maharaja Hotel Pirni Verna, Salcette, Goa, 403722, India",
+      "area": "Near Maharaja Hotel Pirni Verna",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.36292,73.941849",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:07:07.999220+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

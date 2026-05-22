@@ -1,0 +1,210 @@
+{
+  "station_id": 3731,
+  "station_detail": {
+    "station_id": 3731,
+    "station_name": "Statiq Windsor Grand Station",
+    "latitude": 28.542233,
+    "longitude": 77.340675,
+    "address": "Near BMS Office, Plot number 1 C, Noida, Uttar Pradesh, 201313, India",
+    "area": "Near BMS Office, Plot number 1 C",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.542233,77.340675",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8783 kms",
+    "operational_time": "06:00 To 20:00",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.7,
+    "no_of_reviews": 2020,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 11403,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 22550,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 6915,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 6916,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Windsor Grand DC Charger",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 2,
+        "2": 1,
+        "3": 1,
+        "4": 20,
+        "5": 77
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Noida",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 3731,
+      "station_name": "Statiq Windsor Grand Station",
+      "latitude": 28.542233,
+      "longitude": 77.340675,
+      "address": "Near BMS Office, Plot number 1 C, Noida, Uttar Pradesh, 201313, India",
+      "area": "Near BMS Office, Plot number 1 C",
+      "avg_review_rating": 4.7,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.542233,77.340675",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 5185,
+      "station_name": "Statiq India Glycols Tech Park Station",
+      "latitude": 28.53934,
+      "longitude": 77.343344,
+      "address": " In Upper Basement (UB) on Entry Way,India Glycols Teck Park, Plot No, 2B, Noida-Greater Noida Expy, Sector 126, Noida, Uttar Pradesh, 201304, India",
+      "area": " In Upper Basement (UB) on Entry Way,India Glycols Teck Park, Plot No, 2B, Noida-Greater Noida Expy, Sector 126",
+      "avg_review_rating": 4.93,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.53934,77.343344",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 6834,
+      "station_name": "Statiq Amrapali Sapphire Phase 2 Station",
+      "latitude": 28.548542,
+      "longitude": 77.348419,
+      "address": "Behind Z-Tower on exit way, Amrapali Sapphire, Sadarpur, Sector-45, Noida, Uttar Pradesh, 201303, India",
+      "area": "Behind Z-Tower on exit way, Amrapali Sapphire, Sadarpur, Sector-45",
+      "avg_review_rating": 4.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.548542,77.348419",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 1989,
+      "station_name": "Statiq Club 12 Station",
+      "latitude": 28.545046,
+      "longitude": 77.329346,
+      "address": "A-3,4, 5, Noida, Uttar Pradesh, 201301, India",
+      "area": "A-3,4, 5",
+      "avg_review_rating": 4.63,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.545046,77.329346",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 6822,
+      "station_name": "Statiq Windsor IT Park Station",
+      "latitude": 28.544977,
+      "longitude": 77.327876,
+      "address": "Windsor IT ParkSector Rd, Sector 125,, Noida, Uttar Pradesh, 201313, India",
+      "area": "Windsor IT ParkSector Rd, Sector 125,",
+      "avg_review_rating": 4.75,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.544977,77.327876",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.99
+  ],
+  "scraped_at": "2026-05-21T07:59:42.935369+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

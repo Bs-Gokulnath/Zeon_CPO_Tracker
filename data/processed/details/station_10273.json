@@ -1,0 +1,204 @@
+{
+  "station_id": 10273,
+  "station_detail": {
+    "station_id": 10273,
+    "station_name": "TN | Thiyagarsanapalli | Kasturi Bhavan Restaurant (Hotel Seasons)",
+    "latitude": 12.668241,
+    "longitude": 77.990646,
+    "address": "MX9Q+8XQ, Thiyagarsanapalli, Tamil Nadu, 635117, India",
+    "area": "MX9Q+8XQ",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.668241,77.990646",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8714 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 2,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/gentari-Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 59671,
+        "price_with_currency": "₹ 18.0",
+        "price": 18.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 20471,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 20472,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "GNT TN | Thiyagarsanapalli | Kasturi Bhavan Restaurant (Hotel Seasons) 1",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Thiyagarsanapalli",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10273,
+      "station_name": "TN | Thiyagarsanapalli | Kasturi Bhavan Restaurant (Hotel Seasons)",
+      "latitude": 12.668241,
+      "longitude": 77.990646,
+      "address": "MX9Q+8XQ, Thiyagarsanapalli, Tamil Nadu, 635117, India",
+      "area": "MX9Q+8XQ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.668241,77.990646",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/gentari-default.png"
+    },
+    {
+      "id": 13269,
+      "station_name": "ID(qu6r2q)HP auto care facilities Shoolagiri",
+      "latitude": 12.666303,
+      "longitude": 78.002952,
+      "address": "Shoolagiri, Shoolagiri, Tamil Nadu, 635117, India",
+      "area": "Shoolagiri",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.666303,78.002952",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 8995,
+      "station_name": "Hyundai KFC Shoolagiri Charging Station",
+      "latitude": 12.68068,
+      "longitude": 77.952713,
+      "address": "Infront of the KFC and Starbucks outlets and Opp to Indian Oil Petrol Bunk. No-2 /149-3, 4 Next to Indian Oil Petrol Bunk, Krishnagiri, Tamil Nadu, 635117, Krishnagiri, Tamil Nadu, 635117, India",
+      "area": "Infront of the KFC and Starbucks outlets and Opp to Indian Oil Petrol Bunk. No-2 /149-3, 4 Next to Indian Oil Petrol Bunk, Krishnagiri, Tamil Nadu, 635117",
+      "avg_review_rating": 4.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.68068,77.952713",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13044,
+      "station_name": "ID(f7dopi) Umar fuels",
+      "latitude": 12.643611,
+      "longitude": 78.05404,
+      "address": "Chennekothapalli Road, Bedapalli, Tamil Nadu, 635117, India",
+      "area": "Chennekothapalli Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.643611,78.05404",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 14821,
+      "station_name": "BP-HOSUR",
+      "latitude": 12.640649,
+      "longitude": 78.064074,
+      "address": "KRISHNAGIRI, Krishnagiri, Tamil Nadu, 635109, India",
+      "area": "KRISHNAGIRI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.640649,78.064074",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    18.0
+  ],
+  "scraped_at": "2026-05-21T08:08:04.558883+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

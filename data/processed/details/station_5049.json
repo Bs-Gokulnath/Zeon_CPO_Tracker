@@ -1,0 +1,278 @@
+{
+  "station_id": 5049,
+  "station_detail": {
+    "station_id": 5049,
+    "station_name": "Statiq The Kipling Lodge AC Station",
+    "latitude": 26.0884,
+    "longitude": 76.433502,
+    "address": "The Kipling Lodge, Ranthambore,Charoda Rd, Ranthambore, Sawai Madhopur, Rajasthan, 322029, India",
+    "area": "The Kipling Lodge, Ranthambore,Charoda Rd, Ranthambore",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.0884,76.433502",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8664 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 4.25,
+    "no_of_reviews": 65,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 11564,
+        "id": 1
+      },
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 11707,
+        "id": 2
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 52078,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 9954,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "The Kipling Lodge BMW AC Charger 2",
+        "last_used_on": "12/05/2026"
+      },
+      {
+        "charger_id": 52079,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 9955,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "The Kipling Lodge BMW AC Charger 3",
+        "last_used_on": "26/04/2026"
+      },
+      {
+        "charger_id": 52080,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 9956,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "The Kipling Lodge BMW AC Charger 4",
+        "last_used_on": "04/05/2026"
+      },
+      {
+        "charger_id": 52081,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 9957,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "The Kipling Lodge BMW AC Charger 1",
+        "last_used_on": "14/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 8,
+        "2": 6,
+        "3": 8,
+        "4": 11,
+        "5": 68
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Sawai Madhopur",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 22.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 5049,
+      "station_name": "Statiq The Kipling Lodge AC Station",
+      "latitude": 26.0884,
+      "longitude": 76.433502,
+      "address": "The Kipling Lodge, Ranthambore,Charoda Rd, Ranthambore, Sawai Madhopur, Rajasthan, 322029, India",
+      "area": "The Kipling Lodge, Ranthambore,Charoda Rd, Ranthambore",
+      "avg_review_rating": 4.25,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.0884,76.433502",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 13270,
+      "station_name": "ID(xp116d)-Shriganpati service station",
+      "latitude": 26.125286,
+      "longitude": 76.468506,
+      "address": "Kundera, Kundera, Rajasthan, India",
+      "area": "Kundera",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.125286,76.468506",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 12502,
+      "station_name": "ID(qmw42i)Guruji fuel station",
+      "latitude": 26.046395,
+      "longitude": 76.363413,
+      "address": "Sawai Madhopur, Sawai Madhopur, Rajasthan, 322001, India",
+      "area": "Sawai Madhopur",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.046395,76.363413",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 15008,
+      "station_name": "Ranthambore National Resort Ranthambhore Rd, opposite Saras Dairy, Saptar,",
+      "latitude": 26.018715,
+      "longitude": 76.375596,
+      "address": "Ranthambhore Rd, Sawai Madhopur, Rajasthan, 322021, India",
+      "area": "Ranthambhore Rd",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.018715,76.375596",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 12793,
+      "station_name": "ID(321hnk)Vinayak Hp",
+      "latitude": 26.002271,
+      "longitude": 76.339956,
+      "address": "National Highway 116, Sawai Madhopur, Rajasthan, 322001, India",
+      "area": "National Highway 116",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.002271,76.339956",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    }
+  ],
+  "ac_count": 4,
+  "dc_count": 0,
+  "ac_prices": [
+    14.0,
+    14.0,
+    14.0,
+    14.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:00:58.053416+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

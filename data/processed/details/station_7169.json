@@ -1,0 +1,194 @@
+{
+  "station_id": 7169,
+  "station_detail": {
+    "station_id": 7169,
+    "station_name": "2004305-BLUE CITY FUEL STATION",
+    "latitude": 26.226882,
+    "longitude": 73.039148,
+    "address": "JODHPUR, Jodhpur, Rajasthan, 342001, India",
+    "area": "JODHPUR",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.226882,73.039148",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8330 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.52,
+    "no_of_reviews": 271,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 55008,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13354,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "2004305-BLUE CITY FUEL STATION",
+        "last_used_on": "29/01/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 6,
+        "2": 2,
+        "3": 3,
+        "4": 11,
+        "5": 78
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Jodhpur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7169,
+      "station_name": "2004305-BLUE CITY FUEL STATION",
+      "latitude": 26.226882,
+      "longitude": 73.039148,
+      "address": "JODHPUR, Jodhpur, Rajasthan, 342001, India",
+      "area": "JODHPUR",
+      "avg_review_rating": 4.52,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.226882,73.039148",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7170,
+      "station_name": "2004334-JASWANT SINGH & SONS",
+      "latitude": 26.220198,
+      "longitude": 73.053414,
+      "address": "JODHPUR, Jodhpur, Rajasthan, 342005, India",
+      "area": "JODHPUR",
+      "avg_review_rating": 4.69,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.220198,73.053414",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 11967,
+      "station_name": "KUMBHAT",
+      "latitude": 26.2389,
+      "longitude": 73.0243,
+      "address": "Kumbhat Kia, F52, MIA 1st Phase, Basni Jodhpur, pin- 342001, Jodhpur, Rajasthan, 342001, India",
+      "area": "Kumbhat Kia, F52, MIA 1st Phase, Basni Jodhpur, pin- 342001",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.2389,73.0243",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 12646,
+      "station_name": "ID(4m3keh) Bhsr highway service station",
+      "latitude": 26.243063,
+      "longitude": 73.075928,
+      "address": "Sardar Samand Road, Jodhpur, Rajasthan, 342011, India",
+      "area": "Sardar Samand Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.243063,73.075928",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 15431,
+      "station_name": "NASRANI PETROL PUMP",
+      "latitude": 26.222845,
+      "longitude": 72.95698,
+      "address": "JODHPUR, Jodhpur, Rajasthan, 342014, India",
+      "area": "JODHPUR",
+      "avg_review_rating": 4.3,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.222845,72.95698",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:02:23.513408+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,214 @@
+{
+  "station_id": 4850,
+  "station_detail": {
+    "station_id": 4850,
+    "station_name": "GLIDA Audi Chennai",
+    "latitude": 13.025887,
+    "longitude": 80.231835,
+    "address": "No 535, Chennai, Tamil Nadu, 600035, India",
+    "area": "No 535",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.025887,80.231835",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8959 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.03,
+    "no_of_reviews": 111,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Glida+Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 51503,
+        "price_with_currency": "₹ 18.99",
+        "price": 18.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 9125,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 9126,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "MAS0001",
+        "last_used_on": "21/03/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 15,
+        "2": 5,
+        "3": 3,
+        "4": 14,
+        "5": 62
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Chennai",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 4850,
+      "station_name": "GLIDA Audi Chennai",
+      "latitude": 13.025887,
+      "longitude": 80.231835,
+      "address": "No 535, Chennai, Tamil Nadu, 600035, India",
+      "area": "No 535",
+      "avg_review_rating": 4.03,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.025887,80.231835",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/unavailable+select.png"
+    },
+    {
+      "id": 15808,
+      "station_name": "EESL Chennai Central Metro Station",
+      "latitude": 13.031759,
+      "longitude": 80.241923,
+      "address": "Central Metro Station, Chennai, Tamil Nadu, Chennai, Tamil Nadu, 600003, India",
+      "area": "Central Metro Station, Chennai, Tamil Nadu",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.031759,80.241923",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 7813,
+      "station_name": "Statiq Bloom Hub Station",
+      "latitude": 13.014483,
+      "longitude": 80.222488,
+      "address": "100 m inside from the Main Entrance, 30, Anna Salai, Little Mount, Guindy, Saidapet,, Chennai, Tamil Nadu, 600015, India",
+      "area": "100 m inside from the Main Entrance, 30, Anna Salai, Little Mount, Guindy, Saidapet,",
+      "avg_review_rating": 4.7,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.014483,80.222488",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 15802,
+      "station_name": "EESL Chennai Little Mount Metro Station",
+      "latitude": 13.014967,
+      "longitude": 80.221594,
+      "address": "Little Mount Metro Station, Chennai, Tamil Nadu, Chennai, Tamil Nadu, 600015, India",
+      "area": "Little Mount Metro Station, Chennai, Tamil Nadu",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.014967,80.221594",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 6685,
+      "station_name": "Tamil Nadu Volvo",
+      "latitude": 13.035083,
+      "longitude": 80.246353,
+      "address": "459/1, Anna Salai, Teynampet, Chennai, Tamil Nadu, 600018, India",
+      "area": "459/1, Anna Salai, Teynampet",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.035083,80.246353",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    18.99
+  ],
+  "scraped_at": "2026-05-21T08:00:01.065343+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

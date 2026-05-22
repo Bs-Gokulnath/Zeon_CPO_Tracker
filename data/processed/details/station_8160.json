@@ -1,0 +1,222 @@
+{
+  "station_id": 8160,
+  "station_detail": {
+    "station_id": 8160,
+    "station_name": "Statiq Haldi Drive In Station",
+    "latitude": 17.844562,
+    "longitude": 78.466545,
+    "address": "Left Side to the Main Hotel SY No 743/AA1,Haldi Drive In Restaurant,Toopran Main Road,Toopran,, Medak, Telangana, 502334, India",
+    "area": "Left Side to the Main Hotel SY No 743/AA1,Haldi Drive In Restaurant,Toopran Main Road,Toopran,",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.844562,78.466545",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8797 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.65,
+    "no_of_reviews": 682,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 12056,
+        "id": 1
+      },
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 12057,
+        "id": 2
+      },
+      {
+        "type": "Wifi",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/wifi+.png",
+        "map_id": 12058,
+        "id": 6
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 56482,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 15273,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 15274,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Haldi Drive In DC Charger",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 3,
+        "2": 0,
+        "3": 3,
+        "4": 15,
+        "5": 78
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Medak",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8160,
+      "station_name": "Statiq Haldi Drive In Station",
+      "latitude": 17.844562,
+      "longitude": 78.466545,
+      "address": "Left Side to the Main Hotel SY No 743/AA1,Haldi Drive In Restaurant,Toopran Main Road,Toopran,, Medak, Telangana, 502334, India",
+      "area": "Left Side to the Main Hotel SY No 743/AA1,Haldi Drive In Restaurant,Toopran Main Road,Toopran,",
+      "avg_review_rating": 4.66,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.844562,78.466545",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 13115,
+      "station_name": "ID(5e3c4d) METRO SERVICE STATION",
+      "latitude": 17.87636,
+      "longitude": 78.46949,
+      "address": "Masaipet, Masaipet, Telangana, 502335, India",
+      "area": "Masaipet",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.87636,78.46949",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 8981,
+      "station_name": "M/s. GOEL FUEL STATION",
+      "latitude": 17.914896,
+      "longitude": 78.461477,
+      "address": "MEDAK, Medak, Telangana, 502335, India",
+      "area": "MEDAK",
+      "avg_review_rating": 4.43,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.914896,78.461477",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 12952,
+      "station_name": "ID(xc4fm4)Santosh Service Station",
+      "latitude": 17.926197,
+      "longitude": 78.459434,
+      "address": "Thanda, Ramanthapur, Telangana, 502255, India",
+      "area": "Thanda",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.926197,78.459434",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 4778,
+      "station_name": "Statiq Yellowings ITC Hyderabad Station",
+      "latitude": 17.747042,
+      "longitude": 78.475792,
+      "address": "ITC Warehouse - Hyderabad, Street no. 42/2 & 43/3, Jeedipally Village, Toopran Mandal, Medak, Telangana, 502110, India",
+      "area": "ITC Warehouse - Hyderabad, Street no. 42/2 & 43/3, Jeedipally Village, Toopran Mandal",
+      "avg_review_rating": 4.95,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.747042,78.475792",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.99
+  ],
+  "scraped_at": "2026-05-21T08:04:06.224544+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

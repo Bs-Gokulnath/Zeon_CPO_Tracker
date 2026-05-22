@@ -1,0 +1,241 @@
+{
+  "station_id": 9091,
+  "station_detail": {
+    "station_id": 9091,
+    "station_name": "Vamsiram Westwoods",
+    "latitude": 17.4102,
+    "longitude": 78.39495,
+    "address": "AP Animal Husbandry Employees Colony, Hyderabad, Telangana, 500008, India",
+    "area": "AP Animal Husbandry Employees Colony",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.4102,78.39495",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8786 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Mercedes_Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 57900,
+        "price_with_currency": "₹ 11.5",
+        "price": 11.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 17568,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "EVX Vamsiram Westwoods 1",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 57901,
+        "price_with_currency": "₹ 11.5",
+        "price": 11.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 17569,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "EVX Vamsiram Westwoods 2",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 59477,
+        "price_with_currency": "₹ 11.5",
+        "price": 11.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 20131,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "EVX Vamsiram Westwoods 3",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Hyderabad",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 7.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9091,
+      "station_name": "Vamsiram Westwoods",
+      "latitude": 17.4102,
+      "longitude": 78.39495,
+      "address": "AP Animal Husbandry Employees Colony, Hyderabad, Telangana, 500008, India",
+      "area": "AP Animal Husbandry Employees Colony",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.4102,78.39495",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mercedes_Branding_Logo.png"
+    },
+    {
+      "id": 4932,
+      "station_name": "GLIDA Hail Cab",
+      "latitude": 17.413586,
+      "longitude": 78.388366,
+      "address": "Plot no 56, Hyderabad, Telangana, 500008, India",
+      "area": "Plot no 56",
+      "avg_review_rating": 4.76,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.413586,78.388366",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    },
+    {
+      "id": 9488,
+      "station_name": "TS | Hyderabad | Kun Hyundai",
+      "latitude": 17.406284,
+      "longitude": 78.403665,
+      "address": "Pillar No 9, Hyderabad, Telangana, 500033, India",
+      "area": "Pillar No 9",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.406284,78.403665",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 8246,
+      "station_name": "Malkam Cheruvu EV Charging Station",
+      "latitude": 17.418036,
+      "longitude": 78.388472,
+      "address": "Shaikpet Road, RR Dist, Hyderabad, Telangana, 500089, India",
+      "area": "Shaikpet Road, RR Dist",
+      "avg_review_rating": 3.88,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.418036,78.388472",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
+    },
+    {
+      "id": 4804,
+      "station_name": "REIL LALITHA FUEL POINT",
+      "latitude": 17.418356,
+      "longitude": 78.388542,
+      "address": " GACHIBOWLI, RANGA REDDY , Hyderabad, Telangana, 500050, India",
+      "area": " GACHIBOWLI, RANGA REDDY ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.418356,78.388542",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 3,
+  "dc_count": 0,
+  "ac_prices": [
+    11.5,
+    11.5,
+    11.5
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:05:52.926828+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,195 @@
+{
+  "station_id": 7346,
+  "station_detail": {
+    "station_id": 7346,
+    "station_name": "2000248-MAHARASHTRA PETROLEUM",
+    "latitude": 20.155021,
+    "longitude": 73.983977,
+    "address": "PIMPALGAON (B), Achalpur, Maharashtra, 422209, India",
+    "area": "PIMPALGAON (B)",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.155021,73.983977",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8347 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.63,
+    "no_of_reviews": 27,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 55185,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13531,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "2000248-MAHARASHTRA PETROLEUM",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 4,
+        "3": 4,
+        "4": 19,
+        "5": 74
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Achalpur",
+    "station_access_type": "public",
+    "availability": "Available in",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": [],
+    "waiting_time": "2026-05-21 13:55:42"
+  },
+  "nearby_stations": [
+    {
+      "id": 7346,
+      "station_name": "2000248-MAHARASHTRA PETROLEUM",
+      "latitude": 20.155021,
+      "longitude": 73.983977,
+      "address": "PIMPALGAON (B), Achalpur, Maharashtra, 422209, India",
+      "area": "PIMPALGAON (B)",
+      "avg_review_rating": 4.63,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.155021,73.983977",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 12965,
+      "station_name": "ID(524pzm) Deshnama petroleum",
+      "latitude": 20.151426,
+      "longitude": 73.983066,
+      "address": "Deshmane Petroleum, Pimpalgaon Baswant, Maharashtra, 422209, India",
+      "area": "Deshmane Petroleum",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.151426,73.983066",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 11062,
+      "station_name": "TANISHQ PETROLEUM",
+      "latitude": 20.126778,
+      "longitude": 73.96297,
+      "address": "THANE, Thane, Maharashtra, 422209, India",
+      "area": "THANE",
+      "avg_review_rating": 4.64,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.126778,73.96297",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 13030,
+      "station_name": "ID(rzr3c0) Shivsai Petroleum",
+      "latitude": 20.189572,
+      "longitude": 74.005003,
+      "address": "shivsai petrolium, Pimpalgaon Baswant, Maharashtra, 422209, India",
+      "area": "shivsai petrolium",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.189572,74.005003",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 10600,
+      "station_name": "BABU DADA PETROLEUM",
+      "latitude": 20.190798,
+      "longitude": 74.006681,
+      "address": "NASHIK, Nashik, Maharashtra, 423202, India",
+      "area": "NASHIK",
+      "avg_review_rating": 4.57,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.190798,74.006681",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:02:49.259837+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

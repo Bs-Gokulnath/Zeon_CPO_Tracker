@@ -1,0 +1,188 @@
+{
+  "station_id": 12728,
+  "station_detail": {
+    "station_id": 12728,
+    "station_name": "ID(h53r4q) MS HSD KAMLA FILLING STATION",
+    "latitude": 26.218487,
+    "longitude": 72.955667,
+    "address": "Phase I, Jodhpur, Rajasthan, 342008, India",
+    "area": "Phase I",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.218487,72.955667",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8321 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/networks-logo/HP+E+charge-Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 64358,
+        "price_with_currency": "₹ 15.05",
+        "price": 15.05,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 27770,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "HPL ID(h53r4q) MS HSD KAMLA FILLING STATION 1",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Jodhpur",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12728,
+      "station_name": "ID(h53r4q) MS HSD KAMLA FILLING STATION",
+      "latitude": 26.218487,
+      "longitude": 72.955667,
+      "address": "Phase I, Jodhpur, Rajasthan, 342008, India",
+      "area": "Phase I",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.218487,72.955667",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 15431,
+      "station_name": "NASRANI PETROL PUMP",
+      "latitude": 26.222845,
+      "longitude": 72.95698,
+      "address": "JODHPUR, Jodhpur, Rajasthan, 342014, India",
+      "area": "JODHPUR",
+      "avg_review_rating": 4.3,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.222845,72.95698",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 12784,
+      "station_name": "ID(uev6vb) Hanuman Dass Purushottam Dass",
+      "latitude": 26.184888,
+      "longitude": 72.931089,
+      "address": "Basni, Jodhpur, Rajasthan, 342014, India",
+      "area": "Basni",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.184888,72.931089",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+charging+pin-+selected.png"
+    },
+    {
+      "id": 11967,
+      "station_name": "KUMBHAT",
+      "latitude": 26.2389,
+      "longitude": 73.0243,
+      "address": "Kumbhat Kia, F52, MIA 1st Phase, Basni Jodhpur, pin- 342001, Jodhpur, Rajasthan, 342001, India",
+      "area": "Kumbhat Kia, F52, MIA 1st Phase, Basni Jodhpur, pin- 342001",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.2389,73.0243",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 7169,
+      "station_name": "2004305-BLUE CITY FUEL STATION",
+      "latitude": 26.226882,
+      "longitude": 73.039148,
+      "address": "JODHPUR, Jodhpur, Rajasthan, 342001, India",
+      "area": "JODHPUR",
+      "avg_review_rating": 4.52,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.226882,73.039148",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    15.05
+  ],
+  "scraped_at": "2026-05-21T08:12:46.357867+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

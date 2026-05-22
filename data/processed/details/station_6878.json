@@ -1,0 +1,194 @@
+{
+  "station_id": 6878,
+  "station_detail": {
+    "station_id": 6878,
+    "station_name": "2004890-BHAGWAN PETROLEUM",
+    "latitude": 25.40404,
+    "longitude": 86.84479,
+    "address": "BHAGALPUR, Bhagalpur, Bihar, 853203, India",
+    "area": "BHAGALPUR",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.40404,86.84479",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9701 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.24,
+    "no_of_reviews": 54,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54544,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 12831,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "2004890-BHAGWAN PETROLEUM",
+        "last_used_on": "07/01/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 11,
+        "2": 0,
+        "3": 7,
+        "4": 17,
+        "5": 65
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bhagalpur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 6878,
+      "station_name": "2004890-BHAGWAN PETROLEUM",
+      "latitude": 25.40404,
+      "longitude": 86.84479,
+      "address": "BHAGALPUR, Bhagalpur, Bihar, 853203, India",
+      "area": "BHAGALPUR",
+      "avg_review_rating": 4.24,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.40404,86.84479",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10382,
+      "station_name": "SAI OM FUEL CENTRE",
+      "latitude": 25.23571,
+      "longitude": 86.87887,
+      "address": "Barauni Retail Territory/RO/DO, Barauni Oil Township, Bihar, 813223, India",
+      "area": "Barauni Retail Territory/RO/DO",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.23571,86.87887",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10527,
+      "station_name": "MAA KAMAKHYA FUEL CENTRE",
+      "latitude": 25.38305,
+      "longitude": 87.08255,
+      "address": "MAA KAMAKHYA FUEL CENTRE, BPCL,  BHAGALPUR , Bhagalpur, Bihar, 853204, India",
+      "area": "MAA KAMAKHYA FUEL CENTRE, BPCL,  BHAGALPUR ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.38305,87.08255",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9890,
+      "station_name": "R.B.S FUELMART",
+      "latitude": 25.042,
+      "longitude": 86.89898,
+      "address": "BANKA, Banka, Bihar, 813101, India",
+      "area": "BANKA",
+      "avg_review_rating": 3.69,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.042,86.89898",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 8803,
+      "station_name": "HIGHWAY DIESEL",
+      "latitude": 25.85698,
+      "longitude": 86.67036,
+      "address": "AT+PO+PS- SAUR BAZAR, Saharsa, Bihar, 852221, India",
+      "area": "AT+PO+PS- SAUR BAZAR",
+      "avg_review_rating": 4.56,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.85698,86.67036",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:01:54.095264+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

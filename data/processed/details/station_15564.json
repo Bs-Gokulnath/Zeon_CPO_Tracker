@@ -1,0 +1,232 @@
+{
+  "station_id": 15564,
+  "station_detail": {
+    "station_id": 15564,
+    "station_name": "RJ | Shahpura | Shiva Mama Dhaba",
+    "latitude": 27.493676,
+    "longitude": 76.054224,
+    "address": "DELHI - JAIPUR HIGHWAY NEELKA, Shahpura, Rajasthan, 303119, India",
+    "area": "DELHI - JAIPUR HIGHWAY NEELKA",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.493676,76.054224",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8644 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68995,
+        "price_with_currency": "₹ 21.5",
+        "price": 21.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34424,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 34425,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 240.0,
+        "charger_name": "TCZ RJ | Shahpura | Shiva Mama Dhaba 1",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 68996,
+        "price_with_currency": "₹ 21.5",
+        "price": 21.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34426,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 34427,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 240.0,
+        "charger_name": "TCZ RJ | Shahpura | Shiva Mama Dhaba 2",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Shahpura",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 240.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15564,
+      "station_name": "RJ | Shahpura | Shiva Mama Dhaba",
+      "latitude": 27.493676,
+      "longitude": 76.054224,
+      "address": "DELHI - JAIPUR HIGHWAY NEELKA, Shahpura, Rajasthan, 303119, India",
+      "area": "DELHI - JAIPUR HIGHWAY NEELKA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.493676,76.054224",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15737,
+      "station_name": "Hotel Highway King Neelka by Reliable Charge Hotel Highway King Neelka, F3Q2+3C, Neelka, jaipur , Rajasthan 303119",
+      "latitude": 27.488033,
+      "longitude": 76.051294,
+      "address": "Hotel Highway King Neelka, Jaipur, Rajasthan, 303119, India",
+      "area": "Hotel Highway King Neelka",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.488033,76.051294",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 4995,
+      "station_name": "GLIDA Hotel Shiva Dhaba",
+      "latitude": 27.50006,
+      "longitude": 76.054342,
+      "address": "Hotel Shiva Daba Delhi - Jaipur Highway Neelka, Jaipur, Rajasthan, 303119, India",
+      "area": "Hotel Shiva Daba Delhi - Jaipur Highway Neelka",
+      "avg_review_rating": 4.43,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.50006,76.054342",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    },
+    {
+      "id": 15662,
+      "station_name": "Statiq x TATA.ev Hotel Highway King Shahpura Station",
+      "latitude": 27.487001,
+      "longitude": 76.05233,
+      "address": "Hotel Highway King Shahpura, Main Delhi Jaipur Highway NH-8 185 Milestone From Delhi Near Paota Village Antela, Shahpura, Rajasthan, 303119, India",
+      "area": "Hotel Highway King Shahpura, Main Delhi Jaipur Highway NH-8 185 Milestone From Delhi Near Paota Village Antela",
+      "avg_review_rating": 4.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.487001,76.05233",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 15538,
+      "station_name": "Hotel Highway King Shahpura by Reliable Charge Hotel Highwayking Shahpura, Antela, Milestone From Delhi, NH-8 185, Delhi - Jaipur Expy, near Paota, Shahpura, Rajasthan 303119",
+      "latitude": 27.486622,
+      "longitude": 76.051884,
+      "address": "Hotel Highwayking Shahpura, Shahpura, Rajasthan, 303119, India",
+      "area": "Hotel Highwayking Shahpura",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.486622,76.051884",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 2,
+  "ac_prices": [],
+  "dc_prices": [
+    21.5,
+    21.5
+  ],
+  "scraped_at": "2026-05-21T08:16:15.704205+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

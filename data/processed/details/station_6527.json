@@ -1,0 +1,192 @@
+{
+  "station_id": 6527,
+  "station_detail": {
+    "station_id": 6527,
+    "station_name": "REIL Dev Kiran Filling station",
+    "latitude": 27.04796,
+    "longitude": 76.875999,
+    "address": "Village Pipalkheda NH-11, , Jaipur, Rajasthan, 302020, India",
+    "area": "Village Pipalkheda NH-11, ",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.04796,76.875999",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8719 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 6,
+        "connector_name": "GBT",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/REIL/REIL_Banner.png",
+    "landmark": "Narayan Singh Over Bridge",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54007,
+        "price_with_currency": "₹ 18.0",
+        "price": 18.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 11977,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 6,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 15.0,
+        "charger_name": "EV Charger DC001-15KW",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Jaipur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 15.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 6527,
+      "station_name": "REIL Dev Kiran Filling station",
+      "latitude": 27.04796,
+      "longitude": 76.875999,
+      "address": "Village Pipalkheda NH-11, , Jaipur, Rajasthan, 302020, India",
+      "area": "Village Pipalkheda NH-11, ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.04796,76.875999",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8868,
+      "station_name": "SHRI TULSI FS",
+      "latitude": 27.055961,
+      "longitude": 76.920668,
+      "address": "Dausa, Dausa, Rajasthan, 321608, India",
+      "area": "Dausa",
+      "avg_review_rating": 4.76,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.055961,76.920668",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15918,
+      "station_name": "Ecoplug Hotel Keshav Palace",
+      "latitude": 27.03306,
+      "longitude": 76.92876,
+      "address": "Hindaun Road Dhantori Tehsil- Mahuwa Dausa, Dausa, Rajasthan, 321608, India",
+      "area": "Hindaun Road Dhantori Tehsil- Mahuwa Dausa",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.03306,76.92876",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 15671,
+      "station_name": "Statiq X TATA.ev Khushi Ki Dhani Station",
+      "latitude": 26.97019,
+      "longitude": 76.790001,
+      "address": "NH21, Mehandipur, Dausa, Rajasthan, 303303, India",
+      "area": "NH21, Mehandipur",
+      "avg_review_rating": 4.55,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.97019,76.790001",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 9570,
+      "station_name": "MAMTA FS",
+      "latitude": 27.089321,
+      "longitude": 77.044144,
+      "address": "NH-21 ,Malaheda, Chhokharwada, Bharatpur, Bharatpur, Rajasthan, 321407, India",
+      "area": "NH-21 ,Malaheda, Chhokharwada, Bharatpur",
+      "avg_review_rating": 4.66,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.089321,77.044144",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    18.0
+  ],
+  "scraped_at": "2026-05-21T08:01:17.499408+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

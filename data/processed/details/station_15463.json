@@ -1,0 +1,188 @@
+{
+  "station_id": 15463,
+  "station_detail": {
+    "station_id": 15463,
+    "station_name": "ASWATHY QUALITY PETROLEUM",
+    "latitude": 8.38269,
+    "longitude": 77.28492,
+    "address": "\"Bharat Petroleum Dealer,  Sy.No. 209/19B & 204/3A1,  Unniyoorkonam,Kulasekharam   Kanyakumari District\", Achampudur, Tamil Nadu, 629161, India",
+    "area": "\"Bharat Petroleum Dealer,  Sy.No. 209/19B & 204/3A1,  Unniyoorkonam,Kulasekharam   Kanyakumari District\"",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.38269,77.28492",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8618 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68730,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34086,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "M/s. ASWATHY QUALITY PETROLEUM EV AC",
+        "last_used_on": "18/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Achampudur",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 3.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15463,
+      "station_name": "ASWATHY QUALITY PETROLEUM",
+      "latitude": 8.38269,
+      "longitude": 77.28492,
+      "address": "\"Bharat Petroleum Dealer,  Sy.No. 209/19B & 204/3A1,  Unniyoorkonam,Kulasekharam   Kanyakumari District\", Achampudur, Tamil Nadu, 629161, India",
+      "area": "\"Bharat Petroleum Dealer,  Sy.No. 209/19B & 204/3A1,  Unniyoorkonam,Kulasekharam   Kanyakumari District\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.38269,77.28492",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 14643,
+      "station_name": "T Narayana Pillai",
+      "latitude": 8.304861,
+      "longitude": 77.227972,
+      "address": "\"M/S. T. NARAYANA PILLAI,  Bharat Petroleum Dealer,  Trivandrum Road,  Marthandam,  Kanyakumari District– 629 165.\", Kanyakumari, Tamil Nadu, 629165, India",
+      "area": "\"M/S. T. NARAYANA PILLAI,  Bharat Petroleum Dealer,  Trivandrum Road,  Marthandam,  Kanyakumari District– 629 165.\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.304861,77.227972",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 6709,
+      "station_name": "2006209-Associated Agencies",
+      "latitude": 8.23949,
+      "longitude": 77.332901,
+      "address": "kanyakumari, Kanyakumari, Tamil Nadu, 629175, India",
+      "area": "kanyakumari",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.23949,77.332901",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7723,
+      "station_name": "PRINCE PETROLEUM  ",
+      "latitude": 8.370355,
+      "longitude": 77.131251,
+      "address": "PRINCE PETROLEUM  NH 66, PARASUVAIKAL, NEYYATTINKARA PO, THIRUVANANTHAPURAM, KERALA – 695502, Thiruvananthapuram, Kerala, 695502, India",
+      "area": "PRINCE PETROLEUM  NH 66, PARASUVAIKAL, NEYYATTINKARA PO, THIRUVANANTHAPURAM, KERALA – 695502",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.370355,77.131251",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 11750,
+      "station_name": "RS Petroleum",
+      "latitude": 8.318936,
+      "longitude": 77.128921,
+      "address": "Tirunelveli Retail Territory/RO/DO, Kanyakumari, Tamil Nadu, 629153, India",
+      "area": "Tirunelveli Retail Territory/RO/DO",
+      "avg_review_rating": 3.6,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.318936,77.128921",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    14.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:15:55.838570+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

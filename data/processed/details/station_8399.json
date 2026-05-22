@@ -1,0 +1,208 @@
+{
+  "station_id": 8399,
+  "station_detail": {
+    "station_id": 8399,
+    "station_name": "M/s. VISIONS VEERENDRA Dealer",
+    "latitude": 27.047977,
+    "longitude": 82.059425,
+    "address": "Bharat Petroleum Corporation Ltd., Village Banghusara,   Post Nagwa, Gonda, INDIA - 271123, Gonda, Uttar Pradesh, 271123, India",
+    "area": "Bharat Petroleum Corporation Ltd., Village Banghusara,   Post Nagwa, Gonda, INDIA - 271123",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.047977,82.059425",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9232 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.78,
+    "no_of_reviews": 9,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": "Post Nagwa, Gonda",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 56837,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 15814,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 15815,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "M/s. VISIONS VEERENDRA Dealer",
+        "last_used_on": "25/04/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 22,
+        "5": 78
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Gonda",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8399,
+      "station_name": "M/s. VISIONS VEERENDRA Dealer",
+      "latitude": 27.047977,
+      "longitude": 82.059425,
+      "address": "Bharat Petroleum Corporation Ltd., Village Banghusara,   Post Nagwa, Gonda, INDIA - 271123, Gonda, Uttar Pradesh, 271123, India",
+      "area": "Bharat Petroleum Corporation Ltd., Village Banghusara,   Post Nagwa, Gonda, INDIA - 271123",
+      "avg_review_rating": 4.78,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.047977,82.059425",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 15595,
+      "station_name": "VIJAI KRISHNA PANDEY AND SONS",
+      "latitude": 27.131726,
+      "longitude": 81.931191,
+      "address": "RO AT VILL PATHWALIYA,GONDA GONDA-BARABANKI ROAD,  GONDA, Gonda, Uttar Pradesh, 271001, India",
+      "area": "RO AT VILL PATHWALIYA,GONDA GONDA-BARABANKI ROAD,  GONDA",
+      "avg_review_rating": 4.79,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.131726,81.931191",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15592,
+      "station_name": "HIGHWAY FILLING POINT",
+      "latitude": 26.87726,
+      "longitude": 82.133504,
+      "address": "RO AT SHOBHAPUR,GONDA, Gonda, Uttar Pradesh, 271303, India",
+      "area": "RO AT SHOBHAPUR,GONDA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.87726,82.133504",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 4728,
+      "station_name": "Statiq Lakshman Kunj Ayodhya Station",
+      "latitude": 26.771999,
+      "longitude": 82.124199,
+      "address": "Civil Line, Basement Parking, Faizabad, Uttar Pradesh, 224001, India",
+      "area": "Civil Line, Basement Parking",
+      "avg_review_rating": 4.56,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.771999,82.124199",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 7265,
+      "station_name": "2007081-24X7 FUEL POINT",
+      "latitude": 26.7638,
+      "longitude": 82.09062,
+      "address": "FAIZABAD, Faizabad, Uttar Pradesh, 224001, India",
+      "area": "FAIZABAD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.7638,82.09062",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:04:29.721222+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

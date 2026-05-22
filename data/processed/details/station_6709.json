@@ -1,0 +1,202 @@
+{
+  "station_id": 6709,
+  "station_detail": {
+    "station_id": 6709,
+    "station_name": "2006209-Associated Agencies",
+    "latitude": 8.23949,
+    "longitude": 77.332901,
+    "address": "kanyakumari, Kanyakumari, Tamil Nadu, 629175, India",
+    "area": "kanyakumari",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.23949,77.332901",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8623 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": "Near Dears cafe, thuckakay",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54237,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 12361,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 12362,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Associated Agencies",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Kanyakumari",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 6709,
+      "station_name": "2006209-Associated Agencies",
+      "latitude": 8.23949,
+      "longitude": 77.332901,
+      "address": "kanyakumari, Kanyakumari, Tamil Nadu, 629175, India",
+      "area": "kanyakumari",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.23949,77.332901",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8189,
+      "station_name": "TN | Nagercoil | KKOH",
+      "latitude": 8.194586,
+      "longitude": 77.394267,
+      "address": "15/82E Overbridge  Parvathipuram Nagercoil, Nagercoil, Tamil Nadu, 629003, India",
+      "area": "15/82E Overbridge  Parvathipuram Nagercoil",
+      "avg_review_rating": 4.44,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.194586,77.394267",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mercedes_Branding_Logo.png"
+    },
+    {
+      "id": 11687,
+      "station_name": "SB Petroleum",
+      "latitude": 8.167568,
+      "longitude": 77.268614,
+      "address": "Kanyakumari, Kanyakumari, Tamil Nadu, 629252, India",
+      "area": "Kanyakumari",
+      "avg_review_rating": 4.69,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.167568,77.268614",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 12226,
+      "station_name": "Vasan fuels",
+      "latitude": 8.132053,
+      "longitude": 77.364478,
+      "address": "\"M/s. VASAN FUELS,  Bharat Petroleum Dealer,  West coast Road,  Rajakkamangalam – 629 503,  Kanyakumari District.\", Kanyakumari, Tamil Nadu, 629503, India",
+      "area": "\"M/s. VASAN FUELS,  Bharat Petroleum Dealer,  West coast Road,  Rajakkamangalam – 629 503,  Kanyakumari District.\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.132053,77.364478",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14643,
+      "station_name": "T Narayana Pillai",
+      "latitude": 8.304861,
+      "longitude": 77.227972,
+      "address": "\"M/S. T. NARAYANA PILLAI,  Bharat Petroleum Dealer,  Trivandrum Road,  Marthandam,  Kanyakumari District– 629 165.\", Kanyakumari, Tamil Nadu, 629165, India",
+      "area": "\"M/S. T. NARAYANA PILLAI,  Bharat Petroleum Dealer,  Trivandrum Road,  Marthandam,  Kanyakumari District– 629 165.\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.304861,77.227972",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:01:40.398482+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

@@ -1,0 +1,188 @@
+{
+  "station_id": 10530,
+  "station_detail": {
+    "station_id": 10530,
+    "station_name": "chargeMOD | Kaypees Electricals Pulikkal | EVOK",
+    "latitude": 11.169153,
+    "longitude": 75.926849,
+    "address": "Kozhikkod -Palakkad NH, Malappuram, Kerala, 673637, India",
+    "area": "Kozhikkod -Palakkad NH",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.169153,75.926849",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8482 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Chargemod+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 60235,
+        "price_with_currency": "₹ 20.88",
+        "price": 20.88,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 21294,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "preparing"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "CMD chargeMOD | Kaypees Electricals Pulikkal | EVOK 1",
+        "last_used_on": "16/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Malappuram",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10530,
+      "station_name": "chargeMOD | Kaypees Electricals Pulikkal | EVOK",
+      "latitude": 11.169153,
+      "longitude": 75.926849,
+      "address": "Kozhikkod -Palakkad NH, Malappuram, Kerala, 673637, India",
+      "area": "Kozhikkod -Palakkad NH",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.169153,75.926849",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 5586,
+      "station_name": "chargeMOD | RG NALLANNA AIKKARAPADI EVCS EVOK ",
+      "latitude": 11.173362,
+      "longitude": 75.902209,
+      "address": "RG Nallanna Office, Malappuram, Kerala, 673637, India",
+      "area": "RG Nallanna Office",
+      "avg_review_rating": 4.45,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.173362,75.902209",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 14738,
+      "station_name": "chargeMOD | Bisluck Energy EVCS | Vattaparamba",
+      "latitude": 11.1648,
+      "longitude": 75.964,
+      "address": "KONDOTTY EDAVANNAPPARA ROAD, Malappuram, Kerala, 673638, India",
+      "area": "KONDOTTY EDAVANNAPPARA ROAD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.1648,75.964",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 6449,
+      "station_name": "chargeMOD | NOS2 VARALAKSHMI MOTORS EVCS",
+      "latitude": 11.14474,
+      "longitude": 75.896149,
+      "address": "Paingottoormad, Malappuram, Kerala, 673635, India",
+      "area": "Paingottoormad",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.14474,75.896149",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 5764,
+      "station_name": "chargeMOD | EVM MG Motor Coastline Garage Service Centre | Calicut",
+      "latitude": 11.188797,
+      "longitude": 75.872701,
+      "address": "Bus Stop, Kozhikode, Kerala, 673632, India",
+      "area": "Bus Stop",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.188797,75.872701",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(3).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    20.88
+  ],
+  "scraped_at": "2026-05-21T08:08:45.191796+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

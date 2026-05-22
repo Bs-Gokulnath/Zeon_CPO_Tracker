@@ -1,0 +1,310 @@
+{
+  "station_id": 2862,
+  "station_detail": {
+    "station_id": 2862,
+    "station_name": "Statiq BSES Hub Lodhi Colony",
+    "latitude": 28.587475,
+    "longitude": 77.226334,
+    "address": "23, Lodhi Road, New Delhi, Delhi, 110003, India",
+    "area": "23, Lodhi Road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.587475,77.226334",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8772 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 4.73,
+    "no_of_reviews": 7636,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": "Vardman Marg",
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 749,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 3621,
+        "price_with_currency": "₹ 24.99",
+        "price": 24.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 5089,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 5090,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "BSES Lodhi Colony DC Charger 1",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 3638,
+        "price_with_currency": "₹ 23.01",
+        "price": 23.01,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 5119,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 5120,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "BSES Lodhi Colony DC Charger 2",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 22552,
+        "price_with_currency": "₹ 10.0",
+        "price": 10.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 6919,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "SmartPlug 884 BSES Lodhi Colony",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 22553,
+        "price_with_currency": "₹ 10.0",
+        "price": 10.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 6920,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "SmartPlug 885 BSES Lodhi Colony",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 2,
+        "2": 1,
+        "3": 2,
+        "4": 14,
+        "5": 82
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "New Delhi",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": [
+      {
+        "id": 154,
+        "station_image_url": "$21"
+      },
+      {
+        "id": 155,
+        "station_image_url": "$22"
+      }
+    ]
+  },
+  "nearby_stations": [
+    {
+      "id": 2862,
+      "station_name": "Statiq BSES Hub Lodhi Colony",
+      "latitude": 28.587475,
+      "longitude": 77.226334,
+      "address": "23, Lodhi Road, New Delhi, Delhi, 110003, India",
+      "area": "23, Lodhi Road",
+      "avg_review_rating": 4.73,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.587475,77.226334",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 13892,
+      "station_name": "CPWD",
+      "latitude": 28.59008,
+      "longitude": 77.230899,
+      "address": "Pragati Vihar, New Delhi, Delhi, 110003, India",
+      "area": "Pragati Vihar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.59008,77.230899",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    },
+    {
+      "id": 14465,
+      "station_name": "EESL Statiq Palika Maternity Hospital Statiq",
+      "latitude": 28.5838,
+      "longitude": 77.222,
+      "address": "Palika Maternity Hospital, Block 11, Near Khanna Market, New Delhi, Delhi, 110003, India",
+      "area": "Palika Maternity Hospital, Block 11, Near Khanna Market",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.5838,77.222",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/default.png"
+    },
+    {
+      "id": 10828,
+      "station_name": "EESL Statiq Khanna Market Station 2",
+      "latitude": 28.584557,
+      "longitude": 77.220445,
+      "address": "Khanna Market Rd, Block C 3, Lodi Colony, New Delhi, Delhi, 110003, India",
+      "area": "Khanna Market Rd, Block C 3, Lodi Colony",
+      "avg_review_rating": 4.36,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.584557,77.220445",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 10827,
+      "station_name": "EESL Statiq Khanna Market Station 1",
+      "latitude": 28.580623,
+      "longitude": 77.22102,
+      "address": "Khanna Market Rd, Aliganj, Block 14, Lodi Colony, New Delhi, Delhi, 110003, India",
+      "area": "Khanna Market Rd, Aliganj, Block 14, Lodi Colony",
+      "avg_review_rating": 4.46,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.580623,77.22102",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 2,
+  "dc_count": 2,
+  "ac_prices": [
+    10.0,
+    10.0
+  ],
+  "dc_prices": [
+    24.99,
+    23.01
+  ],
+  "scraped_at": "2026-05-21T07:59:35.165698+00:00",
+  "parse_success": true,
+  "missing_fields": [],
+  "coverage_pct": 100.0
+}

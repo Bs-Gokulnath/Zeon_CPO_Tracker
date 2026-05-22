@@ -1,0 +1,198 @@
+{
+  "station_id": 11858,
+  "station_detail": {
+    "station_id": 11858,
+    "station_name": "2020953-SHREE SADGURU PETROLEUM",
+    "latitude": 18.556469,
+    "longitude": 73.668823,
+    "address": "\"SURVEY NO. 307 A,SHELKEWADI,, Pune, Maharashtra, 412115, India",
+    "area": "\"SURVEY NO. 307 A,SHELKEWADI,",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.556469,73.668823",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8297 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 62874,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 25483,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 25484,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "2020953-SHREE SADGURU PETROLEUM",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Pune",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11858,
+      "station_name": "2020953-SHREE SADGURU PETROLEUM",
+      "latitude": 18.556469,
+      "longitude": 73.668823,
+      "address": "\"SURVEY NO. 307 A,SHELKEWADI,, Pune, Maharashtra, 412115, India",
+      "area": "\"SURVEY NO. 307 A,SHELKEWADI,",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.556469,73.668823",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14772,
+      "station_name": "Statiq Megapolis Mystic Pune Station",
+      "latitude": 18.575116,
+      "longitude": 73.67964,
+      "address": "Megapolis Mystic, Megapolis Township, Phase 3, Hinjawadi Rajiv Gandhi Infotech Park, Hinjawadi, Pune, Maharashtra, 411057, India",
+      "area": "Megapolis Mystic, Megapolis Township, Phase 3, Hinjawadi Rajiv Gandhi Infotech Park, Hinjawadi",
+      "avg_review_rating": 4.5,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.575116,73.67964",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 14509,
+      "station_name": "Statiq Megapolis Sparklet",
+      "latitude": 18.578032,
+      "longitude": 73.682389,
+      "address": "Megapolis Sparklet Co-Op Housing Society Pvt Ltd, Plot No. R1/1 to R1/4 Phase-3, RGIP, Hinjewadi, Tal-Mulshi, Pune, Maharashtra, 411057, India",
+      "area": "Megapolis Sparklet Co-Op Housing Society Pvt Ltd, Plot No. R1/1 to R1/4 Phase-3, RGIP, Hinjewadi, Tal-Mulshi",
+      "avg_review_rating": 4.61,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.578032,73.682389",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 4853,
+      "station_name": "GLIDA Audi Pune",
+      "latitude": 18.589765,
+      "longitude": 73.697308,
+      "address": "Plot No 288, Pune, Maharashtra, 411057, India",
+      "area": "Plot No 288",
+      "avg_review_rating": 4.73,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.589765,73.697308",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    },
+    {
+      "id": 9595,
+      "station_name": "Cognizant Charging Station_CDC_Pune",
+      "latitude": 18.594884,
+      "longitude": 73.688911,
+      "address": "Cognizant Technology Solutions India PrivateLimited (IN234), Plot No.16, Phase III, Rajiv Gandhi InfotechPark,Hinjewadi, Pune , Pune MH 411057, Pune, Maharashtra, 411057, India",
+      "area": "Cognizant Technology Solutions India PrivateLimited (IN234), Plot No.16, Phase III, Rajiv Gandhi InfotechPark,Hinjewadi, Pune , Pune MH 411057",
+      "avg_review_rating": 4.24,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.594884,73.688911",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:10:38.819726+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

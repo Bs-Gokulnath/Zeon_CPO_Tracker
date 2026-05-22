@@ -1,0 +1,198 @@
+{
+  "station_id": 15318,
+  "station_detail": {
+    "station_id": 15318,
+    "station_name": "SHRI DHANUSHDHARI FILLING STATION",
+    "latitude": 25.2746,
+    "longitude": 79.08967,
+    "address": "RO AT MAURANIPUR PACHAURO JHANSI 284001, Jhansi, Uttar Pradesh, 284001, India",
+    "area": "RO AT MAURANIPUR PACHAURO JHANSI 284001",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.2746,79.08967",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8921 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68514,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33706,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 33707,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "SHRI DHANUSHDHARI FILLING STATION",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Jhansi",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15318,
+      "station_name": "SHRI DHANUSHDHARI FILLING STATION",
+      "latitude": 25.2746,
+      "longitude": 79.08967,
+      "address": "RO AT MAURANIPUR PACHAURO JHANSI 284001, Jhansi, Uttar Pradesh, 284001, India",
+      "area": "RO AT MAURANIPUR PACHAURO JHANSI 284001",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.2746,79.08967",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7307,
+      "station_name": "2007941-RICHHARIYA HIGHWAY HALT",
+      "latitude": 25.471031,
+      "longitude": 78.682647,
+      "address": "JHANSI, Jhansi, Uttar Pradesh, 284121, India",
+      "area": "JHANSI",
+      "avg_review_rating": 4.27,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.471031,78.682647",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 6948,
+      "station_name": "Mangalam Filling Station UP",
+      "latitude": 25.680626,
+      "longitude": 78.901312,
+      "address": "BHARAT PETROLEUM CORPORATION LIMITED M/S MANGALAM FILLING STATION BHARAT PETROLEUM,DEALERS, NH-27 KANPUR ROAD VILL- AMAR GARH, TEHSIL MOTH JHANSI DIST. 284002 Uttar Pradesh, Jhansi, Uttar Pradesh, 284002, India",
+      "area": "BHARAT PETROLEUM CORPORATION LIMITED M/S MANGALAM FILLING STATION BHARAT PETROLEUM,DEALERS, NH-27 KANPUR ROAD VILL- AMAR GARH, TEHSIL MOTH JHANSI DIST. 284002 Uttar Pradesh",
+      "avg_review_rating": 4.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.680626,78.901312",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15321,
+      "station_name": "SUSHMA FILLING STATION",
+      "latitude": 25.60342,
+      "longitude": 79.55661,
+      "address": "RO AT RATH UTTRA RATH HAMIRPUR 210431, Rath, Uttar Pradesh, 210431, India",
+      "area": "RO AT RATH UTTRA RATH HAMIRPUR 210431",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.60342,79.55661",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15214,
+      "station_name": "SRI KRISHNA AUTOMOBILIES",
+      "latitude": 24.783069,
+      "longitude": 78.832954,
+      "address": "JHANSI ROAD,JHANSI ROAD, Tikamgarh, Madhya Pradesh, 472001, India",
+      "area": "JHANSI ROAD,JHANSI ROAD",
+      "avg_review_rating": 4.9,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.783069,78.832954",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:15:36.208706+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

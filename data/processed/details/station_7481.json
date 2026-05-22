@@ -1,0 +1,173 @@
+{
+  "station_id": 7481,
+  "station_detail": {
+    "station_id": 7481,
+    "station_name": "2013235-JAMBH SHAKTI FILLING STATION",
+    "latitude": 27.193716,
+    "longitude": 72.376824,
+    "address": "PHALODI, Phalodi, Rajasthan, 342301, India",
+    "area": "PHALODI",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.193716,72.376824",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8279 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.67,
+    "no_of_reviews": 623,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": "NH-11 PHALODI",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 55320,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13666,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "2013235-JAMBH SHAKTI FILLING STATION",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 3,
+        "2": 0,
+        "3": 3,
+        "4": 12,
+        "5": 81
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Phalodi",
+    "station_access_type": "public",
+    "availability": "Available in",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": [],
+    "waiting_time": "2026-05-21 14:15:54"
+  },
+  "nearby_stations": [
+    {
+      "id": 7481,
+      "station_name": "2013235-JAMBH SHAKTI FILLING STATION",
+      "latitude": 27.193716,
+      "longitude": 72.376824,
+      "address": "PHALODI, Phalodi, Rajasthan, 342301, India",
+      "area": "PHALODI",
+      "avg_review_rating": 4.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.193716,72.376824",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+charging.png"
+    },
+    {
+      "id": 13223,
+      "station_name": "ID(767zfv)TARUN FILLING STATION",
+      "latitude": 27.365734,
+      "longitude": 72.33967,
+      "address": "Bap, Bap, Rajasthan, 342307, India",
+      "area": "Bap",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.365734,72.33967",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 9303,
+      "station_name": "RJ | Kansingh Ki Seer | Hotel Shiv Vilas",
+      "latitude": 27.53245,
+      "longitude": 72.517693,
+      "address": "GGJ9+X2G, Jodhpur, Rajasthan, 342207, India",
+      "area": "GGJ9+X2G",
+      "avg_review_rating": 4.38,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.53245,72.517693",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 13248,
+      "station_name": "ID(74ufi1)Suresh filling station",
+      "latitude": 26.706472,
+      "longitude": 72.321783,
+      "address": "Kanodiya Purohit, Kanodiya Purohit, Rajasthan, 342314, India",
+      "area": "Kanodiya Purohit",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.706472,72.321783",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:03:06.564247+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

@@ -1,0 +1,195 @@
+{
+  "station_id": 8320,
+  "station_detail": {
+    "station_id": 8320,
+    "station_name": "M/s. SHREE KRISHNA FILLING STATION",
+    "latitude": 30.339312,
+    "longitude": 77.956293,
+    "address": "Dehradun, Dehradun, Uttarakhand, 248198, India",
+    "area": "Dehradun",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.339312,77.956293",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8863 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.83,
+    "no_of_reviews": 24,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 56756,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 15670,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "M/s. SHREE KRISHNA FILLING STATION",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 4,
+        "4": 8,
+        "5": 88
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Dehradun",
+    "station_access_type": "public",
+    "availability": "Available in",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": [],
+    "waiting_time": "2026-05-21 14:20:11"
+  },
+  "nearby_stations": [
+    {
+      "id": 8320,
+      "station_name": "M/s. SHREE KRISHNA FILLING STATION",
+      "latitude": 30.339312,
+      "longitude": 77.956293,
+      "address": "Dehradun, Dehradun, Uttarakhand, 248198, India",
+      "area": "Dehradun",
+      "avg_review_rating": 4.83,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.339312,77.956293",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+charging.png"
+    },
+    {
+      "id": 9326,
+      "station_name": "UK | Dehradun | LP Vilas",
+      "latitude": 30.344876,
+      "longitude": 77.946807,
+      "address": "Chakrata Rd, Dehradun, Uttarakhand, 248007, India",
+      "area": "Chakrata Rd",
+      "avg_review_rating": 4.96,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.344876,77.946807",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/gentari-default.png"
+    },
+    {
+      "id": 10944,
+      "station_name": "2014309-SHREE BANKEY BIHARI FILLING STATION",
+      "latitude": 30.303234,
+      "longitude": 77.989725,
+      "address": "Pithuwala kalan, Dehradun, Uttarakhand, 248018, India",
+      "area": "Pithuwala kalan",
+      "avg_review_rating": 4.52,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.303234,77.989725",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 9325,
+      "station_name": "UK | Dehradun | Hotel Lords",
+      "latitude": 30.288338,
+      "longitude": 77.997214,
+      "address": "Isbt Crossing, Dehradun, Uttarakhand, 248171, India",
+      "area": "Isbt Crossing",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.288338,77.997214",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/gentari-default.png"
+    },
+    {
+      "id": 10824,
+      "station_name": "SHIV FILLING STATION",
+      "latitude": 30.284087,
+      "longitude": 77.993437,
+      "address": "DEHRADUN, Dehradun, Uttarakhand, 248001, India",
+      "area": "DEHRADUN",
+      "avg_review_rating": 4.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.284087,77.993437",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:04:18.875319+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

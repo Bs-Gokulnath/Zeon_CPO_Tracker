@@ -1,0 +1,195 @@
+{
+  "station_id": 9897,
+  "station_detail": {
+    "station_id": 9897,
+    "station_name": "NANUTEL PARKING LOT 7XH5+2JW, Padre Miranda Rd, opp. to Club Harmonia, Pajifond,",
+    "latitude": 15.27791,
+    "longitude": 73.95866,
+    "address": "7XH5+2JW, Margao, Goa, 403601, India",
+    "area": "7XH5+2JW",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.27791,73.95866",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8297 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.83,
+    "no_of_reviews": 6,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/yocharge_Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 60812,
+        "price_with_currency": "₹ 21.0",
+        "price": 21.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22149,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "YHB NANUTEL PARKING LOT 7XH5+2JW, Padre Miranda Rd, opp. to Club Harmonia, Pajifond, 3",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 17,
+        "5": 83
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Margao",
+    "station_access_type": "public",
+    "availability": "Available in",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": [],
+    "waiting_time": "2026-05-21 14:12:07"
+  },
+  "nearby_stations": [
+    {
+      "id": 9897,
+      "station_name": "NANUTEL PARKING LOT 7XH5+2JW, Padre Miranda Rd, opp. to Club Harmonia, Pajifond,",
+      "latitude": 15.27791,
+      "longitude": 73.95866,
+      "address": "7XH5+2JW, Margao, Goa, 403601, India",
+      "area": "7XH5+2JW",
+      "avg_review_rating": 4.83,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.27791,73.95866",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_charging.png"
+    },
+    {
+      "id": 4743,
+      "station_name": "REIL Hp Petrol Pump - Kunde Service Station",
+      "latitude": 15.27701,
+      "longitude": 73.958412,
+      "address": "Near Club Harmoina Margaon, Margaon, Goa, 403601, India",
+      "area": "Near Club Harmoina Margaon",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.27701,73.958412",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 4747,
+      "station_name": "REIL P.G. VIRGINCAR(Abdul Adhoc) Station",
+      "latitude": 15.2719,
+      "longitude": 73.958511,
+      "address": "(A/C SERVICE STATION) SALCETE MARGAO ( CHALTA NO), Goa, Goa, 403601, India",
+      "area": "(A/C SERVICE STATION) SALCETE MARGAO ( CHALTA NO)",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.2719,73.958511",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 6515,
+      "station_name": "REIL CLARINA PETROLEUM",
+      "latitude": 15.28282,
+      "longitude": 73.980148,
+      "address": "Vidya Nagar, Margao, Margaon, Goa, 403601, India",
+      "area": "Vidya Nagar, Margao",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.28282,73.980148",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 6516,
+      "station_name": "REIL REIRA PETRO SERVICES",
+      "latitude": 15.28282,
+      "longitude": 73.980148,
+      "address": "Chogm Road Calangute, Panaji, Goa, 403516, India",
+      "area": "Chogm Road Calangute",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=15.28282,73.980148",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.0
+  ],
+  "scraped_at": "2026-05-21T08:07:38.378841+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

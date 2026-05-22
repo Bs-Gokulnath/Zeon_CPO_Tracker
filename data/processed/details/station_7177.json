@@ -1,0 +1,188 @@
+{
+  "station_id": 7177,
+  "station_detail": {
+    "station_id": 7177,
+    "station_name": "2005590-PRIYADARSHINI SERVICE STATION",
+    "latitude": 11.912348,
+    "longitude": 76.943515,
+    "address": "CHAMARAJANAGAR, Bilgi, Karnataka, 571313, India",
+    "area": "CHAMARAJANAGAR",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.912348,76.943515",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8597 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 55016,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13362,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "2005590-PRIYADARSHINI SERVICE STATION",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bilgi",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7177,
+      "station_name": "2005590-PRIYADARSHINI SERVICE STATION",
+      "latitude": 11.912348,
+      "longitude": 76.943515,
+      "address": "CHAMARAJANAGAR, Bilgi, Karnataka, 571313, India",
+      "area": "CHAMARAJANAGAR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.912348,76.943515",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7219,
+      "station_name": "2017320-DHANYALAKSHMI FUELS",
+      "latitude": 11.854086,
+      "longitude": 76.67048,
+      "address": "MADARHALLI, Bilgi, Karnataka, 571111, India",
+      "area": "MADARHALLI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.854086,76.67048",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7608,
+      "station_name": "2018058-AKSHAYA ENERGY STATION",
+      "latitude": 12.164689,
+      "longitude": 77.115864,
+      "address": "KOLLEGAL, Kollegal, Karnataka, 571440, India",
+      "area": "KOLLEGAL",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.164689,77.115864",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15198,
+      "station_name": "SAPTHAGIRI PETROLEUMS",
+      "latitude": 12.137386,
+      "longitude": 76.67271,
+      "address": "NANJANGUD ON NILGIRI ROAD, MYSORE, Karnataka 571302, Mysuru, Karnataka, 583228, India",
+      "area": "NANJANGUD ON NILGIRI ROAD, MYSORE, Karnataka 571302",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.137386,76.67271",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 4731,
+      "station_name": "Statiq MC Resort Station",
+      "latitude": 11.696746,
+      "longitude": 76.635911,
+      "address": "Parking Area inside Resort, Bandipur National Park, Bangalore-Ooty Road, Gundlupet, Karnataka, 571126, India",
+      "area": "Parking Area inside Resort, Bandipur National Park, Bangalore-Ooty Road",
+      "avg_review_rating": 4.61,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.696746,76.635911",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:02:23.547709+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

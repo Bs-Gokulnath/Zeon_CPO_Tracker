@@ -1,0 +1,198 @@
+{
+  "station_id": 9782,
+  "station_detail": {
+    "station_id": 9782,
+    "station_name": "BAROI SERVICE",
+    "latitude": 26.150564,
+    "longitude": 91.811353,
+    "address": "BAROI SERVICE  BHARAT PETROLEUM DEALERS  6TH MILE  VIP ROAD  GUWAHATI DISTRICT: KAMRUP METRO  ASSAM, Kamrup, Assam, 781036, India",
+    "area": "BAROI SERVICE  BHARAT PETROLEUM DEALERS  6TH MILE  VIP ROAD  GUWAHATI DISTRICT: KAMRUP METRO  ASSAM",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.150564,91.811353",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "10199 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 58814,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 19210,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 19211,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "BAROI SERVICE",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Kamrup",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9782,
+      "station_name": "BAROI SERVICE",
+      "latitude": 26.150564,
+      "longitude": 91.811353,
+      "address": "BAROI SERVICE  BHARAT PETROLEUM DEALERS  6TH MILE  VIP ROAD  GUWAHATI DISTRICT: KAMRUP METRO  ASSAM, Kamrup, Assam, 781036, India",
+      "area": "BAROI SERVICE  BHARAT PETROLEUM DEALERS  6TH MILE  VIP ROAD  GUWAHATI DISTRICT: KAMRUP METRO  ASSAM",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.150564,91.811353",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14044,
+      "station_name": "HD EV One Beltola",
+      "latitude": 26.131467,
+      "longitude": 91.794696,
+      "address": "Survey beltola road, Guwahati, Assam, 781036, India",
+      "area": "Survey beltola road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.131467,91.794696",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    },
+    {
+      "id": 14159,
+      "station_name": "Bhargav Hotel L EV Charger",
+      "latitude": 26.131467,
+      "longitude": 91.794696,
+      "address": "Survey beltola road, Guwahati, Assam, 781036, India",
+      "area": "Survey beltola road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.131467,91.794696",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    },
+    {
+      "id": 5758,
+      "station_name": "chargeMOD | AlternatEV | Assam",
+      "latitude": 26.171206,
+      "longitude": 91.77749,
+      "address": "23, Guwahati, Assam, 781024, India",
+      "area": "23",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.171206,91.77749",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(3).png"
+    },
+    {
+      "id": 14231,
+      "station_name": "Aplus L2",
+      "latitude": 26.17103,
+      "longitude": 91.777022,
+      "address": "Rajat Kamal Path, Guwahati, Assam, 781024, India",
+      "area": "Rajat Kamal Path",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.17103,91.777022",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:07:19.434402+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,188 @@
+{
+  "station_id": 7385,
+  "station_detail": {
+    "station_id": 7385,
+    "station_name": "2005854-CHANDRASHEKHAR PETROLEUM",
+    "latitude": 18.388896,
+    "longitude": 74.563617,
+    "address": "KURKUMBH, Achalpur, Maharashtra, 413801, India",
+    "area": "KURKUMBH",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.388896,74.563617",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8390 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 55224,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13570,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "CHANDRASHEKHAR PETROLEUM",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Achalpur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7385,
+      "station_name": "2005854-CHANDRASHEKHAR PETROLEUM",
+      "latitude": 18.388896,
+      "longitude": 74.563617,
+      "address": "KURKUMBH, Achalpur, Maharashtra, 413801, India",
+      "area": "KURKUMBH",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.388896,74.563617",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14866,
+      "station_name": "Krushna Kamal (Charge_iN by Mahindra)",
+      "latitude": 18.351976,
+      "longitude": 74.65289,
+      "address": "Krushnakamal Veg, Solapur, Maharashtra, 413801, India",
+      "area": "Krushnakamal Veg",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.351976,74.65289",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mahindra_Branding_logo.png"
+    },
+    {
+      "id": 7865,
+      "station_name": "COCO BP KHADKI",
+      "latitude": 18.343789,
+      "longitude": 74.674881,
+      "address": "khadki, Taluka -Daund, Daund, Maharashtra, 413130, India",
+      "area": "khadki, Taluka -Daund",
+      "avg_review_rating": 4.69,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.343789,74.674881",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 6921,
+      "station_name": "2000268-PACHPUTE KS",
+      "latitude": 18.54613,
+      "longitude": 74.58236,
+      "address": "BHARAT PETROLEUM CORPN. LTD,  VILLAGE - KASHTI, SHRIGONDA, Ahmednagar, Maharashtra, 414701, India",
+      "area": "BHARAT PETROLEUM CORPN. LTD,  VILLAGE - KASHTI, SHRIGONDA",
+      "avg_review_rating": 4.5,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.54613,74.58236",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13221,
+      "station_name": "ID(fzx9k8)OMRAJ EV CHARGING STATION",
+      "latitude": 18.226309,
+      "longitude": 74.572962,
+      "address": "Gojubavi, Gojubavi, Maharashtra, 413133, India",
+      "area": "Gojubavi",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.226309,74.572962",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:02:55.508038+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,204 @@
+{
+  "station_id": 15233,
+  "station_detail": {
+    "station_id": 15233,
+    "station_name": "JASIMUDDIN AHMED SERVICE STATION",
+    "latitude": 22.698153,
+    "longitude": 88.601687,
+    "address": "24 PGS (N), 24 Parganas (n), West Bengal, 743423, India",
+    "area": "24 PGS (N)",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.698153,88.601687",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9875 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.89,
+    "no_of_reviews": 18,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68393,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33488,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 33489,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "JASIMUDDIN AHMED SERVICE STATION",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 11,
+        "5": 89
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "24 Parganas (n)",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15233,
+      "station_name": "JASIMUDDIN AHMED SERVICE STATION",
+      "latitude": 22.698153,
+      "longitude": 88.601687,
+      "address": "24 PGS (N), 24 Parganas (n), West Bengal, 743423, India",
+      "area": "24 PGS (N)",
+      "avg_review_rating": 4.89,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.698153,88.601687",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 13492,
+      "station_name": "ID(gvxvgq)ROY SERVICE STATION",
+      "latitude": 22.74651,
+      "longitude": 88.522132,
+      "address": "Bamunpara, Sikdespukuria, West Bengal, 743248, India",
+      "area": "Bamunpara",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.74651,88.522132",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 13417,
+      "station_name": "ID(eyhid5) Gopal Service station",
+      "latitude": 22.738039,
+      "longitude": 88.509187,
+      "address": "Bamamgachhi, Bamangachi, West Bengal, 743294, India",
+      "area": "Bamamgachhi",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.738039,88.509187",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 15196,
+      "station_name": "AUTO ENERGY",
+      "latitude": 22.693566,
+      "longitude": 88.486928,
+      "address": "BADU ROAD, DIGBERIA, BARASAT, NORTH 24 PARGANAS, 700129, Kolkata, West Bengal, 700129, India",
+      "area": "BADU ROAD, DIGBERIA, BARASAT, NORTH 24 PARGANAS, 700129",
+      "avg_review_rating": 2.64,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.693566,88.486928",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 12719,
+      "station_name": "ID(kyfh76) Auto care centre",
+      "latitude": 22.727051,
+      "longitude": 88.479928,
+      "address": "New Nawpara, Kolkata, West Bengal, 700124, India",
+      "area": "New Nawpara",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.727051,88.479928",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+charging+pin-+selected.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:15:28.634691+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

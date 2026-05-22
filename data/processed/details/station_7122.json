@@ -1,0 +1,194 @@
+{
+  "station_id": 7122,
+  "station_detail": {
+    "station_id": 7122,
+    "station_name": "2022673-P&P ALLIANCE",
+    "latitude": 24.655662,
+    "longitude": 71.762987,
+    "address": "KHODA, Bechar, Gujarat, 385550, India",
+    "area": "KHODA",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.655662,71.762987",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8179 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 3.0,
+    "no_of_reviews": 2,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54961,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13307,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "2022673-P&P ALLIANCE",
+        "last_used_on": "06/05/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 50,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 50
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bechar",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7122,
+      "station_name": "2022673-P&P ALLIANCE",
+      "latitude": 24.655662,
+      "longitude": 71.762987,
+      "address": "KHODA, Bechar, Gujarat, 385550, India",
+      "area": "KHODA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.655662,71.762987",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13000,
+      "station_name": "ID(grwq5i)KISAN DIESEL SERVICE",
+      "latitude": 24.704167,
+      "longitude": 71.768752,
+      "address": "NH68, Sanchore, Rajasthan, 343041, India",
+      "area": "NH68",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.704167,71.768752",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 6639,
+      "station_name": "2004058-SANT RAJARAM",
+      "latitude": 24.526651,
+      "longitude": 72.00901,
+      "address": "Bharat Petroleum Dealer, PETROL PUMP At & Post Thavar Taluka - Dhanera Dist Banskantha Pincode 385310, Dhanera, Gujarat, 385310, India",
+      "area": "Bharat Petroleum Dealer, PETROL PUMP At & Post Thavar Taluka - Dhanera Dist Banskantha Pincode 385310",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.526651,72.00901",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 9860,
+      "station_name": "Hotel Shivay International",
+      "latitude": 24.40573,
+      "longitude": 71.64161,
+      "address": "Nr. Water Pump, Tharad, Gujarat, 385565, India",
+      "area": "Nr. Water Pump",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.40573,71.64161",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8671,
+      "station_name": "Saraswati Petroleum",
+      "latitude": 24.311659,
+      "longitude": 71.82663,
+      "address": "Deesa - Tharad Highway, Ahmedabad, Gujarat, 385535, India",
+      "area": "Deesa - Tharad Highway",
+      "avg_review_rating": 4.5,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=24.311659,71.82663",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:02:15.295342+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

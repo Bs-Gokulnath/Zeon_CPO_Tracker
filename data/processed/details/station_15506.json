@@ -1,0 +1,202 @@
+{
+  "station_id": 15506,
+  "station_detail": {
+    "station_id": 15506,
+    "station_name": "NEW PUBLIC ROAD CARRIERS",
+    "latitude": 29.472846,
+    "longitude": 77.718514,
+    "address": "DWARKAPURI-BHOPA ROAD, Muzaffarnagar, Uttar Pradesh, 251001, India",
+    "area": "DWARKAPURI-BHOPA ROAD",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.472846,77.718514",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8830 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": "S.D Degree college",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 69361,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35007,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 35008,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "NEW PUBLIC ROAD CARRIERS",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Muzaffarnagar",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15506,
+      "station_name": "NEW PUBLIC ROAD CARRIERS",
+      "latitude": 29.472846,
+      "longitude": 77.718514,
+      "address": "DWARKAPURI-BHOPA ROAD, Muzaffarnagar, Uttar Pradesh, 251001, India",
+      "area": "DWARKAPURI-BHOPA ROAD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.472846,77.718514",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9277,
+      "station_name": "Ecoplug Shiva Tourist Dhaba",
+      "latitude": 29.491295,
+      "longitude": 77.74202,
+      "address": "Village-Mustafabad, Muzaffarnagar, Uttar Pradesh, 251001, India",
+      "area": "Village-Mustafabad",
+      "avg_review_rating": 3.84,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.491295,77.74202",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 9831,
+      "station_name": "Ecoplug Hotel Shakti Ann Jal",
+      "latitude": 29.498936,
+      "longitude": 77.731205,
+      "address": "Delhi - Haridwar Road, Muzaffarnagar, Uttar Pradesh, 251001, India",
+      "area": "Delhi - Haridwar Road",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.498936,77.731205",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 15542,
+      "station_name": "Shiva Dhaba Avneesh Sharma Bajheri by Reliable Charge Shiva Tourist Dhaba 2 , Bypass Bajheri Choraha ,  Muzaffarnagar District , UP -251001",
+      "latitude": 29.512889,
+      "longitude": 77.719169,
+      "address": "Shiva Tourist Dhaba 2 , Muzaffarnagar, Uttar Pradesh, 251001, India",
+      "area": "Shiva Tourist Dhaba 2 ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.512889,77.719169",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 8281,
+      "station_name": "R K FUELS CENTRE",
+      "latitude": 29.426924,
+      "longitude": 77.718079,
+      "address": "RO AT SANDHAWALI, NH-58, MEERUT TO MUZAFFARNAGAR (NH58) RHS, Muzaffarnagar, Uttar Pradesh, 251001, India",
+      "area": "RO AT SANDHAWALI, NH-58, MEERUT TO MUZAFFARNAGAR (NH58) RHS",
+      "avg_review_rating": 4.5,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.426924,77.718079",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:16:07.742788+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

@@ -1,0 +1,277 @@
+{
+  "station_id": 15521,
+  "station_detail": {
+    "station_id": 15521,
+    "station_name": "Rajokri by Reliable Charge Rajokri Flyover, D Block, Rajokri Village, Samalka, New Delhi, Delhi 110097",
+    "latitude": 28.521988,
+    "longitude": 77.097606,
+    "address": "Rajokri Flyover, New Delhi, Delhi, 110097, India",
+    "area": "Rajokri Flyover",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.521988,77.097606",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8759 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      },
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 2,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/yocharge_Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68841,
+        "price_with_currency": "₹ 21.0",
+        "price": 21.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34251,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "YHB Rajokri by Reliable Charge Rajokri Flyover, D Block, Rajokri Village, Samalka, New Delhi, Delhi 110097 5",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 68837,
+        "price_with_currency": "₹ 15.0",
+        "price": 15.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34247,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "YHB Rajokri by Reliable Charge Rajokri Flyover, D Block, Rajokri Village, Samalka, New Delhi, Delhi 110097 1",
+        "last_used_on": "19/05/2026"
+      },
+      {
+        "charger_id": 68838,
+        "price_with_currency": "₹ 15.0",
+        "price": 15.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34248,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "YHB Rajokri by Reliable Charge Rajokri Flyover, D Block, Rajokri Village, Samalka, New Delhi, Delhi 110097 2",
+        "last_used_on": "12/05/2026"
+      },
+      {
+        "charger_id": 68839,
+        "price_with_currency": "₹ 15.0",
+        "price": 15.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34249,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "YHB Rajokri by Reliable Charge Rajokri Flyover, D Block, Rajokri Village, Samalka, New Delhi, Delhi 110097 3",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "New Delhi",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15521,
+      "station_name": "Rajokri by Reliable Charge Rajokri Flyover, D Block, Rajokri Village, Samalka, New Delhi, Delhi 110097",
+      "latitude": 28.521988,
+      "longitude": 77.097606,
+      "address": "Rajokri Flyover, New Delhi, Delhi, 110097, India",
+      "area": "Rajokri Flyover",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.521988,77.097606",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 7010,
+      "station_name": "2000692 - ARAVALI SERVICE STATION",
+      "latitude": 28.52289,
+      "longitude": 77.09973,
+      "address": "V& P Rajokri chowk, NH-8, New Delhi - 110037, Delhi, Delhi, 110037, India",
+      "area": "V& P Rajokri chowk, NH-8, New Delhi - 110037",
+      "avg_review_rating": 4.73,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.52289,77.09973",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+charging.png"
+    },
+    {
+      "id": 14928,
+      "station_name": "Kapashera Extension Charging station",
+      "latitude": 28.528292,
+      "longitude": 77.086113,
+      "address": "Kapashera, New Delhi, Delhi, 110037, India",
+      "area": "Kapashera",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.528292,77.086113",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/1c_charging.png"
+    },
+    {
+      "id": 1941,
+      "station_name": "Sunfuel - Radisson Gurugram Udyog Vihar",
+      "latitude": 28.509979,
+      "longitude": 77.092102,
+      "address": "Nh-8, Phase 3, Adjacent to Plot No. 406, Udyog Vihar, Gurugram, Haryana, 122016, India",
+      "area": "Nh-8, Phase 3, Adjacent to Plot No. 406, Udyog Vihar",
+      "avg_review_rating": 4.49,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.509979,77.092102",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 10007,
+      "station_name": "Vajra Greens Charging Station",
+      "latitude": 28.520689,
+      "longitude": 77.082259,
+      "address": "D Block, Kapas Hera Estate, New Delhi, Delhi 110037, New Delhi, Delhi, 110037, India",
+      "area": "D Block, Kapas Hera Estate, New Delhi, Delhi 110037",
+      "avg_review_rating": 4.73,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.520689,77.082259",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
+    }
+  ],
+  "ac_count": 3,
+  "dc_count": 1,
+  "ac_prices": [
+    15.0,
+    15.0,
+    15.0
+  ],
+  "dc_prices": [
+    21.0
+  ],
+  "scraped_at": "2026-05-21T08:16:07.868560+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

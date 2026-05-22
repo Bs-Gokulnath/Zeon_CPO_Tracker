@@ -1,0 +1,216 @@
+{
+  "station_id": 2239,
+  "station_detail": {
+    "station_id": 2239,
+    "station_name": "Statiq DivyaSree Solitaire Station",
+    "latitude": 17.436689,
+    "longitude": 78.38177,
+    "address": "DivyaSree Solitaire, 15, Inorbit Mall Road, Hyderabad, Telangana, 500081, India",
+    "area": "DivyaSree Solitaire, 15, Inorbit Mall Road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.436689,78.38177",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8785 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.78,
+    "no_of_reviews": 2821,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 673,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 2687,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 3852,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 3853,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "DivyaSree Solitaire DC Charger",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 14,
+        "5": 83
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Hyderabad",
+    "station_access_type": "public",
+    "availability": "Available in",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": [],
+    "waiting_time": "2026-05-21 14:36:53"
+  },
+  "nearby_stations": [
+    {
+      "id": 2239,
+      "station_name": "Statiq DivyaSree Solitaire Station",
+      "latitude": 17.436689,
+      "longitude": 78.38177,
+      "address": "DivyaSree Solitaire, 15, Inorbit Mall Road, Hyderabad, Telangana, 500081, India",
+      "area": "DivyaSree Solitaire, 15, Inorbit Mall Road",
+      "avg_review_rating": 4.78,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.436689,78.38177",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
+    },
+    {
+      "id": 13560,
+      "station_name": "MSR CAMSOM CAR-1",
+      "latitude": 17.439705,
+      "longitude": 78.384819,
+      "address": "MSR Casmos, Hyderabad, Telangana, 500081, India",
+      "area": "MSR Casmos",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.439705,78.384819",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    },
+    {
+      "id": 14028,
+      "station_name": "Sanofi-2",
+      "latitude": 17.432657,
+      "longitude": 78.384525,
+      "address": "3, Hyderabad, Telangana, 500032, India",
+      "area": "3",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.432657,78.384525",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    },
+    {
+      "id": 5046,
+      "station_name": "Statiq ITC Kohenur Station",
+      "latitude": 17.432901,
+      "longitude": 78.385101,
+      "address": "ITC Kohenur, Hitec City, Plot No.5, Survey No. 83/1 Madhapur, Hyderabad, Telangana, 500081, India",
+      "area": "ITC Kohenur, Hitec City, Plot No.5, Survey No. 83/1 Madhapur",
+      "avg_review_rating": 4.77,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.432901,78.385101",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 6787,
+      "station_name": "TSIIC T-Works EV Charging Station",
+      "latitude": 17.434445,
+      "longitude": 78.378018,
+      "address": "survey no. 83/1, Plot 1/D,1/E, 1/F, Silpa Gram Craft, Rai Durga, Hyderabad, Hyderabad, Telangana, 500081, India",
+      "area": "survey no. 83/1, Plot 1/D,1/E, 1/F, Silpa Gram Craft, Rai Durga, Hyderabad",
+      "avg_review_rating": 3.76,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.434445,78.378018",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.99
+  ],
+  "scraped_at": "2026-05-21T07:59:35.105896+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

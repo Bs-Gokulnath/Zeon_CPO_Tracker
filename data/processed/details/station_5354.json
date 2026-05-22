@@ -1,0 +1,188 @@
+{
+  "station_id": 5354,
+  "station_detail": {
+    "station_id": 5354,
+    "station_name": "chargeMOD | JKV EVCS Vattavada",
+    "latitude": 10.168615,
+    "longitude": 77.259408,
+    "address": "Near St. Joseph Carmel House, Idukki, Kerala, 685615, India",
+    "area": "Near St. Joseph Carmel House",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.168615,77.259408",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8623 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Chargemod+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 52479,
+        "price_with_currency": "₹ 13.0",
+        "price": 13.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 10428,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "CMD JKV EVCS Vattavada  1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Idukki",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 7.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 5354,
+      "station_name": "chargeMOD | JKV EVCS Vattavada",
+      "latitude": 10.168615,
+      "longitude": 77.259408,
+      "address": "Near St. Joseph Carmel House, Idukki, Kerala, 685615, India",
+      "area": "Near St. Joseph Carmel House",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.168615,77.259408",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(3).png"
+    },
+    {
+      "id": 10579,
+      "station_name": "chargeMOD | Evee Buddy | Sky View Resorts",
+      "latitude": 10.036056,
+      "longitude": 77.12731,
+      "address": "Gap Road- Bisonvalley, Munnar, Kerala, 685613, India",
+      "area": "Gap Road- Bisonvalley",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.036056,77.12731",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(3).png"
+    },
+    {
+      "id": 10427,
+      "station_name": "chargeMOD | Sihla Energy Eastend Hotel and Resorts",
+      "latitude": 10.087442,
+      "longitude": 77.06161,
+      "address": "Temple Road Munnar Town, Idukki, Kerala, 685612, India",
+      "area": "Temple Road Munnar Town",
+      "avg_review_rating": 4.33,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.087442,77.06161",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 12820,
+      "station_name": "Hyundai Hotel JC Residency Station",
+      "latitude": 10.248787,
+      "longitude": 77.489514,
+      "address": "JC Residency, 1/188-3-4, JC BUILDING, Convent Road, Naidupuram, Kodaikanal, Dindigul, Tamilnadu - 624101, Kodaikanal, Tamil Nadu, 624101, India",
+      "area": "JC Residency, 1/188-3-4, JC BUILDING, Convent Road, Naidupuram, Kodaikanal, Dindigul, Tamilnadu - 624101",
+      "avg_review_rating": 4.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.248787,77.489514",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-charging-not-selected.png"
+    },
+    {
+      "id": 15814,
+      "station_name": "Kodai 120Kw DC Charger",
+      "latitude": 10.242894,
+      "longitude": 77.498487,
+      "address": "Laws Ghat Rd, Kodaikanal, Tamil Nadu, 624101, India",
+      "area": "Laws Ghat Rd",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.242894,77.498487",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    13.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:01:04.333927+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

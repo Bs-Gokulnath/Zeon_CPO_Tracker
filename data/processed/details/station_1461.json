@@ -1,0 +1,243 @@
+{
+  "station_id": 1461,
+  "station_detail": {
+    "station_id": 1461,
+    "station_name": "Statiq Suket Cafe Station",
+    "latitude": 31.515301,
+    "longitude": 76.876503,
+    "address": "Suket Cafe, Pungh, National Highway 21, Sundarnagar, Himachal Pradesh, 175018, India",
+    "area": "Suket Cafe, Pungh, National Highway 21",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.515301,76.876503",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8776 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      },
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.79,
+    "no_of_reviews": 965,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charger-images/AC%2BDC.png",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": "None",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 733,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 913,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "Suket Cafe Sundar Nagar DC Charger 1",
+        "last_used_on": "20/05/2026"
+      },
+      {
+        "charger_id": 54393,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 12596,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 12597,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Suket Cafe Sundar Nagar DC Charger 2",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 2,
+        "2": 1,
+        "3": 1,
+        "4": 8,
+        "5": 88
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Sundarnagar",
+    "station_access_type": "public",
+    "availability": "Available in",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": [],
+    "waiting_time": "2026-05-21 13:31:46"
+  },
+  "nearby_stations": [
+    {
+      "id": 1461,
+      "station_name": "Statiq Suket Cafe Station",
+      "latitude": 31.515301,
+      "longitude": 76.876503,
+      "address": "Suket Cafe, Pungh, National Highway 21, Sundarnagar, Himachal Pradesh, 175018, India",
+      "area": "Suket Cafe, Pungh, National Highway 21",
+      "avg_review_rating": 4.79,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.515301,76.876503",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 15609,
+      "station_name": "SHAHID DEEP FILLING STATION",
+      "latitude": 31.589213,
+      "longitude": 76.72709,
+      "address": "Jahoo, Tehsil: Bhoranj, Hamirpur-Mandi Rd., SH-31, Hamirpur, Himachal Pradesh, 176048, India",
+      "area": "Jahoo, Tehsil: Bhoranj, Hamirpur-Mandi Rd., SH-31",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.589213,76.72709",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15464,
+      "station_name": "HIGHWAY FUEL CENTER",
+      "latitude": 31.373479,
+      "longitude": 76.800672,
+      "address": "Bilaspur Mandi Road, NH-21, P.O: Boinola, Ghagus, Bilaspur, Himachal Pradesh, 174011, India",
+      "area": "Bilaspur Mandi Road, NH-21, P.O: Boinola, Ghagus",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.373479,76.800672",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7152,
+      "station_name": "2007688-RAJINDRA FILLING STATION",
+      "latitude": 31.438037,
+      "longitude": 76.711693,
+      "address": "GHUMARWIN, Kangra, Himachal Pradesh, 174021, India",
+      "area": "GHUMARWIN",
+      "avg_review_rating": 4.48,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.438037,76.711693",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 7898,
+      "station_name": "RAHUL FILLING STATION",
+      "latitude": 31.524107,
+      "longitude": 76.627019,
+      "address": "Village: Haritalyangar, P.O: Dangar, Tehsil: Ghumarwin, Bilaspur, Himachal Pradesh, 228771, India",
+      "area": "Village: Haritalyangar, P.O: Dangar, Tehsil: Ghumarwin",
+      "avg_review_rating": 4.75,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.524107,76.627019",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 2,
+  "ac_prices": [],
+  "dc_prices": [
+    21.99,
+    21.99
+  ],
+  "scraped_at": "2026-05-21T07:58:59.733653+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

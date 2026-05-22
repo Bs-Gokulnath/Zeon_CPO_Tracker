@@ -1,0 +1,198 @@
+{
+  "station_id": 15299,
+  "station_detail": {
+    "station_id": 15299,
+    "station_name": "VINAYAK FILLING CENTER",
+    "latitude": 27.876903,
+    "longitude": 80.956518,
+    "address": "RO AT BHADPAR, , LAKHIMPUR ROAD BHADPAR  SITAPUR, Sitapur, Uttar Pradesh, 261001, India",
+    "area": "RO AT BHADPAR, , LAKHIMPUR ROAD BHADPAR  SITAPUR",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.876903,80.956518",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9129 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68486,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33651,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 33652,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "VINAYAK FILLING CENTER",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Sitapur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15299,
+      "station_name": "VINAYAK FILLING CENTER",
+      "latitude": 27.876903,
+      "longitude": 80.956518,
+      "address": "RO AT BHADPAR, , LAKHIMPUR ROAD BHADPAR  SITAPUR, Sitapur, Uttar Pradesh, 261001, India",
+      "area": "RO AT BHADPAR, , LAKHIMPUR ROAD BHADPAR  SITAPUR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.876903,80.956518",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14894,
+      "station_name": "2010366 CHAUDHARY FILLING STATION",
+      "latitude": 27.870966,
+      "longitude": 81.0652,
+      "address": "NRO AT BASATHIYA, Lakhimpur, Uttar Pradesh, 262723, India",
+      "area": "NRO AT BASATHIYA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.870966,81.0652",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10501,
+      "station_name": "2007365-SHREYASH FILLING STATION",
+      "latitude": 27.91309,
+      "longitude": 80.83355,
+      "address": " BEHRAICH RD,LAKHIMPURKHERI, Lakhimpur, Uttar Pradesh, 262701, India",
+      "area": " BEHRAICH RD,LAKHIMPURKHERI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.91309,80.83355",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10502,
+      "station_name": "2007278-MOOSA RAM SHIV RAM DAS (SHINGARPUR)",
+      "latitude": 27.98654,
+      "longitude": 80.7787,
+      "address": "LRP XNG,BAHRAICH RD, LAKHI, Lakhimpur, Uttar Pradesh, 262701, India",
+      "area": "LRP XNG,BAHRAICH RD, LAKHI",
+      "avg_review_rating": 4.45,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.98654,80.7787",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 15593,
+      "station_name": "BISWAN FILLING STATION",
+      "latitude": 27.50424,
+      "longitude": 81.05026,
+      "address": "RO AT BISWAN, BISWAN BEHRAICH ROAD,, Sitapur, Uttar Pradesh, 261001, India",
+      "area": "RO AT BISWAN, BISWAN BEHRAICH ROAD,",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=27.50424,81.05026",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:15:36.044856+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

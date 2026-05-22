@@ -1,0 +1,204 @@
+{
+  "station_id": 15172,
+  "station_detail": {
+    "station_id": 15172,
+    "station_name": "Hydra Charging 120kW Ulundurpet",
+    "latitude": 11.703924,
+    "longitude": 79.320375,
+    "address": "KFC, Mannargudi, Tamil Nadu, 606115, India",
+    "area": "KFC",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.703924,79.320375",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8854 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 2,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/vehicle_images/Screenshot%202025-11-11%20135516.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68271,
+        "price_with_currency": "₹ 24.9",
+        "price": 24.9,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 2,
+            "connector_id": 33302,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 1,
+            "connector_id": 33303,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 240.0,
+        "charger_name": "HSC Hydra Charging 120kW Ulundurpet 1",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Mannargudi",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 240.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15172,
+      "station_name": "Hydra Charging 120kW Ulundurpet",
+      "latitude": 11.703924,
+      "longitude": 79.320375,
+      "address": "KFC, Mannargudi, Tamil Nadu, 606115, India",
+      "area": "KFC",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.703924,79.320375",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Charger+Pin+Hydra.png"
+    },
+    {
+      "id": 10517,
+      "station_name": "2003704-BP ULUNDURPET",
+      "latitude": 11.71895,
+      "longitude": 79.336515,
+      "address": "Sengurichi, Ulundurpettai, Tamil Nadu, 606115, India",
+      "area": "Sengurichi",
+      "avg_review_rating": 4.5,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.71895,79.336515",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 9608,
+      "station_name": "M/s. BP ULUNDURPET",
+      "latitude": 11.71895,
+      "longitude": 79.336515,
+      "address": "\"Sengurichy Village, Kallakuruchi, Tamil Nadu\", Ulundurpettai, Tamil Nadu, 606115, India",
+      "area": "\"Sengurichy Village, Kallakuruchi, Tamil Nadu\"",
+      "avg_review_rating": 4.49,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.71895,79.336515",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 11984,
+      "station_name": "Hyundai Hotel Pushpagiri Station",
+      "latitude": 11.677993,
+      "longitude": 79.272394,
+      "address": "Pushpagiri Restaurant & Sweets, Ulundurpettai, Kallakurichi District, Roundana Circle, NH79, Edaikkal, Tamil Nadu 606107, Edaikodu, Tamil Nadu, 606107, India",
+      "area": "Pushpagiri Restaurant & Sweets, Ulundurpettai, Kallakurichi District, Roundana Circle, NH79, Edaikkal, Tamil Nadu 606107",
+      "avg_review_rating": 4.48,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.677993,79.272394",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-online-not-selected.png"
+    },
+    {
+      "id": 12071,
+      "station_name": "TN | Arasur | Sugam Hospitality",
+      "latitude": 11.813406,
+      "longitude": 79.418138,
+      "address": "Villupuram Road, Arasur, Tamil Nadu, 607001, India",
+      "area": "Villupuram Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.813406,79.418138",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    24.9
+  ],
+  "scraped_at": "2026-05-21T08:15:15.692993+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

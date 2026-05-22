@@ -1,0 +1,188 @@
+{
+  "station_id": 7135,
+  "station_detail": {
+    "station_id": 7135,
+    "station_name": "2002990-S.D.PETROPOINT",
+    "latitude": 31.528758,
+    "longitude": 75.637172,
+    "address": "JALANDHAR, Jalandhar, Punjab, 144201, India",
+    "area": "JALANDHAR",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.528758,75.637172",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8659 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54974,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13320,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "2002990-S.D.PETROPOINT",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Jalandhar",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7135,
+      "station_name": "2002990-S.D.PETROPOINT",
+      "latitude": 31.528758,
+      "longitude": 75.637172,
+      "address": "JALANDHAR, Jalandhar, Punjab, 144201, India",
+      "area": "JALANDHAR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.528758,75.637172",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13105,
+      "station_name": "ID(9qvh7h) HP FUEL FORCE",
+      "latitude": 31.412441,
+      "longitude": 75.61406,
+      "address": "Sarmastpur, Sarmastpur, Punjab, India",
+      "area": "Sarmastpur",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.412441,75.61406",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 6650,
+      "station_name": "A-ONE FILLING STATION",
+      "latitude": 31.609524,
+      "longitude": 75.5084,
+      "address": "\"RO AT BEGOWAL BEGOWAL KAPURTHALA, BEGOWAL, BEGOWAL, KAPURTHALA, Punjab, India - 144601\", Kapurthala, Punjab, 144601, India",
+      "area": "\"RO AT BEGOWAL BEGOWAL KAPURTHALA, BEGOWAL, BEGOWAL, KAPURTHALA, Punjab, India - 144601\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.609524,75.5084",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13176,
+      "station_name": "ID(v2ckfv) Parkash filling station",
+      "latitude": 31.450444,
+      "longitude": 75.473582,
+      "address": "Kartarpur Rural, Kartarpur Rural, Punjab, 144803, India",
+      "area": "Kartarpur Rural",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.450444,75.473582",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 7133,
+      "station_name": "2002888-OILMANS AUTO AIDS",
+      "latitude": 31.365043,
+      "longitude": 75.596774,
+      "address": "JALANDHAR, Jalandhar, Punjab, 144001, India",
+      "area": "JALANDHAR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.365043,75.596774",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:02:15.349889+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

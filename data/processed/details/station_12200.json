@@ -1,0 +1,204 @@
+{
+  "station_id": 12200,
+  "station_detail": {
+    "station_id": 12200,
+    "station_name": "M SANYASI CHETTY & GURU MURTHY",
+    "latitude": 18.483093,
+    "longitude": 83.285096,
+    "address": "123, BUSAIVALASA, RAMABHADRAPURAM MANDAL, BHUSAIVALASA, VIZIANAGARAM, 535579, Vizianagaram, Andhra Pradesh, 535579, India",
+    "area": "123, BUSAIVALASA, RAMABHADRAPURAM MANDAL, BHUSAIVALASA, VIZIANAGARAM, 535579",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.483093,83.285096",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9309 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.53,
+    "no_of_reviews": 17,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 63654,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26636,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 26637,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "M SANYASI CHETTY & GURU MURTHY",
+        "last_used_on": "14/04/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 6,
+        "2": 0,
+        "3": 0,
+        "4": 24,
+        "5": 71
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Vizianagaram",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12200,
+      "station_name": "M SANYASI CHETTY & GURU MURTHY",
+      "latitude": 18.483093,
+      "longitude": 83.285096,
+      "address": "123, BUSAIVALASA, RAMABHADRAPURAM MANDAL, BHUSAIVALASA, VIZIANAGARAM, 535579, Vizianagaram, Andhra Pradesh, 535579, India",
+      "area": "123, BUSAIVALASA, RAMABHADRAPURAM MANDAL, BHUSAIVALASA, VIZIANAGARAM, 535579",
+      "avg_review_rating": 4.53,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.483093,83.285096",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10756,
+      "station_name": "BAALAJI AGENCIES",
+      "latitude": 18.510277,
+      "longitude": 83.221027,
+      "address": "PARVATHIPURAM MANYAM, Parvatipuram, Andhra Pradesh, 535591, India",
+      "area": "PARVATHIPURAM MANYAM",
+      "avg_review_rating": 4.48,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.510277,83.221027",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 12581,
+      "station_name": "ID(rjaobp)-Sri Srinivasa Agencies",
+      "latitude": 18.162898,
+      "longitude": 83.129272,
+      "address": "Araku - Visakhapatnam Road, Vizianagaram, Andhra Pradesh, 535145, India",
+      "area": "Araku - Visakhapatnam Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.162898,83.129272",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 12771,
+      "station_name": "ID(i6q4q3)Sai Balaji enterprises",
+      "latitude": 18.119354,
+      "longitude": 83.388177,
+      "address": "Collectorate Area, Vizianagaram, Andhra Pradesh, 535003, India",
+      "area": "Collectorate Area",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.119354,83.388177",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 15375,
+      "station_name": "SUSEELA AGENCIES",
+      "latitude": 18.102165,
+      "longitude": 83.418281,
+      "address": "3/16C, 66/1C & 66/2B, VIZIANAGARAM RING ROAD, NIL, VIZIANAGARAM, VIZIANAGARAM, 535003, Vizianagaram, Andhra Pradesh, 535003, India",
+      "area": "3/16C, 66/1C & 66/2B, VIZIANAGARAM RING ROAD, NIL, VIZIANAGARAM, VIZIANAGARAM, 535003",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=18.102165,83.418281",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:11:34.087755+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

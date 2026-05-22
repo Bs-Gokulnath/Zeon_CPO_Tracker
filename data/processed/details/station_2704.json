@@ -1,0 +1,206 @@
+{
+  "station_id": 2704,
+  "station_detail": {
+    "station_id": 2704,
+    "station_name": "Sunfuel - Radisson Resort Hatgad Saputara",
+    "latitude": 20.52274,
+    "longitude": 73.75203,
+    "address": "Ghat No 68/1, Saputara, Nashik Road, Nashik, Maharashtra, 422211, India",
+    "area": "Ghat No 68/1, Saputara, Nashik Road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.52274,73.75203",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8327 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 1.0,
+    "no_of_reviews": 3,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Sunfuel+Banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 713,
+        "id": 1
+      },
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 714,
+        "id": 2
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 54190,
+        "price_with_currency": "₹ 31.82",
+        "price": 31.82,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 12299,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "Sunfuel - Radisson Resort Hatgad Saputara",
+        "last_used_on": "17/01/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 100,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Nashik",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 22.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 2704,
+      "station_name": "Sunfuel - Radisson Resort Hatgad Saputara",
+      "latitude": 20.52274,
+      "longitude": 73.75203,
+      "address": "Ghat No 68/1, Saputara, Nashik Road, Nashik, Maharashtra, 422211, India",
+      "area": "Ghat No 68/1, Saputara, Nashik Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.52274,73.75203",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 12959,
+      "station_name": "ID(vz2koa)ADI SHAKTI PETROLEUM",
+      "latitude": 20.328908,
+      "longitude": 73.899513,
+      "address": "Kasbe Vani, Kasbe Vani, Maharashtra, 422215, India",
+      "area": "Kasbe Vani",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.328908,73.899513",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 8048,
+      "station_name": "OM SAMARTH PETROLEUM",
+      "latitude": 20.193225,
+      "longitude": 73.828935,
+      "address": "DINDORI , NASHIK, Nashik, Maharashtra, 422202, India",
+      "area": "DINDORI , NASHIK",
+      "avg_review_rating": 4.56,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.193225,73.828935",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 8759,
+      "station_name": "BPCL MANOHAR PETROLEUM, PETH",
+      "latitude": 20.258058,
+      "longitude": 73.514882,
+      "address": "Peth, Nashik, Maharashtra, 422208, India",
+      "area": "Peth",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.258058,73.514882",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13241,
+      "station_name": "ID(un3tuw) ASMITATAI DIGHAVKAR PETROLEUM DEOLA",
+      "latitude": 20.459647,
+      "longitude": 74.168613,
+      "address": "Abhinandan Weigh Bridge, Deola, Maharashtra, 423102, India",
+      "area": "Abhinandan Weigh Bridge",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=20.459647,74.168613",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    31.82
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T07:59:35.267348+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

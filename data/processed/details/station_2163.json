@@ -1,0 +1,209 @@
+{
+  "station_id": 2163,
+  "station_detail": {
+    "station_id": 2163,
+    "station_name": "Statiq JTM Mall Station",
+    "latitude": 26.836817,
+    "longitude": 75.834404,
+    "address": "JTM Mall, B 2, Jagatpura Road, Jaipur, Rajasthan, 302017, India",
+    "area": "JTM Mall, B 2, Jagatpura Road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.836817,75.834404",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8614 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      },
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.7,
+    "no_of_reviews": 4896,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": "Jagatpura Flyover",
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 602,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 2607,
+        "price_with_currency": "₹ 22.11",
+        "price": 22.11,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 3744,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "JTM Mall DC Charger",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 3,
+        "2": 1,
+        "3": 2,
+        "4": 13,
+        "5": 82
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Jaipur",
+    "station_access_type": "public",
+    "availability": "Available in",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": [],
+    "waiting_time": "2026-05-21 13:30:52"
+  },
+  "nearby_stations": [
+    {
+      "id": 2163,
+      "station_name": "Statiq JTM Mall Station",
+      "latitude": 26.836817,
+      "longitude": 75.834404,
+      "address": "JTM Mall, B 2, Jagatpura Road, Jaipur, Rajasthan, 302017, India",
+      "area": "JTM Mall, B 2, Jagatpura Road",
+      "avg_review_rating": 4.7,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.836817,75.834404",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 15070,
+      "station_name": "Ecoplug Hotel Aarna",
+      "latitude": 26.834787,
+      "longitude": 75.861092,
+      "address": "Hotel Aarna, Jaipur, Rajasthan, 302018, India",
+      "area": "Hotel Aarna",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.834787,75.861092",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 7858,
+      "station_name": "RJ | Jaipur | MB#T&T Motors PVT. LTD.",
+      "latitude": 26.855242,
+      "longitude": 75.806326,
+      "address": "Ground Floor, Jaipur, Rajasthan, 302017, India",
+      "area": "Ground Floor",
+      "avg_review_rating": 4.33,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.855242,75.806326",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mercedes_Focused_Offline_Map_Pin.png"
+    },
+    {
+      "id": 15639,
+      "station_name": "RJ | Jaipur | Go ElectriQ - 5",
+      "latitude": 26.832408,
+      "longitude": 75.797833,
+      "address": "MS Business Park, Jaipur, Rajasthan, 302026, India",
+      "area": "MS Business Park",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.832408,75.797833",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GoElectriQ_Branding+_Logo_.png"
+    },
+    {
+      "id": 8533,
+      "station_name": "RJ |  Jaipur | Jaipur Marriott Hotel",
+      "latitude": 26.842693,
+      "longitude": 75.796747,
+      "address": "Ashram Marg, Jaipur, Rajasthan, 302015, India",
+      "area": "Ashram Marg",
+      "avg_review_rating": 4.57,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.842693,75.796747",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    22.11
+  ],
+  "scraped_at": "2026-05-21T07:59:25.383996+00:00",
+  "parse_success": true,
+  "missing_fields": [],
+  "coverage_pct": 100.0
+}

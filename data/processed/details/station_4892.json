@@ -1,0 +1,194 @@
+{
+  "station_id": 4892,
+  "station_detail": {
+    "station_id": 4892,
+    "station_name": "GLIDA IOC Narketpally",
+    "latitude": 17.208348,
+    "longitude": 79.177221,
+    "address": "Chintal, Nalgonda, Telangana, 508254, India",
+    "area": "Chintal",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.208348,79.177221",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8868 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 6,
+        "connector_name": "GBT",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png"
+      }
+    ],
+    "avg_review_rating": 4.0,
+    "no_of_reviews": 3,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Glida+Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 51554,
+        "price_with_currency": "₹ 18.99",
+        "price": 18.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 9215,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 6,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 15.0,
+        "charger_name": "HYD0047",
+        "last_used_on": "16/02/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 33,
+        "4": 33,
+        "5": 33
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Nalgonda",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 15.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 4892,
+      "station_name": "GLIDA IOC Narketpally",
+      "latitude": 17.208348,
+      "longitude": 79.177221,
+      "address": "Chintal, Nalgonda, Telangana, 508254, India",
+      "area": "Chintal",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.208348,79.177221",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/unavailable+select.png"
+    },
+    {
+      "id": 14269,
+      "station_name": "LAXMI SARASWATHI FILLING STATION",
+      "latitude": 17.211248,
+      "longitude": 79.16733,
+      "address": "RO AT NARKETPALLY, Nalgonda, Telangana, 508254, India",
+      "area": "RO AT NARKETPALLY",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.211248,79.16733",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12099,
+      "station_name": "TS | Gopalayapalli | Hotel Vivera",
+      "latitude": 17.211487,
+      "longitude": 79.166696,
+      "address": "NH 65, Gopalayapalli, Telangana, 508254, India",
+      "area": "NH 65",
+      "avg_review_rating": 3.83,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.211487,79.166696",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 5199,
+      "station_name": "TS | Narketpalle | Hotel Vivera",
+      "latitude": 17.212216,
+      "longitude": 79.166799,
+      "address": "NH 65, Nalgonda, Telangana, 508254, India",
+      "area": "NH 65",
+      "avg_review_rating": 4.65,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.212216,79.166799",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-online-not-selected.png"
+    },
+    {
+      "id": 8327,
+      "station_name": "Statiq x TATA.ev 7 Midway Chityala Station",
+      "latitude": 17.232208,
+      "longitude": 79.099406,
+      "address": "Right Side of the Main Entrance and Parking Area, Peddakaparthy, Chityala,, Nalgonda, Telangana, 508114, India",
+      "area": "Right Side of the Main Entrance and Parking Area, Peddakaparthy, Chityala,",
+      "avg_review_rating": 4.68,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.232208,79.099406",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    18.99
+  ],
+  "scraped_at": "2026-05-21T08:00:01.150778+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

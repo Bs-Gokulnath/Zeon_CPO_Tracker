@@ -1,0 +1,508 @@
+{
+  "run_id": "20260521_075852",
+  "timestamp": "2026-05-21T10:17:00.261627",
+  "elapsed_secs": 0.063,
+  "db_version": "PostgreSQL 18.3 on x86_64-windows, compiled by msvc-19.44.35",
+  "postgis_available": false,
+  "total_stations": 6445,
+  "city_state_nulls": 0,
+  "overall_passed": true,
+  "queries": [
+    {
+      "name": "state_filter",
+      "sql_preview": "SELECT id, station_name, city_id, availability, avg_rating                 FROM stations WHERE state_id = 1 LIMIT 200",
+      "target_ms": 50.0,
+      "execution_ms": 0.258,
+      "planning_ms": 0.175,
+      "rows_returned": 114,
+      "plan_type": "Bitmap Heap Scan (GIN/GiST)",
+      "passed": true
+    },
+    {
+      "name": "city_charger_filter",
+      "sql_preview": "SELECT id, station_name, avg_rating, availability                 FROM stations                 WHERE city_id = 204",
+      "target_ms": 100.0,
+      "execution_ms": 0.102,
+      "planning_ms": 0.136,
+      "rows_returned": 16,
+      "plan_type": "Bitmap Heap Scan (GIN/GiST)",
+      "passed": true
+    },
+    {
+      "name": "fulltext_janak",
+      "sql_preview": "SELECT id, station_name, city_name_cached                     FROM stations                     WHERE search_vector @@ t",
+      "target_ms": 50.0,
+      "execution_ms": 0.042,
+      "planning_ms": 0.272,
+      "rows_returned": 2,
+      "plan_type": "Bitmap Heap Scan (GIN/GiST)",
+      "passed": true
+    },
+    {
+      "name": "fulltext_itc",
+      "sql_preview": "SELECT id, station_name, city_name_cached                     FROM stations                     WHERE search_vector @@ t",
+      "target_ms": 50.0,
+      "execution_ms": 0.055,
+      "planning_ms": 0.114,
+      "rows_returned": 15,
+      "plan_type": "Bitmap Heap Scan (GIN/GiST)",
+      "passed": true
+    },
+    {
+      "name": "fulltext_petrol",
+      "sql_preview": "SELECT id, station_name, city_name_cached                     FROM stations                     WHERE search_vector @@ t",
+      "target_ms": 50.0,
+      "execution_ms": 0.097,
+      "planning_ms": 0.141,
+      "rows_returned": 20,
+      "plan_type": "Bitmap Heap Scan (GIN/GiST)",
+      "passed": true
+    },
+    {
+      "name": "fulltext_chennai",
+      "sql_preview": "SELECT id, station_name, city_name_cached                     FROM stations                     WHERE search_vector @@ t",
+      "target_ms": 50.0,
+      "execution_ms": 0.057,
+      "planning_ms": 0.109,
+      "rows_returned": 20,
+      "plan_type": "Bitmap Heap Scan (GIN/GiST)",
+      "passed": true
+    },
+    {
+      "name": "mv_operator",
+      "sql_preview": "SELECT * FROM mv_operator_distribution",
+      "target_ms": 20.0,
+      "execution_ms": 0.03,
+      "planning_ms": 1.117,
+      "rows_returned": 70,
+      "plan_type": "Seq Scan",
+      "passed": true
+    },
+    {
+      "name": "mv_state",
+      "sql_preview": "SELECT * FROM mv_state_station_distribution",
+      "target_ms": 20.0,
+      "execution_ms": 0.017,
+      "planning_ms": 0.938,
+      "rows_returned": 230,
+      "plan_type": "Seq Scan",
+      "passed": true
+    },
+    {
+      "name": "mv_city",
+      "sql_preview": "SELECT * FROM mv_city_station_distribution LIMIT 100",
+      "target_ms": 20.0,
+      "execution_ms": 0.027,
+      "planning_ms": 0.905,
+      "rows_returned": 100,
+      "plan_type": "Seq Scan",
+      "passed": true
+    },
+    {
+      "name": "mv_charger_speed",
+      "sql_preview": "SELECT * FROM mv_charger_speed_distribution",
+      "target_ms": 20.0,
+      "execution_ms": 0.013,
+      "planning_ms": 0.841,
+      "rows_returned": 400,
+      "plan_type": "Seq Scan",
+      "passed": true
+    },
+    {
+      "name": "mv_ac_dc",
+      "sql_preview": "SELECT * FROM mv_ac_dc_breakdown",
+      "target_ms": 20.0,
+      "execution_ms": 0.013,
+      "planning_ms": 0.832,
+      "rows_returned": 1,
+      "plan_type": "Seq Scan",
+      "passed": true
+    }
+  ],
+  "index_stats": [
+    {
+      "index_name": "alembic_version_pkc",
+      "table_name": "alembic_version",
+      "idx_scan": 1,
+      "idx_tup_read": 1,
+      "idx_tup_fetch": 1,
+      "index_size": "16 kB"
+    },
+    {
+      "index_name": "amenities_type_key",
+      "table_name": "amenities",
+      "idx_scan": 12,
+      "idx_tup_read": 6,
+      "idx_tup_fetch": 6,
+      "index_size": "16 kB"
+    },
+    {
+      "index_name": "amenities_pkey",
+      "table_name": "amenities",
+      "idx_scan": 1400,
+      "idx_tup_read": 1400,
+      "idx_tup_fetch": 1400,
+      "index_size": "16 kB"
+    },
+    {
+      "index_name": "idx_chargers_type_station",
+      "table_name": "chargers",
+      "idx_scan": 0,
+      "idx_tup_read": 0,
+      "idx_tup_fetch": 0,
+      "index_size": "360 kB"
+    },
+    {
+      "index_name": "idx_chargers_station_id",
+      "table_name": "chargers",
+      "idx_scan": 2,
+      "idx_tup_read": 4,
+      "idx_tup_fetch": 2,
+      "index_size": "352 kB"
+    },
+    {
+      "index_name": "chargers_pkey",
+      "table_name": "chargers",
+      "idx_scan": 32944,
+      "idx_tup_read": 23895,
+      "idx_tup_fetch": 23894,
+      "index_size": "400 kB"
+    },
+    {
+      "index_name": "uq_cities_name_state",
+      "table_name": "cities",
+      "idx_scan": 2474,
+      "idx_tup_read": 1237,
+      "idx_tup_fetch": 1237,
+      "index_size": "64 kB"
+    },
+    {
+      "index_name": "cities_pkey",
+      "table_name": "cities",
+      "idx_scan": 6447,
+      "idx_tup_read": 6447,
+      "idx_tup_fetch": 6445,
+      "index_size": "48 kB"
+    },
+    {
+      "index_name": "connector_types_pkey",
+      "table_name": "connector_types",
+      "idx_scan": 14852,
+      "idx_tup_read": 14847,
+      "idx_tup_fetch": 14847,
+      "index_size": "16 kB"
+    },
+    {
+      "index_name": "idx_connectors_type_id",
+      "table_name": "connectors",
+      "idx_scan": 0,
+      "idx_tup_read": 0,
+      "idx_tup_fetch": 0,
+      "index_size": "232 kB"
+    },
+    {
+      "index_name": "idx_connectors_station_id",
+      "table_name": "connectors",
+      "idx_scan": 0,
+      "idx_tup_read": 0,
+      "idx_tup_fetch": 0,
+      "index_size": "496 kB"
+    },
+    {
+      "index_name": "idx_connectors_charger_id",
+      "table_name": "connectors",
+      "idx_scan": 2,
+      "idx_tup_read": 3,
+      "idx_tup_fetch": 2,
+      "index_size": "544 kB"
+    },
+    {
+      "index_name": "connectors_pkey",
+      "table_name": "connectors",
+      "idx_scan": 29684,
+      "idx_tup_read": 14842,
+      "idx_tup_fetch": 14842,
+      "index_size": "648 kB"
+    },
+    {
+      "index_name": "failed_scrapes_pkey",
+      "table_name": "failed_scrapes",
+      "idx_scan": 6,
+      "idx_tup_read": 0,
+      "idx_tup_fetch": 0,
+      "index_size": "16 kB"
+    },
+    {
+      "index_name": "idx_mv_ac_dc_scope",
+      "table_name": "mv_ac_dc_breakdown",
+      "idx_scan": 0,
+      "idx_tup_read": 0,
+      "idx_tup_fetch": 0,
+      "index_size": "16 kB"
+    },
+    {
+      "index_name": "idx_mv_charger_speed_cat",
+      "table_name": "mv_charger_speed_distribution",
+      "idx_scan": 0,
+      "idx_tup_read": 0,
+      "idx_tup_fetch": 0,
+      "index_size": "16 kB"
+    },
+    {
+      "index_name": "idx_mv_city_dist_city_id",
+      "table_name": "mv_city_station_distribution",
+      "idx_scan": 0,
+      "idx_tup_read": 0,
+      "idx_tup_fetch": 0,
+      "index_size": "56 kB"
+    },
+    {
+      "index_name": "idx_mv_operator_dist_op_id",
+      "table_name": "mv_operator_distribution",
+      "idx_scan": 0,
+      "idx_tup_read": 0,
+      "idx_tup_fetch": 0,
+      "index_size": "16 kB"
+    },
+    {
+      "index_name": "idx_mv_state_dist_state_id",
+      "table_name": "mv_state_station_distribution",
+      "idx_scan": 0,
+      "idx_tup_read": 0,
+      "idx_tup_fetch": 0,
+      "index_size": "16 kB"
+    },
+    {
+      "index_name": "idx_nearby_source_id",
+      "table_name": "nearby_stations",
+      "idx_scan": 1,
+      "idx_tup_read": 31064,
+      "idx_tup_fetch": 0,
+      "index_size": "512 kB"
+    },
+    {
+      "index_name": "nearby_stations_pkey",
+      "table_name": "nearby_stations",
+      "idx_scan": 62128,
+      "idx_tup_read": 31064,
+      "idx_tup_fetch": 31064,
+      "index_size": "744 kB"
+    },
+    {
+      "index_name": "operators_name_key",
+      "table_name": "operators",
+      "idx_scan": 32,
+      "idx_tup_read": 16,
+      "idx_tup_fetch": 16,
+      "index_size": "16 kB"
+    },
+    {
+      "index_name": "operators_pkey",
+      "table_name": "operators",
+      "idx_scan": 6445,
+      "idx_tup_read": 6445,
+      "idx_tup_fetch": 6445,
+      "index_size": "16 kB"
+    },
+    {
+      "index_name": "reviews_summary_pkey",
+      "table_name": "reviews_summary",
+      "idx_scan": 12890,
+      "idx_tup_read": 6445,
+      "idx_tup_fetch": 6445,
+      "index_size": "216 kB"
+    },
+    {
+      "index_name": "scrape_runs_pkey",
+      "table_name": "scrape_runs",
+      "idx_scan": 12898,
+      "idx_tup_read": 12897,
+      "idx_tup_fetch": 12897,
+      "index_size": "16 kB"
+    },
+    {
+      "index_name": "states_name_key",
+      "table_name": "states",
+      "idx_scan": 56,
+      "idx_tup_read": 28,
+      "idx_tup_fetch": 28,
+      "index_size": "16 kB"
+    },
+    {
+      "index_name": "states_pkey",
+      "table_name": "states",
+      "idx_scan": 7683,
+      "idx_tup_read": 7683,
+      "idx_tup_fetch": 7683,
+      "index_size": "16 kB"
+    },
+    {
+      "index_name": "idx_sa_amenity_id",
+      "table_name": "station_amenities",
+      "idx_scan": 0,
+      "idx_tup_read": 0,
+      "idx_tup_fetch": 0,
+      "index_size": "48 kB"
+    },
+    {
+      "index_name": "station_amenities_pkey",
+      "table_name": "station_amenities",
+      "idx_scan": 2800,
+      "idx_tup_read": 1400,
+      "idx_tup_fetch": 1400,
+      "index_size": "88 kB"
+    },
+    {
+      "index_name": "idx_hist_station_time",
+      "table_name": "station_status_history",
+      "idx_scan": 0,
+      "idx_tup_read": 0,
+      "idx_tup_fetch": 0,
+      "index_size": "296 kB"
+    },
+    {
+      "index_name": "station_status_history_pkey",
+      "table_name": "station_status_history",
+      "idx_scan": 0,
+      "idx_tup_read": 0,
+      "idx_tup_fetch": 0,
+      "index_size": "160 kB"
+    },
+    {
+      "index_name": "idx_hist_station_id",
+      "table_name": "station_status_history",
+      "idx_scan": 0,
+      "idx_tup_read": 0,
+      "idx_tup_fetch": 0,
+      "index_size": "216 kB"
+    },
+    {
+      "index_name": "idx_hist_scraped_at",
+      "table_name": "station_status_history",
+      "idx_scan": 0,
+      "idx_tup_read": 0,
+      "idx_tup_fetch": 0,
+      "index_size": "272 kB"
+    },
+    {
+      "index_name": "idx_stations_availability",
+      "table_name": "stations",
+      "idx_scan": 0,
+      "idx_tup_read": 0,
+      "idx_tup_fetch": 0,
+      "index_size": "72 kB"
+    },
+    {
+      "index_name": "idx_stations_highest_power",
+      "table_name": "stations",
+      "idx_scan": 0,
+      "idx_tup_read": 0,
+      "idx_tup_fetch": 0,
+      "index_size": "208 kB"
+    },
+    {
+      "index_name": "idx_stations_min_ac_price",
+      "table_name": "stations",
+      "idx_scan": 0,
+      "idx_tup_read": 0,
+      "idx_tup_fetch": 0,
+      "index_size": "160 kB"
+    },
+    {
+      "index_name": "idx_stations_min_dc_price",
+      "table_name": "stations",
+      "idx_scan": 0,
+      "idx_tup_read": 0,
+      "idx_tup_fetch": 0,
+      "index_size": "176 kB"
+    },
+    {
+      "index_name": "idx_stations_avg_rating",
+      "table_name": "stations",
+      "idx_scan": 0,
+      "idx_tup_read": 0,
+      "idx_tup_fetch": 0,
+      "index_size": "176 kB"
+    },
+    {
+      "index_name": "idx_stations_content_hash",
+      "table_name": "stations",
+      "idx_scan": 0,
+      "idx_tup_read": 0,
+      "idx_tup_fetch": 0,
+      "index_size": "464 kB"
+    },
+    {
+      "index_name": "idx_stations_city_id",
+      "table_name": "stations",
+      "idx_scan": 0,
+      "idx_tup_read": 0,
+      "idx_tup_fetch": 0,
+      "index_size": "96 kB"
+    },
+    {
+      "index_name": "idx_stations_charger_type",
+      "table_name": "stations",
+      "idx_scan": 0,
+      "idx_tup_read": 0,
+      "idx_tup_fetch": 0,
+      "index_size": "72 kB"
+    },
+    {
+      "index_name": "idx_stations_name_trgm",
+      "table_name": "stations",
+      "idx_scan": 0,
+      "idx_tup_read": 0,
+      "idx_tup_fetch": 0,
+      "index_size": "4600 kB"
+    },
+    {
+      "index_name": "idx_stations_operator_id",
+      "table_name": "stations",
+      "idx_scan": 2,
+      "idx_tup_read": 0,
+      "idx_tup_fetch": 0,
+      "index_size": "72 kB"
+    },
+    {
+      "index_name": "idx_stations_state_id",
+      "table_name": "stations",
+      "idx_scan": 3,
+      "idx_tup_read": 114,
+      "idx_tup_fetch": 0,
+      "index_size": "88 kB"
+    },
+    {
+      "index_name": "idx_stations_access_type",
+      "table_name": "stations",
+      "idx_scan": 3,
+      "idx_tup_read": 19335,
+      "idx_tup_fetch": 0,
+      "index_size": "64 kB"
+    },
+    {
+      "index_name": "idx_stations_filter_core",
+      "table_name": "stations",
+      "idx_scan": 6,
+      "idx_tup_read": 18,
+      "idx_tup_fetch": 0,
+      "index_size": "344 kB"
+    },
+    {
+      "index_name": "idx_stations_search_vector",
+      "table_name": "stations",
+      "idx_scan": 7,
+      "idx_tup_read": 385,
+      "idx_tup_fetch": 0,
+      "index_size": "1472 kB"
+    },
+    {
+      "index_name": "stations_pkey",
+      "table_name": "stations",
+      "idx_scan": 82140,
+      "idx_tup_read": 88583,
+      "idx_tup_fetch": 75691,
+      "index_size": "216 kB"
+    }
+  ]
+}

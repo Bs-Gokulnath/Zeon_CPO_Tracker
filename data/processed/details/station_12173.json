@@ -1,0 +1,208 @@
+{
+  "station_id": 12173,
+  "station_detail": {
+    "station_id": 12173,
+    "station_name": "Infront of Electricity office, Nagole to Kothapet Road",
+    "latitude": 17.372976,
+    "longitude": 78.547424,
+    "address": "Kothapet road, Ranga Reddy district, Telangana, 500102, India",
+    "area": "Kothapet road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.372976,78.547424",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8802 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 2.0,
+    "no_of_reviews": 6,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": "Near Manasa Bus Stop",
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 13235,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 63566,
+        "price_with_currency": "₹ 13.0",
+        "price": 13.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26507,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "preparing"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 26508,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "Infront of Electricity office, Nagole to Kothapet Road",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 67,
+        "2": 0,
+        "3": 17,
+        "4": 0,
+        "5": 17
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ranga Reddy district",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12173,
+      "station_name": "Infront of Electricity office, Nagole to Kothapet Road",
+      "latitude": 17.372976,
+      "longitude": 78.547424,
+      "address": "Kothapet road, Ranga Reddy district, Telangana, 500102, India",
+      "area": "Kothapet road",
+      "avg_review_rating": 2.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.372976,78.547424",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 8131,
+      "station_name": "Telephone Colony EV Charging Station",
+      "latitude": 17.366059,
+      "longitude": 78.54364,
+      "address": "Rk Puram Road, Margadarshi colony, Kothapet, Ranga Reddy district, Telangana, 500035, India",
+      "area": "Rk Puram Road, Margadarshi colony, Kothapet",
+      "avg_review_rating": 2.91,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.366059,78.54364",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 1969,
+      "station_name": "RTA Nagole track Charging Station",
+      "latitude": 17.369608,
+      "longitude": 78.557564,
+      "address": "Nagole, Hyderabad, Telangana, 500068, India",
+      "area": "Nagole",
+      "avg_review_rating": 4.17,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.369608,78.557564",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 4785,
+      "station_name": "REIL Kesoram Sundarlal, BPCL Petrol Pump",
+      "latitude": 17.372448,
+      "longitude": 78.565002,
+      "address": "Bandlaguda, Hyderabad, Telangana, 500068, India",
+      "area": "Bandlaguda",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.372448,78.565002",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 9447,
+      "station_name": "M/s. KESORAM SUNDARLAL FATEHPUR",
+      "latitude": 17.372578,
+      "longitude": 78.565347,
+      "address": "MEDCHAL MALKAJGIRI, Medchal, Telangana, 500068, India",
+      "area": "MEDCHAL MALKAJGIRI",
+      "avg_review_rating": 4.57,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.372578,78.565347",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    13.0
+  ],
+  "scraped_at": "2026-05-21T08:11:27.248307+00:00",
+  "parse_success": true,
+  "missing_fields": [],
+  "coverage_pct": 100.0
+}

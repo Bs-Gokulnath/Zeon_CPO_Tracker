@@ -1,0 +1,258 @@
+{
+  "station_id": 8963,
+  "station_detail": {
+    "station_id": 8963,
+    "station_name": "Statiq AIPL Business Club Charging Station",
+    "latitude": 28.401711,
+    "longitude": 77.085192,
+    "address": "AIPL Business Club, Tower-A, Medawas, Sector-62, Gurugram, Haryana, 122002, India",
+    "area": "AIPL Business Club, Tower-A, Medawas, Sector-62",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.401711,77.085192",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8756 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      },
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.51,
+    "no_of_reviews": 530,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": "Basement 1 near pillar F-54",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 57737,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 17299,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "AIPL Business Club DC Charger",
+        "last_used_on": "21/05/2026"
+      },
+      {
+        "charger_id": 57735,
+        "price_with_currency": "₹ 14.49",
+        "price": 14.49,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 17297,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "AIPL Business Club BMW AC Charger 1",
+        "last_used_on": "20/05/2026"
+      },
+      {
+        "charger_id": 57736,
+        "price_with_currency": "₹ 14.49",
+        "price": 14.49,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 17298,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "AIPL Business Club BMW AC Charger 2",
+        "last_used_on": "18/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 6,
+        "2": 1,
+        "3": 2,
+        "4": 21,
+        "5": 71
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Gurugram",
+    "station_access_type": "public",
+    "availability": "Available in",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": [],
+    "waiting_time": "2026-05-21 13:39:45"
+  },
+  "nearby_stations": [
+    {
+      "id": 8963,
+      "station_name": "Statiq AIPL Business Club Charging Station",
+      "latitude": 28.401711,
+      "longitude": 77.085192,
+      "address": "AIPL Business Club, Tower-A, Medawas, Sector-62, Gurugram, Haryana, 122002, India",
+      "area": "AIPL Business Club, Tower-A, Medawas, Sector-62",
+      "avg_review_rating": 4.51,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.401711,77.085192",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
+    },
+    {
+      "id": 10922,
+      "station_name": "Statiq Adwall Heritage One Station",
+      "latitude": 28.402618,
+      "longitude": 77.08947,
+      "address": "Heritage One Sector 62, Gurugram, Haryana, 122011, India",
+      "area": "Heritage One Sector 62",
+      "avg_review_rating": 4.6,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.402618,77.08947",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 2250,
+      "station_name": "Statiq Times Residency Station",
+      "latitude": 28.400631,
+      "longitude": 77.09079,
+      "address": "Time Residency, Gurugram, Haryana, 122102, India",
+      "area": "Time Residency",
+      "avg_review_rating": 4.55,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.400631,77.09079",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 2067,
+      "station_name": "Hyundai Bikanervala Sec-57 Gurgaon Station",
+      "latitude": 28.416418,
+      "longitude": 77.084969,
+      "address": "Shop No. 75, Golf Course Ext Road, Gurugram, Haryana, 122003, India",
+      "area": "Shop No. 75, Golf Course Ext Road",
+      "avg_review_rating": 4.77,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.416418,77.084969",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-online-not-selected.png"
+    },
+    {
+      "id": 6839,
+      "station_name": "Statiq The Close North Nirvana Country Station",
+      "latitude": 28.414817,
+      "longitude": 77.071151,
+      "address": "Opposite Tower 12 Near to Service Gate, Sector 50, Gurugram, Haryana, 201401, India",
+      "area": "Opposite Tower 12 Near to Service Gate, Sector 50",
+      "avg_review_rating": 4.64,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.414817,77.071151",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    }
+  ],
+  "ac_count": 2,
+  "dc_count": 1,
+  "ac_prices": [
+    14.49,
+    14.49
+  ],
+  "dc_prices": [
+    21.99
+  ],
+  "scraped_at": "2026-05-21T08:05:39.230949+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

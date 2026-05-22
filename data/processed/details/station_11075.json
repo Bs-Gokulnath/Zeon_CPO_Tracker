@@ -1,0 +1,204 @@
+{
+  "station_id": 11075,
+  "station_detail": {
+    "station_id": 11075,
+    "station_name": "2009223-ASHWINI FILLING STATION",
+    "latitude": 29.909747,
+    "longitude": 75.363957,
+    "address": "RO AT NANGALKALAN ON MANSA ROAD,NH 703, MANSA -SARDULGARH ROAD, Mansa, Punjab, 151505, India",
+    "area": "RO AT NANGALKALAN ON MANSA ROAD,NH 703, MANSA -SARDULGARH ROAD",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.909747,75.363957",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8610 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.92,
+    "no_of_reviews": 37,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 61290,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 22930,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 22931,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "2009223-ASHWINI FILLING STATION",
+        "last_used_on": "19/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 8,
+        "5": 92
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Mansa",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11075,
+      "station_name": "2009223-ASHWINI FILLING STATION",
+      "latitude": 29.909747,
+      "longitude": 75.363957,
+      "address": "RO AT NANGALKALAN ON MANSA ROAD,NH 703, MANSA -SARDULGARH ROAD, Mansa, Punjab, 151505, India",
+      "area": "RO AT NANGALKALAN ON MANSA ROAD,NH 703, MANSA -SARDULGARH ROAD",
+      "avg_review_rating": 4.92,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.909747,75.363957",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12015,
+      "station_name": "240198-NARSHI RAM AGGARWAL ADHOC",
+      "latitude": 30.05914,
+      "longitude": 75.21571,
+      "address": "MAUR KHURD, Bhatinda, Punjab, 151509, India",
+      "area": "MAUR KHURD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.05914,75.21571",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12841,
+      "station_name": "ID(qpzgrj)JAIN HP Petro Station Sardulgarh",
+      "latitude": 29.703787,
+      "longitude": 75.239131,
+      "address": "Sardulgarh, Sardulgarh, Punjab, 151507, India",
+      "area": "Sardulgarh",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.703787,75.239131",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 11076,
+      "station_name": "2009202-DAMDAMA FILLING STATION",
+      "latitude": 29.976787,
+      "longitude": 75.103913,
+      "address": "RO AT TALWANDI ON SARDULGARH ROAD, Bathinda, Punjab, 151302, India",
+      "area": "RO AT TALWANDI ON SARDULGARH ROAD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.976787,75.103913",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10306,
+      "station_name": "2020315-DEVRAJ FUELS",
+      "latitude": 29.98035,
+      "longitude": 75.10015,
+      "address": "RO AT TALWANDI SABO, , Bathinda, Punjab, 151302, India",
+      "area": "RO AT TALWANDI SABO, ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.98035,75.10015",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:09:50.997423+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

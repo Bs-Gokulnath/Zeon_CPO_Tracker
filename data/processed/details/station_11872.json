@@ -1,0 +1,204 @@
+{
+  "station_id": 11872,
+  "station_detail": {
+    "station_id": 11872,
+    "station_name": "Shree Velava Agency",
+    "latitude": 10.598304,
+    "longitude": 78.548546,
+    "address": "RAMANATHAPURAM, Ramanathapuram, Tamil Nadu, 621316, India",
+    "area": "RAMANATHAPURAM",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.598304,78.548546",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8766 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.76,
+    "no_of_reviews": 54,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 62888,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 25511,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 25512,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Shree Velava Agency",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 24,
+        "5": 76
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ramanathapuram",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11872,
+      "station_name": "Shree Velava Agency",
+      "latitude": 10.598304,
+      "longitude": 78.548546,
+      "address": "RAMANATHAPURAM, Ramanathapuram, Tamil Nadu, 621316, India",
+      "area": "RAMANATHAPURAM",
+      "avg_review_rating": 4.76,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.598304,78.548546",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 10917,
+      "station_name": "APD AGNI FUELS",
+      "latitude": 10.542423,
+      "longitude": 78.495263,
+      "address": "PUDUKOTTAI, Pudukottai, Tamil Nadu, 621316, India",
+      "area": "PUDUKOTTAI",
+      "avg_review_rating": 4.75,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.542423,78.495263",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 13019,
+      "station_name": "ID(5obhk5)George Fuels",
+      "latitude": 10.651024,
+      "longitude": 78.471818,
+      "address": "Kannudayanpatti, Kannudayanpatti, Tamil Nadu, India",
+      "area": "Kannudayanpatti",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.651024,78.471818",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 10905,
+      "station_name": "M/s.Annam Fuel Station",
+      "latitude": 10.63837,
+      "longitude": 78.42996,
+      "address": "23/8(OLD NO.23/4), 23/8(OLD NO.23/4),SEVALLUR VILLAGE,MANAPPARAI TALUK,TRICHY D, VILLAGE-SEVALLUR, THALUK-MANAPPARAI, DISTRICT-TRICHIRAPALLI, Kovilpatti, Tamil Nadu, 621306, India",
+      "area": "23/8(OLD NO.23/4), 23/8(OLD NO.23/4),SEVALLUR VILLAGE,MANAPPARAI TALUK,TRICHY D, VILLAGE-SEVALLUR, THALUK-MANAPPARAI, DISTRICT-TRICHIRAPALLI",
+      "avg_review_rating": 4.25,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.63837,78.42996",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 15958,
+      "station_name": "M/s. R. VENUGOPAL REDDIAR",
+      "latitude": 10.703377,
+      "longitude": 78.622084,
+      "address": "TIRUCHIRAPPALLI, Tiruchirappalli, Tamil Nadu, 620012, India",
+      "area": "TIRUCHIRAPPALLI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.703377,78.622084",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:10:45.154389+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,198 @@
+{
+  "station_id": 12452,
+  "station_detail": {
+    "station_id": 12452,
+    "station_name": "2006761 - JANTA SALES AND SERVICE",
+    "latitude": 23.247331,
+    "longitude": 77.257177,
+    "address": "Bharat Petroleum Corp. Ltd. RO AT INDORE-BHOPAL RD BAKANIA,, Bhopal, Madhya Pradesh, 462030, India",
+    "area": "Bharat Petroleum Corp. Ltd. RO AT INDORE-BHOPAL RD BAKANIA,",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.247331,77.257177",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8717 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 64083,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 27300,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 27301,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "2006761 - JANTA SALES AND SERVICE",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bhopal",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12452,
+      "station_name": "2006761 - JANTA SALES AND SERVICE",
+      "latitude": 23.247331,
+      "longitude": 77.257177,
+      "address": "Bharat Petroleum Corp. Ltd. RO AT INDORE-BHOPAL RD BAKANIA,, Bhopal, Madhya Pradesh, 462030, India",
+      "area": "Bharat Petroleum Corp. Ltd. RO AT INDORE-BHOPAL RD BAKANIA,",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.247331,77.257177",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13400,
+      "station_name": "ID(s2255z) Rachna Sales And Service",
+      "latitude": 23.227295,
+      "longitude": 77.201474,
+      "address": "HP pump, Phanda Kala, Madhya Pradesh, 462030, India",
+      "area": "HP pump",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.227295,77.201474",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 11138,
+      "station_name": "2020340-ATHARVA RAJ HIGHWAY SEERVICES",
+      "latitude": 23.325919,
+      "longitude": 77.300021,
+      "address": "BHOPAL  BIORA ROAD  OLD NH 12, CHANDUKHEDI, BHOPAL- CHANDUKHEDI VILLAGE,, Bhopal, Madhya Pradesh, 462030, India",
+      "area": "BHOPAL  BIORA ROAD  OLD NH 12, CHANDUKHEDI, BHOPAL- CHANDUKHEDI VILLAGE,",
+      "avg_review_rating": 4.71,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.325919,77.300021",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 11137,
+      "station_name": "2013536-SOOD FILLING STATION",
+      "latitude": 23.279682,
+      "longitude": 77.350952,
+      "address": "KHASRA NO 194, 195 196/2/2/1 & 197/2, NEAR AIRPORT, LAUKHEDI,, Bhopal, Madhya Pradesh, 462030, India",
+      "area": "KHASRA NO 194, 195 196/2/2/1 & 197/2, NEAR AIRPORT, LAUKHEDI,",
+      "avg_review_rating": 4.55,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.279682,77.350952",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 7516,
+      "station_name": "2014059-SMART CITY FUELS",
+      "latitude": 23.273048,
+      "longitude": 77.366118,
+      "address": "BHOPAL, Bhopal, Madhya Pradesh, 462030, India",
+      "area": "BHOPAL",
+      "avg_review_rating": 4.5,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.273048,77.366118",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:12:02.825848+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,204 @@
+{
+  "station_id": 9674,
+  "station_detail": {
+    "station_id": 9674,
+    "station_name": "M/s. Sri Sai Krishna Agencies",
+    "latitude": 12.24187,
+    "longitude": 79.313802,
+    "address": "SURVEY NO. 339/1A, SURVEY NO. 339/1A, SATHYAMANGALAM VILLAGE, VILLAGE-SATHYAMANGALAM, THALUK-GINGEE, DISTRICT-VILUPPURAM, Vilangudi, Tamil Nadu, 604153, India",
+    "area": "SURVEY NO. 339/1A, SURVEY NO. 339/1A, SATHYAMANGALAM VILLAGE, VILLAGE-SATHYAMANGALAM, THALUK-GINGEE, DISTRICT-VILUPPURAM",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.24187,79.313802",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8856 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.71,
+    "no_of_reviews": 48,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 58682,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 18976,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 18977,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "M/s. Sri Sai Krishna Agencies",
+        "last_used_on": "01/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 4,
+        "2": 0,
+        "3": 4,
+        "4": 4,
+        "5": 88
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Vilangudi",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9674,
+      "station_name": "M/s. Sri Sai Krishna Agencies",
+      "latitude": 12.24187,
+      "longitude": 79.313802,
+      "address": "SURVEY NO. 339/1A, SURVEY NO. 339/1A, SATHYAMANGALAM VILLAGE, VILLAGE-SATHYAMANGALAM, THALUK-GINGEE, DISTRICT-VILUPPURAM, Vilangudi, Tamil Nadu, 604153, India",
+      "area": "SURVEY NO. 339/1A, SURVEY NO. 339/1A, SATHYAMANGALAM VILLAGE, VILLAGE-SATHYAMANGALAM, THALUK-GINGEE, DISTRICT-VILUPPURAM",
+      "avg_review_rating": 4.71,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.24187,79.313802",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 10894,
+      "station_name": "M/s.Rudhrasenan Agencies",
+      "latitude": 12.0198,
+      "longitude": 79.3787,
+      "address": "VILUPPURAM, Villupuram, Tamil Nadu, 605402, India",
+      "area": "VILUPPURAM",
+      "avg_review_rating": 4.94,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.0198,79.3787",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9835,
+      "station_name": "TN | Tiruvannamalai | Hotel SEASONS",
+      "latitude": 12.258808,
+      "longitude": 79.068476,
+      "address": "Vellore - Tiruvannamlai Rd, Tiruvannamalai, Tamil Nadu, 606604, India",
+      "area": "Vellore - Tiruvannamlai Rd",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.258808,79.068476",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-charging-not-selected.png"
+    },
+    {
+      "id": 14293,
+      "station_name": "M/s. Sri Krishna Petroleum",
+      "latitude": 12.06791,
+      "longitude": 79.54816,
+      "address": "Villupuram  , Villupuram, Tamil Nadu, 605652, India",
+      "area": "Villupuram  ",
+      "avg_review_rating": 4.61,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.06791,79.54816",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 3674,
+      "station_name": "Statiq Noor Residency Station",
+      "latitude": 12.02258,
+      "longitude": 79.536587,
+      "address": "Left Side of the Hotel Main Entrance, Chennai -Chennai - Trichy Hwy, MKT Nagar, Vikravandi, Tamil Nadu, 605652, India",
+      "area": "Left Side of the Hotel Main Entrance, Chennai -Chennai - Trichy Hwy, MKT Nagar",
+      "avg_review_rating": 4.64,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.02258,79.536587",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:07:13.522467+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

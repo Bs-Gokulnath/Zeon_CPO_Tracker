@@ -1,0 +1,244 @@
+{
+  "station_id": 15669,
+  "station_detail": {
+    "station_id": 15669,
+    "station_name": "Statiq X TATA.ev Nexus Mysore Station",
+    "latitude": 12.318365,
+    "longitude": 76.665344,
+    "address": "No.8 & N-5, Hyderali Road, Mysore, Karnataka, 570010, India",
+    "area": "No.8 & N-5, Hyderali Road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.318365,76.665344",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8569 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.31,
+    "no_of_reviews": 29,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 13463,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 69215,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34775,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 34776,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 240.0,
+        "charger_name": "Nexus Mysore DC Charger 1",
+        "last_used_on": "24/04/2026"
+      },
+      {
+        "charger_id": 69216,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34777,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 34778,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 240.0,
+        "charger_name": "Nexus Mysore DC Charger 2",
+        "last_used_on": "27/04/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 7,
+        "2": 3,
+        "3": 3,
+        "4": 24,
+        "5": 62
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Mysore",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 240.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15669,
+      "station_name": "Statiq X TATA.ev Nexus Mysore Station",
+      "latitude": 12.318365,
+      "longitude": 76.665344,
+      "address": "No.8 & N-5, Hyderali Road, Mysore, Karnataka, 570010, India",
+      "area": "No.8 & N-5, Hyderali Road",
+      "avg_review_rating": 4.31,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.318365,76.665344",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 3557,
+      "station_name": "Sunfuel - Fortune JP Palace, Mysore",
+      "latitude": 12.31923,
+      "longitude": 76.663177,
+      "address": "#3, Abba Rd, Earangere, Mysore, Karnataka, 570007, India",
+      "area": "#3, Abba Rd, Earangere",
+      "avg_review_rating": 4.37,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.31923,76.663177",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 1796,
+      "station_name": "Sunfuel - Radisson Blu Plaza Hotel Mysore",
+      "latitude": 12.2989,
+      "longitude": 76.665398,
+      "address": "NO.1, M.G.ROAD, , Mysore, Karnataka, 570010, India",
+      "area": "NO.1, M.G.ROAD, ",
+      "avg_review_rating": 3.56,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.2989,76.665398",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Sunfuel+-+default.png"
+    },
+    {
+      "id": 15148,
+      "station_name": "Mall of Mysore EV Charger South side",
+      "latitude": 12.2973,
+      "longitude": 76.6644,
+      "address": "Mall of Mysore, Mysore, Karnataka, 570010, India",
+      "area": "Mall of Mysore",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.2973,76.6644",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 14201,
+      "station_name": "HighwaydeliteWindflower",
+      "latitude": 12.2911,
+      "longitude": 76.6724,
+      "address": "Maharana Pratap Road, Mysuru, Karnataka, 570010, India",
+      "area": "Maharana Pratap Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.2911,76.6724",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 2,
+  "ac_prices": [],
+  "dc_prices": [
+    21.99,
+    21.99
+  ],
+  "scraped_at": "2026-05-21T08:16:32.591326+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

@@ -1,0 +1,194 @@
+{
+  "station_id": 4753,
+  "station_detail": {
+    "station_id": 4753,
+    "station_name": "REIL Swaraj Filling Station",
+    "latitude": 31.086613,
+    "longitude": 77.194504,
+    "address": "Near Powerhouse, Ambla-Shimla-Kaurik Road, Shimla, Himachal Pradesh, 171006, India",
+    "area": "Near Powerhouse, Ambla-Shimla-Kaurik Road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.086613,77.194504",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8800 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 6,
+        "connector_name": "GBT",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/REIL/REIL_Banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 11460,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 51334,
+        "price_with_currency": "₹ 18.0",
+        "price": 18.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 8871,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 6,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 15.0,
+        "charger_name": "EV Charger DC001-15KW",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Shimla",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 15.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 4753,
+      "station_name": "REIL Swaraj Filling Station",
+      "latitude": 31.086613,
+      "longitude": 77.194504,
+      "address": "Near Powerhouse, Ambla-Shimla-Kaurik Road, Shimla, Himachal Pradesh, 171006, India",
+      "area": "Near Powerhouse, Ambla-Shimla-Kaurik Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.086613,77.194504",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 4757,
+      "station_name": "REIL HP Autocade Station",
+      "latitude": 31.10644,
+      "longitude": 77.173607,
+      "address": "Shimla By-Pass, NH-22, Below Brockhurst, Shimla, Himachal Pradesh, 171009, India",
+      "area": "Shimla By-Pass, NH-22, Below Brockhurst",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.10644,77.173607",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 1727,
+      "station_name": "Sunfuel - Radisson Jass Shimla",
+      "latitude": 31.1122,
+      "longitude": 77.177101,
+      "address": "Goodwood Estate, Shimla, Himachal Pradesh, 171001, India",
+      "area": "Goodwood Estate",
+      "avg_review_rating": 2.83,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.1122,77.177101",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 5030,
+      "station_name": "REIL Municipal Corporation Car Parking, Tuti Kandi",
+      "latitude": 31.099867,
+      "longitude": 77.142418,
+      "address": "Tuti Kandi, Shimla, Himachal Pradesh, 171005, India",
+      "area": "Tuti Kandi",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.099867,77.142418",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8312,
+      "station_name": "Statiq Snow Valley Resort Station",
+      "latitude": 31.093824,
+      "longitude": 77.139011,
+      "address": "Snow Valley Resort, Near Dargah Road, Kacchi Ghati, Shimla, Himachal Pradesh, 171009, India",
+      "area": "Snow Valley Resort, Near Dargah Road, Kacchi Ghati",
+      "avg_review_rating": 4.66,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=31.093824,77.139011",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    18.0
+  ],
+  "scraped_at": "2026-05-21T07:59:48.074432+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

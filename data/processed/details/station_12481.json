@@ -1,0 +1,188 @@
+{
+  "station_id": 12481,
+  "station_detail": {
+    "station_id": 12481,
+    "station_name": "ID(4bby9y) HP Asia Highway services",
+    "latitude": 30.94138,
+    "longitude": 75.83464,
+    "address": "Jalandhar Bypass Chownk, Ludhiana, Punjab, 141008, India",
+    "area": "Jalandhar Bypass Chownk",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.94138,75.83464",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8669 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/networks-logo/HP+E+charge-Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 64112,
+        "price_with_currency": "₹ 15.05",
+        "price": 15.05,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 27343,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "HPL ID(4bby9y) HP Asia Highway services 1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ludhiana",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12481,
+      "station_name": "ID(4bby9y) HP Asia Highway services",
+      "latitude": 30.94138,
+      "longitude": 75.83464,
+      "address": "Jalandhar Bypass Chownk, Ludhiana, Punjab, 141008, India",
+      "area": "Jalandhar Bypass Chownk",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.94138,75.83464",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 9648,
+      "station_name": "2003057-RISHI SERVICE STATION",
+      "latitude": 30.91758,
+      "longitude": 75.80124,
+      "address": "OPP .PINK FLATS, Ludhiana, Punjab, 141001, India",
+      "area": "OPP .PINK FLATS",
+      "avg_review_rating": 4.51,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.91758,75.80124",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 11082,
+      "station_name": "2003024-AVIRAL PETRO MART",
+      "latitude": 30.90501,
+      "longitude": 75.820785,
+      "address": "CAPT. LAL SINGH ROAD, Ludhiana, Punjab, 141001, India",
+      "area": "CAPT. LAL SINGH ROAD",
+      "avg_review_rating": 4.39,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.90501,75.820785",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 14508,
+      "station_name": "Ciao Express Charging Station",
+      "latitude": 30.9012,
+      "longitude": 75.8685,
+      "address": "RH Medical, Hargobind nagar, Ludhiana, Punjab, 141008, India",
+      "area": "RH Medical, Hargobind nagar",
+      "avg_review_rating": 4.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.9012,75.8685",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 9368,
+      "station_name": "2002950-SHRI SALASAR POWER POINT",
+      "latitude": 30.90728,
+      "longitude": 75.87726,
+      "address": "OPP. TRANSPORT NAGAR, Ludhiana, Punjab, 141003, India",
+      "area": "OPP. TRANSPORT NAGAR",
+      "avg_review_rating": 3.97,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.90728,75.87726",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    15.05
+  ],
+  "scraped_at": "2026-05-21T08:12:03.143492+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

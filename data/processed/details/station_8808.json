@@ -1,0 +1,219 @@
+{
+  "station_id": 8808,
+  "station_detail": {
+    "station_id": 8808,
+    "station_name": "NATIONAL GAS STATION",
+    "latitude": 22.500436,
+    "longitude": 70.19174,
+    "address": "\" RO AT JAMNAGAR EXIT JAMUNDA VILLAGE JAMUNDA,TALUKA JAMNAGAR Dist Jamnagar Gujarat\", Jamnagar, Gujarat, 361120, India",
+    "area": "\" RO AT JAMNAGAR EXIT JAMUNDA VILLAGE JAMUNDA,TALUKA JAMNAGAR Dist Jamnagar Gujarat\"",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.500436,70.19174",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "7987 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 3.0,
+    "no_of_reviews": 1,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 57545,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16921,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 16922,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "NATIONAL GAS STATION",
+        "last_used_on": "10/05/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 100,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Jamnagar",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8808,
+      "station_name": "NATIONAL GAS STATION",
+      "latitude": 22.500436,
+      "longitude": 70.19174,
+      "address": "\" RO AT JAMNAGAR EXIT JAMUNDA VILLAGE JAMUNDA,TALUKA JAMNAGAR Dist Jamnagar Gujarat\", Jamnagar, Gujarat, 361120, India",
+      "area": "\" RO AT JAMNAGAR EXIT JAMUNDA VILLAGE JAMUNDA,TALUKA JAMNAGAR Dist Jamnagar Gujarat\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.500436,70.19174",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8475,
+      "station_name": "GJ | Jamnagar | JCR - The Entertainment World",
+      "latitude": 22.445133,
+      "longitude": 70.116583,
+      "address": "Survey no.612 - Theba Chokdi, Jamnagar, Gujarat, 361120, India",
+      "area": "Survey no.612 - Theba Chokdi",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.445133,70.116583",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 9854,
+      "station_name": "Hotel Kalatit International",
+      "latitude": 22.472089,
+      "longitude": 70.070392,
+      "address": "To win Hall, Jamnagar, Gujarat, 361008, India",
+      "area": "To win Hall",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.472089,70.070392",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/verde/default.png"
+    },
+    {
+      "id": 10336,
+      "station_name": "The Grand Bansi Hotel",
+      "latitude": 22.473075,
+      "longitude": 70.066197,
+      "address": "F3F8+7HV, Jamnagar, Gujarat, 361001, India",
+      "area": "F3F8+7HV",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.473075,70.066197",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 9867,
+      "station_name": " Saru Section Rd, Jamnagar",
+      "latitude": 22.484605,
+      "longitude": 70.050885,
+      "address": "F3M2+Q8M, Jamnagar, Gujarat, 361008, India",
+      "area": "F3M2+Q8M",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.484605,70.050885",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:05:24.064657+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

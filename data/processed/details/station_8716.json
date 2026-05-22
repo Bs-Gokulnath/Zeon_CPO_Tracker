@@ -1,0 +1,214 @@
+{
+  "station_id": 8716,
+  "station_detail": {
+    "station_id": 8716,
+    "station_name": "MH | Thane | Modi Hyundai",
+    "latitude": 19.193431,
+    "longitude": 72.963495,
+    "address": "Modi House 1 Eastern Express Highway opp LIC, Thane, Maharashtra, 400602, India",
+    "area": "Modi House 1 Eastern Express Highway opp LIC",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.193431,72.963495",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8230 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.46,
+    "no_of_reviews": 13,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 57306,
+        "price_with_currency": "₹ 21.5",
+        "price": 21.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16580,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 16581,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "TCZ MH | Thane | Modi Hyundai 1",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 8,
+        "2": 0,
+        "3": 8,
+        "4": 8,
+        "5": 77
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Thane",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8716,
+      "station_name": "MH | Thane | Modi Hyundai",
+      "latitude": 19.193431,
+      "longitude": 72.963495,
+      "address": "Modi House 1 Eastern Express Highway opp LIC, Thane, Maharashtra, 400602, India",
+      "area": "Modi House 1 Eastern Express Highway opp LIC",
+      "avg_review_rating": 4.46,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.193431,72.963495",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonecharging.png"
+    },
+    {
+      "id": 12898,
+      "station_name": "TMC_ Main Administrative Building",
+      "latitude": 19.1972,
+      "longitude": 72.9673,
+      "address": "Main Administrative Building, Chandan Wadi, Pachpakhadi, Mahapalika Bhavan Rd, Thane West, Thane, Maharashtra, Thane, Maharashtra, 400602, India",
+      "area": "Main Administrative Building, Chandan Wadi, Pachpakhadi, Mahapalika Bhavan Rd, Thane West, Thane, Maharashtra",
+      "avg_review_rating": 4.6,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.1972,72.9673",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 1838,
+      "station_name": "Shubhamkaroti Co-op Hsg Soc Ltd Charging Station",
+      "latitude": 19.185699,
+      "longitude": 72.966499,
+      "address": "Shubhamkaroti Co-op Hsg Soc Ltd, Thane, Maharashtra, 400602, India",
+      "area": "Shubhamkaroti Co-op Hsg Soc Ltd",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.185699,72.966499",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 1646,
+      "station_name": "Pushpak Co-op. Hsg. Society Charging Station",
+      "latitude": 19.185375,
+      "longitude": 72.965317,
+      "address": "Neelkanth Vihar, Bhaskar Colony, Naupada, Thane West, Thane, Maharashtra, 400602, India",
+      "area": "Neelkanth Vihar, Bhaskar Colony, Naupada, Thane West",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.185375,72.965317",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 8615,
+      "station_name": "GLIDA Ashar IT Park ",
+      "latitude": 19.197663,
+      "longitude": 72.953656,
+      "address": "Society Office No. 4, Thane, Maharashtra, 400604, India",
+      "area": "Society Office No. 4",
+      "avg_review_rating": 4.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.197663,72.953656",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.5
+  ],
+  "scraped_at": "2026-05-21T08:05:09.037767+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

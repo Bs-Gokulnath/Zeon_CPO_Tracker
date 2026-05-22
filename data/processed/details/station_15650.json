@@ -1,0 +1,198 @@
+{
+  "station_id": 15650,
+  "station_detail": {
+    "station_id": 15650,
+    "station_name": "Statiq NDMC Kidwai Nagar Station",
+    "latitude": 28.571969,
+    "longitude": 77.206962,
+    "address": "Kidwai Nagar West, Kidwai Nagar, New Delhi, Delhi, 110023, India",
+    "area": "Kidwai Nagar West, Kidwai Nagar",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.571969,77.206962",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8770 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 69193,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34731,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 34732,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 240.0,
+        "charger_name": "NDMC Kidwai Nagar DC Charger",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "New Delhi",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 240.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15650,
+      "station_name": "Statiq NDMC Kidwai Nagar Station",
+      "latitude": 28.571969,
+      "longitude": 77.206962,
+      "address": "Kidwai Nagar West, Kidwai Nagar, New Delhi, Delhi, 110023, India",
+      "area": "Kidwai Nagar West, Kidwai Nagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.571969,77.206962",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 9639,
+      "station_name": "EESL STATIQ Dilli Haat Charging Station",
+      "latitude": 28.572952,
+      "longitude": 77.208762,
+      "address": "Dilli Haat, Kidwai Nagar West, Kidwai Nagar, New Delhi, Delhi 110023, Delhi, Delhi, 110023, India",
+      "area": "Dilli Haat, Kidwai Nagar West, Kidwai Nagar, New Delhi, Delhi 110023",
+      "avg_review_rating": 4.6,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.572952,77.208762",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/default.png"
+    },
+    {
+      "id": 8769,
+      "station_name": "EESL Statiq Hotel Claridges Station",
+      "latitude": 28.566951,
+      "longitude": 77.213139,
+      "address": "Dr APJ Abdul Kalam Rd, Tees January Road Area, Motilal Nehru Marg Area, Delhi, Delhi, 110011, India",
+      "area": "Dr APJ Abdul Kalam Rd, Tees January Road Area, Motilal Nehru Marg Area",
+      "avg_review_rating": 4.7,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.566951,77.213139",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/default.png"
+    },
+    {
+      "id": 9558,
+      "station_name": "EESL STATIQ Sarojini Nagar Market",
+      "latitude": 28.577233,
+      "longitude": 77.196978,
+      "address": "Sarojini Nagar Market, Sarojini Nagar, New Delhi, Delhi 110023, New Delhi, Delhi, 110023, India",
+      "area": "Sarojini Nagar Market, Sarojini Nagar, New Delhi, Delhi 110023",
+      "avg_review_rating": 4.27,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.577233,77.196978",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/default.png"
+    },
+    {
+      "id": 11786,
+      "station_name": "YUSUF SARAI PARKING AREA FC AAIMS",
+      "latitude": 28.5589,
+      "longitude": 77.207,
+      "address": "Sri Aurobindo Marg, New Delhi, Delhi, 110016, India",
+      "area": "Sri Aurobindo Marg",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.5589,77.207",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/ChargerKarodefault.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    21.99
+  ],
+  "scraped_at": "2026-05-21T08:16:26.031583+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

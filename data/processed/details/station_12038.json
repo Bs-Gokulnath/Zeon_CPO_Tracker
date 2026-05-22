@@ -1,0 +1,193 @@
+{
+  "station_id": 12038,
+  "station_detail": {
+    "station_id": 12038,
+    "station_name": "Harmony Homes Hennur",
+    "latitude": 13.02532,
+    "longitude": 77.6321,
+    "address": "Harmony Homes Apartment Owners Association, Bengaluru, Karnataka, 560043, India",
+    "area": "Harmony Homes Apartment Owners Association",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.02532,77.6321",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8677 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 63410,
+        "price_with_currency": "₹ 21.0",
+        "price": 21.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26216,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "ETP Harmony Homes Hennur 1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bengaluru",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 7.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12038,
+      "station_name": "Harmony Homes Hennur",
+      "latitude": 13.02532,
+      "longitude": 77.6321,
+      "address": "Harmony Homes Apartment Owners Association, Bengaluru, Karnataka, 560043, India",
+      "area": "Harmony Homes Apartment Owners Association",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.02532,77.6321",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 8250,
+      "station_name": "Hyundai Elements Mall Charging Station",
+      "latitude": 13.045442,
+      "longitude": 77.626924,
+      "address": "MS Ramaiah North City Road Entrance, Survey No. 132(P), 133(P), & 134(P) of Nagavara Village 100 wide Thanisandra Main Rd,, Bengaluru, Karnataka, 560077, India",
+      "area": "MS Ramaiah North City Road Entrance, Survey No. 132(P), 133(P), & 134(P) of Nagavara Village 100 wide Thanisandra Main Rd,",
+      "avg_review_rating": 4.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.045442,77.626924",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-online-not-selected.png"
+    },
+    {
+      "id": 12280,
+      "station_name": "Manyata Tech Park F3 (Only for Manyata Employees)",
+      "latitude": 13.0472,
+      "longitude": 77.6258,
+      "address": "Manyata Tech Park F3 , Bengaluru, Karnataka, 400021, India",
+      "area": "Manyata Tech Park F3 ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.0472,77.6258",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 12284,
+      "station_name": "Manyata Tech Park G6 Mlcp (Only for Manyata Employees)",
+      "latitude": 13.0485,
+      "longitude": 77.6238,
+      "address": "Manyata Tech Park G6 Mlcp, Bengaluru, Karnataka, 400021, India",
+      "area": "Manyata Tech Park G6 Mlcp",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.0485,77.6238",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 11170,
+      "station_name": "Shell Recharge Thanisandra ",
+      "latitude": 13.051611,
+      "longitude": 77.630767,
+      "address": "Thanisandra Main Road, Bengaluru, Karnataka, 560077, India",
+      "area": "Thanisandra Main Road",
+      "avg_review_rating": 4.56,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.051611,77.630767",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    21.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:11:09.253021+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

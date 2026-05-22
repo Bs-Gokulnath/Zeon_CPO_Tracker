@@ -1,0 +1,217 @@
+{
+  "station_id": 12911,
+  "station_detail": {
+    "station_id": 12911,
+    "station_name": "Aditya Urban Casa",
+    "latitude": 28.563738,
+    "longitude": 77.384615,
+    "address": "Sector 78, Noida, Uttar Pradesh, 201301, India",
+    "area": "Sector 78",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.563738,77.384615",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8787 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      },
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/smGentari.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 64585,
+        "price_with_currency": "₹ 13.0",
+        "price": 13.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 28187,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 3,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "SNK Aditya Urban Casa 1",
+        "last_used_on": "15/05/2026"
+      },
+      {
+        "charger_id": 64587,
+        "price_with_currency": "₹ 13.0",
+        "price": 13.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 28189,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "SNK Aditya Urban Casa 2",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Noida",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 7.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12911,
+      "station_name": "Aditya Urban Casa",
+      "latitude": 28.563738,
+      "longitude": 77.384615,
+      "address": "Sector 78, Noida, Uttar Pradesh, 201301, India",
+      "area": "Sector 78",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.563738,77.384615",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/smGMR+default.png"
+    },
+    {
+      "id": 1904,
+      "station_name": "Statiq AdWall Sethi Max Royal Station",
+      "latitude": 28.565016,
+      "longitude": 77.385468,
+      "address": "Main Road, Sethi Max Royal, Noida, Uttar Pradesh, 201301, India",
+      "area": "Main Road, Sethi Max Royal",
+      "avg_review_rating": 4.71,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.565016,77.385468",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 14294,
+      "station_name": "Antriksh Market ,Sector 77, Noida",
+      "latitude": 28.568581,
+      "longitude": 77.389073,
+      "address": "Antriksh Forest Society, Noida, Uttar Pradesh, 201301, India",
+      "area": "Antriksh Forest Society",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.568581,77.389073",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/iONCHARGE/ion-available-not-selected.png"
+    },
+    {
+      "id": 13930,
+      "station_name": "Elite Homz EV Charger",
+      "latitude": 28.570234,
+      "longitude": 77.391826,
+      "address": "GH/02/B, Noida, Uttar Pradesh, 201304, India",
+      "area": "GH/02/B",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.570234,77.391826",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    },
+    {
+      "id": 2158,
+      "station_name": "Statiq AdWall Jalvayu Tower Station",
+      "latitude": 28.552834,
+      "longitude": 77.373367,
+      "address": "C912, Jalvayu Towers Road, Noida, Uttar Pradesh, 201301, India",
+      "area": "C912, Jalvayu Towers Road",
+      "avg_review_rating": 4.54,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.552834,77.373367",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    }
+  ],
+  "ac_count": 2,
+  "dc_count": 0,
+  "ac_prices": [
+    13.0,
+    13.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:13:10.874324+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

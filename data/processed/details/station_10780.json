@@ -1,0 +1,203 @@
+{
+  "station_id": 10780,
+  "station_detail": {
+    "station_id": 10780,
+    "station_name": "Arumugam Agency",
+    "latitude": 8.711531,
+    "longitude": 77.639668,
+    "address": "Tirunelveli, Tirunelveli, Tamil Nadu, 627010, India",
+    "area": "Tirunelveli",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.711531,77.639668",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8658 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 60701,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 21988,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 21989,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "Arumugam Agency",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Tirunelveli",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 10780,
+      "station_name": "Arumugam Agency",
+      "latitude": 8.711531,
+      "longitude": 77.639668,
+      "address": "Tirunelveli, Tirunelveli, Tamil Nadu, 627010, India",
+      "area": "Tirunelveli",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.711531,77.639668",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12814,
+      "station_name": "TVS MOBILITY PRIVATE LIMITED",
+      "latitude": 8.727629,
+      "longitude": 77.720051,
+      "address": "\"M/s. T.V. S. MOBILITY PRIVATE LIMITED   Bharat Petroleum Dealer,  177/1A, TVM Road,  Vannarpettai – 627 003,  Tirunelveli District\", Tirunelveli, Tamil Nadu, 627003, India",
+      "area": "\"M/s. T.V. S. MOBILITY PRIVATE LIMITED   Bharat Petroleum Dealer,  177/1A, TVM Road,  Vannarpettai – 627 003,  Tirunelveli District\"",
+      "avg_review_rating": 1.8,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.727629,77.720051",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 11758,
+      "station_name": "HI-FI Veg Restaurant",
+      "latitude": 8.72909,
+      "longitude": 77.72179,
+      "address": "105, Tirunelveli, Tamil Nadu, 627003, India",
+      "area": "105",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.72909,77.72179",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 9646,
+      "station_name": "SRI DURGAMBIKA TPT & BLUE META",
+      "latitude": 8.675409,
+      "longitude": 77.720364,
+      "address": "Tirunelveli, Tirunelveli, Tamil Nadu, 627007, India",
+      "area": "Tirunelveli",
+      "avg_review_rating": 3.93,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.675409,77.720364",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 3592,
+      "station_name": "Statiq Derik Motors Station",
+      "latitude": 8.66844,
+      "longitude": 77.7183,
+      "address": "Near Showroom Entrance, 7/147-A1, Tirunelveli, Tamil Nadu, 627007, India",
+      "area": "Near Showroom Entrance, 7/147-A1",
+      "avg_review_rating": 4.57,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=8.66844,77.7183",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:09:08.637486+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

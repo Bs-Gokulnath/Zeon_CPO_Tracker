@@ -1,0 +1,188 @@
+{
+  "station_id": 9349,
+  "station_detail": {
+    "station_id": 9349,
+    "station_name": "Nimisha Fuels - 0003",
+    "latitude": 12.450436,
+    "longitude": 76.693067,
+    "address": "KIRANGURU - PANDAVAPURA, Mandya, Karnataka, 571435, India",
+    "area": "KIRANGURU - PANDAVAPURA",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.450436,76.693067",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8572 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Tecell+Banner+2.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 58260,
+        "price_with_currency": "₹ 16.96",
+        "price": 16.96,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 18154,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "TEC Nimisha Fuels - 0003 1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Mandya",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 3.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9349,
+      "station_name": "Nimisha Fuels - 0003",
+      "latitude": 12.450436,
+      "longitude": 76.693067,
+      "address": "KIRANGURU - PANDAVAPURA, Mandya, Karnataka, 571435, India",
+      "area": "KIRANGURU - PANDAVAPURA",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.450436,76.693067",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 13141,
+      "station_name": "ID(6q765b) Sri Ranga Amaravathi Fuels",
+      "latitude": 12.429015,
+      "longitude": 76.697679,
+      "address": "Kirangoor, Kirangoor, Karnataka, 571807, India",
+      "area": "Kirangoor",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.429015,76.697679",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 15362,
+      "station_name": "GRIEDS ENERGY STATION",
+      "latitude": 12.406771,
+      "longitude": 76.647575,
+      "address": "\"SY.NO-477, K R S ROAD PALAHALLI, MANDYA, PALAHALLI, KRS ROAD MANDYA, Karnataka\", Mandya, Karnataka, 571606, India",
+      "area": "\"SY.NO-477, K R S ROAD PALAHALLI, MANDYA, PALAHALLI, KRS ROAD MANDYA, Karnataka\"",
+      "avg_review_rating": 4.11,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.406771,76.647575",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 10370,
+      "station_name": "Payana EV Station",
+      "latitude": 12.3899,
+      "longitude": 76.669,
+      "address": "Bengaluru - Mysuru Expy, next to SKDRDP RO office, opposite to Bharat Benz, Brahmapura, Srirangapatna, Karnataka 571477, Mandya, Karnataka, 571477, India",
+      "area": "Bengaluru - Mysuru Expy, next to SKDRDP RO office, opposite to Bharat Benz, Brahmapura, Srirangapatna, Karnataka 571477",
+      "avg_review_rating": 4.43,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.3899,76.669",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 15186,
+      "station_name": "M/s. CHANDRAKALA REDDY FUEL STATION",
+      "latitude": 12.36641,
+      "longitude": 76.66213,
+      "address": "\"SY NO. 27/6 (OLD SY NO. 27/2),, MYSORE, SIDDALINGAPURA, KASABA HOBLI, Karnataka\", Mysuru, Karnataka, 570003, India",
+      "area": "\"SY NO. 27/6 (OLD SY NO. 27/2),, MYSORE, SIDDALINGAPURA, KASABA HOBLI, Karnataka\"",
+      "avg_review_rating": 4.41,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.36641,76.66213",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    16.96
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:06:01.853286+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

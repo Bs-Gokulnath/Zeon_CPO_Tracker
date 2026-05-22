@@ -1,0 +1,194 @@
+{
+  "station_id": 7097,
+  "station_detail": {
+    "station_id": 7097,
+    "station_name": "2001585-BAGHRAI AUTOMOBILES",
+    "latitude": 25.929295,
+    "longitude": 81.724205,
+    "address": "LALGANJ, Lalganj, Uttar Pradesh, 230132, India",
+    "area": "LALGANJ",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.929295,81.724205",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9190 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 2.2,
+    "no_of_reviews": 5,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54936,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13282,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "2001585-BAGHRAI AUTOMOBILES",
+        "last_used_on": "12/12/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 60,
+        "2": 0,
+        "3": 20,
+        "4": 0,
+        "5": 20
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Lalganj",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7097,
+      "station_name": "2001585-BAGHRAI AUTOMOBILES",
+      "latitude": 25.929295,
+      "longitude": 81.724205,
+      "address": "LALGANJ, Lalganj, Uttar Pradesh, 230132, India",
+      "area": "LALGANJ",
+      "avg_review_rating": 2.2,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.929295,81.724205",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7642,
+      "station_name": "2013069-AMBIKA SHANKAR AUTOMOBILES",
+      "latitude": 25.818225,
+      "longitude": 81.940068,
+      "address": "TEHSEEL - PRATAPGARH, Bahua, Uttar Pradesh, 230404, India",
+      "area": "TEHSEEL - PRATAPGARH",
+      "avg_review_rating": 4.52,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.818225,81.940068",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15237,
+      "station_name": "K.S. AUTOMOBILES",
+      "latitude": 25.949305,
+      "longitude": 82.00912,
+      "address": "VILLAGE RANJEETPUR CHILBILLA CHILBILLA-PATTI ROAD (MDR  98) CHILBILA, Pratapgarh, Uttar Pradesh, 230001, India",
+      "area": "VILLAGE RANJEETPUR CHILBILLA CHILBILLA-PATTI ROAD (MDR  98) CHILBILA",
+      "avg_review_rating": 4.59,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.949305,82.00912",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 7588,
+      "station_name": "2016590-KARTAVYA AUTOMOBILES",
+      "latitude": 25.957642,
+      "longitude": 82.013556,
+      "address": "PRATAPGARH, Pratapgarh, Uttar Pradesh, 230403, India",
+      "area": "PRATAPGARH",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.957642,82.013556",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15458,
+      "station_name": "ADARSH PETROLEUM",
+      "latitude": 25.827551,
+      "longitude": 82.015657,
+      "address": "\" VILL. RAJAPUR KHARHAR,PO-RANIGANJ PRATAPGARH–JAUNPUR ROAD(NH-31), RANIGANJ\", Pratapgarh, Uttar Pradesh, 230304, India",
+      "area": "\" VILL. RAJAPUR KHARHAR,PO-RANIGANJ PRATAPGARH–JAUNPUR ROAD(NH-31), RANIGANJ\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=25.827551,82.015657",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:02:15.094556+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

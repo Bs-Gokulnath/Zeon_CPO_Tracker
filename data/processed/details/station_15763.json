@@ -1,0 +1,251 @@
+{
+  "station_id": 15763,
+  "station_detail": {
+    "station_id": 15763,
+    "station_name": "Chirayil Ultra | Prabha EV | 90 kW",
+    "latitude": 9.529113,
+    "longitude": 76.514703,
+    "address": "GGH7+HW6, Kottayam, Kerala, 686007, India",
+    "area": "GGH7+HW6",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.529113,76.514703",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8538 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Prabha_Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 69465,
+        "price_with_currency": "₹ 18.0",
+        "price": 18.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35148,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 90.0,
+        "charger_name": "AMK Chirayil Ultra | Prabha EV | 90 kW 1",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 69466,
+        "price_with_currency": "₹ 18.0",
+        "price": 18.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35149,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 90.0,
+        "charger_name": "AMK Chirayil Ultra | Prabha EV | 90 kW 2",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 69646,
+        "price_with_currency": "₹ 18.0",
+        "price": 18.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35371,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 35372,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 180.0,
+        "charger_name": "AMK Chirayil Ultra | Prabha EV | 90 kW 3",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Kottayam",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 180.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12244,
+      "station_name": "chargeMOD | CHIRAYIL EV Ultra Fast Charging Station | Pallom",
+      "latitude": 9.529189,
+      "longitude": 76.514637,
+      "address": "Kollam - Theni Hwy, Kottayam, Kerala, 686007, India",
+      "area": "Kollam - Theni Hwy",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.529189,76.514637",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(3).png"
+    },
+    {
+      "id": 15763,
+      "station_name": "Chirayil Ultra | Prabha EV | 90 kW",
+      "latitude": 9.529113,
+      "longitude": 76.514703,
+      "address": "GGH7+HW6, Kottayam, Kerala, 686007, India",
+      "area": "GGH7+HW6",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.529113,76.514703",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Prabha_offline_pin.png"
+    },
+    {
+      "id": 9442,
+      "station_name": "2002236-KOSAMATTOM FUEL",
+      "latitude": 9.575455,
+      "longitude": 76.51982,
+      "address": "M  C ROAD , Kottayam, Kerala, 686013, India",
+      "area": "M  C ROAD ",
+      "avg_review_rating": 4.7,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.575455,76.51982",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14740,
+      "station_name": "chargeMOD | EQ CHARIS EVCS | Cheeranchira",
+      "latitude": 9.478417,
+      "longitude": 76.561512,
+      "address": "Church Rd , Changanacheri, Kerala, 686106, India",
+      "area": "Church Rd ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.478417,76.561512",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    },
+    {
+      "id": 5299,
+      "station_name": "chargeMOD | Indraprastha Hotel EVOK EVCS",
+      "latitude": 9.601435,
+      "longitude": 76.531868,
+      "address": "MC Rd, Kottayam, Kerala, 686016, India",
+      "area": "MC Rd",
+      "avg_review_rating": 4.3,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.601435,76.531868",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 3,
+  "ac_prices": [],
+  "dc_prices": [
+    18.0,
+    18.0,
+    18.0
+  ],
+  "scraped_at": "2026-05-21T08:16:40.656917+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,204 @@
+{
+  "station_id": 15444,
+  "station_detail": {
+    "station_id": 15444,
+    "station_name": "ANJALI PETROLEUM",
+    "latitude": 23.094224,
+    "longitude": 80.060854,
+    "address": "RO AT BARELA, MANDLA ROAD, BARELA, JABALPUR, Barela, Madhya Pradesh, 482004, India",
+    "area": "RO AT BARELA, MANDLA ROAD, BARELA, JABALPUR",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.094224,80.060854",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9001 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 4,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68705,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34039,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 34040,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "ANJALI PETROLEUM",
+        "last_used_on": "11/04/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Barela",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15444,
+      "station_name": "ANJALI PETROLEUM",
+      "latitude": 23.094224,
+      "longitude": 80.060854,
+      "address": "RO AT BARELA, MANDLA ROAD, BARELA, JABALPUR, Barela, Madhya Pradesh, 482004, India",
+      "area": "RO AT BARELA, MANDLA ROAD, BARELA, JABALPUR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.094224,80.060854",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14783,
+      "station_name": "HANISHKA FUEL STATION",
+      "latitude": 23.000791,
+      "longitude": 80.137101,
+      "address": "RO AT BIJADANDI, KHAMERKHEDA, BIJADANDI, MANDLA ,, Mandla, Madhya Pradesh, 481662, India",
+      "area": "RO AT BIJADANDI, KHAMERKHEDA, BIJADANDI, MANDLA ,",
+      "avg_review_rating": 4.2,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.000791,80.137101",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7369,
+      "station_name": "2009700-G.P PETROLEUM",
+      "latitude": 23.073621,
+      "longitude": 79.913979,
+      "address": "MANEGAON, Manegaon, Madhya Pradesh, 482051, India",
+      "area": "MANEGAON",
+      "avg_review_rating": 3.6,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.073621,79.913979",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9617,
+      "station_name": "PAUL CHOWDHURY BROTHERS",
+      "latitude": 23.239423,
+      "longitude": 79.968421,
+      "address": "JABALPUR, Jabalpur, Madhya Pradesh, 482002, India",
+      "area": "JABALPUR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.239423,79.968421",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14932,
+      "station_name": "chargeMOD | Shawn Elizey EVCS | Jabalpur",
+      "latitude": 23.128641,
+      "longitude": 79.870455,
+      "address": "Shawn Elizey Hotel, Jabalpur, Madhya Pradesh, 482003, India",
+      "area": "Shawn Elizey Hotel",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.128641,79.870455",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shellprod-bucket.s3.ap-south-1.amazonaws.com/pins/cmimage+(4).png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:15:55.802285+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

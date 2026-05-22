@@ -1,0 +1,188 @@
+{
+  "station_id": 6960,
+  "station_detail": {
+    "station_id": 6960,
+    "station_name": "G. S. FILLING STATION",
+    "latitude": 26.402444,
+    "longitude": 81.073,
+    "address": "SH-13, Paschim Gaon,  Bachhrawan -Lalganj Road, Rae Bareilly, Uttar Pradesh, 229301, India",
+    "area": "SH-13, Paschim Gaon,  Bachhrawan -Lalganj Road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.402444,81.073",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9129 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 54705,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13042,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "G. S. FILLING STATION Charger 1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Rae Bareilly",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 3.3,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 6960,
+      "station_name": "G. S. FILLING STATION",
+      "latitude": 26.402444,
+      "longitude": 81.073,
+      "address": "SH-13, Paschim Gaon,  Bachhrawan -Lalganj Road, Rae Bareilly, Uttar Pradesh, 229301, India",
+      "area": "SH-13, Paschim Gaon,  Bachhrawan -Lalganj Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.402444,81.073",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 6901,
+      "station_name": "2001579-MAA VINDHYAWASINI ADHOC",
+      "latitude": 26.493928,
+      "longitude": 81.096954,
+      "address": "SHREE FUEL STATION ADHOC  ALLAHABAD-LUCKNOW ROAD, Lucknow, Uttar Pradesh, 229304, India",
+      "area": "SHREE FUEL STATION ADHOC  ALLAHABAD-LUCKNOW ROAD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.493928,81.096954",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12286,
+      "station_name": "M/s. B K FILLING STATION",
+      "latitude": 26.5409,
+      "longitude": 81.0517,
+      "address": "\"RO AT LALPUR, LUCKNOW\", Lucknow, Uttar Pradesh, 226302, India",
+      "area": "\"RO AT LALPUR, LUCKNOW\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.5409,81.0517",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12058,
+      "station_name": "UP | Raebareli | SAS Hyundai N3284",
+      "latitude": 26.260848,
+      "longitude": 81.229387,
+      "address": "Gate No. 605, Raebareli, Uttar Pradesh, 229001, India",
+      "area": "Gate No. 605",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.260848,81.229387",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 12958,
+      "station_name": "ID(6b75uc) MAA PITAMBARA H.P.",
+      "latitude": 26.655105,
+      "longitude": 81.292086,
+      "address": "Kakri, Kakri, Uttar Pradesh, 225126, India",
+      "area": "Kakri",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.655105,81.292086",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    14.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:02:02.973292+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

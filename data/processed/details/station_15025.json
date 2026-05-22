@@ -1,0 +1,204 @@
+{
+  "station_id": 15025,
+  "station_detail": {
+    "station_id": 15025,
+    "station_name": "2007569-SHRI SAI PETROLEUM",
+    "latitude": 21.3042,
+    "longitude": 81.4692,
+    "address": "RO AT MURMUNDA, SH21, KUMARI AHIWARA ROAD, Durg, Chhattisgarh, 490042, India",
+    "area": "RO AT MURMUNDA, SH21, KUMARI AHIWARA ROAD",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.3042,81.4692",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9134 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.12,
+    "no_of_reviews": 17,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68059,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 32946,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 32947,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "2007569-SHRI SAI PETROLEUM",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 12,
+        "2": 0,
+        "3": 12,
+        "4": 18,
+        "5": 59
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Durg",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15025,
+      "station_name": "2007569-SHRI SAI PETROLEUM",
+      "latitude": 21.3042,
+      "longitude": 81.4692,
+      "address": "RO AT MURMUNDA, SH21, KUMARI AHIWARA ROAD, Durg, Chhattisgarh, 490042, India",
+      "area": "RO AT MURMUNDA, SH21, KUMARI AHIWARA ROAD",
+      "avg_review_rating": 4.12,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.3042,81.4692",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 12931,
+      "station_name": "ID(so5o5b)Bhawani sevice station",
+      "latitude": 21.244152,
+      "longitude": 81.502915,
+      "address": "Nagpur - Bhandara - Rajnandgaon - Raipur Highway, Kumhari Np Part, Chhattisgarh, 490042, India",
+      "area": "Nagpur - Bhandara - Rajnandgaon - Raipur Highway",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.244152,81.502915",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 7282,
+      "station_name": "2007485-VARDHMAN HIGHWAY SERVICE",
+      "latitude": 21.249634,
+      "longitude": 81.523178,
+      "address": "KUMHARI, Kumhari, Chhattisgarh, 490042, India",
+      "area": "KUMHARI",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.249634,81.523178",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 1898,
+      "station_name": "ADS Automobile EV Charging Station",
+      "latitude": 21.2181,
+      "longitude": 81.449303,
+      "address": "NH6 Mumbai Kolkata Highway, Bhilai, Chhattisgarh, 490025, India",
+      "area": "NH6 Mumbai Kolkata Highway",
+      "avg_review_rating": 4.78,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.2181,81.449303",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 6743,
+      "station_name": "KNS Volvo Showroom",
+      "latitude": 21.256145,
+      "longitude": 81.55328,
+      "address": "GE Road, Chandanidih, Raipur, Chhattisgarh, 492010, India",
+      "area": "GE Road, Chandanidih",
+      "avg_review_rating": 4.64,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.256145,81.55328",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:15:01.890836+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

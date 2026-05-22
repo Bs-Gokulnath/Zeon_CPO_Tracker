@@ -1,0 +1,270 @@
+{
+  "station_id": 11825,
+  "station_detail": {
+    "station_id": 11825,
+    "station_name": "Nirmal lifestyle residency Co HSG. Sty. Association Ltd.",
+    "latitude": 19.1661,
+    "longitude": 72.9392,
+    "address": "Nirmal Lifestyle Residency, Mumbai, Maharashtra, 400080, India",
+    "area": "Nirmal Lifestyle Residency",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.1661,72.9392",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8227 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 62835,
+        "price_with_currency": "₹ 15.0",
+        "price": 15.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 25413,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "ETP Nirmal lifestyle residency Co HSG. Sty. Association Ltd. 1",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 62836,
+        "price_with_currency": "₹ 15.0",
+        "price": 15.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 25414,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "ETP Nirmal lifestyle residency Co HSG. Sty. Association Ltd. 2",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 62837,
+        "price_with_currency": "₹ 18.0",
+        "price": 18.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 25415,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "ETP Nirmal lifestyle residency Co HSG. Sty. Association Ltd. 3",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 62838,
+        "price_with_currency": "₹ 20.0",
+        "price": 20.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 25416,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.0,
+        "charger_name": "ETP Nirmal lifestyle residency Co HSG. Sty. Association Ltd. 4",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Mumbai",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 7.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 11825,
+      "station_name": "Nirmal lifestyle residency Co HSG. Sty. Association Ltd.",
+      "latitude": 19.1661,
+      "longitude": 72.9392,
+      "address": "Nirmal Lifestyle Residency, Mumbai, Maharashtra, 400080, India",
+      "area": "Nirmal Lifestyle Residency",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.1661,72.9392",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 1646,
+      "station_name": "Pushpak Co-op. Hsg. Society Charging Station",
+      "latitude": 19.185375,
+      "longitude": 72.965317,
+      "address": "Neelkanth Vihar, Bhaskar Colony, Naupada, Thane West, Thane, Maharashtra, 400602, India",
+      "area": "Neelkanth Vihar, Bhaskar Colony, Naupada, Thane West",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.185375,72.965317",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 1838,
+      "station_name": "Shubhamkaroti Co-op Hsg Soc Ltd Charging Station",
+      "latitude": 19.185699,
+      "longitude": 72.966499,
+      "address": "Shubhamkaroti Co-op Hsg Soc Ltd, Thane, Maharashtra, 400602, India",
+      "area": "Shubhamkaroti Co-op Hsg Soc Ltd",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.185699,72.966499",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 8615,
+      "station_name": "GLIDA Ashar IT Park ",
+      "latitude": 19.197663,
+      "longitude": 72.953656,
+      "address": "Society Office No. 4, Thane, Maharashtra, 400604, India",
+      "area": "Society Office No. 4",
+      "avg_review_rating": 4.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.197663,72.953656",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    },
+    {
+      "id": 8716,
+      "station_name": "MH | Thane | Modi Hyundai",
+      "latitude": 19.193431,
+      "longitude": 72.963495,
+      "address": "Modi House 1 Eastern Express Highway opp LIC, Thane, Maharashtra, 400602, India",
+      "area": "Modi House 1 Eastern Express Highway opp LIC",
+      "avg_review_rating": 4.46,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.193431,72.963495",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    }
+  ],
+  "ac_count": 4,
+  "dc_count": 0,
+  "ac_prices": [
+    15.0,
+    15.0,
+    18.0,
+    20.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:10:38.546228+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

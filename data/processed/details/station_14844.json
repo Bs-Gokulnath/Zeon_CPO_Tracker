@@ -1,0 +1,204 @@
+{
+  "station_id": 14844,
+  "station_detail": {
+    "station_id": 14844,
+    "station_name": "SRI SAARATHY AGENCY",
+    "latitude": 11.043305,
+    "longitude": 77.933011,
+    "address": "KARUR, Karur, Tamil Nadu, 639117, India",
+    "area": "KARUR",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.043305,77.933011",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8700 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.88,
+    "no_of_reviews": 8,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 67783,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 32465,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 32466,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "SRI SAARATHY AGENCY",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 12,
+        "5": 88
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Karur",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 14844,
+      "station_name": "SRI SAARATHY AGENCY",
+      "latitude": 11.043305,
+      "longitude": 77.933011,
+      "address": "KARUR, Karur, Tamil Nadu, 639117, India",
+      "area": "KARUR",
+      "avg_review_rating": 4.88,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.043305,77.933011",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 14966,
+      "station_name": "SHREE MOOKAMBIKA FUEL STATION",
+      "latitude": 11.012971,
+      "longitude": 77.983371,
+      "address": "KARUR, Karur, Tamil Nadu, 639136, India",
+      "area": "KARUR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.012971,77.983371",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12724,
+      "station_name": "ID(acyv39) Kongu Auto fuels",
+      "latitude": 10.958662,
+      "longitude": 77.931776,
+      "address": "Nagapattinam - Coimbatore - Gundlupet Highway, Karur, Tamil Nadu, 639111, India",
+      "area": "Nagapattinam - Coimbatore - Gundlupet Highway",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=10.958662,77.931776",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 8192,
+      "station_name": "EVCSPVTLOA VELUR",
+      "latitude": 11.125953,
+      "longitude": 78.015744,
+      "address": "PARAMATHI MAIN RD NR KONGU SCHOOL PARAMATHY VELUR PARAMATHYVELUR NAMAKKAL 638182, Namakkal, Tamil Nadu, 638182, India",
+      "area": "PARAMATHI MAIN RD NR KONGU SCHOOL PARAMATHY VELUR PARAMATHYVELUR NAMAKKAL 638182",
+      "avg_review_rating": 4.45,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.125953,78.015744",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10744,
+      "station_name": "Hyundai Hotel RK Bakers",
+      "latitude": 11.044966,
+      "longitude": 78.056265,
+      "address": "Hotel RK Bakers,SF NO: 263. Panduthakaranpudur, salem bypasss road, behind arasu women's college, Karur, Tamil Nadu, 639006, India",
+      "area": "Hotel RK Bakers,SF NO: 263. Panduthakaranpudur, salem bypasss road, behind arasu women's college",
+      "avg_review_rating": 4.49,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=11.044966,78.056265",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-online-not-selected.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:14:33.020603+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

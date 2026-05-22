@@ -1,0 +1,198 @@
+{
+  "station_id": 15084,
+  "station_detail": {
+    "station_id": 15084,
+    "station_name": "VARUN FILLING STATION",
+    "latitude": 13.20341,
+    "longitude": 79.674613,
+    "address": "PETROLEUM DEALERS, SY NO. 23/3B, ARUNGULAMKOOT ROAD, NABALUR VILLAGE, TIRUVALLUR, Tiruvallur, Tamil Nadu, 631201, India",
+    "area": "PETROLEUM DEALERS, SY NO. 23/3B, ARUNGULAMKOOT ROAD, NABALUR VILLAGE, TIRUVALLUR",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.20341,79.674613",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8900 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68136,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33070,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 33071,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "VARUN FILLING STATION",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Tiruvallur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15084,
+      "station_name": "VARUN FILLING STATION",
+      "latitude": 13.20341,
+      "longitude": 79.674613,
+      "address": "PETROLEUM DEALERS, SY NO. 23/3B, ARUNGULAMKOOT ROAD, NABALUR VILLAGE, TIRUVALLUR, Tiruvallur, Tamil Nadu, 631201, India",
+      "area": "PETROLEUM DEALERS, SY NO. 23/3B, ARUNGULAMKOOT ROAD, NABALUR VILLAGE, TIRUVALLUR",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.20341,79.674613",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15035,
+      "station_name": "THE FUEL ZONE",
+      "latitude": 13.205675,
+      "longitude": 79.601904,
+      "address": "MURUGAMPATTU MURUGAMPATTU 630201, Muruganpalayam, Tamil Nadu, 630201, India",
+      "area": "MURUGAMPATTU MURUGAMPATTU 630201",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.205675,79.601904",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9077,
+      "station_name": "MAHENDRAN AGENCY",
+      "latitude": 13.204455,
+      "longitude": 79.765388,
+      "address": "TIRUVALLUR, Tiruvallur, Tamil Nadu, 631204, India",
+      "area": "TIRUVALLUR",
+      "avg_review_rating": 3.9,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.204455,79.765388",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13164,
+      "station_name": "ID(mdr294)LAYA FUEL FILLING STATION",
+      "latitude": 13.387381,
+      "longitude": 79.567657,
+      "address": "Utharapukhandriga, Utharapukhandriga, Andhra Pradesh, 517583, India",
+      "area": "Utharapukhandriga",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.387381,79.567657",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 6696,
+      "station_name": "\"M/s. S.S.P. AGENCIES \"",
+      "latitude": 13.156442,
+      "longitude": 79.890633,
+      "address": "\"SH51, TATCHUR - PULICAT ROAD, PO, TIRUVALLUR,, TIRUVALLUR,, Tamil Nadu,\", Manavalakurichi, Tamil Nadu, 631203, India",
+      "area": "\"SH51, TATCHUR - PULICAT ROAD, PO, TIRUVALLUR,, TIRUVALLUR,, Tamil Nadu,\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.156442,79.890633",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:15:08.644682+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

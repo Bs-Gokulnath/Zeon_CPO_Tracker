@@ -1,0 +1,443 @@
+{
+  "station_id": 8735,
+  "station_detail": {
+    "station_id": 8735,
+    "station_name": "EESL Statiq DTC Rajghat Depot Station",
+    "latitude": 28.639833,
+    "longitude": 77.256389,
+    "address": "RPS Complex, Raj Ghat, New Delhi, Delhi, 110002, India",
+    "area": "RPS Complex, Raj Ghat",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.639833,77.256389",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8776 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      },
+      {
+        "id": 2,
+        "connector_name": "CHAdeMO",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/chademo.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      },
+      {
+        "id": 6,
+        "connector_name": "GBT",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png"
+      },
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 4.76,
+    "no_of_reviews": 2316,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 12160,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 57330,
+        "price_with_currency": "₹ 19.0",
+        "price": 19.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16627,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 16628,
+            "connector_type": "CHAdeMO",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/chademo.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 2,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 3,
+            "connector_id": 16629,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 142.0,
+        "charger_name": "EESL DTC Rajghat Depot DC Charger 1",
+        "last_used_on": "07/12/2025"
+      },
+      {
+        "charger_id": 57331,
+        "price_with_currency": "₹ 11.5",
+        "price": 11.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16630,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 6,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 15.0,
+        "charger_name": "EESL DTC Rajghat Depot DC Charger 2",
+        "last_used_on": "12/08/2025"
+      },
+      {
+        "charger_id": 57332,
+        "price_with_currency": "₹ 11.5",
+        "price": 11.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16631,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 6,
+            "connector_status": "preparing"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 15.0,
+        "charger_name": "EESL DTC Rajghat Depot DC Charger 3",
+        "last_used_on": "26/07/2025"
+      },
+      {
+        "charger_id": 57333,
+        "price_with_currency": "₹ 4.22",
+        "price": 4.22,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 16632,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "EESL Statiq Rajghat Depot AC Charger Point A",
+        "last_used_on": "29/08/2025"
+      },
+      {
+        "charger_id": 58541,
+        "price_with_currency": "₹ 4.2",
+        "price": 4.2,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 18760,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "EESL Statiq Rajghat Depot AC Charger Point B",
+        "last_used_on": "28/08/2025"
+      },
+      {
+        "charger_id": 58542,
+        "price_with_currency": "₹ 4.2",
+        "price": 4.2,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 18761,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "EESL Statiq Rajghat Depot AC Charger Point C",
+        "last_used_on": "28/08/2025"
+      },
+      {
+        "charger_id": 68436,
+        "price_with_currency": "₹ 1.6",
+        "price": 1.6,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33560,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "EESL-DTC Rajghat AC Charger 2(a)",
+        "last_used_on": "19/05/2026"
+      },
+      {
+        "charger_id": 68437,
+        "price_with_currency": "₹ 1.6",
+        "price": 1.6,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33561,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "EESL-DTC Rajghat AC Charger 2(b)",
+        "last_used_on": "07/05/2026"
+      },
+      {
+        "charger_id": 68438,
+        "price_with_currency": "₹ 1.6",
+        "price": 1.6,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33562,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.3,
+        "charger_name": "EESL-DTC Rajghat AC Charger 2(c)",
+        "last_used_on": "10/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 2,
+        "2": 0,
+        "3": 1,
+        "4": 14,
+        "5": 83
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "New Delhi",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 142.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8735,
+      "station_name": "EESL Statiq DTC Rajghat Depot Station",
+      "latitude": 28.639833,
+      "longitude": 77.256389,
+      "address": "RPS Complex, Raj Ghat, New Delhi, Delhi, 110002, India",
+      "area": "RPS Complex, Raj Ghat",
+      "avg_review_rating": 4.76,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.639833,77.256389",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/banner/CESL/default.png"
+    },
+    {
+      "id": 14460,
+      "station_name": "EESL Statiq Jain Bhawan DC Charger 1 Delta Station",
+      "latitude": 28.6399,
+      "longitude": 77.2564,
+      "address": "Outside Jain Bhawan, 12 Shaheed Bhagat Singh Marg, Gole Market, Delhi, Delhi, 110001, India",
+      "area": "Outside Jain Bhawan, 12 Shaheed Bhagat Singh Marg, Gole Market",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.6399,77.2564",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15555,
+      "station_name": "Chacha Nehru Bal Chikitsalaya by Reliable Charge Chacha Nehru Bal Chikitsalaya, Raja Ram Kohli Marg, Geeta Colony, New Delhi, Delhi, 110031",
+      "latitude": 28.652683,
+      "longitude": 77.268834,
+      "address": "Chacha Nehru Bal Chikitsalaya, New Delhi, Delhi, 110031, India",
+      "area": "Chacha Nehru Bal Chikitsalaya",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.652683,77.268834",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 15534,
+      "station_name": "MCD Parking near Lakshmi Nagar metro by Reliable Charge MCD Parking, near Metro Station Laxmi Nagar, Block S 2, East, Shakarpur, Delhi, 110092",
+      "latitude": 28.628854,
+      "longitude": 77.2755,
+      "address": "MCD Parking, Delhi, Delhi, 110092, India",
+      "area": "MCD Parking",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.628854,77.2755",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 8111,
+      "station_name": "EESL Statiq DTC IP Estate Depot Station",
+      "latitude": 28.62086,
+      "longitude": 77.248222,
+      "address": "Grand Trunk Rd, IP Estate, New Delhi, Delhi, 110014, India",
+      "area": "Grand Trunk Rd, IP Estate",
+      "avg_review_rating": 4.39,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.62086,77.248222",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 6,
+  "dc_count": 3,
+  "ac_prices": [
+    4.22,
+    4.2,
+    4.2,
+    1.6,
+    1.6,
+    1.6
+  ],
+  "dc_prices": [
+    19.0,
+    11.5,
+    11.5
+  ],
+  "scraped_at": "2026-05-21T08:05:17.687325+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

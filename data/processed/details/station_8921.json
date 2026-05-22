@@ -1,0 +1,204 @@
+{
+  "station_id": 8921,
+  "station_detail": {
+    "station_id": 8921,
+    "station_name": "2007674-SHADI RAM BHAGWAN DASS",
+    "latitude": 29.602837,
+    "longitude": 76.126382,
+    "address": "MOHALA KHEDA, Narwana, Haryana, 126116, India",
+    "area": "MOHALA KHEDA",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.602837,76.126382",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8679 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.95,
+    "no_of_reviews": 41,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 57690,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 17212,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 17213,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "2007674-SHADI RAM BHAGWAN DASS",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 5,
+        "5": 95
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Narwana",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8921,
+      "station_name": "2007674-SHADI RAM BHAGWAN DASS",
+      "latitude": 29.602837,
+      "longitude": 76.126382,
+      "address": "MOHALA KHEDA, Narwana, Haryana, 126116, India",
+      "area": "MOHALA KHEDA",
+      "avg_review_rating": 4.95,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.602837,76.126382",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8922,
+      "station_name": "2007792-DANODA ENERGY STATION",
+      "latitude": 29.533164,
+      "longitude": 76.007686,
+      "address": "Besides Bharat Petroleum, Petrol Pump - Danoda Energy Station, Danoda Khurd, Jind, Haryana, 126152, India",
+      "area": "Besides Bharat Petroleum, Petrol Pump - Danoda Energy Station, Danoda Khurd",
+      "avg_review_rating": 4.2,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.533164,76.007686",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 12305,
+      "station_name": "2007678-NAVEEN FILLING STATION",
+      "latitude": 29.486933,
+      "longitude": 76.185101,
+      "address": "RO AT UCHANA, NH71,Narwana - Jind Road, Jind, Haryana, 126115, India",
+      "area": "RO AT UCHANA, NH71,Narwana - Jind Road",
+      "avg_review_rating": 4.82,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.486933,76.185101",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 6846,
+      "station_name": "Statiq DHBVN Station",
+      "latitude": 29.484386,
+      "longitude": 76.185316,
+      "address": "In front of the sub-station, DHBVN Uchana, Jind patiala highway, uchana, , Uchana, Haryana, 126115, India",
+      "area": "In front of the sub-station, DHBVN Uchana, Jind patiala highway, uchana, ",
+      "avg_review_rating": 4.69,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.484386,76.185316",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 13234,
+      "station_name": "ID(nuhv2j)Vikas Filling Station",
+      "latitude": 29.45577,
+      "longitude": 76.19715,
+      "address": "Uchana Kalan, Uchana Kalan, Haryana, 126115, India",
+      "area": "Uchana Kalan",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.45577,76.19715",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:05:38.796216+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

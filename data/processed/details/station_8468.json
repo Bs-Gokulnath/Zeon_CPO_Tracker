@@ -1,0 +1,194 @@
+{
+  "station_id": 8468,
+  "station_detail": {
+    "station_id": 8468,
+    "station_name": "GJ | Ahmedabad | Renaissance Ahmedabad Hotel",
+    "latitude": 23.075644,
+    "longitude": 72.526971,
+    "address": "Behind Ganesh Meridian Complex Sola Road, Ahmedabad, Gujarat, 380060, India",
+    "area": "Behind Ganesh Meridian Complex Sola Road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.075644,72.526971",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8233 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 5.0,
+    "no_of_reviews": 5,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 56947,
+        "price_with_currency": "₹ 23.5",
+        "price": 23.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 15998,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Finished",
+            "connector_type_id": 1,
+            "connector_status": "finishing"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "TCZ GJ | Ahmedabad | Renaissance Ahmedabad Hotel 1",
+        "last_used_on": "16/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ahmedabad",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8468,
+      "station_name": "GJ | Ahmedabad | Renaissance Ahmedabad Hotel",
+      "latitude": 23.075644,
+      "longitude": 72.526971,
+      "address": "Behind Ganesh Meridian Complex Sola Road, Ahmedabad, Gujarat, 380060, India",
+      "area": "Behind Ganesh Meridian Complex Sola Road",
+      "avg_review_rating": 5.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.075644,72.526971",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonecharging.png"
+    },
+    {
+      "id": 8725,
+      "station_name": "GLIDA GLIDA MG Sola Charging Station",
+      "latitude": 23.072275,
+      "longitude": 72.524391,
+      "address": "Ground Floor and First Floor, Ahmedabad, Gujarat, 380061, India",
+      "area": "Ground Floor and First Floor",
+      "avg_review_rating": 4.28,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.072275,72.524391",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    },
+    {
+      "id": 8156,
+      "station_name": "GLIDA Phoenix Palladium Mall, Ahmedabad",
+      "latitude": 23.057806,
+      "longitude": 72.521139,
+      "address": "Sarkhej - Gadhinagar Highway, Ahmedabad, Gujarat, 380054, India",
+      "area": "Sarkhej - Gadhinagar Highway",
+      "avg_review_rating": 4.75,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.057806,72.521139",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-charging-not-selected-pin.png"
+    },
+    {
+      "id": 12782,
+      "station_name": "ID(qfbfdt) Adhoc Satsangi petroleum - EVCS",
+      "latitude": 23.074246,
+      "longitude": 72.555104,
+      "address": "KK Nagar, Ahmedabad, Gujarat, 380061, India",
+      "area": "KK Nagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.074246,72.555104",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 9859,
+      "station_name": "Gurukul Park",
+      "latitude": 23.049145,
+      "longitude": 72.530552,
+      "address": "Gurukul Computer Centre, Ahmedabad, Gujarat, 380052, India",
+      "area": "Gurukul Computer Centre",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=23.049145,72.530552",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/verde/default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    23.5
+  ],
+  "scraped_at": "2026-05-21T08:04:35.872023+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

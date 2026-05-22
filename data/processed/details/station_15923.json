@@ -1,0 +1,193 @@
+{
+  "station_id": 15923,
+  "station_detail": {
+    "station_id": 15923,
+    "station_name": "Hind Automobiles",
+    "latitude": 29.819836,
+    "longitude": 76.419164,
+    "address": "NO 4, Noida, Uttar Pradesh, 203207, India",
+    "area": "NO 4",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.819836,76.419164",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8710 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Tecell+Banner+2.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 69885,
+        "price_with_currency": "₹ 24.22",
+        "price": 24.22,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 35763,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "TEC Hind Automobiles 1",
+        "last_used_on": "20/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Noida",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15923,
+      "station_name": "Hind Automobiles",
+      "latitude": 29.819836,
+      "longitude": 76.419164,
+      "address": "NO 4, Noida, Uttar Pradesh, 203207, India",
+      "area": "NO 4",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.819836,76.419164",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Tecell.png"
+    },
+    {
+      "id": 12110,
+      "station_name": "HR | Titram | Kush Farm Family Restaurant",
+      "latitude": 29.734459,
+      "longitude": 76.411068,
+      "address": "NH152, Titram, Haryana, 136027, India",
+      "area": "NH152",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.734459,76.411068",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 6932,
+      "station_name": "2015508-R. K. PETRO POINT",
+      "latitude": 29.98579,
+      "longitude": 76.58653,
+      "address": "PEHOWA, Pehowa, Haryana, 136030, India",
+      "area": "PEHOWA",
+      "avg_review_rating": 3.79,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.98579,76.58653",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 11088,
+      "station_name": "2009173-KHANAURI SERVICE STATION",
+      "latitude": 29.82603,
+      "longitude": 76.114448,
+      "address": "PATRAN - NARWANA ROAD, Sangrur, Punjab, 148027, India",
+      "area": "PATRAN - NARWANA ROAD",
+      "avg_review_rating": 4.78,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=29.82603,76.114448",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15281,
+      "station_name": "Ecoplug R K Family Restaurant",
+      "latitude": 30.02824,
+      "longitude": 76.61821,
+      "address": "NH 152, Kurukshetra, Haryana, 136128, India",
+      "area": "NH 152",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=30.02824,76.61821",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    24.22
+  ],
+  "scraped_at": "2026-05-21T08:17:08.373486+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,205 @@
+{
+  "station_id": 14544,
+  "station_detail": {
+    "station_id": 14544,
+    "station_name": "Rahul Travels Raipur Airport Besides",
+    "latitude": 21.181818,
+    "longitude": 81.72806,
+    "address": "Raipur Airport, Raipur, Chhattisgarh, 490015, India",
+    "area": "Raipur Airport",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.181818,81.72806",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9160 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.85,
+    "no_of_reviews": 264,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 67232,
+        "price_with_currency": "₹ 16.0",
+        "price": 16.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 31621,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 31622,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Finished",
+            "connector_type_id": 1,
+            "connector_status": "finishing"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Rahul Travel 60 KW DC Charger",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 2,
+        "2": 0,
+        "3": 1,
+        "4": 6,
+        "5": 91
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Raipur",
+    "station_access_type": "public",
+    "availability": "Available in",
+    "highest_power_rating": 480.0,
+    "charger_type_of_station": "DC",
+    "station_images": [],
+    "waiting_time": "2026-05-21 13:49:08"
+  },
+  "nearby_stations": [
+    {
+      "id": 14544,
+      "station_name": "Rahul Travels Raipur Airport Besides",
+      "latitude": 21.181818,
+      "longitude": 81.72806,
+      "address": "Raipur Airport, Raipur, Chhattisgarh, 490015, India",
+      "area": "Raipur Airport",
+      "avg_review_rating": 4.85,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.181818,81.72806",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Statiq+charging.png"
+    },
+    {
+      "id": 12626,
+      "station_name": "ID(qbwb1j)Aaditya fuels",
+      "latitude": 21.235046,
+      "longitude": 81.728753,
+      "address": "Serikhedi, Raipur, Chhattisgarh, India",
+      "area": "Serikhedi",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.235046,81.728753",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/pinGMR+default+(15).png"
+    },
+    {
+      "id": 10598,
+      "station_name": "Avanti Charging Station",
+      "latitude": 21.2393,
+      "longitude": 81.7153,
+      "address": "Zora The Mall; NH6 Serikhedi, Jora, Raipur, Chhattisgarh, 492001, India",
+      "area": "Zora The Mall; NH6 Serikhedi, Jora",
+      "avg_review_rating": 4.54,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.2393,81.7153",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 8454,
+      "station_name": "CG | Raipur | Courtyard by Marriott Raipur",
+      "latitude": 21.238933,
+      "longitude": 81.701368,
+      "address": "NH-6, Raipur, Chhattisgarh, 492012, India",
+      "area": "NH-6",
+      "avg_review_rating": 4.2,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.238933,81.701368",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonecharging.png"
+    },
+    {
+      "id": 15005,
+      "station_name": "Labhandih 1",
+      "latitude": 21.2377,
+      "longitude": 81.6946,
+      "address": "Labhandih, Raipur, Chhattisgarh, 492001, India",
+      "area": "Labhandih",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=21.2377,81.6946",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    16.0
+  ],
+  "scraped_at": "2026-05-21T08:13:54.844368+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

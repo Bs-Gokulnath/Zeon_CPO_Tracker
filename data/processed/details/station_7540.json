@@ -1,0 +1,188 @@
+{
+  "station_id": 7540,
+  "station_detail": {
+    "station_id": 7540,
+    "station_name": "2000363-MARAKAYAR BROTHERS",
+    "latitude": 9.352618,
+    "longitude": 78.876001,
+    "address": "RAMANATHPURAM, Abiramam, Tamil Nadu, 623503, India",
+    "area": "RAMANATHPURAM",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.352618,78.876001",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8797 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 55379,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 13725,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "2000363-MARAKAYAR BROTHERS",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Abiramam",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 7540,
+      "station_name": "2000363-MARAKAYAR BROTHERS",
+      "latitude": 9.352618,
+      "longitude": 78.876001,
+      "address": "RAMANATHPURAM, Abiramam, Tamil Nadu, 623503, India",
+      "area": "RAMANATHPURAM",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.352618,78.876001",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9619,
+      "station_name": "Keerthi Residency, Ramnad",
+      "latitude": 9.350049,
+      "longitude": 78.885378,
+      "address": "3/424, Pokkuvarahu Nagar, Rameswaram NH Road, Ramanathapuram, Tamil Nadu, 623536, India",
+      "area": "3/424, Pokkuvarahu Nagar, Rameswaram NH Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.350049,78.885378",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8090,
+      "station_name": "V. SIVASAMY RENGAMMAL",
+      "latitude": 9.372967,
+      "longitude": 78.839621,
+      "address": "180/1, KENIKARAI-DEVIPATINAM ROAD, KENIKARAI,RAMANATHAPURAM, Ramanathapuram, Tamil Nadu, 623501, India",
+      "area": "180/1, KENIKARAI-DEVIPATINAM ROAD, KENIKARAI,RAMANATHAPURAM",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.372967,78.839621",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8098,
+      "station_name": "MR TRANSPORTS",
+      "latitude": 9.366388,
+      "longitude": 78.811837,
+      "address": "NO 10A, RAILWAY FEEDER ROAD, RAMANATHAPURAM, Ramanathapuram, Tamil Nadu, 623504, India",
+      "area": "NO 10A, RAILWAY FEEDER ROAD, RAMANATHAPURAM",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.366388,78.811837",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 11881,
+      "station_name": "AALADE NATARAJAN FILLING STATION",
+      "latitude": 9.295231,
+      "longitude": 78.82541,
+      "address": "RAMANATHAPURAM, Ramanathapuram, Tamil Nadu, 623501, India",
+      "area": "RAMANATHAPURAM",
+      "avg_review_rating": 4.88,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=9.295231,78.82541",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:03:15.377379+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

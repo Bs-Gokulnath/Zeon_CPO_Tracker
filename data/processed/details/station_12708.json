@@ -1,0 +1,198 @@
+{
+  "station_id": 12708,
+  "station_detail": {
+    "station_id": 12708,
+    "station_name": "ID(fwgc5a)-M/S C P R Petroleum",
+    "latitude": 12.648391,
+    "longitude": 77.187928,
+    "address": "Mysore Road, Channapatna, Karnataka, 562160, India",
+    "area": "Mysore Road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.648391,77.187928",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8627 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/networks-logo/HP+E+charge-Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 64339,
+        "price_with_currency": "₹ 15.05",
+        "price": 15.05,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 27738,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 27745,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "HPL ID(fwgc5a)-M/S C P R Petroleum 1",
+        "last_used_on": "11/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Channapatna",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12708,
+      "station_name": "ID(fwgc5a)-M/S C P R Petroleum",
+      "latitude": 12.648391,
+      "longitude": 77.187928,
+      "address": "Mysore Road, Channapatna, Karnataka, 562160, India",
+      "area": "Mysore Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.648391,77.187928",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 4839,
+      "station_name": "Statiq Indradhanush Station",
+      "latitude": 12.63935,
+      "longitude": 77.141167,
+      "address": "Opposite hotel entrance, Mudugere, J4QR+RC6y, NH 275, , Channapatna, Karnataka, 562160, India",
+      "area": "Opposite hotel entrance, Mudugere, J4QR+RC6y, NH 275, ",
+      "avg_review_rating": 4.71,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.63935,77.141167",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 10271,
+      "station_name": "KA | Mathikere | Siri Restaurant Veg & Nonveg",
+      "latitude": 12.639209,
+      "longitude": 77.140077,
+      "address": "J4QR+P22, Mathikere, Karnataka, 562160, India",
+      "area": "J4QR+P22",
+      "avg_review_rating": 2.2,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.639209,77.140077",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/gentari-default.png"
+    },
+    {
+      "id": 14868,
+      "station_name": "McDonalds Muddur (Charge_iN by Mahindra)",
+      "latitude": 12.623893,
+      "longitude": 77.099399,
+      "address": "Athagur Hobali, Mandya, Karnataka, 571433, India",
+      "area": "Athagur Hobali",
+      "avg_review_rating": 4.72,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.623893,77.099399",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Mahindra_Branding_logo.png"
+    },
+    {
+      "id": 13154,
+      "station_name": "ID(5wbsvc)Annada Enterprises",
+      "latitude": 12.707604,
+      "longitude": 77.264731,
+      "address": "Archikarahalli, Ramanagara, Karnataka, 562159, India",
+      "area": "Archikarahalli",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.707604,77.264731",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    15.05
+  ],
+  "scraped_at": "2026-05-21T08:12:38.458125+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

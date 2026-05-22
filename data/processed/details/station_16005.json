@@ -1,0 +1,198 @@
+{
+  "station_id": 16005,
+  "station_detail": {
+    "station_id": 16005,
+    "station_name": "TN | Ambur | Sri Annapoorna Pure Veg (Private)",
+    "latitude": 12.852969,
+    "longitude": 78.817047,
+    "address": "jameen bus stop, Ambur, Tamil Nadu, 635812, India",
+    "area": "jameen bus stop",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.852969,78.817047",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8805 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/chargezonebanner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 70065,
+        "price_with_currency": "₹ 23.5",
+        "price": 23.5,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 36065,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 36066,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 240.0,
+        "charger_name": "TCZ TN | Ambur | Sri Annapoorna Pure Veg (Private) 1",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Ambur",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 240.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 16005,
+      "station_name": "TN | Ambur | Sri Annapoorna Pure Veg (Private)",
+      "latitude": 12.852969,
+      "longitude": 78.817047,
+      "address": "jameen bus stop, Ambur, Tamil Nadu, 635812, India",
+      "area": "jameen bus stop",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.852969,78.817047",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 8536,
+      "station_name": "TN | Ambur | Sri Annapoorna Pure Veg",
+      "latitude": 12.852969,
+      "longitude": 78.817047,
+      "address": "jameen bus stop, Ambur, Tamil Nadu, 635812, India",
+      "area": "jameen bus stop",
+      "avg_review_rating": 4.92,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.852969,78.817047",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 9306,
+      "station_name": "TN | Vellore | Café Coffee Day - Vellore",
+      "latitude": 12.887819,
+      "longitude": 78.879581,
+      "address": "Cafe coffee day, Vellore, Tamil Nadu, 635804, India",
+      "area": "Cafe coffee day",
+      "avg_review_rating": 4.92,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.887819,78.879581",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/gentari-default.png"
+    },
+    {
+      "id": 6721,
+      "station_name": "VKR AGENCIES",
+      "latitude": 12.92393,
+      "longitude": 78.9264,
+      "address": "VEPPUR, GUDIYATTAM, VELLORE, Vellore, Tamil Nadu, 635803, India",
+      "area": "VEPPUR, GUDIYATTAM, VELLORE",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.92393,78.9264",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 9898,
+      "station_name": "PALLIKONDA | NAVA SAIBABA MANDIR - HOTEL ANANDAS |",
+      "latitude": 12.910457,
+      "longitude": 78.980819,
+      "address": "WX6J+58P, Pallikonda, Tamil Nadu, 635809, India",
+      "area": "WX6J+58P",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.910457,78.980819",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    23.5
+  ],
+  "scraped_at": "2026-05-21T08:17:15.821271+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

@@ -1,0 +1,257 @@
+{
+  "station_id": 1890,
+  "station_detail": {
+    "station_id": 1890,
+    "station_name": "Sunfuel - DLF Emporio",
+    "latitude": 28.543743,
+    "longitude": 77.156593,
+    "address": "4, Nelson Mandela Marg, New Delhi, Delhi, 110070, India",
+    "area": "4, Nelson Mandela Marg",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.543743,77.156593",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8765 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 4.67,
+    "no_of_reviews": 43,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Sunfuel+Banner.png",
+    "landmark": "Vasant Kunj",
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 272,
+        "id": 1
+      },
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 273,
+        "id": 2
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 1270,
+        "price_with_currency": "₹ 19.31",
+        "price": 19.31,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 1666,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.7,
+        "charger_name": "Sunfuel - Emporio 2",
+        "last_used_on": "28/12/2024"
+      },
+      {
+        "charger_id": 1813,
+        "price_with_currency": "₹ 19.31",
+        "price": 19.31,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 2542,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 7.7,
+        "charger_name": "Sunfuel - Emporio 1",
+        "last_used_on": "10/07/2025"
+      },
+      {
+        "charger_id": 1899,
+        "price_with_currency": "₹ 19.31",
+        "price": 19.31,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 2682,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 3,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 22.0,
+        "charger_name": "Sunfuel - Emporio 3",
+        "last_used_on": "06/06/2023"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 5,
+        "2": 2,
+        "3": 2,
+        "4": 2,
+        "5": 88
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "New Delhi",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 22.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 1890,
+      "station_name": "Sunfuel - DLF Emporio",
+      "latitude": 28.543743,
+      "longitude": 77.156593,
+      "address": "4, Nelson Mandela Marg, New Delhi, Delhi, 110070, India",
+      "area": "4, Nelson Mandela Marg",
+      "avg_review_rating": 4.67,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.543743,77.156593",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 4934,
+      "station_name": "GLIDA DLF Promenade",
+      "latitude": 28.542598,
+      "longitude": 77.156266,
+      "address": "DLF Promenade 3 Nelson Mandela Road, New Delhi, Delhi, 110070, India",
+      "area": "DLF Promenade 3 Nelson Mandela Road",
+      "avg_review_rating": 4.78,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.542598,77.156266",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    },
+    {
+      "id": 9847,
+      "station_name": "Vasant Kunj",
+      "latitude": 28.543318,
+      "longitude": 77.157888,
+      "address": "4, New Delhi, Delhi, 110070, India",
+      "area": "4",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.543318,77.157888",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15524,
+      "station_name": "Nelson Mandela Road (ONGC) by Reliable Charge Nelson Mandela Road opposite ONGC,  U Turn, Vasant Kunj II, Vasant Kunj, New Delhi, Delhi 110070",
+      "latitude": 28.54414,
+      "longitude": 77.158714,
+      "address": "Nelson Mandela Road opposite ONGC, New Delhi, Delhi, 110070, India",
+      "area": "Nelson Mandela Road opposite ONGC",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.54414,77.158714",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/yocharge_default.png"
+    },
+    {
+      "id": 10344,
+      "station_name": "Nelson Mandela Marg",
+      "latitude": 28.536038,
+      "longitude": 77.153067,
+      "address": "G5P3+C35, Delhi, Delhi, 110070, India",
+      "area": "G5P3+C35",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.536038,77.153067",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 3,
+  "dc_count": 0,
+  "ac_prices": [
+    19.31,
+    19.31,
+    19.31
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T07:59:19.150230+00:00",
+  "parse_success": true,
+  "missing_fields": [],
+  "coverage_pct": 100.0
+}

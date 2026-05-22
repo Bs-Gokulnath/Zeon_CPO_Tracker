@@ -1,0 +1,209 @@
+{
+  "station_id": 9719,
+  "station_detail": {
+    "station_id": 9719,
+    "station_name": "33/11 KV Lenin Nagar Sub Station",
+    "latitude": 17.32091,
+    "longitude": 78.517654,
+    "address": "Lenin Nagar, Badangpet Road, Hyderabad, Telangana, 500058, India",
+    "area": "Lenin Nagar, Badangpet Road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.32091,78.517654",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8799 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 3.95,
+    "no_of_reviews": 21,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": "33/11 KV Lenin Nagar SS",
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 12628,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 58738,
+        "price_with_currency": "₹ 13.0",
+        "price": 13.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 19073,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 19074,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "33/11 KV Lenin Nagar Sub Station",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 14,
+        "2": 5,
+        "3": 0,
+        "4": 33,
+        "5": 48
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Hyderabad",
+    "station_access_type": "public",
+    "availability": "Available in",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": [],
+    "waiting_time": "2026-05-21 14:20:50"
+  },
+  "nearby_stations": [
+    {
+      "id": 9719,
+      "station_name": "33/11 KV Lenin Nagar Sub Station",
+      "latitude": 17.32091,
+      "longitude": 78.517654,
+      "address": "Lenin Nagar, Badangpet Road, Hyderabad, Telangana, 500058, India",
+      "area": "Lenin Nagar, Badangpet Road",
+      "avg_review_rating": 3.95,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.32091,78.517654",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 9481,
+      "station_name": "M/s. S V GOUD FUEL POINT",
+      "latitude": 17.331111,
+      "longitude": 78.520278,
+      "address": "HYDERABAD, Hyderabad, Telangana, 500097, India",
+      "area": "HYDERABAD",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.331111,78.520278",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 13015,
+      "station_name": "ID(3e7e6d) RK ANURAGA FUEL MART",
+      "latitude": 17.337859,
+      "longitude": 78.527807,
+      "address": "Inner Ring Road, Jillalguda, Telangana, 500079, India",
+      "area": "Inner Ring Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.337859,78.527807",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 9365,
+      "station_name": "TKR Engineering College Road Near GHMC Ward Office",
+      "latitude": 17.330801,
+      "longitude": 78.537764,
+      "address": "Meerpet, TKR College Road, Hyderabad, Telangana, 500097, India",
+      "area": "Meerpet, TKR College Road",
+      "avg_review_rating": 4.46,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.330801,78.537764",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 4891,
+      "station_name": "GLIDA IOC Champapet",
+      "latitude": 17.348941,
+      "longitude": 78.513976,
+      "address": "Champapet Rd, Hyderabad, Telangana, 500079, India",
+      "area": "Champapet Rd",
+      "avg_review_rating": 4.62,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.348941,78.513976",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    13.0
+  ],
+  "scraped_at": "2026-05-21T08:07:13.942277+00:00",
+  "parse_success": true,
+  "missing_fields": [],
+  "coverage_pct": 100.0
+}

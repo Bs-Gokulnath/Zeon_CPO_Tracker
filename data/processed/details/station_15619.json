@@ -1,0 +1,198 @@
+{
+  "station_id": 15619,
+  "station_detail": {
+    "station_id": 15619,
+    "station_name": "BP-JIGANI",
+    "latitude": 12.77886,
+    "longitude": 77.64217,
+    "address": "\"NEAR DEVANAGONTHI RLY STN, 5K, JIGANI INDL AREA, ANEKAL TAL,\", Anekal, Karnataka, 562106, India",
+    "area": "\"NEAR DEVANAGONTHI RLY STN, 5K, JIGANI INDL AREA, ANEKAL TAL,\"",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.77886,77.64217",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8677 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 69126,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34621,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 34622,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "BP-JIGANI EVDC",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Anekal",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15619,
+      "station_name": "BP-JIGANI",
+      "latitude": 12.77886,
+      "longitude": 77.64217,
+      "address": "\"NEAR DEVANAGONTHI RLY STN, 5K, JIGANI INDL AREA, ANEKAL TAL,\", Anekal, Karnataka, 562106, India",
+      "area": "\"NEAR DEVANAGONTHI RLY STN, 5K, JIGANI INDL AREA, ANEKAL TAL,\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.77886,77.64217",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 2103,
+      "station_name": "BP Jigani Charging Station",
+      "latitude": 12.778751,
+      "longitude": 77.642075,
+      "address": "Jigani Layout, Bengaluru, Karnataka, 560105, India",
+      "area": "Jigani Layout",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.778751,77.642075",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 2105,
+      "station_name": "Jayadev Fuel Junction Charging Station",
+      "latitude": 12.799297,
+      "longitude": 77.624161,
+      "address": "Sy No. 104/1A1, Bengaluru, Karnataka, 562106, India",
+      "area": "Sy No. 104/1A1",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.799297,77.624161",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 9816,
+      "station_name": "SEETHA FUELS INC.",
+      "latitude": 12.81005,
+      "longitude": 77.665124,
+      "address": "NEAR DEVANAGONTHI RLY STN  JIGINI LINK ROAD KIADB SITE BOMMASANDRA PHASE, Bommasandra, Karnataka, 562106, India",
+      "area": "NEAR DEVANAGONTHI RLY STN  JIGINI LINK ROAD KIADB SITE BOMMASANDRA PHASE",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.81005,77.665124",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 6610,
+      "station_name": "REIL Seetha Fuels Inc",
+      "latitude": 12.81026,
+      "longitude": 77.665031,
+      "address": "Bommasandra, Bengaluru, Karnataka, 560099, India",
+      "area": "Bommasandra",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.81026,77.665031",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:16:25.532492+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

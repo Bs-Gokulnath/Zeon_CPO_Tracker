@@ -1,0 +1,214 @@
+{
+  "station_id": 1881,
+  "station_detail": {
+    "station_id": 1881,
+    "station_name": "Statiq x TATA.ev Old Rao Kapriwas Station",
+    "latitude": 28.244396,
+    "longitude": 76.81385,
+    "address": "In front parking of the Hotel, Gurugram, Haryana, 122413, India",
+    "area": "In front parking of the Hotel",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.244396,76.81385",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8728 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.64,
+    "no_of_reviews": 6769,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": "Near BML Munjal University",
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 263,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 60114,
+        "price_with_currency": "₹ 23.11",
+        "price": 23.11,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 21093,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Finished",
+            "connector_type_id": 1,
+            "connector_status": "finishing"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 21094,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 1,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 240.0,
+        "charger_name": "Old Rao Kapriwas DC Charger ",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 4,
+        "2": 1,
+        "3": 2,
+        "4": 14,
+        "5": 79
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Gurugram",
+    "station_access_type": "public",
+    "availability": "Available in",
+    "highest_power_rating": 240.0,
+    "charger_type_of_station": "DC",
+    "station_images": [
+      {
+        "id": 620,
+        "station_image_url": "$21"
+      }
+    ],
+    "waiting_time": "2026-05-21 13:57:54"
+  },
+  "nearby_stations": [
+    {
+      "id": 1881,
+      "station_name": "Statiq x TATA.ev Old Rao Kapriwas Station",
+      "latitude": 28.244396,
+      "longitude": 76.81385,
+      "address": "In front parking of the Hotel, Gurugram, Haryana, 122413, India",
+      "area": "In front parking of the Hotel",
+      "avg_review_rating": 4.64,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.244396,76.81385",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 8486,
+      "station_name": "HR | Gurgaon | Fortune Park Orange",
+      "latitude": 28.249543,
+      "longitude": 76.817437,
+      "address": "K.M. Stone 67, Gurgaon, Haryana, 122413, India",
+      "area": "K.M. Stone 67",
+      "avg_review_rating": 4.63,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.249543,76.817437",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/chargezonedefault.png"
+    },
+    {
+      "id": 8613,
+      "station_name": "M/s PICK-N-MOVE",
+      "latitude": 28.227848,
+      "longitude": 76.801586,
+      "address": "Rewari, Rewari, Haryana, 123106, India",
+      "area": "Rewari",
+      "avg_review_rating": 4.38,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.227848,76.801586",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 7522,
+      "station_name": "2014218-OM PETROMART PVT LTD",
+      "latitude": 28.270365,
+      "longitude": 76.835399,
+      "address": "GURGAON, Gurugram, Haryana, 122413, India",
+      "area": "GURGAON",
+      "avg_review_rating": 4.7,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.270365,76.835399",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 15426,
+      "station_name": "M/s HARYANA JAGRITI FUELS",
+      "latitude": 28.215024,
+      "longitude": 76.83348,
+      "address": "\"VILLAGE MAHESHWARI,  ON KAPRIWAS TO BHIWADI ROAD,  DISTRICT - REWARI,\", Rewari, Haryana, 123106, India",
+      "area": "\"VILLAGE MAHESHWARI,  ON KAPRIWAS TO BHIWADI ROAD,  DISTRICT - REWARI,\"",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.215024,76.83348",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    23.11
+  ],
+  "scraped_at": "2026-05-21T07:59:13.294358+00:00",
+  "parse_success": true,
+  "missing_fields": [],
+  "coverage_pct": 100.0
+}

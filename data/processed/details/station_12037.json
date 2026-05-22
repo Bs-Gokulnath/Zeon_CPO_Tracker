@@ -1,0 +1,222 @@
+{
+  "station_id": 12037,
+  "station_detail": {
+    "station_id": 12037,
+    "station_name": "Shriram Southern Crest 2",
+    "latitude": 12.905711,
+    "longitude": 77.572275,
+    "address": "Shriram Southern Crest 100, Bengaluru, Karnataka, 560112, India",
+    "area": "Shriram Southern Crest 100",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.905711,77.572275",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8670 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 63409,
+        "price_with_currency": "₹ 11.0",
+        "price": 11.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26215,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "ETP Shriram Southern Crest 2 1",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 63411,
+        "price_with_currency": "₹ 11.0",
+        "price": 11.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26217,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "ETP Shriram Southern Crest 2 2",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bengaluru",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 3.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12037,
+      "station_name": "Shriram Southern Crest 2",
+      "latitude": 12.905711,
+      "longitude": 77.572275,
+      "address": "Shriram Southern Crest 100, Bengaluru, Karnataka, 560112, India",
+      "area": "Shriram Southern Crest 100",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.905711,77.572275",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 13751,
+      "station_name": "DSCDS L2 CHARGER",
+      "latitude": 12.906448,
+      "longitude": 77.566739,
+      "address": "bengaluru, Bengaluru, Karnataka, 560078, India",
+      "area": "bengaluru",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.906448,77.566739",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483953+(2).png"
+    },
+    {
+      "id": 11162,
+      "station_name": "Shell Recharge Kanakapura",
+      "latitude": 12.897371,
+      "longitude": 77.570637,
+      "address": "Kanakapura 80 Ft Road, Bengaluru, Karnataka, 560078, India",
+      "area": "Kanakapura 80 Ft Road",
+      "avg_review_rating": 4.45,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.897371,77.570637",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
+    },
+    {
+      "id": 14473,
+      "station_name": "ACS Meghana & Shalini Car EV Point",
+      "latitude": 12.91848,
+      "longitude": 77.56384,
+      "address": "28th Cross Road, Bengaluru, Karnataka, 560070, India",
+      "area": "28th Cross Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.91848,77.56384",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    },
+    {
+      "id": 4940,
+      "station_name": "GLIDA Forum Mall Falcon City",
+      "latitude": 12.888538,
+      "longitude": 77.562933,
+      "address": "Forum Mall Falacan City Konanakunte Cross Metro Station, Bengaluru, Karnataka, 560062, India",
+      "area": "Forum Mall Falacan City Konanakunte Cross Metro Station",
+      "avg_review_rating": 4.54,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.888538,77.562933",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/banner/Glida/Glida-notselected-pin.png"
+    }
+  ],
+  "ac_count": 2,
+  "dc_count": 0,
+  "ac_prices": [
+    11.0,
+    11.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:11:09.263269+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

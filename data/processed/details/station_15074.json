@@ -1,0 +1,198 @@
+{
+  "station_id": 15074,
+  "station_detail": {
+    "station_id": 15074,
+    "station_name": "MERCURY FUEL",
+    "latitude": 12.9958,
+    "longitude": 80.0911,
+    "address": "38/2, KUNDRATUR VILLAGE, SRIPERU, KUNDRATHUR CHENNAI, KANCHEEPURAM, Chennai, Tamil Nadu, 600069, India",
+    "area": "38/2, KUNDRATUR VILLAGE, SRIPERU, KUNDRATHUR CHENNAI, KANCHEEPURAM",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.9958,80.0911",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8944 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 68108,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 33024,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 33025,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "MERCURY FUEL",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Chennai",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15074,
+      "station_name": "MERCURY FUEL",
+      "latitude": 12.9958,
+      "longitude": 80.0911,
+      "address": "38/2, KUNDRATUR VILLAGE, SRIPERU, KUNDRATHUR CHENNAI, KANCHEEPURAM, Chennai, Tamil Nadu, 600069, India",
+      "area": "38/2, KUNDRATUR VILLAGE, SRIPERU, KUNDRATHUR CHENNAI, KANCHEEPURAM",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.9958,80.0911",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 15072,
+      "station_name": "JSK FUEL STATION",
+      "latitude": 13.011556,
+      "longitude": 80.129095,
+      "address": "KUNDRATHUR PORUR MAIN ROAD CHENNAI 600122, Chennai, Tamil Nadu, 600122, India",
+      "area": "KUNDRATHUR PORUR MAIN ROAD CHENNAI 600122",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.011556,80.129095",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 14215,
+      "station_name": "REDINGTON CAR EV CHARGER",
+      "latitude": 12.974987,
+      "longitude": 80.12654,
+      "address": "velachery, Chennai, Tamil Nadu, 600075, India",
+      "area": "velachery",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.974987,80.12654",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+default+(8).png"
+    },
+    {
+      "id": 9637,
+      "station_name": "Cognizant Charging Station_MEPZ_Chennai, TN",
+      "latitude": 12.946109,
+      "longitude": 80.121196,
+      "address": "Cognizant Technology Solutions India Private Limited, MADRAS EXPORT PROCESSING ZONE (MEPZ),Plot No.A-17,D-2,C-10 & C-1,A-15 to 17,B-20 & A-33,NATIONAL HIGHWAY 45, TAMBARAM, Chennai, Chennai TN, Chennai, Tamil Nadu, 600045, India",
+      "area": "Cognizant Technology Solutions India Private Limited, MADRAS EXPORT PROCESSING ZONE (MEPZ),Plot No.A-17,D-2,C-10 & C-1,A-15 to 17,B-20 & A-33,NATIONAL HIGHWAY 45, TAMBARAM, Chennai, Chennai TN",
+      "avg_review_rating": 4.76,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.946109,80.121196",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    },
+    {
+      "id": 11242,
+      "station_name": "Shell Recharge Kattupakkam",
+      "latitude": 13.047137,
+      "longitude": 80.120003,
+      "address": "Poonamalle Taluk, Tiruvallur, Chennai, Tamil Nadu, 600056, India",
+      "area": "Poonamalle Taluk, Tiruvallur",
+      "avg_review_rating": 4.53,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=13.047137,80.120003",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://ap-south-1-statiq-shelldev-bucket.s3.ap-south-1.amazonaws.com/pins/Shell+Available+loc+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:15:08.543429+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

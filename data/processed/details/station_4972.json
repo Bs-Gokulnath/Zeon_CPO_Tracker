@@ -1,0 +1,204 @@
+{
+  "station_id": 4972,
+  "station_detail": {
+    "station_id": 4972,
+    "station_name": "GLIDA HMR NGRI",
+    "latitude": 17.414084,
+    "longitude": 78.547335,
+    "address": "Near Ngri, Hyderabad, Telangana, 500007, India",
+    "area": "Near Ngri",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.414084,78.547335",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8803 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 6,
+        "connector_name": "GBT",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png"
+      }
+    ],
+    "avg_review_rating": 4.57,
+    "no_of_reviews": 7,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Glida+Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 51968,
+        "price_with_currency": "₹ 18.99",
+        "price": 18.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 9755,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 6,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 9756,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 6,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 20.0,
+        "charger_name": "HYD0014",
+        "last_used_on": "04/11/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 14,
+        "4": 14,
+        "5": 71
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Hyderabad",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 20.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 4972,
+      "station_name": "GLIDA HMR NGRI",
+      "latitude": 17.414084,
+      "longitude": 78.547335,
+      "address": "Near Ngri, Hyderabad, Telangana, 500007, India",
+      "area": "Near Ngri",
+      "avg_review_rating": 4.57,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.414084,78.547335",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/unavailable+select.png"
+    },
+    {
+      "id": 3558,
+      "station_name": "Beside Shell Petrol pump EV Charging Station",
+      "latitude": 17.411079,
+      "longitude": 78.550262,
+      "address": "Uppal to NGRI Road, Beside Shell Petrol Pump, Hyderabad, Telangana, 500013, India",
+      "area": "Uppal to NGRI Road, Beside Shell Petrol Pump",
+      "avg_review_rating": 3.53,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.411079,78.550262",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 3559,
+      "station_name": "Habsiguda opposite metro pillar C929 EV Charging S",
+      "latitude": 17.409857,
+      "longitude": 78.552246,
+      "address": "Opposite Uppal Stadium, Metro pillar C929, Hyderabad, Telangana, 500013, India",
+      "area": "Opposite Uppal Stadium, Metro pillar C929",
+      "avg_review_rating": 4.28,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.409857,78.552246",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 4973,
+      "station_name": "GLIDA HMR Stadium",
+      "latitude": 17.40808,
+      "longitude": 78.553847,
+      "address": "HMR Stadium, Hyderabad, Telangana, 500039, India",
+      "area": "HMR Stadium",
+      "avg_review_rating": 4.59,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.40808,78.553847",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/unavailable+select.png"
+    },
+    {
+      "id": 4822,
+      "station_name": "REIL Uppal depot, Hyderabad, 500039",
+      "latitude": 17.40181,
+      "longitude": 78.560188,
+      "address": "Uppal depot, Hyderabad, Telangana, 500039, India",
+      "area": "Uppal depot",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.40181,78.560188",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    18.99
+  ],
+  "scraped_at": "2026-05-21T08:00:50.709906+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

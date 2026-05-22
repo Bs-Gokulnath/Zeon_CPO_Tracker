@@ -1,0 +1,363 @@
+{
+  "station_id": 12299,
+  "station_detail": {
+    "station_id": 12299,
+    "station_name": "Ecoplug Prithvi EV Charging Station",
+    "latitude": 26.80114,
+    "longitude": 81.00814,
+    "address": "Prithvi Puram Ahimamau Sultanpur Road, Lucknow, Uttar Pradesh, 226002, India",
+    "area": "Prithvi Puram Ahimamau Sultanpur Road",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.80114,81.00814",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "9126 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      },
+      {
+        "id": 3,
+        "connector_name": "Type-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Eplug.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 63781,
+        "price_with_currency": "₹ 17.0",
+        "price": 17.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26856,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 26857,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 5,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 3,
+            "connector_id": 26858,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 5,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 18.0,
+        "charger_name": "EPL Ecoplug Prithvi EV Charging Station 1",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 63782,
+        "price_with_currency": "₹ 17.0",
+        "price": 17.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26859,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 6.0,
+        "charger_name": "EPL Ecoplug Prithvi EV Charging Station 2",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 63783,
+        "price_with_currency": "₹ 17.0",
+        "price": 17.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26860,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 6.0,
+        "charger_name": "EPL Ecoplug Prithvi EV Charging Station 3",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 63784,
+        "price_with_currency": "₹ 17.0",
+        "price": 17.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26861,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 5,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 6.0,
+        "charger_name": "EPL Ecoplug Prithvi EV Charging Station 4",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 63785,
+        "price_with_currency": "₹ 17.0",
+        "price": 17.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26862,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 6.0,
+        "charger_name": "EPL Ecoplug Prithvi EV Charging Station 5",
+        "last_used_on": null
+      },
+      {
+        "charger_id": 63786,
+        "price_with_currency": "₹ 17.0",
+        "price": 17.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 26863,
+            "connector_type": "Type-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-2.png",
+            "availability": false,
+            "error_message": "Faulted",
+            "connector_type_id": 3,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 26864,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 5,
+            "connector_status": "charging"
+          },
+          {
+            "display_id": 3,
+            "connector_id": 26865,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": false,
+            "error_message": "Charging",
+            "connector_type_id": 5,
+            "connector_status": "charging"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 26.0,
+        "charger_name": "EPL Ecoplug Prithvi EV Charging Station 6",
+        "last_used_on": "15/11/2025"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Lucknow",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 26.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12299,
+      "station_name": "Ecoplug Prithvi EV Charging Station",
+      "latitude": 26.80114,
+      "longitude": 81.00814,
+      "address": "Prithvi Puram Ahimamau Sultanpur Road, Lucknow, Uttar Pradesh, 226002, India",
+      "area": "Prithvi Puram Ahimamau Sultanpur Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.80114,81.00814",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 11068,
+      "station_name": "Ecoplug Prithvi Resort",
+      "latitude": 26.800228,
+      "longitude": 81.008393,
+      "address": "Prithvipuram, Lucknow, Uttar Pradesh, 226002, India",
+      "area": "Prithvipuram",
+      "avg_review_rating": 3.78,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.800228,81.008393",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    },
+    {
+      "id": 8161,
+      "station_name": "Statiq Mercure Lucknow BMW Station",
+      "latitude": 26.807415,
+      "longitude": 81.010473,
+      "address": "Front Parking, Mercure Hotel, Plot No 7-2, Amar Shaheed Path, Ardonamau, Lucknow, Uttar Pradesh, 226010, India",
+      "area": "Front Parking, Mercure Hotel, Plot No 7-2, Amar Shaheed Path, Ardonamau",
+      "avg_review_rating": 4.7,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.807415,81.010473",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 8705,
+      "station_name": "Gomti Nagar Charging Station Lucknow",
+      "latitude": 26.824151,
+      "longitude": 81.012905,
+      "address": "plot no. 6/855, Lucknow, Uttar Pradesh, 226001, India",
+      "area": "plot no. 6/855",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.824151,81.012905",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/1c_normal.png"
+    },
+    {
+      "id": 12894,
+      "station_name": "Ecoplug Riverview Arcade Shopping Complex",
+      "latitude": 26.82676,
+      "longitude": 81.00859,
+      "address": "Sector-4, Lucknow, Uttar Pradesh, 226010, India",
+      "area": "Sector-4",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=26.82676,81.00859",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/eplug+default.png"
+    }
+  ],
+  "ac_count": 6,
+  "dc_count": 0,
+  "ac_prices": [
+    17.0,
+    17.0,
+    17.0,
+    17.0,
+    17.0,
+    17.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:11:40.172985+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

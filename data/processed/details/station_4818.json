@@ -1,0 +1,187 @@
+{
+  "station_id": 4818,
+  "station_detail": {
+    "station_id": 4818,
+    "station_name": "REIL SWATHI ENTERPRISES",
+    "latitude": 17.33639,
+    "longitude": 78.580437,
+    "address": "CFC Area Main Road Autonagar, Hyderabad, Telangana, 500074, India",
+    "area": "CFC Area Main Road Autonagar",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.33639,78.580437",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8806 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 6,
+        "connector_name": "GBT",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/REIL/REIL_Banner.png",
+    "landmark": "CFC Area Main Road Autonagar",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 51421,
+        "price_with_currency": "₹ 18.0",
+        "price": 18.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 8995,
+            "connector_type": "GBT",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/dc-001.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 6,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 15.0,
+        "charger_name": "EV CHARGER-01-DC001 15KW",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Hyderabad",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 15.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 4818,
+      "station_name": "REIL SWATHI ENTERPRISES",
+      "latitude": 17.33639,
+      "longitude": 78.580437,
+      "address": "CFC Area Main Road Autonagar, Hyderabad, Telangana, 500074, India",
+      "area": "CFC Area Main Road Autonagar",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.33639,78.580437",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 3668,
+      "station_name": "Sachivalaya nagar Community Hall EV Charging Stati",
+      "latitude": 17.328781,
+      "longitude": 78.572197,
+      "address": "Sachivalaya colony, Vanasthalipuram, Hyderabad, Telangana, 500070, India",
+      "area": "Sachivalaya colony, Vanasthalipuram",
+      "avg_review_rating": 3.77,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.328781,78.572197",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 3575,
+      "station_name": "Sachivalaya nagar Kaman EV Charging Station",
+      "latitude": 17.329096,
+      "longitude": 78.569298,
+      "address": "Sachivalaya nagar Kaman, Opp Water tank, Ranga Reddy district, Telangana, 500070, India",
+      "area": "Sachivalaya nagar Kaman, Opp Water tank",
+      "avg_review_rating": 4.81,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.329096,78.569298",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 1999,
+      "station_name": "E seva center NGO colony Charging Station",
+      "latitude": 17.328178,
+      "longitude": 78.568779,
+      "address": "Sachivalaya Colony, Ranga Reddy district, Telangana, 500070, India",
+      "area": "Sachivalaya Colony",
+      "avg_review_rating": 3.42,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.328178,78.568779",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 3901,
+      "station_name": "Vivekananda nagar park EV Charging Station",
+      "latitude": 17.327856,
+      "longitude": 78.565659,
+      "address": "NGO Colony, Sachivalaya Colony, Vanasthalipuram, Ranga Reddy district, Telangana, 500070, India",
+      "area": "NGO Colony, Sachivalaya Colony, Vanasthalipuram",
+      "avg_review_rating": 4.33,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.327856,78.565659",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    18.0
+  ],
+  "scraped_at": "2026-05-21T07:59:54.057776+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

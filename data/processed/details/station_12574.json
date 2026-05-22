@@ -1,0 +1,204 @@
+{
+  "station_id": 12574,
+  "station_detail": {
+    "station_id": 12574,
+    "station_name": "ID(m7ffyh) HP Auto Care Centre Waluj",
+    "latitude": 19.816369,
+    "longitude": 75.240177,
+    "address": "Waluj, Aurangabad, Maharashtra, 431136, India",
+    "area": "Waluj",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.816369,75.240177",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8475 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.0,
+    "no_of_reviews": 2,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/networks-logo/HP+E+charge-Banner.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 64205,
+        "price_with_currency": "₹ 15.05",
+        "price": 15.05,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 27504,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 27506,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 60.0,
+        "charger_name": "HPL ID(m7ffyh) HP Auto Care Centre Waluj 1",
+        "last_used_on": "21/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 0,
+        "2": 0,
+        "3": 50,
+        "4": 0,
+        "5": 50
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Aurangabad",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 60.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12574,
+      "station_name": "ID(m7ffyh) HP Auto Care Centre Waluj",
+      "latitude": 19.816369,
+      "longitude": 75.240177,
+      "address": "Waluj, Aurangabad, Maharashtra, 431136, India",
+      "area": "Waluj",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.816369,75.240177",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 10158,
+      "station_name": "2000851-ARIHANT AUTO CARE CENTER",
+      "latitude": 19.847334,
+      "longitude": 75.267061,
+      "address": "PLOTNO. 1-B, OPP AURANGABAD SPORTS CLUB, , Aurangabad, Maharashtra, 431005, India",
+      "area": "PLOTNO. 1-B, OPP AURANGABAD SPORTS CLUB, ",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.847334,75.267061",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 10146,
+      "station_name": "2015824-PARASON PETROLEUM",
+      "latitude": 19.79736,
+      "longitude": 75.29018,
+      "address": "GUT NO 58, ON PAITHAN ROAD, SH30, Aurangabad, Maharashtra, 431001, India",
+      "area": "GUT NO 58, ON PAITHAN ROAD, SH30",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.79736,75.29018",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7546,
+      "station_name": "2015250-BP WALUJ",
+      "latitude": 19.78101,
+      "longitude": 75.199325,
+      "address": "AURANGABAD, Aurangabad, Maharashtra, 431136, India",
+      "area": "AURANGABAD",
+      "avg_review_rating": 4.46,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.78101,75.199325",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 6936,
+      "station_name": "2012816-SHANTAI PETROLEUM",
+      "latitude": 19.86991,
+      "longitude": 75.2369,
+      "address": "BHARAT PETROLEUM DEALERS,  LASUR ROAD SHAHAJAPUR  SAHAJAPUR, AURANGABAD, Aurangabad, Maharashtra, 431002, India",
+      "area": "BHARAT PETROLEUM DEALERS,  LASUR ROAD SHAHAJAPUR  SAHAJAPUR, AURANGABAD",
+      "avg_review_rating": 4.48,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=19.86991,75.2369",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    15.05
+  ],
+  "scraped_at": "2026-05-21T08:12:17.106798+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}

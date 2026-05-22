@@ -1,0 +1,250 @@
+{
+  "station_id": 15445,
+  "station_detail": {
+    "station_id": 15445,
+    "station_name": "Statiq x TATA.ev Cubestop Khalghat Station",
+    "latitude": 22.27255,
+    "longitude": 75.48892,
+    "address": "Mumbai Indore highway, Bhodal, Lodhipur, Dharampuri, Madhya Pradesh, 454552, India",
+    "area": "Mumbai Indore highway, Bhodal, Lodhipur",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.27255,75.48892",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8526 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.57,
+    "no_of_reviews": 76,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/branding_logo/statiq/Statiq-banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 13410,
+        "id": 1
+      },
+      {
+        "type": "Cafe",
+        "icon": "https://d3orevttu06iqr.cloudfront.net/amenities_icons/cafe.png",
+        "map_id": 13411,
+        "id": 2
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 68706,
+        "price_with_currency": "₹ 23.99",
+        "price": 23.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34041,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 34042,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 1,
+            "connector_status": "available"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 360.0,
+        "charger_name": "Cubestop Khalghat DC Charger 1",
+        "last_used_on": "20/05/2026"
+      },
+      {
+        "charger_id": 68707,
+        "price_with_currency": "₹ 21.99",
+        "price": 21.99,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 34043,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 34044,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 240.0,
+        "charger_name": "Cubestop Khalghat DC Charger 2",
+        "last_used_on": "15/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 3,
+        "2": 3,
+        "3": 7,
+        "4": 12,
+        "5": 76
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Dharampuri",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 360.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 15445,
+      "station_name": "Statiq x TATA.ev Cubestop Khalghat Station",
+      "latitude": 22.27255,
+      "longitude": 75.48892,
+      "address": "Mumbai Indore highway, Bhodal, Lodhipur, Dharampuri, Madhya Pradesh, 454552, India",
+      "area": "Mumbai Indore highway, Bhodal, Lodhipur",
+      "avg_review_rating": 4.56,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.27255,75.48892",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 15411,
+      "station_name": "Statiq x TATA.ev Cubestop Eklera Station",
+      "latitude": 22.2437,
+      "longitude": 75.4706,
+      "address": "Cube Stop At Land Khasra No. 42/1/B, Nh-3, Agra Mumbai Highway Village Eklera Khurd, Dharampuri, Madhya Pradesh, 454552, India",
+      "area": "Cube Stop At Land Khasra No. 42/1/B, Nh-3, Agra Mumbai Highway Village Eklera Khurd",
+      "avg_review_rating": 4.64,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.2437,75.4706",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 13251,
+      "station_name": "ID(paugp9)Shivam fuels",
+      "latitude": 22.330938,
+      "longitude": 75.500842,
+      "address": "Mumbai - Agra Road, Kakadda, Madhya Pradesh, 451224, India",
+      "area": "Mumbai - Agra Road",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.330938,75.500842",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 13040,
+      "station_name": "ID(dqqzdv)Muvel filling station",
+      "latitude": 22.240132,
+      "longitude": 75.372003,
+      "address": "Chadawad, Chadawad, Madhya Pradesh, 454552, India",
+      "area": "Chadawad",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.240132,75.372003",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 14782,
+      "station_name": "PANCHESHWAR PETROL PUMP",
+      "latitude": 22.087551,
+      "longitude": 75.417599,
+      "address": "Gram Mukundpura, NH-3K Hargo, Khargone, Kasrawad, Madhya Pradesh, 451660, India",
+      "area": "Gram Mukundpura, NH-3K Hargo, Khargone",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=22.087551,75.417599",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 2,
+  "ac_prices": [],
+  "dc_prices": [
+    23.99,
+    21.99
+  ],
+  "scraped_at": "2026-05-21T08:15:55.771334+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

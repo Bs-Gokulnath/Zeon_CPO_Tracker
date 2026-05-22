@@ -1,0 +1,203 @@
+{
+  "station_id": 12435,
+  "station_detail": {
+    "station_id": 12435,
+    "station_name": "Yashodhan Petroleum",
+    "latitude": 17.151202,
+    "longitude": 74.564787,
+    "address": "sangli SH-60, Sangli - Vita Rd, Sangli, Maharashtra, 416312, India",
+    "area": "sangli SH-60, Sangli - Vita Rd",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.151202,74.564787",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8378 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 2.5,
+    "no_of_reviews": 4,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": "angli SH-60, Sangli - Vita Rd",
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 64063,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 27266,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          },
+          {
+            "display_id": 2,
+            "connector_id": 27267,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "faulted"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 120.0,
+        "charger_name": "Yashodhan Petroleum",
+        "last_used_on": "17/04/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 50,
+        "2": 0,
+        "3": 0,
+        "4": 50,
+        "5": 0
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Sangli",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 120.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 12435,
+      "station_name": "Yashodhan Petroleum",
+      "latitude": 17.151202,
+      "longitude": 74.564787,
+      "address": "sangli SH-60, Sangli - Vita Rd, Sangli, Maharashtra, 416312, India",
+      "area": "sangli SH-60, Sangli - Vita Rd",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.151202,74.564787",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 8310,
+      "station_name": "M/S DHONDIRAJ PETROLEUM",
+      "latitude": 17.10042,
+      "longitude": 74.437209,
+      "address": "KARAD-PALUS ROAD, VILLAGE & TALUKA PALUS, DISTRICT SANGLI, Sangli, Maharashtra, 416310, India",
+      "area": "KARAD-PALUS ROAD, VILLAGE & TALUKA PALUS, DISTRICT SANGLI",
+      "avg_review_rating": 4.91,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.10042,74.437209",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 12981,
+      "station_name": "ID(44ww95) Shankar Petroleum",
+      "latitude": 17.025935,
+      "longitude": 74.638896,
+      "address": "Awaghade Mala, Awaghade Mala, Maharashtra, India",
+      "area": "Awaghade Mala",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.025935,74.638896",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/GMR+selected+pin.png"
+    },
+    {
+      "id": 8157,
+      "station_name": "M/s.KADAM FUELS",
+      "latitude": 17.010189,
+      "longitude": 74.610055,
+      "address": " Sangali-Tasgaon Road, Tasgaon, Sangli, Maharashtra, 416312, India",
+      "area": " Sangali-Tasgaon Road, Tasgaon",
+      "avg_review_rating": 4.69,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.010189,74.610055",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    },
+    {
+      "id": 8316,
+      "station_name": "SP PETROLEUM",
+      "latitude": 17.267016,
+      "longitude": 74.697768,
+      "address": "M/S SP PETROLEUM BPCL, ON NH-166E, VILLAGE KHANAPUR, TALUKA KHANAPUR, DISTRICT SANGLI, Sangli, Maharashtra, 415307, India",
+      "area": "M/S SP PETROLEUM BPCL, ON NH-166E, VILLAGE KHANAPUR, TALUKA KHANAPUR, DISTRICT SANGLI",
+      "avg_review_rating": 4.63,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=17.267016,74.697768",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/BPCL+-+default.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:11:56.498477+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "amenities_icon"
+  ],
+  "coverage_pct": 95.5
+}

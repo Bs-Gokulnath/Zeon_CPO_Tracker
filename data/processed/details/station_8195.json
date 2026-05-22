@@ -1,0 +1,210 @@
+{
+  "station_id": 8195,
+  "station_detail": {
+    "station_id": 8195,
+    "station_name": "JAWALA SERVICE STATION",
+    "latitude": 28.45608,
+    "longitude": 77.04638,
+    "address": "BHARAT PETROLEUM CORPORATION LTD JAWALA SERVICE STATION, DEALER BHARAT PETROLEUM CORPORATION LTD, ON NH08, DELHI JAIPUR ROAD, GURGAON, Gurugram, Haryana, 122001, India",
+    "area": "BHARAT PETROLEUM CORPORATION LTD JAWALA SERVICE STATION, DEALER BHARAT PETROLEUM CORPORATION LTD, ON NH08, DELHI JAIPUR ROAD, GURGAON",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.45608,77.04638",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8753 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 1,
+        "connector_name": "CCS-2",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png"
+      }
+    ],
+    "avg_review_rating": 4.82,
+    "no_of_reviews": 300,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": false,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/bpcl+banner.png",
+    "landmark": null,
+    "amenities_icon": [
+      {
+        "type": "Restroom",
+        "icon": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/amenities_icons/restroom.png",
+        "map_id": 12062,
+        "id": 1
+      }
+    ],
+    "plugin_details": [
+      {
+        "charger_id": 56550,
+        "price_with_currency": "₹ 14.0",
+        "price": 14.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 15360,
+            "connector_type": "CCS-2",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/ccs-2.png",
+            "availability": false,
+            "error_message": "Disconnected",
+            "connector_type_id": 1,
+            "connector_status": "unavailable"
+          }
+        ],
+        "type": "DC",
+        "power_rating": 30.0,
+        "charger_name": "JAWALA SERVICE STATION",
+        "last_used_on": "13/05/2026"
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {
+        "1": 1,
+        "2": 0,
+        "3": 2,
+        "4": 8,
+        "5": 88
+      }
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Gurugram",
+    "station_access_type": "public",
+    "availability": "Unavailable",
+    "highest_power_rating": 30.0,
+    "charger_type_of_station": "DC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 8195,
+      "station_name": "JAWALA SERVICE STATION",
+      "latitude": 28.45608,
+      "longitude": 77.04638,
+      "address": "BHARAT PETROLEUM CORPORATION LTD JAWALA SERVICE STATION, DEALER BHARAT PETROLEUM CORPORATION LTD, ON NH08, DELHI JAIPUR ROAD, GURGAON, Gurugram, Haryana, 122001, India",
+      "area": "BHARAT PETROLEUM CORPORATION LTD JAWALA SERVICE STATION, DEALER BHARAT PETROLEUM CORPORATION LTD, ON NH08, DELHI JAIPUR ROAD, GURGAON",
+      "avg_review_rating": 4.82,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.45608,77.04638",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 7144,
+      "station_name": "2003306-JAWALA SERVICE STATION",
+      "latitude": 28.455853,
+      "longitude": 77.046393,
+      "address": "GURGAON, Gurugram, Haryana, 122001, India",
+      "area": "GURGAON",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.455853,77.046393",
+      "is_connected": false,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/unavailable.png"
+    },
+    {
+      "id": 4971,
+      "station_name": "GLIDA MG Gurgaon Sector 15",
+      "latitude": 28.46147,
+      "longitude": 77.050334,
+      "address": "32 Milestone, Gurugram, Haryana, 122001, India",
+      "area": "32 Milestone",
+      "avg_review_rating": 4.76,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.46147,77.050334",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/branding_logo/unavailable+select.png"
+    },
+    {
+      "id": 1728,
+      "station_name": "Statiq JMD Pacific Square Station",
+      "latitude": 28.463993,
+      "longitude": 77.048721,
+      "address": "95A PartII, Gurugram, Haryana, 122022, India",
+      "area": "95A PartII",
+      "avg_review_rating": 4.76,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.463993,77.048721",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 1991,
+      "station_name": "Statiq Uniworld City Station",
+      "latitude": 28.457914,
+      "longitude": 77.055672,
+      "address": "Uniworld City, Gurugram, Haryana, 122001, India",
+      "area": "Uniworld City",
+      "avg_review_rating": 4.49,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=28.457914,77.055672",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        },
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    }
+  ],
+  "ac_count": 0,
+  "dc_count": 1,
+  "ac_prices": [],
+  "dc_prices": [
+    14.0
+  ],
+  "scraped_at": "2026-05-21T08:04:06.449861+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark"
+  ],
+  "coverage_pct": 95.5
+}

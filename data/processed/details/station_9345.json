@@ -1,0 +1,188 @@
+{
+  "station_id": 9345,
+  "station_detail": {
+    "station_id": 9345,
+    "station_name": "NDS Ecomotors - 0001",
+    "latitude": 12.912931,
+    "longitude": 77.595646,
+    "address": "129, Bengaluru, Karnataka, 560078, India",
+    "area": "129",
+    "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.912931,77.595646",
+    "closing_status": {
+      "text": "Open Now",
+      "text_color": "#12D377"
+    },
+    "total_distance": "8673 kms",
+    "operational_time": "24 hours",
+    "connector_types": [
+      {
+        "id": 5,
+        "connector_name": "Wall",
+        "connector_image_url": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png"
+      }
+    ],
+    "avg_review_rating": 0.0,
+    "no_of_reviews": 0,
+    "station_image_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-stations-images/default-charging-station.jpg",
+    "is_connected": true,
+    "station_banner": "https://d3orevttu06iqr.cloudfront.net/banner/Tecell+Banner+2.png",
+    "landmark": null,
+    "amenities_icon": [],
+    "plugin_details": [
+      {
+        "charger_id": 58418,
+        "price_with_currency": "₹ 0",
+        "price": 0.0,
+        "currency": "INR",
+        "symbol": "₹",
+        "connectors": [
+          {
+            "display_id": 1,
+            "connector_id": 18426,
+            "connector_type": "Wall",
+            "connector_image": "https://d3orevttu06iqr.cloudfront.net/connector_images/type-1.png",
+            "availability": true,
+            "error_message": "Faulted",
+            "connector_type_id": 5,
+            "connector_status": "available"
+          }
+        ],
+        "type": "AC",
+        "power_rating": 3.0,
+        "charger_name": "TEC NDS Ecomotors - 0001 2",
+        "last_used_on": null
+      }
+    ],
+    "review_stats": {
+      "percentage_per_star": {}
+    },
+    "map_pin_url": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png",
+    "steps_to_reach": false,
+    "station_city_name": "Bengaluru",
+    "station_access_type": "public",
+    "availability": "Available",
+    "highest_power_rating": 3.0,
+    "charger_type_of_station": "AC",
+    "station_images": []
+  },
+  "nearby_stations": [
+    {
+      "id": 9345,
+      "station_name": "NDS Ecomotors - 0001",
+      "latitude": 12.912931,
+      "longitude": 77.595646,
+      "address": "129, Bengaluru, Karnataka, 560078, India",
+      "area": "129",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.912931,77.595646",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/branding_logo/offline-pin/unavailable+pin.png"
+    },
+    {
+      "id": 15656,
+      "station_name": "Statiq Mantri Junction Station",
+      "latitude": 12.916613,
+      "longitude": 77.592418,
+      "address": "WH8R+JXM, S End C Cross Rd, KSRTC Layout, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka, 560078, India",
+      "area": "WH8R+JXM, S End C Cross Rd, KSRTC Layout, 2nd Phase, J. P. Nagar",
+      "avg_review_rating": 4.73,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.916613,77.592418",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/normal+pin.png"
+    },
+    {
+      "id": 5202,
+      "station_name": "KA | Bengaluru | The Pavilion 2",
+      "latitude": 12.903948,
+      "longitude": 77.601469,
+      "address": "Hyundai EVCS, Bengaluru, Karnataka, 560076, India",
+      "area": "Hyundai EVCS",
+      "avg_review_rating": 4.64,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.903948,77.601469",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "DC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/network-branding/Hyundai/hyundai-online-not-selected.png"
+    },
+    {
+      "id": 12340,
+      "station_name": "L2STTEST",
+      "latitude": 12.914914,
+      "longitude": 77.616525,
+      "address": "Someshwara Colony, Bengaluru, Karnataka, 560076, India",
+      "area": "Someshwara Colony",
+      "avg_review_rating": 0.0,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.914914,77.616525",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 1,
+      "is_community_listed": false,
+      "branding_logo": "https://d3orevttu06iqr.cloudfront.net/charging-pin/Group+483952+(1).png"
+    },
+    {
+      "id": 6902,
+      "station_name": "Statiq Prestige St John’s Wood BMW Station",
+      "latitude": 12.9294,
+      "longitude": 77.6099,
+      "address": "Right side from the main entrance of Tavarakere road gate, Tavarekere, Adugodi,, Bengaluru, Karnataka, 560029, India",
+      "area": "Right side from the main entrance of Tavarakere road gate, Tavarekere, Adugodi,",
+      "avg_review_rating": 4.3,
+      "navigation_link": "https://www.google.com/maps/search/?api=1&query=12.9294,77.6099",
+      "is_connected": true,
+      "station_type": [
+        {
+          "type": "AC",
+          "bg_color": "#F4F4F7",
+          "text_color": "#101941"
+        }
+      ],
+      "access_type": 2,
+      "is_community_listed": false,
+      "branding_logo": "https://statiq-images-prod.s3.ap-south-1.amazonaws.com/charging-pin/Captive.png"
+    }
+  ],
+  "ac_count": 1,
+  "dc_count": 0,
+  "ac_prices": [
+    0.0
+  ],
+  "dc_prices": [],
+  "scraped_at": "2026-05-21T08:06:01.815775+00:00",
+  "parse_success": true,
+  "missing_fields": [
+    "landmark",
+    "amenities_icon"
+  ],
+  "coverage_pct": 90.9
+}
