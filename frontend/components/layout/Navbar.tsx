@@ -11,6 +11,7 @@ import { cn } from "@/lib/utils";
 const NAV_ITEMS = [
   { href: "/dashboard",  label: "Dashboard" },
   { href: "/analytics",  label: "Analytics" },
+  { href: "/maps",       label: "Maps"      },
   { href: "/compare",    label: "Compare"   },
 ];
 
@@ -24,7 +25,7 @@ export function Navbar() {
         <div className="w-7 h-7 rounded-lg bg-primary/10 border border-primary/20 flex items-center justify-center">
           <Zap className="w-3.5 h-3.5 text-primary" />
         </div>
-        <span className="font-semibold text-sm hidden sm:inline">Zeon EV Scrape</span>
+        <span className="font-semibold text-sm hidden sm:inline">Zeon CPO Tracker</span>
       </Link>
 
       {/* Nav links — desktop */}
