@@ -6,7 +6,7 @@ import { Providers } from "@/components/providers";
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata: Metadata = {
-  title: "Statiq EV Intelligence",
+  title: "Zeon CPO Tracker",
   description: "Real-time EV charging station intelligence for India",
 };
 

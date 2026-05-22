@@ -1,5 +1,6 @@
 "use client";
 
+import { useMemo } from "react";
 import { AlertCircle, ArrowLeft } from "lucide-react";
 import Link from "next/link";
 import { Navbar }                from "@/components/layout/Navbar";
@@ -10,11 +11,24 @@ import { MiniMap }               from "@/components/station/MiniMap";
 import { ReviewSummary }         from "@/components/station/ReviewSummary";
 import { StationDetailSkeleton } from "@/components/station/StationDetailSkeleton";
 import { useStation }            from "@/hooks/useStation";
+import { useLiveStatus }         from "@/hooks/useLiveStatus";
+import type { LiveStatus }       from "@/types/station";
 
 interface Props { id: number }
 
 export function StationDetailShell({ id }: Props) {
   const { data: station, isLoading, isError } = useStation(id);
+  const { data: live, isLoading: liveLoading, isError: liveError } = useLiveStatus(id);
+
+  // Build a map of connector_id → live status for O(1) lookup in ChargingDetails
+  const liveConnectorMap = useMemo(() => {
+    if (!live?.connectors) return null;
+    const map = new Map<number, { available: boolean; status: string | null; error: string | null }>();
+    for (const c of live.connectors) {
+      if (c.connector_id != null) map.set(c.connector_id, { available: c.available, status: c.status, error: c.error });
+    }
+    return map;
+  }, [live]);
 
   if (isLoading) return <StationDetailSkeleton />;
 
@@ -60,11 +74,19 @@ export function StationDetailShell({ id }: Props) {
           Back to Dashboard
         </Link>
 
-        <StationHero station={station} />
+        <StationHero
+          station={station}
+          liveStatus={live ?? null}
+          liveLoading={liveLoading}
+          liveError={liveError}
+        />
 
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
           <div className="lg:col-span-2 space-y-6">
-            <ChargingDetails chargers={station.chargers} />
+            <ChargingDetails
+              chargers={station.chargers}
+              liveConnectorMap={liveConnectorMap}
+            />
             <ReviewSummary summary={station.review_summary} />
           </div>
 

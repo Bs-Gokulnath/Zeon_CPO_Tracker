@@ -6,6 +6,18 @@ export const apiClient = axios.create({
   baseURL: BASE_URL,
   timeout: 15_000,
   headers: { "Content-Type": "application/json" },
+  paramsSerializer: (params) => {
+    const qs = new URLSearchParams();
+    for (const [key, val] of Object.entries(params)) {
+      if (val == null || val === "") continue;
+      if (Array.isArray(val)) {
+        val.forEach((v) => qs.append(key, String(v)));
+      } else {
+        qs.append(key, String(val));
+      }
+    }
+    return qs.toString();
+  },
 });
 
 apiClient.interceptors.response.use(
@@ -22,7 +34,13 @@ export async function apiFetch<T>(
   config?: AxiosRequestConfig
 ): Promise<T> {
   const cleaned = params
-    ? Object.fromEntries(Object.entries(params).filter(([, v]) => v != null && v !== ""))
+    ? Object.fromEntries(
+        Object.entries(params).filter(([, v]) => {
+          if (v == null || v === "") return false;
+          if (Array.isArray(v) && v.length === 0) return false;
+          return true;
+        })
+      )
     : undefined;
   const { data } = await apiClient.get<T>(path, { params: cleaned, ...config });
   return data;

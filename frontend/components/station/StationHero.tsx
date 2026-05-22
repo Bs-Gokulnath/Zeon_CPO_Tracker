@@ -1,10 +1,10 @@
 "use client";
 
-import { MapPin, Star, Clock, Navigation, Share2, Zap, Shield } from "lucide-react";
+import { MapPin, Star, Clock, Navigation, Share2, Zap, Shield, Loader2, WifiOff, CheckCircle2 } from "lucide-react";
 import { StatusBadge } from "@/components/shared/StatusBadge";
 import { ChargerTypeBadge } from "@/components/shared/ChargerTypeBadge";
 import { cn } from "@/lib/utils";
-import type { StationDetail } from "@/types/station";
+import type { StationDetail, LiveStatus } from "@/types/station";
 
 function getHeroBg(chargerType: string | null) {
   switch (chargerType) {
@@ -15,12 +15,21 @@ function getHeroBg(chargerType: string | null) {
   }
 }
 
-interface Props { station: StationDetail }
+interface Props {
+  station:     StationDetail;
+  liveStatus:  LiveStatus | null;
+  liveLoading: boolean;
+  liveError:   boolean;
+}
 
-export function StationHero({ station }: Props) {
+export function StationHero({ station, liveStatus, liveLoading, liveError }: Props) {
   const rating   = station.avg_rating ? parseFloat(station.avg_rating) : null;
   const isPublic = station.access_type?.toLowerCase() === "public";
   const is24h    = station.operational_time?.toLowerCase().includes("24") ?? false;
+
+  // Prefer live availability, fall back to cached
+  const availability = liveStatus?.availability ?? station.availability;
+  const isAvailable  = availability === "Available";
 
   const mapsUrl = station.navigation_link
     ?? (station.latitude && station.longitude
@@ -98,7 +107,52 @@ export function StationHero({ station }: Props) {
           </div>
 
           <div className="flex flex-col items-start sm:items-end gap-1.5 shrink-0">
-            <StatusBadge availability={station.availability} />
+            {/* Connector availability + live indicator */}
+            <div className="flex items-center gap-1.5">
+              <span className={cn(
+                "inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full text-xs font-semibold border",
+                isAvailable
+                  ? "bg-green-500/10 text-green-400 border-green-500/20"
+                  : "bg-red-500/10 text-red-400 border-red-500/20"
+              )}>
+                <span className={cn(
+                  "w-1.5 h-1.5 rounded-full",
+                  isAvailable ? "bg-green-400" : "bg-red-400",
+                  liveStatus && !liveError && "animate-pulse"
+                )} />
+                {availability ?? "Unknown"}
+              </span>
+              {liveLoading && (
+                <span className="flex items-center gap-1 text-[10px] text-muted-foreground">
+                  <Loader2 className="w-3 h-3 animate-spin" />
+                  Fetching live…
+                </span>
+              )}
+              {liveStatus && !liveError && (
+                <span className="flex items-center gap-1 text-[10px] font-semibold text-green-400 bg-green-500/10 border border-green-500/20 px-1.5 py-0.5 rounded-full">
+                  <span className="w-1.5 h-1.5 rounded-full bg-green-400 animate-pulse" />
+                  LIVE
+                </span>
+              )}
+              {liveError && (
+                <span className="flex items-center gap-1 text-[10px] text-muted-foreground" title="Could not fetch live data">
+                  <WifiOff className="w-3 h-3" />
+                  Cached
+                </span>
+              )}
+            </div>
+            {/* Operational status (Open Now / Closed) — from live data */}
+            {liveStatus?.closing_status && (
+              <span className={cn(
+                "inline-flex items-center gap-1 text-xs font-medium",
+                liveStatus.closing_status.toLowerCase().includes("open")
+                  ? "text-green-400"
+                  : "text-red-400"
+              )}>
+                <CheckCircle2 className="w-3 h-3" />
+                {liveStatus.closing_status}
+              </span>
+            )}
             {rating != null && (
               <span className="flex items-center gap-1 text-sm">
                 <Star className="w-4 h-4 fill-amber-400 text-amber-400" />

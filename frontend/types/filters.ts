@@ -3,12 +3,12 @@ export type SortBy =
   | "connector_count" | "charger_count" | "name" | "id";
 
 export interface StationFilters {
-  state_id?:          number;
-  city_id?:           number;
-  operator_id?:       number;
-  charger_type?:      "AC" | "DC" | "Mixed";
+  state_id?:          number[];
+  city_id?:           number[];
+  operator_id?:       number[];
+  charger_type?:      string[];
+  access_type?:       string[];
   connector_type_id?: number;
-  access_type?:       "public" | "captive";
   availability?:      "Available";
   min_kw?:            number;
   max_kw?:            number;

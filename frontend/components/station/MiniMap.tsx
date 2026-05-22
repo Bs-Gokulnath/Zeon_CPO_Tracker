@@ -4,7 +4,7 @@ const MiniMapInner = dynamic(
   () => import("./MiniMapInner").then((m) => ({ default: m.MiniMapInner })),
   {
     ssr:     false,
-    loading: () => <div className="h-[200px] bg-muted animate-pulse" />,
+    loading: () => <div className="h-[220px] bg-muted animate-pulse rounded-xl" />,
   }
 );
 

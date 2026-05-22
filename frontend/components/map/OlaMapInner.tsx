@@ -33,11 +33,17 @@ function toGeoJSON(points: MapPoint[]) {
   };
 }
 
-interface Props { points: MapPoint[] }
+interface Props {
+  points:          MapPoint[];
+  onStationClick?: (id: number) => void;
+  flyTo?:          { lat: number; lng: number; zoom?: number } | null;
+}
 
-export function OlaMapInner({ points }: Props) {
-  const containerRef = useRef<HTMLDivElement>(null);
-  const mapRef       = useRef<any>(null);
+export function OlaMapInner({ points, onStationClick, flyTo }: Props) {
+  const containerRef      = useRef<HTMLDivElement>(null);
+  const mapRef            = useRef<any>(null);
+  const onClickRef        = useRef(onStationClick);
+  onClickRef.current      = onStationClick;
 
   useEffect(() => {
     if (!containerRef.current || mapRef.current) return;
@@ -167,35 +173,11 @@ export function OlaMapInner({ points }: Props) {
           });
         });
 
-        // Dot click → popup
+        // Dot click → open side panel
         map.on("click", "stations-dot", (e: any) => {
           const [feat] = map.queryRenderedFeatures(e.point, { layers: ["stations-dot"] });
           if (!feat) return;
-          const { id, availability, charger_type, color } = feat.properties;
-          const isAvail = availability === "Available";
-
-          new mgl.Popup({ offset: 14, maxWidth: "220px" })
-            .setLngLat(feat.geometry.coordinates.slice())
-            .setHTML(`
-              <div style="font-family:system-ui,sans-serif;padding:2px 0">
-                <p style="font-weight:700;font-size:13px;margin:0 0 8px;color:#f8fafc">Station #${id}</p>
-                <div style="display:flex;gap:12px;margin-bottom:8px">
-                  <span style="display:flex;align-items:center;gap:5px;font-size:12px;color:#cbd5e1">
-                    <span style="width:9px;height:9px;border-radius:50%;background:${color};display:inline-block"></span>
-                    ${charger_type || "—"}
-                  </span>
-                  <span style="display:flex;align-items:center;gap:5px;font-size:12px;color:#cbd5e1">
-                    <span style="width:9px;height:9px;border-radius:50%;background:${isAvail ? "#4ade80" : "#6b7280"};display:inline-block"></span>
-                    ${isAvail ? "Available" : (availability || "Unknown")}
-                  </span>
-                </div>
-                <a href="/station/${id}" target="_blank"
-                  style="display:block;text-align:center;padding:5px 10px;background:#3b82f6;color:#fff;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none">
-                  View Station →
-                </a>
-              </div>
-            `)
-            .addTo(map);
+          onClickRef.current?.(feat.properties.id);
         });
       });
 
@@ -217,6 +199,13 @@ export function OlaMapInner({ points }: Props) {
     if (!map || !map.isStyleLoaded?.()) return;
     map.getSource("stations")?.setData(toGeoJSON(points));
   }, [points]);
+
+  // Fly to a station when selected from search
+  useEffect(() => {
+    const map = mapRef.current;
+    if (!map || !flyTo) return;
+    map.flyTo({ center: [flyTo.lng, flyTo.lat], zoom: flyTo.zoom ?? 15, duration: 1200 });
+  }, [flyTo]);
 
   return <div ref={containerRef} className="w-full h-full" />;
 }

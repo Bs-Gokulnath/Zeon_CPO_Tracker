@@ -1,24 +1,42 @@
 "use client";
 
+import { useState } from "react";
 import dynamic from "next/dynamic";
 import { Navbar } from "@/components/layout/Navbar";
 import { Skeleton } from "@/components/ui/skeleton";
 import { useGeoPoints } from "@/hooks/useGeoPoints";
+import { StationMapPanel } from "@/components/map/StationMapPanel";
+import { MapSearchBar } from "@/components/map/MapSearchBar";
 import { Zap, MapPin, Circle } from "lucide-react";
+import type { SearchHit } from "@/types/station";
 
 const OlaMapInner = dynamic(
   () => import("@/components/map/OlaMapInner").then((m) => m.OlaMapInner),
   { ssr: false, loading: () => <Skeleton className="w-full h-full rounded-none" /> }
 );
 
+interface FlyTarget { lat: number; lng: number; zoom?: number }
+
 export function MapsShell() {
   const { data: points = [], isLoading } = useGeoPoints();
+  const [selectedId, setSelectedId] = useState<number | null>(null);
+  const [flyTo, setFlyTo]           = useState<FlyTarget | null>(null);
 
   const total     = points.length;
   const available = points.filter((p) => p.availability === "Available").length;
   const ac        = points.filter((p) => p.charger_type === "AC").length;
   const dc        = points.filter((p) => p.charger_type === "DC").length;
   const mixed     = points.filter((p) => p.charger_type === "Mixed").length;
+
+  function handleSearchSelect(hit: SearchHit) {
+    // Try to find coordinates in already-loaded geo points first
+    const pt = points.find((p) => p.id === hit.id);
+    if (pt?.latitude && pt?.longitude) {
+      setFlyTo({ lat: parseFloat(pt.latitude), lng: parseFloat(pt.longitude), zoom: 15 });
+    }
+    // Open the detail panel regardless (it will fetch full details)
+    setSelectedId(hit.id);
+  }
 
   return (
     <div className="flex flex-col h-screen bg-background">
@@ -77,7 +95,27 @@ export function MapsShell() {
             </div>
           </div>
         ) : (
-          <OlaMapInner points={points} />
+          <OlaMapInner
+            points={points}
+            onStationClick={setSelectedId}
+            flyTo={flyTo}
+          />
+        )}
+
+        {/* Floating search bar */}
+        {!isLoading && (
+          <div className="absolute top-3 left-1/2 -translate-x-1/2 w-[420px] max-w-[calc(100vw-2rem)] z-30"
+               style={{ marginRight: selectedId != null ? "360px" : "0" }}>
+            <MapSearchBar onSelect={handleSearchSelect} />
+          </div>
+        )}
+
+        {/* Station detail panel */}
+        {selectedId != null && (
+          <StationMapPanel
+            stationId={selectedId}
+            onClose={() => setSelectedId(null)}
+          />
         )}
       </div>
     </div>

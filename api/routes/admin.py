@@ -1,26 +1,35 @@
 """
-Admin route — scrape trigger and status.
+Admin route — scrape trigger, status, and history.
 POST /admin/scrape/trigger  → launches full_scrape + etl.orchestrator as subprocesses
-GET  /admin/scrape/status   → returns current job state (polled by the frontend)
+GET  /admin/scrape/status   → current job state (polled by frontend)
+GET  /admin/scrape/history  → list of past runs with before/after diff
 """
 from __future__ import annotations
 
 import asyncio
+import datetime
+import json
 import re
 import sys
 import time
+from pathlib import Path
 from typing import Any
 
+import orjson
 from fastapi import APIRouter
+from sqlalchemy import text
+from sqlalchemy.ext.asyncio import AsyncSession
+
+from database.engine import engine
 
 router = APIRouter(prefix="/admin", tags=["admin"])
 
-_ANSI = re.compile(r"\x1b\[[0-9;]*m")
+_ANSI         = re.compile(r"\x1b\[[0-9;]*m")
+_HISTORY_FILE = Path("data/scrape_history.json")
 
 _job: dict[str, Any] = {
-    "phase":    "idle",   # idle | scraping | loading | done | error
+    "phase":    "idle",
     "message":  "",
-    "started_at": None,
     "elapsed_secs": 0,
     "stations_scraped": 0,
     "stations_loaded":  0,
@@ -29,15 +38,64 @@ _job: dict[str, Any] = {
 _start_mono: float | None = None
 
 
+# ── Helpers ───────────────────────────────────────────────────────────────────
+
 def _clean(line: str) -> str:
     return _ANSI.sub("", line).strip()
 
+
+async def _snapshot_stats() -> dict:
+    """Query live DB for current overview numbers."""
+    try:
+        async with AsyncSession(engine) as session:
+            row = await session.execute(text("""
+                SELECT
+                    COUNT(*)                                                                AS total_stations,
+                    COUNT(*) FILTER (WHERE availability = 'Available')                     AS available_stations,
+                    COALESCE(SUM(total_charger_count),   0)                                AS total_chargers,
+                    COALESCE(SUM(total_connector_count), 0)                                AS total_connectors,
+                    COUNT(DISTINCT city_id)                                                AS cities_covered,
+                    COUNT(DISTINCT operator_id) FILTER (WHERE operator_id IS NOT NULL)     AS operators_count
+                FROM stations
+            """))
+            r = row.first()
+            return {k: int(v) for k, v in dict(r._mapping).items()} if r else {}
+    except Exception:
+        return {}
+
+
+def _load_history() -> list[dict]:
+    if not _HISTORY_FILE.exists():
+        return []
+    try:
+        return orjson.loads(_HISTORY_FILE.read_bytes())
+    except Exception:
+        return []
+
+
+def _save_history(runs: list[dict]) -> None:
+    _HISTORY_FILE.parent.mkdir(parents=True, exist_ok=True)
+    _HISTORY_FILE.write_bytes(orjson.dumps(runs, option=orjson.OPT_INDENT_2))
+
+
+def _append_run(entry: dict) -> None:
+    runs = _load_history()
+    runs.insert(0, entry)      # newest first
+    _save_history(runs[:50])   # keep last 50 runs
+
+
+# ── Endpoints ─────────────────────────────────────────────────────────────────
 
 @router.get("/scrape/status")
 async def scrape_status() -> dict:
     result = dict(_job)
     result["elapsed_secs"] = int(time.monotonic() - _start_mono) if _start_mono else 0
     return result
+
+
+@router.get("/scrape/history")
+async def scrape_history() -> list[dict]:
+    return _load_history()
 
 
 @router.post("/scrape/trigger")
@@ -51,7 +109,6 @@ async def scrape_trigger() -> dict:
     _job = {
         "phase":    "scraping",
         "message":  "Starting scrape…",
-        "started_at": None,
         "elapsed_secs": 0,
         "stations_scraped": 0,
         "stations_loaded":  0,
@@ -62,8 +119,9 @@ async def scrape_trigger() -> dict:
     return {"ok": True}
 
 
+# ── Background pipeline ───────────────────────────────────────────────────────
+
 async def _run_subprocess(args: list[str], phase_label: str, progress_key: str) -> bool:
-    """Run a subprocess, stream stdout, parse progress. Returns True on success."""
     global _job
 
     _job["phase"]   = phase_label
@@ -79,20 +137,14 @@ async def _run_subprocess(args: list[str], phase_label: str, progress_key: str) 
         line = _clean(raw.decode("utf-8", errors="replace"))
         if not line:
             continue
-
-        # Pick up log-level keywords for the message label
         for kw in ("EXTRACT", "TRANSFORM", "STAGING", "LOAD", "REFRESH", "VALIDATE"):
             if kw in line.upper():
                 _job["message"] = line[-100:]
                 break
-
-        # Parse scrape summary: "Success      : 1234 (95.0%)"
         if progress_key == "stations_scraped" and line.startswith("Success"):
             m = re.search(r":\s*(\d+)", line)
             if m:
                 _job["stations_scraped"] = int(m.group(1))
-
-        # Parse ETL summary: "Stations ins : 1234"
         if progress_key == "stations_loaded" and "Stations ins" in line:
             m = re.search(r":\s*([\d,]+)", line)
             if m:
@@ -105,9 +157,13 @@ async def _run_subprocess(args: list[str], phase_label: str, progress_key: str) 
 async def _run_pipeline() -> None:
     global _job
 
-    python = sys.executable
+    python    = sys.executable
+    triggered = datetime.datetime.now(datetime.timezone.utc).isoformat()
 
-    # ── Phase 1: full scrape ──────────────────────────────────────────────────
+    # Snapshot BEFORE
+    before = await _snapshot_stats()
+
+    # ── Phase 1: scrape ───────────────────────────────────────────────────────
     ok = await _run_subprocess(
         [python, "-m", "scraper.pipeline.full_scrape"],
         phase_label="scraping",
@@ -118,7 +174,7 @@ async def _run_pipeline() -> None:
         _job["error"] = "Scraper exited with non-zero code. Check server logs."
         return
 
-    # ── Phase 2: ETL ──────────────────────────────────────────────────────────
+    # ── Phase 2: ETL ─────────────────────────────────────────────────────────
     ok = await _run_subprocess(
         [python, "-m", "etl.orchestrator"],
         phase_label="loading",
@@ -128,6 +184,22 @@ async def _run_pipeline() -> None:
         _job["phase"] = "error"
         _job["error"] = "ETL exited with non-zero code. Check server logs."
         return
+
+    # Snapshot AFTER
+    after    = await _snapshot_stats()
+    elapsed  = int(time.monotonic() - _start_mono) if _start_mono else 0
+    delta    = {k: after.get(k, 0) - before.get(k, 0) for k in after}
+
+    _append_run({
+        "triggered_at":     triggered,
+        "completed_at":     datetime.datetime.now(datetime.timezone.utc).isoformat(),
+        "duration_secs":    elapsed,
+        "stations_scraped": _job["stations_scraped"],
+        "stations_loaded":  _job["stations_loaded"],
+        "before":           before,
+        "after":            after,
+        "delta":            delta,
+    })
 
     _job["phase"]   = "done"
     _job["message"] = "Scrape complete — data is live."

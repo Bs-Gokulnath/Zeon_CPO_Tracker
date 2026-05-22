@@ -28,25 +28,24 @@ _SUMMARY_COLS = """
 """
 
 
+def _add_in(conds: list[str], p: dict, column: str, values: list, prefix: str) -> None:
+    if not values:
+        return
+    phs = ", ".join(f":{prefix}_{i}" for i in range(len(values)))
+    conds.append(f"{column} IN ({phs})")
+    for i, v in enumerate(values):
+        p[f"{prefix}_{i}"] = v
+
+
 def _build_where(f: StationFilters) -> tuple[str, dict]:
     conds: list[str] = []
     p: dict = {}
 
-    if f.state_id is not None:
-        conds.append("s.state_id = :state_id")
-        p["state_id"] = f.state_id
-    if f.city_id is not None:
-        conds.append("s.city_id = :city_id")
-        p["city_id"] = f.city_id
-    if f.operator_id is not None:
-        conds.append("s.operator_id = :operator_id")
-        p["operator_id"] = f.operator_id
-    if f.charger_type is not None:
-        conds.append("s.charger_type = :charger_type")
-        p["charger_type"] = f.charger_type
-    if f.access_type is not None:
-        conds.append("s.access_type = :access_type")
-        p["access_type"] = f.access_type
+    _add_in(conds, p, "s.state_id",    f.state_id,    "state_id")
+    _add_in(conds, p, "s.city_id",     f.city_id,     "city_id")
+    _add_in(conds, p, "s.operator_id", f.operator_id, "operator_id")
+    _add_in(conds, p, "s.charger_type", f.charger_type, "charger_type")
+    _add_in(conds, p, "s.access_type", f.access_type,  "access_type")
     if f.availability is not None:
         conds.append("s.availability = :availability")
         p["availability"] = f.availability

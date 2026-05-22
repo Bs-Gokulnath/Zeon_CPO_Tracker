@@ -4,6 +4,17 @@
 @tailwind components;
 @tailwind utilities;
 
+/* MapLibre popup overrides */
+.maplibregl-popup-content {
+  background: hsl(var(--popover));
+  color: hsl(var(--popover-foreground));
+  border: 1px solid hsl(var(--border));
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+}
+.maplibregl-popup-tip { display: none; }
+
 @layer base {
   :root {
     --background: 0 0% 100%;
@@ -57,7 +68,3 @@
   body { @apply bg-background text-foreground; }
 }
 
-/* Leaflet map fix for dark mode */
-.leaflet-container {
-  background: hsl(var(--muted));
-}

@@ -122,6 +122,26 @@ export interface StationDetail {
   review_summary:            ReviewSummaryOut | null;
 }
 
+export interface LiveConnector {
+  charger_id:     number | null;
+  connector_id:   number | null;
+  display_id:     number | null;
+  connector_type: string | null;
+  available:      boolean;
+  status:         string | null;
+  error:          string | null;
+}
+
+export interface LiveStatus {
+  station_id:     number;
+  availability:   string | null;
+  is_connected:   boolean | null;
+  closing_status: string | null;   // "Open Now" | "Closed" | null
+  connectors:     LiveConnector[];
+  fetched_at:     string;
+  from_cache:     boolean;
+}
+
 export interface MapPoint {
   id:           number;
   latitude:     string | null;

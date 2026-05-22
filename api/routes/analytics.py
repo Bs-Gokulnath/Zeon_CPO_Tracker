@@ -21,12 +21,12 @@ router = APIRouter(prefix="/analytics", tags=["analytics"])
 async def overview(
     session: DB,
     cache:   Cache,
-    state_id:          int   | None = Query(None),
-    city_id:           int   | None = Query(None),
-    operator_id:       int   | None = Query(None),
-    charger_type:      str   | None = Query(None),
+    state_id:          list[int]   = Query(default=[]),
+    city_id:           list[int]   = Query(default=[]),
+    operator_id:       list[int]   = Query(default=[]),
+    charger_type:      list[str]   = Query(default=[]),
+    access_type:       list[str]   = Query(default=[]),
     connector_type_id: int   | None = Query(None),
-    access_type:       str   | None = Query(None),
     availability:      str   | None = Query(None),
     min_kw:            float | None = Query(None),
     max_kw:            float | None = Query(None),
@@ -42,7 +42,7 @@ async def overview(
         min_price=min_price, max_price=max_price,
         min_rating=min_rating,
     )
-    has_filters = any(v is not None for v in filters.values())
+    has_filters = any(v is not None and v != [] for v in filters.values())
     if has_filters:
         row = await repo.get_filtered_overview(session, **filters)
         return OverviewStats.model_validate(row)
