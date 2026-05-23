@@ -88,9 +88,14 @@ function HistoryPanel({ onClose }: { onClose: () => void }) {
           <History className="w-4 h-4 text-muted-foreground" />
           <p className="text-sm font-semibold">Scrape History</p>
         </div>
-        <button onClick={onClose} className="text-muted-foreground hover:text-foreground text-xs px-2 py-1 rounded hover:bg-muted transition-colors">
-          Close
-        </button>
+        <div className="flex items-center gap-2">
+          <a href="/scrape-history" className="text-primary hover:underline text-xs px-2 py-1 rounded transition-colors">
+            View details →
+          </a>
+          <button onClick={onClose} className="text-muted-foreground hover:text-foreground text-xs px-2 py-1 rounded hover:bg-muted transition-colors">
+            Close
+          </button>
+        </div>
       </div>
 
       <div className="overflow-y-auto flex-1">
